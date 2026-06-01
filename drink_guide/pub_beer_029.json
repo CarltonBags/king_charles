@@ -1,0 +1,56 @@
+{
+  "id": "pub_beer_029",
+  "name": "Estrella Damm",
+  "category": "beer",
+  "subcategory": "lager",
+  "brand_or_producer": "Estrella Damm",
+  "abv": 5.4,
+  "taste_profile": {
+    "primary_notes": [
+      "corn",
+      "fruity",
+      "spicy",
+      "tart"
+    ],
+    "sweetness": "medium-low",
+    "bitterness": "very low",
+    "body": "light",
+    "finish": "mild, refreshing",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Mais",
+      "fruchtig",
+      "würzig",
+      "herb"
+    ]
+  },
+  "origin": "Barcelona, Spain",
+  "food_pairings": [
+    "Kettle Paprika & Roasted Onion",
+    "Kettle Sea Salt",
+    "Tyrrell's Sea Salt & Cider Vinegar"
+  ],
+  "tags": [
+    "lager",
+    "guest tap",
+    "spanish",
+    "mild",
+    "refreshing"
+  ],
+  "notes": "Slightly tart and refreshing, followed by sweet malty corn flavour. Delicate fruitiness with spicy tart notes. Very mild, no bitterness. Light, easy drinking, perfect thirst-quencher cold.",
+  "metadata": {
+    "source_page": 6,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Lager",
+  "tags_de": [
+    "Lager",
+    "Gastzapf",
+    "spanisch",
+    "mild",
+    "erfrischend"
+  ],
+  "notes_de": "Leicht herb und erfrischend, gefolgt von süßem, malzigem Maisgeschmack. Dezente Fruchtigkeit mit würzig-herben Noten. Sehr mild, keine Bitterkeit. Leicht, süffig, der perfekte Durstlöscher kalt serviert."
+}

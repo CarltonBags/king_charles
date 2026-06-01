@@ -1,0 +1,56 @@
+{
+  "id": "pub_beer_038",
+  "name": "Kehrwieder ü.NN Alcohol-Free IPA",
+  "category": "beer",
+  "subcategory": "non-alcoholic india pale ale",
+  "brand_or_producer": "Kehrwieder",
+  "abv": 0.4,
+  "taste_profile": {
+    "primary_notes": [
+      "hoppy",
+      "citrus",
+      "pine",
+      "balanced"
+    ],
+    "sweetness": "low",
+    "bitterness": "medium",
+    "body": "medium",
+    "finish": "dry, hoppy",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "hopfig",
+      "Zitrus",
+      "Kiefer",
+      "ausgewogen"
+    ]
+  },
+  "origin": "Hamburg, Germany",
+  "food_pairings": [
+    "Kettle Sweet Chilli",
+    "Kettle Jalapeño",
+    "Kettle Sea Salt"
+  ],
+  "tags": [
+    "alcohol-free",
+    "ipa",
+    "german",
+    "craft",
+    "hoppy"
+  ],
+  "notes": "First German alcohol-free India Pale Ale. Full of flavour despite no alcohol.",
+  "metadata": {
+    "source_page": 8,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Alkoholfreies India Pale Ale",
+  "tags_de": [
+    "alkoholfrei",
+    "IPA",
+    "deutsch",
+    "Craft",
+    "hopfig"
+  ],
+  "notes_de": "Das erste deutsche alkoholfreie India Pale Ale. Voller Geschmack trotz fehlendem Alkohol."
+}

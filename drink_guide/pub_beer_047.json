@@ -1,0 +1,54 @@
+{
+  "id": "pub_beer_047",
+  "name": "Huyghe Paranoia Alcohol-Free",
+  "category": "beer",
+  "subcategory": "non-alcoholic belgian ale",
+  "brand_or_producer": "Huyghe",
+  "abv": 0.3,
+  "taste_profile": {
+    "primary_notes": [
+      "citrus",
+      "dry",
+      "unfiltered",
+      "crisp"
+    ],
+    "sweetness": "low",
+    "bitterness": "medium",
+    "body": "medium",
+    "finish": "dry, crisp",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Zitrus",
+      "trocken",
+      "ungefiltert",
+      "spritzig"
+    ]
+  },
+  "origin": "Melle, Belgium",
+  "food_pairings": [
+    "Tyrrell's Sweet Chilli & Red Pepper",
+    "Kettle Jalapeño",
+    "Kettle Sea Salt"
+  ],
+  "tags": [
+    "alcohol-free",
+    "belgian",
+    "craft",
+    "unfiltered"
+  ],
+  "notes": "Citrus notes, dry aftertaste, cloudy unfiltered appearance. Unique taste experience without typical non-alcoholic beer character.",
+  "metadata": {
+    "source_page": 9,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Alkoholfreies Belgisches Ale",
+  "tags_de": [
+    "alkoholfrei",
+    "belgisch",
+    "Craft",
+    "ungefiltert"
+  ],
+  "notes_de": "Zitrusnoten, trockener Abgang und trübes, ungefiltertes Erscheinungsbild. Ein einzigartiges Geschmackserlebnis ohne den typischen alkoholfreien Biercharakter."
+}

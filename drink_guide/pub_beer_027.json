@@ -1,0 +1,52 @@
+{
+  "id": "pub_beer_027",
+  "name": "Borbecker Salonbier",
+  "category": "beer",
+  "subcategory": "amber ale",
+  "brand_or_producer": "Borbecker",
+  "abv": 5.1,
+  "taste_profile": {
+    "primary_notes": [
+      "amber",
+      "malty",
+      "traditional"
+    ],
+    "sweetness": "medium",
+    "bitterness": "low",
+    "body": "medium",
+    "finish": "smooth",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "bernsteinfarben",
+      "malzig",
+      "traditionell"
+    ]
+  },
+  "origin": "Germany",
+  "food_pairings": [
+    "Kettle Matured Cheddar Cheese & Red Onions",
+    "Kettle Sea Salt",
+    "Taylors Haggis & Cracked Black Pepper"
+  ],
+  "tags": [
+    "amber ale",
+    "guest tap",
+    "german",
+    "traditional"
+  ],
+  "notes": "Special amber-coloured specialty beer brewed using the classic mashing process.",
+  "metadata": {
+    "source_page": 6,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Amber Ale",
+  "tags_de": [
+    "Amber Ale",
+    "Gastzapf",
+    "deutsch",
+    "traditionell"
+  ],
+  "notes_de": "Spezielles, bernsteinfarbenes Spezialbier, gebraut nach dem klassischen Maischverfahren."
+}

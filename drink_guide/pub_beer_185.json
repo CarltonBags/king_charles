@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_185",
+  "name": "Magners Berry Cider",
+  "category": "cider",
+  "subcategory": "berry cider",
+  "brand_or_producer": "Magners",
+  "abv": 4.0,
+  "taste_profile": {
+    "primary_notes": [
+      "red berries",
+      "apple",
+      "sweet",
+      "fruity",
+      "clean"
+    ],
+    "sweetness": "high",
+    "bitterness": "very low",
+    "body": "medium",
+    "finish": "sweet, fruity, clean",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "rote Beeren",
+      "Apfel",
+      "süß",
+      "fruchtig",
+      "sauber"
+    ]
+  },
+  "origin": "Clonmel, Ireland",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Kettle Honey Barbeque",
+    "Kettle Sweet Chilli"
+  ],
+  "tags": [
+    "cider",
+    "irish",
+    "bottle",
+    "berry",
+    "sweet"
+  ],
+  "notes": "Blend of red berries and apple, sweeter than Original with a clean lingering fruity finish.",
+  "metadata": {
+    "source_page": 29,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Cidre",
+  "subcategory_de": "Beeren-Cidre",
+  "tags_de": [
+    "Cidre",
+    "irisch",
+    "Flasche",
+    "Beere",
+    "süß"
+  ],
+  "notes_de": "Diese Mischung aus roten Beeren und Apfel ist süßer als das Original und hinterlässt einen sauberen, anhaltenden, fruchtigen Abgang."
+}

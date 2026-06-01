@@ -1,0 +1,58 @@
+{
+  "id": "pub_softdrink_018",
+  "name": "Orangina Rouge",
+  "category": "soft_drink",
+  "subcategory": "citrus soda",
+  "brand_or_producer": "Orangina",
+  "abv": 0.0,
+  "taste_profile": {
+    "primary_notes": [
+      "orange",
+      "red berries",
+      "fruity",
+      "sweet",
+      "tangy"
+    ],
+    "sweetness": "high",
+    "bitterness": "low",
+    "body": "light-medium",
+    "finish": "fruity, berry, tangy",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Orange",
+      "rote Beeren",
+      "fruchtig",
+      "süß",
+      "spritzig-sauer"
+    ]
+  },
+  "origin": "France",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Kettle Sea Salt & Balsamic Vinegar of Modena",
+    "Kettle Sea Salt & Black Pepper"
+  ],
+  "tags": [
+    "soft drink",
+    "berry",
+    "french",
+    "pulp",
+    "fruity"
+  ],
+  "notes": "Orangina variant with red fruits. Sweet, fruity blend of orange and red berry flavours with the classic pulp texture.",
+  "metadata": {
+    "source_page": 6,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Alkoholfreies Getränk",
+  "subcategory_de": "Zitruslimonade",
+  "tags_de": [
+    "Softdrink",
+    "Beere",
+    "französisch",
+    "Fruchtfleisch",
+    "fruchtig"
+  ],
+  "notes_de": "Orangina-Variante mit roten Früchten. Süße, fruchtige Mischung aus Orangen- und roten Beerenaromen mit der klassischen Fruchtfleisch-Textur."
+}

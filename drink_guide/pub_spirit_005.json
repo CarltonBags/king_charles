@@ -1,0 +1,56 @@
+{
+  "id": "pub_spirit_005",
+  "name": "Killerpitsch",
+  "category": "spirit",
+  "subcategory": "herbal liqueur",
+  "brand_or_producer": "Killerpitsch",
+  "abv": 35.0,
+  "taste_profile": {
+    "primary_notes": [
+      "herbal",
+      "strong",
+      "warming",
+      "bold"
+    ],
+    "sweetness": "medium",
+    "bitterness": "high",
+    "body": "full",
+    "finish": "strong, warming, herbal",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "kräuterig",
+      "stark",
+      "wärmend",
+      "kräftig"
+    ]
+  },
+  "origin": "Germany",
+  "food_pairings": [
+    "Taylors Haggis & Cracked Black Pepper",
+    "Taylors Aberdeen Angus",
+    "Taylors Fiery Pickled Onions"
+  ],
+  "tags": [
+    "liqueur",
+    "german",
+    "strong",
+    "herbal",
+    "shot"
+  ],
+  "notes": "Strong German herbal liqueur with bold, warming character. Popular party shot.",
+  "metadata": {
+    "source_page": 35,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Spirituose",
+  "subcategory_de": "Kräuterlikör",
+  "tags_de": [
+    "Likör",
+    "deutsch",
+    "stark",
+    "kräuterig",
+    "Shot"
+  ],
+  "notes_de": "Kräftiger, deutscher Kräuterlikör mit kräftigem, wärmendem Charakter. Beliebter Party-Shot."
+}

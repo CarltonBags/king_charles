@@ -1,0 +1,58 @@
+{
+  "id": "pub_spirit_007",
+  "name": "Berentzen Maracuja",
+  "category": "spirit",
+  "subcategory": "passion fruit liqueur",
+  "brand_or_producer": "Berentzen",
+  "abv": 16.0,
+  "taste_profile": {
+    "primary_notes": [
+      "passion fruit",
+      "tropical",
+      "sweet",
+      "fruity",
+      "vibrant"
+    ],
+    "sweetness": "high",
+    "bitterness": "very low",
+    "body": "light",
+    "finish": "sweet, tropical, fruity",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "Maracuja",
+      "tropisch",
+      "süß",
+      "fruchtig",
+      "lebendig"
+    ]
+  },
+  "origin": "Germany",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Kettle Honey Barbeque",
+    "Kettle Sweet Chilli"
+  ],
+  "tags": [
+    "liqueur",
+    "german",
+    "passion fruit",
+    "fruity",
+    "shot"
+  ],
+  "notes": "German passion fruit liqueur. Sweet, tropical and fruity with vibrant maracuja flavour.",
+  "metadata": {
+    "source_page": 35,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Spirituose",
+  "subcategory_de": "Maracujalikör",
+  "tags_de": [
+    "Likör",
+    "deutsch",
+    "Maracuja",
+    "fruchtig",
+    "Shot"
+  ],
+  "notes_de": "Deutscher Maracuja-Likör. Süß, tropisch und fruchtig mit lebendigem Maracuja-Geschmack."
+}

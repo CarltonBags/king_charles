@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_174",
+  "name": "Low Alcohol Apple Cider",
+  "category": "cider",
+  "subcategory": "low-alcohol cider",
+  "brand_or_producer": "Unknown",
+  "abv": 0.5,
+  "taste_profile": {
+    "primary_notes": [
+      "apple",
+      "sweet",
+      "fresh",
+      "crisp",
+      "clean"
+    ],
+    "sweetness": "medium-high",
+    "bitterness": "very low",
+    "body": "light",
+    "finish": "sweet, fresh",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Apfel",
+      "süß",
+      "frisch",
+      "spritzig",
+      "sauber"
+    ]
+  },
+  "origin": "Unknown",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Tyrrell's Sea Salt & Cider Vinegar",
+    "Kettle Matured Cheddar Cheese & Red Onions"
+  ],
+  "tags": [
+    "cider",
+    "low-alcohol",
+    "bottle",
+    "apple",
+    "fresh"
+  ],
+  "notes": "Crafted from home grown, fresh pressed cider apples, this low alcohol option has a sweet but fresh flavour.",
+  "metadata": {
+    "source_page": 28,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Cidre",
+  "subcategory_de": "Alkoholarmer Cidre",
+  "tags_de": [
+    "Cidre",
+    "alkoholarm",
+    "Flasche",
+    "Apfel",
+    "frisch"
+  ],
+  "notes_de": "Hergestellt aus selbst angebauten, frisch gepressten Cidre-Äpfeln. Diese alkoholarme Option hat einen süßen, aber frischen Geschmack."
+}

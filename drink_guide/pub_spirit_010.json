@@ -1,0 +1,54 @@
+{
+  "id": "pub_spirit_010",
+  "name": "Alpenschnaps Haselnuss",
+  "category": "spirit",
+  "subcategory": "hazelnut schnapps",
+  "brand_or_producer": "Alpenschnaps",
+  "abv": 35.0,
+  "taste_profile": {
+    "primary_notes": [
+      "hazelnut",
+      "nutty",
+      "smooth",
+      "warming"
+    ],
+    "sweetness": "medium",
+    "bitterness": "very low",
+    "body": "medium",
+    "finish": "nutty, warming",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "Haselnuss",
+      "nussig",
+      "weich",
+      "wärmend"
+    ]
+  },
+  "origin": "Austria",
+  "food_pairings": [
+    "Ültje Studentenfutter",
+    "Ültje Erdnüsse Gesalzen",
+    "Taylors Chip Shop Curry Sauce"
+  ],
+  "tags": [
+    "schnapps",
+    "austrian",
+    "hazelnut",
+    "nutty"
+  ],
+  "notes": "Traditional Austrian hazelnut schnapps. Nutty, smooth and warming.",
+  "metadata": {
+    "source_page": 35,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Spirituose",
+  "subcategory_de": "Haselnussschnaps",
+  "tags_de": [
+    "Schnaps",
+    "österreichisch",
+    "Haselnuss",
+    "nussig"
+  ],
+  "notes_de": "Traditioneller österreichischer Haselnussschnaps. Nussig, weich und wärmend."
+}

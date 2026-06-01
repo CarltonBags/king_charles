@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_217",
+  "name": "Tankbusters Introduction DDH Canadian IPA",
+  "category": "beer",
+  "subcategory": "canadian ipa",
+  "brand_or_producer": "Tankbusters",
+  "abv": 5.4,
+  "taste_profile": {
+    "primary_notes": [
+      "pear",
+      "grape",
+      "watermelon",
+      "fruity",
+      "refreshing"
+    ],
+    "sweetness": "medium",
+    "bitterness": "medium-low",
+    "body": "medium",
+    "finish": "fruity, refreshing, hoppy",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Birne",
+      "Traube",
+      "Wassermelone",
+      "fruchtig",
+      "erfrischend"
+    ]
+  },
+  "origin": "Poland",
+  "food_pairings": [
+    "Kettle Sweet Chilli",
+    "Kettle Jalapeño",
+    "Kettle Sweet Chilli & Sour Cream"
+  ],
+  "tags": [
+    "ipa",
+    "ddh",
+    "can",
+    "polish",
+    "clearance"
+  ],
+  "notes": "Fruity, refreshing and hoppy DDH Canadian IPA with aromas of pear, grapes and watermelon. Clearance item.",
+  "metadata": {
+    "source_page": 42,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Kanadisches IPA",
+  "tags_de": [
+    "IPA",
+    "DDH",
+    "Dose",
+    "polnisch",
+    "Abverkauf"
+  ],
+  "notes_de": "Fruchtiges, erfrischendes und hopfiges DDH Canadian IPA mit Aromen von Birne, Trauben und Wassermelone. Abverkaufsware."
+}

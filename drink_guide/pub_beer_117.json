@@ -1,0 +1,56 @@
+{
+  "id": "pub_beer_117",
+  "name": "O'Hara's Irish Stout",
+  "category": "beer",
+  "subcategory": "irish stout",
+  "brand_or_producer": "O'Hara's",
+  "abv": 4.3,
+  "taste_profile": {
+    "primary_notes": [
+      "espresso",
+      "roasted malt",
+      "dry",
+      "hoppy"
+    ],
+    "sweetness": "low",
+    "bitterness": "medium",
+    "body": "medium-full",
+    "finish": "dry, roasted",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Espresso",
+      "Röstmalz",
+      "trocken",
+      "hopfig"
+    ]
+  },
+  "origin": "Carlow, Ireland",
+  "food_pairings": [
+    "Kettle Matured Cheddar Cheese & Red Onions",
+    "Taylors Haggis & Cracked Black Pepper",
+    "Ültje Studentenfutter"
+  ],
+  "tags": [
+    "stout",
+    "bottle",
+    "irish",
+    "roasted",
+    "dry"
+  ],
+  "notes": "Dry roasted malt impression with full-bodied mouthfeel. Notes of espresso and typical island hop Fuggles dominate the flavour.",
+  "metadata": {
+    "source_page": 19,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Irish Stout",
+  "tags_de": [
+    "Stout",
+    "Flasche",
+    "irisch",
+    "geröstet",
+    "trocken"
+  ],
+  "notes_de": "Trockener Röstmalz-Eindruck mit vollmundigem Mundgefühl. Espresso-Noten und der typische Inselhopfen Fuggles dominieren den Geschmack."
+}

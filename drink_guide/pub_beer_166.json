@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_166",
+  "name": "Thatcher's Apple & Blackcurrant",
+  "category": "cider",
+  "subcategory": "fruit cider",
+  "brand_or_producer": "Thatcher's",
+  "abv": 4.0,
+  "taste_profile": {
+    "primary_notes": [
+      "blackcurrant",
+      "apple",
+      "berry",
+      "fruity",
+      "rich"
+    ],
+    "sweetness": "medium-high",
+    "bitterness": "very low",
+    "body": "medium",
+    "finish": "rich, fruity",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Johannisbeere",
+      "Apfel",
+      "Beere",
+      "fruchtig",
+      "reichhaltig"
+    ]
+  },
+  "origin": "Somerset, England",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Tyrrell's Sea Salt & Cider Vinegar",
+    "Kettle Matured Cheddar Cheese & Red Onions"
+  ],
+  "tags": [
+    "cider",
+    "fruit",
+    "bottle",
+    "english",
+    "blackcurrant"
+  ],
+  "notes": "Rich, refreshingly fruity cider made from the sweetest dessert apples, with a fresh berry aroma and strong natural blackcurrant flavour. Rich and fruity perfection.",
+  "metadata": {
+    "source_page": 26,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Cidre",
+  "subcategory_de": "Frucht-Cidre",
+  "tags_de": [
+    "Cidre",
+    "Frucht",
+    "Flasche",
+    "englisch",
+    "Johannisbeere"
+  ],
+  "notes_de": "Reichhaltiger, erfrischend fruchtiger Cidre aus den süßesten Tafeläpfeln, mit frischem Beerenaroma und kräftigem, natürlichem Johannisbeer-Geschmack — reichhaltige und fruchtige Perfektion."
+}

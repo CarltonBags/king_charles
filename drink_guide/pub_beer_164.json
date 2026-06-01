@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_164",
+  "name": "Rosé Sweet Sparkling Cider",
+  "category": "cider",
+  "subcategory": "sparkling rosé cider",
+  "brand_or_producer": "Unknown",
+  "abv": 4.5,
+  "taste_profile": {
+    "primary_notes": [
+      "red berry",
+      "apple",
+      "sweet",
+      "sparkling",
+      "smooth"
+    ],
+    "sweetness": "medium-high",
+    "bitterness": "very low",
+    "body": "light",
+    "finish": "smooth, light fizz",
+    "carbonation": "medium-high",
+    "primary_notes_de": [
+      "rote Beere",
+      "Apfel",
+      "süß",
+      "prickelnd",
+      "weich"
+    ]
+  },
+  "origin": "Unknown",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Kettle Honey Barbeque",
+    "Kettle Sweet Chilli"
+  ],
+  "tags": [
+    "cider",
+    "rosé",
+    "bottle",
+    "sparkling",
+    "berry"
+  ],
+  "notes": "Pale pink sparkling cider with sweet red berry and apple notes with a smooth finish and light fizz.",
+  "metadata": {
+    "source_page": 26,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Cidre",
+  "subcategory_de": "Rosé-Schaum-Cidre",
+  "tags_de": [
+    "Cidre",
+    "Rosé",
+    "Flasche",
+    "prickelnd",
+    "Beere"
+  ],
+  "notes_de": "Blassrosa prickelnder Cidre mit süßen, roten Beeren- und Apfelnoten, weichem Abgang und leichter Perlage."
+}

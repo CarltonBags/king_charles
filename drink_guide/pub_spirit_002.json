@@ -1,0 +1,58 @@
+{
+  "id": "pub_spirit_002",
+  "name": "Berliner Luft",
+  "category": "spirit",
+  "subcategory": "peppermint liqueur",
+  "brand_or_producer": "Berliner Luft",
+  "abv": 18.0,
+  "taste_profile": {
+    "primary_notes": [
+      "peppermint",
+      "cool",
+      "refreshing",
+      "sweet",
+      "minty"
+    ],
+    "sweetness": "high",
+    "bitterness": "very low",
+    "body": "light",
+    "finish": "cool, minty",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "Pfefferminze",
+      "kühl",
+      "erfrischend",
+      "süß",
+      "minzig"
+    ]
+  },
+  "origin": "Berlin, Germany",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Kettle Honey Barbeque",
+    "Kettle Sweet Chilli"
+  ],
+  "tags": [
+    "liqueur",
+    "german",
+    "berlin",
+    "mint",
+    "shot"
+  ],
+  "notes": "Iconic Berlin peppermint liqueur. Cool, refreshing minty character perfect as a shot.",
+  "metadata": {
+    "source_page": 35,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Spirituose",
+  "subcategory_de": "Pfefferminzlikör",
+  "tags_de": [
+    "Likör",
+    "deutsch",
+    "Berlin",
+    "Minze",
+    "Shot"
+  ],
+  "notes_de": "Kultiger Berliner Pfefferminzlikör. Kühler, erfrischender Minzcharakter, perfekt als Shot."
+}

@@ -1,0 +1,56 @@
+{
+  "id": "pub_beer_045",
+  "name": "Brewdog Wingman Alcohol-Free",
+  "category": "beer",
+  "subcategory": "non-alcoholic ipa",
+  "brand_or_producer": "BrewDog",
+  "abv": 0.5,
+  "taste_profile": {
+    "primary_notes": [
+      "tropical",
+      "citrus",
+      "hoppy",
+      "smooth"
+    ],
+    "sweetness": "low",
+    "bitterness": "medium",
+    "body": "medium",
+    "finish": "smooth, hoppy",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "tropisch",
+      "Zitrus",
+      "hopfig",
+      "weich"
+    ]
+  },
+  "origin": "Ellon, Scotland",
+  "food_pairings": [
+    "Kettle Sweet Chilli",
+    "Kettle Sea Salt",
+    "Tyrrell's Sweet Chilli & Red Pepper"
+  ],
+  "tags": [
+    "alcohol-free",
+    "ipa",
+    "scottish",
+    "craft",
+    "tropical"
+  ],
+  "notes": "Everything you love about a fresh tropical IPA, just without alcohol. Slightly cloudy golden, velvety mouthfeel from oats and wheat.",
+  "metadata": {
+    "source_page": 9,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Alkoholfreies IPA",
+  "tags_de": [
+    "alkoholfrei",
+    "IPA",
+    "schottisch",
+    "Craft",
+    "tropisch"
+  ],
+  "notes_de": "Alles, was man an einem frischen, tropischen IPA liebt — nur ohne Alkohol. Leicht trüb und golden mit samtigem Mundgefühl durch Hafer und Weizen."
+}

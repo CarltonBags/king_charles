@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_169",
+  "name": "Passion Fruit Martini Cider",
+  "category": "cider",
+  "subcategory": "flavoured cider",
+  "brand_or_producer": "Unknown",
+  "abv": 3.4,
+  "taste_profile": {
+    "primary_notes": [
+      "passion fruit",
+      "citrus",
+      "apple",
+      "tropical",
+      "hazy"
+    ],
+    "sweetness": "medium",
+    "bitterness": "low",
+    "body": "light-medium",
+    "finish": "tropical, fruity",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Maracuja",
+      "Zitrus",
+      "Apfel",
+      "tropisch",
+      "trüb"
+    ]
+  },
+  "origin": "Unknown",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Kettle Honey Barbeque",
+    "Kettle Sweet Chilli"
+  ],
+  "tags": [
+    "cider",
+    "flavoured",
+    "bottle",
+    "passion fruit",
+    "tropical"
+  ],
+  "notes": "Tropical passion fruit and hints of citrus and apple are the key flavours of this slightly hazy cider.",
+  "metadata": {
+    "source_page": 27,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Cidre",
+  "subcategory_de": "Aromatisierter Cidre",
+  "tags_de": [
+    "Cidre",
+    "aromatisiert",
+    "Flasche",
+    "Maracuja",
+    "tropisch"
+  ],
+  "notes_de": "Tropische Maracuja und Anklänge von Zitrus und Apfel sind die Hauptaromen dieses leicht trüben Cidres."
+}

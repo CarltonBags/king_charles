@@ -1,0 +1,58 @@
+{
+  "id": "pub_spirit_020",
+  "name": "Sourz Red Berry",
+  "category": "spirit",
+  "subcategory": "fruit liqueur",
+  "brand_or_producer": "Sourz",
+  "abv": 15.0,
+  "taste_profile": {
+    "primary_notes": [
+      "red berry",
+      "strawberry",
+      "raspberry",
+      "sweet",
+      "tangy"
+    ],
+    "sweetness": "high",
+    "bitterness": "very low",
+    "body": "light",
+    "finish": "sweet, tangy, berry",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "rote Beere",
+      "Erdbeere",
+      "Himbeere",
+      "süß",
+      "spritzig-sauer"
+    ]
+  },
+  "origin": "England",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Kettle Honey Barbeque",
+    "Kettle Sweet Chilli"
+  ],
+  "tags": [
+    "liqueur",
+    "fruit",
+    "berry",
+    "shot",
+    "cocktail"
+  ],
+  "notes": "Mixed red berry flavoured liqueur. Sweet and tangy with a blend of strawberry, raspberry and redcurrant.",
+  "metadata": {
+    "source_page": 35,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Spirituose",
+  "subcategory_de": "Fruchtlikör",
+  "tags_de": [
+    "Likör",
+    "Frucht",
+    "Beere",
+    "Shot",
+    "Cocktail"
+  ],
+  "notes_de": "Likör aus gemischten roten Beeren. Süß und spritzig-sauer mit einer Mischung aus Erdbeere, Himbeere und Johannisbeere."
+}

@@ -1,0 +1,56 @@
+{
+  "id": "pub_beer_127",
+  "name": "Recraft Vermont IPA",
+  "category": "beer",
+  "subcategory": "specialty ipa",
+  "brand_or_producer": "Recraft",
+  "abv": 5.9,
+  "taste_profile": {
+    "primary_notes": [
+      "fruity",
+      "smooth",
+      "juicy",
+      "refreshing"
+    ],
+    "sweetness": "medium",
+    "bitterness": "medium-low",
+    "body": "medium",
+    "finish": "smooth, juicy",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "fruchtig",
+      "weich",
+      "saftig",
+      "erfrischend"
+    ]
+  },
+  "origin": "Poland",
+  "food_pairings": [
+    "Kettle Sweet Chilli",
+    "Kettle Jalapeño",
+    "Tyrrell's Sweet Chilli & Red Pepper"
+  ],
+  "tags": [
+    "ipa",
+    "can",
+    "polish",
+    "award-winning",
+    "juicy"
+  ],
+  "notes": "BW-17 'BioWar' project with lower bitterness but very intense fruity aroma. Extremely refreshing, smooth and juicy. Silver medal at Good Beer competition.",
+  "metadata": {
+    "source_page": 22,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Specialty IPA",
+  "tags_de": [
+    "IPA",
+    "Dose",
+    "polnisch",
+    "preisgekrönt",
+    "saftig"
+  ],
+  "notes_de": "Das BW-17 ,,BioWar''-Projekt hat eine geringere Bitterkeit, aber ein sehr intensives, fruchtiges Aroma. Extrem erfrischend, weich und saftig. Ausgezeichnet mit der Silbermedaille beim Good Beer Wettbewerb."
+}

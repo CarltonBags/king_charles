@@ -1,0 +1,58 @@
+{
+  "id": "pub_whisky_002",
+  "name": "Bowmore 12 Years Old",
+  "category": "whisky",
+  "subcategory": "islay single malt",
+  "brand_or_producer": "Bowmore",
+  "abv": 40.0,
+  "taste_profile": {
+    "primary_notes": [
+      "peat smoke",
+      "honey",
+      "lemon",
+      "heather",
+      "mellow"
+    ],
+    "sweetness": "medium",
+    "bitterness": "medium-low",
+    "body": "medium",
+    "finish": "long, mellow, smoky-sweet",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "Torfrauch",
+      "Honig",
+      "Zitrone",
+      "Heidekraut",
+      "mild"
+    ]
+  },
+  "origin": "Islay, Scotland",
+  "food_pairings": [
+    "Kettle Matured Cheddar Cheese & Red Onions",
+    "Tyrrell's Mature Cheddar & Chive",
+    "Kettle Intense Truffle and Sea Salt"
+  ],
+  "tags": [
+    "scotch",
+    "islay",
+    "single malt",
+    "peated",
+    "balanced"
+  ],
+  "notes": "Puffs of peat smoke and pools of honey, sharpened by lemon zest. Both complex and perfectly balanced. Subtle lemon and sweet heather honey complement Bowmore's trademark peat smoke, leading to a delicious, long and mellow finish.",
+  "metadata": {
+    "source_page": 2,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Whisky",
+  "subcategory_de": "Islay Single Malt",
+  "tags_de": [
+    "Scotch",
+    "Islay",
+    "Single Malt",
+    "getorft",
+    "ausgewogen"
+  ],
+  "notes_de": "Torfrauch-Wolken und Honigtümpel, geschärft durch Zitronenschale. Unser 12-Jähriger ist sowohl komplex als auch perfekt ausgewogen. Dezente Zitrone und süßer Heidehonig ergänzen Bowmores charakteristischen Torfrauch und führen zu einem köstlichen, langen und milden Abgang."
+}

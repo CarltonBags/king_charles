@@ -1,0 +1,56 @@
+{
+  "id": "pub_special_003",
+  "name": "Jäger Bomb",
+  "category": "special",
+  "subcategory": "bomb shot",
+  "brand_or_producer": "House",
+  "abv": 7.0,
+  "taste_profile": {
+    "primary_notes": [
+      "herbal",
+      "energising",
+      "sweet",
+      "spicy"
+    ],
+    "sweetness": "medium-high",
+    "bitterness": "medium",
+    "body": "light",
+    "finish": "energising, herbal, sweet",
+    "carbonation": "high",
+    "primary_notes_de": [
+      "kräuterig",
+      "energetisierend",
+      "süß",
+      "würzig"
+    ]
+  },
+  "origin": "Pub Classic",
+  "food_pairings": [
+    "Kettle Sweet Chilli",
+    "Kettle Jalapeño",
+    "Kettle Sweet Chilli & Sour Cream"
+  ],
+  "tags": [
+    "shot",
+    "jägermeister",
+    "red bull",
+    "energy",
+    "pub classic"
+  ],
+  "notes": "Jägermeister dropped into a glass of Red Bull. Energising shot with herbal kick.",
+  "metadata": {
+    "source_page": 36,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Spezialgetränk",
+  "subcategory_de": "Bomb Shot",
+  "tags_de": [
+    "Shot",
+    "Jägermeister",
+    "Red Bull",
+    "Energy",
+    "Pub-Klassiker"
+  ],
+  "notes_de": "Jägermeister, in ein Glas Red Bull gegeben. Energetisierender Shot mit Kräuter-Kick."
+}

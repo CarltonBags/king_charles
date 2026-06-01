@@ -1,0 +1,58 @@
+{
+  "id": "pub_special_007",
+  "name": "Irish Car Bomb",
+  "category": "special",
+  "subcategory": "bomb shot",
+  "brand_or_producer": "House",
+  "abv": 8.0,
+  "taste_profile": {
+    "primary_notes": [
+      "stout",
+      "cream",
+      "whiskey",
+      "rich",
+      "creamy"
+    ],
+    "sweetness": "medium-high",
+    "bitterness": "low",
+    "body": "full",
+    "finish": "rich, creamy, warming",
+    "carbonation": "low",
+    "primary_notes_de": [
+      "Stout",
+      "Sahne",
+      "Whiskey",
+      "reichhaltig",
+      "cremig"
+    ]
+  },
+  "origin": "Pub Classic",
+  "food_pairings": [
+    "Taylors Haggis & Cracked Black Pepper",
+    "Taylors Aberdeen Angus",
+    "Taylors Fiery Pickled Onions"
+  ],
+  "tags": [
+    "cocktail",
+    "guinness",
+    "baileys",
+    "whiskey",
+    "pub classic"
+  ],
+  "notes": "Guinness, Bailey's Irish Cream and Paddy's Whiskey. A rich, creamy boilermaker that must be drunk quickly.",
+  "metadata": {
+    "source_page": 36,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Spezialgetränk",
+  "subcategory_de": "Bomb Shot",
+  "tags_de": [
+    "Cocktail",
+    "Guinness",
+    "Baileys",
+    "Whiskey",
+    "Pub-Klassiker"
+  ],
+  "notes_de": "Guinness, Baileys Irish Cream und Paddy's Whiskey. Ein reichhaltiger, cremiger Boilermaker, der schnell getrunken werden muss."
+}

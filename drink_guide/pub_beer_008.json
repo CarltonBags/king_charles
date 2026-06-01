@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_008",
+  "name": "Gösser Naturradler",
+  "category": "beer",
+  "subcategory": "radler",
+  "brand_or_producer": "Gösser",
+  "abv": 2.0,
+  "taste_profile": {
+    "primary_notes": [
+      "lemon",
+      "citrus",
+      "tangy",
+      "light malt"
+    ],
+    "sweetness": "medium",
+    "bitterness": "very low",
+    "body": "light",
+    "finish": "crisp, refreshing",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Zitrone",
+      "Zitrus",
+      "spritzig-sauer",
+      "helles Malz"
+    ]
+  },
+  "origin": "Leoben, Austria",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Kettle Sweet Chilli",
+    "Kettle Paprika & Roasted Onion"
+  ],
+  "tags": [
+    "radler",
+    "draft",
+    "austrian",
+    "low-alcohol",
+    "citrus",
+    "refreshing"
+  ],
+  "notes": "Austrian Radler, pale yellow slightly hazy. Zesty lemon aroma, crisp tangy lemon flavour with light malt sweetness and gentle carbonation. Low alcohol, no artificial additives.",
+  "metadata": {
+    "source_page": 3,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Radler",
+  "tags_de": [
+    "Radler",
+    "vom Fass",
+    "österreichisch",
+    "alkoholarm",
+    "Zitrus",
+    "erfrischend"
+  ],
+  "notes_de": "Österreichisches Radler, hellgelb und leicht trüb. Spritziges Zitronen-Aroma, knackiger, spritziger Zitronengeschmack mit leichter Malzsüße und sanfter Kohlensäure. Alkoholarm, ohne künstliche Zusätze."
+}

@@ -1,0 +1,58 @@
+{
+  "id": "pub_whisky_003",
+  "name": "Cragganmore 12 Years Old",
+  "category": "whisky",
+  "subcategory": "speyside single malt",
+  "brand_or_producer": "Cragganmore",
+  "abv": 40.0,
+  "taste_profile": {
+    "primary_notes": [
+      "floral",
+      "honey",
+      "vanilla",
+      "malt",
+      "sandalwood"
+    ],
+    "sweetness": "medium",
+    "bitterness": "low",
+    "body": "medium",
+    "finish": "long, malt-driven, light smoke",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "blumig",
+      "Honig",
+      "Vanille",
+      "Malz",
+      "Sandelholz"
+    ]
+  },
+  "origin": "Speyside, Scotland",
+  "food_pairings": [
+    "Kettle Matured Cheddar Cheese & Red Onions",
+    "Tyrrell's Mature Cheddar & Chive",
+    "Kettle Intense Truffle and Sea Salt"
+  ],
+  "tags": [
+    "scotch",
+    "speyside",
+    "single malt",
+    "floral",
+    "complex"
+  ],
+  "notes": "Hugely complex with a combination of sweet floral fragrances, riverside herbs and flowers with honey and vanilla. Strong malty taste with hints of sweet wood smoke and sandalwood. Long, malt-driven finish with light smoke.",
+  "metadata": {
+    "source_page": 2,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Whisky",
+  "subcategory_de": "Speyside Single Malt",
+  "tags_de": [
+    "Scotch",
+    "Speyside",
+    "Single Malt",
+    "blumig",
+    "komplex"
+  ],
+  "notes_de": "Äußerst komplex mit einer Kombination aus süßen, blumigen Düften, Flusskräutern und Blumen mit etwas Honig und Vanille. Ein kräftiger, malziger Geschmack mit Anklängen von süßem Holzrauch und Sandelholz. Ein langer, malzbetonter Abgang mit leichtem Rauch und einem Hauch von Süße."
+}

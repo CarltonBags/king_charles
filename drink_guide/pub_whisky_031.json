@@ -1,0 +1,58 @@
+{
+  "id": "pub_whisky_031",
+  "name": "Lagavulin 16 Years Old",
+  "category": "whisky",
+  "subcategory": "islay single malt",
+  "brand_or_producer": "Lagavulin",
+  "abv": 43.0,
+  "taste_profile": {
+    "primary_notes": [
+      "peat",
+      "smoke",
+      "rich",
+      "dry",
+      "complex"
+    ],
+    "sweetness": "low",
+    "bitterness": "medium",
+    "body": "full",
+    "finish": "dry, smoky, rich, long",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "Torf",
+      "Rauch",
+      "reichhaltig",
+      "trocken",
+      "komplex"
+    ]
+  },
+  "origin": "Islay, Scotland",
+  "food_pairings": [
+    "Taylors Haggis & Cracked Black Pepper",
+    "Taylors Aberdeen Angus",
+    "Taylors Fiery Pickled Onions"
+  ],
+  "tags": [
+    "scotch",
+    "islay",
+    "single malt",
+    "classic",
+    "peated"
+  ],
+  "notes": "Aged in oak casks for at least 16 years, this much sought-after Single Malt has the massive peat-smoke flavour that's typical of southern Islay, while also offering richness and a dryness that turns it into a truly interesting dram.",
+  "metadata": {
+    "source_page": 2,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Whisky",
+  "subcategory_de": "Islay Single Malt",
+  "tags_de": [
+    "Scotch",
+    "Islay",
+    "Single Malt",
+    "klassisch",
+    "getorft"
+  ],
+  "notes_de": "Mindestens 16 Jahre in Eichenfässern gereift, hat dieser begehrte Single Malt den massiven Torfrauch-Geschmack, der für den Süden Islays typisch ist, und bietet gleichzeitig eine Reichhaltigkeit und Trockenheit, die ihn zu einem wirklich interessanten Dram macht."
+}

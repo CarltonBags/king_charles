@@ -1,0 +1,58 @@
+{
+  "id": "pub_whisky_021",
+  "name": "Glenmorangie The Lasanta 12 Years Old",
+  "category": "whisky",
+  "subcategory": "highland single malt",
+  "brand_or_producer": "Glenmorangie",
+  "abv": 43.0,
+  "taste_profile": {
+    "primary_notes": [
+      "spicy",
+      "sherry",
+      "dried fruit",
+      "orange",
+      "chocolate"
+    ],
+    "sweetness": "medium-high",
+    "bitterness": "low",
+    "body": "medium-full",
+    "finish": "rich, spicy, sweet",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "würzig",
+      "Sherry",
+      "Trockenfrucht",
+      "Orange",
+      "Schokolade"
+    ]
+  },
+  "origin": "Highlands, Scotland",
+  "food_pairings": [
+    "Kettle Matured Cheddar Cheese & Red Onions",
+    "Tyrrell's Mature Cheddar & Chive",
+    "Kettle Intense Truffle and Sea Salt"
+  ],
+  "tags": [
+    "scotch",
+    "highland",
+    "single malt",
+    "sherry finish",
+    "spicy"
+  ],
+  "notes": "Begins with giraffe-high stills yielding a delicate and fruity spirit, then matured in bourbon and sherry casks for 12 years. A mouth-watering odyssey bursting with rich spiciness and sun-drenched sweetness.",
+  "metadata": {
+    "source_page": 2,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Whisky",
+  "subcategory_de": "Highland Single Malt",
+  "tags_de": [
+    "Scotch",
+    "Highland",
+    "Single Malt",
+    "Sherry-Finish",
+    "würzig"
+  ],
+  "notes_de": "Beginnt mit unseren giraffenhöhen Brennanlagen, die einen köstlich zarten und fruchtigen Geist erzeugen. Anschließend reift er zwölf Jahre in Bourbon- und Sherryfässern und verwandelt sich in eine mundwässernde Odyssee voller reicher Würze und sonnenverwöhnter Süße."
+}

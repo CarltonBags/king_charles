@@ -1,0 +1,56 @@
+{
+  "id": "pub_gin_001",
+  "name": "Beefeater London Dry",
+  "category": "gin",
+  "subcategory": "london dry gin",
+  "brand_or_producer": "Beefeater",
+  "abv": 40.0,
+  "taste_profile": {
+    "primary_notes": [
+      "juniper",
+      "citrus",
+      "classic",
+      "dry"
+    ],
+    "sweetness": "low",
+    "bitterness": "medium",
+    "body": "medium",
+    "finish": "dry, crisp",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "Wacholder",
+      "Zitrus",
+      "klassisch",
+      "trocken"
+    ]
+  },
+  "origin": "London, England",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Tyrrell's Sea Salt & Cider Vinegar",
+    "Kettle Sea Salt & Balsamic Vinegar of Modena"
+  ],
+  "tags": [
+    "gin",
+    "london dry",
+    "classic",
+    "citrus",
+    "juniper"
+  ],
+  "notes": "One London distillery, 9 stills and as many botanicals make the world's most awarded gin under the supervision of the world's most experienced Master Distiller. A quintessential London dry gin made with big juniper character and strong citrus notes, this is an authentic London dry for those that enjoy the real taste of gin.",
+  "metadata": {
+    "source_page": 2,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Gin",
+  "subcategory_de": "London Dry Gin",
+  "tags_de": [
+    "Gin",
+    "London Dry",
+    "klassisch",
+    "Zitrus",
+    "Wacholder"
+  ],
+  "notes_de": "Eine Londoner Brennerei, neun Brennanlagen und ebenso viele Botanicals ergeben den meistausgezeichneten Gin der Welt unter der Aufsicht des weltweit erfahrensten Master Distillers. Ein klassischer London Dry Gin mit großem Wacholdercharakter und kräftigen Zitrusnoten — ein authentischer London Dry für alle, die den echten Geschmack von Gin lieben."
+}

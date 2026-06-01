@@ -1,0 +1,56 @@
+{
+  "id": "pub_beer_214",
+  "name": "BrewDog Kiezkeule IPA",
+  "category": "beer",
+  "subcategory": "india pale ale",
+  "brand_or_producer": "BrewDog",
+  "abv": 5.8,
+  "taste_profile": {
+    "primary_notes": [
+      "citrus",
+      "tropical",
+      "floral",
+      "balanced",
+      "refreshing"
+    ],
+    "sweetness": "medium-low",
+    "bitterness": "medium",
+    "body": "medium",
+    "finish": "balanced, hoppy, citrus",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Zitrus",
+      "tropisch",
+      "blumig",
+      "ausgewogen",
+      "erfrischend"
+    ]
+  },
+  "origin": "Ellon, Scotland",
+  "food_pairings": [
+    "Kettle Sweet Chilli",
+    "Kettle Jalapeño",
+    "Kettle Sweet Chilli & Sour Cream"
+  ],
+  "tags": [
+    "ipa",
+    "can",
+    "scottish",
+    "clearance"
+  ],
+  "notes": "Refreshing citrus notes followed by tropical fruits and floral notes that complement the stable malt body. Skilfully balances hops and malt. Clearance item.",
+  "metadata": {
+    "source_page": 41,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "India Pale Ale",
+  "tags_de": [
+    "IPA",
+    "Dose",
+    "schottisch",
+    "Abverkauf"
+  ],
+  "notes_de": "Erfrischende Zitrusnoten, gefolgt von tropischen Früchten und blumigen Noten, die den stabilen Malzkörper perfekt ergänzen. Balanciert gekonnt Hopfen und Malz. Abverkaufsware."
+}

@@ -1,0 +1,60 @@
+{
+  "id": "pub_whisky_035",
+  "name": "Talisker 18 Year Old",
+  "category": "whisky",
+  "subcategory": "island single malt",
+  "brand_or_producer": "Talisker",
+  "abv": 45.8,
+  "taste_profile": {
+    "primary_notes": [
+      "smoke",
+      "pepper",
+      "sweet",
+      "maritime",
+      "warming"
+    ],
+    "sweetness": "medium",
+    "bitterness": "medium",
+    "body": "full",
+    "finish": "warming, smoky, peppery, long",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "Rauch",
+      "Pfeffer",
+      "süß",
+      "maritim",
+      "wärmend"
+    ]
+  },
+  "origin": "Isle of Skye, Scotland",
+  "food_pairings": [
+    "Taylors Haggis & Cracked Black Pepper",
+    "Taylors Aberdeen Angus",
+    "Taylors Fiery Pickled Onions"
+  ],
+  "tags": [
+    "scotch",
+    "island",
+    "single malt",
+    "skye",
+    "award-winning",
+    "aged"
+  ],
+  "notes": "Wonderful sweetness and warmth, intertwined with just a thread of smoke. Rich and soft but still assertive. Named 'Best Single Malt Whisky in the World 2007' at the World Whiskies Awards. A single malt masterpiece.",
+  "metadata": {
+    "source_page": 2,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Whisky",
+  "subcategory_de": "Island Single Malt",
+  "tags_de": [
+    "Scotch",
+    "Insel",
+    "Single Malt",
+    "Skye",
+    "preisgekrönt",
+    "gereift"
+  ],
+  "notes_de": "Mit wunderbarer Süße und Wärme, durchwoben von einem Hauch Rauch, ist Talisker 18 Year Old ein preisgekrönter Whisky, der reichhaltig und weich, aber dennoch durchsetzungsfähig ist. Ausgezeichnet als ,,Bester Single Malt Whisky der Welt 2007'' bei den World Whiskies Awards, ist Talisker 18 Year Old ein Single-Malt-Meisterwerk."
+}

@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_158",
+  "name": "Apple & Pear Cider",
+  "category": "cider",
+  "subcategory": "fruit cider",
+  "brand_or_producer": "Unknown",
+  "abv": 4.0,
+  "taste_profile": {
+    "primary_notes": [
+      "apple",
+      "pear",
+      "sweet",
+      "fresh",
+      "refreshing"
+    ],
+    "sweetness": "high",
+    "bitterness": "very low",
+    "body": "light-medium",
+    "finish": "refreshing, sweet",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Apfel",
+      "Birne",
+      "süß",
+      "frisch",
+      "erfrischend"
+    ]
+  },
+  "origin": "Unknown",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Kettle Honey Barbeque",
+    "Kettle Sweet Chilli"
+  ],
+  "tags": [
+    "cider",
+    "fruit",
+    "bottle",
+    "apple",
+    "pear"
+  ],
+  "notes": "Sweet cider with a fresh apple and pear flavour and a refreshing finish.",
+  "metadata": {
+    "source_page": 25,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Cidre",
+  "subcategory_de": "Frucht-Cidre",
+  "tags_de": [
+    "Cidre",
+    "Frucht",
+    "Flasche",
+    "Apfel",
+    "Birne"
+  ],
+  "notes_de": "Süßer Cidre mit frischem Apfel- und Birnengeschmack und erfrischendem Abgang."
+}

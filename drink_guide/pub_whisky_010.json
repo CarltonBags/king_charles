@@ -1,0 +1,58 @@
+{
+  "id": "pub_whisky_010",
+  "name": "Laphroaig 10 Years Old",
+  "category": "whisky",
+  "subcategory": "islay single malt",
+  "brand_or_producer": "Laphroaig",
+  "abv": 40.0,
+  "taste_profile": {
+    "primary_notes": [
+      "peat",
+      "smoke",
+      "seaweed",
+      "salt",
+      "sweet"
+    ],
+    "sweetness": "medium-low",
+    "bitterness": "medium",
+    "body": "full",
+    "finish": "long, warming, medicinal",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "Torf",
+      "Rauch",
+      "Seetang",
+      "Salz",
+      "süß"
+    ]
+  },
+  "origin": "Islay, Scotland",
+  "food_pairings": [
+    "Taylors Haggis & Cracked Black Pepper",
+    "Taylors Aberdeen Angus",
+    "Taylors Fiery Pickled Onions"
+  ],
+  "tags": [
+    "scotch",
+    "islay",
+    "single malt",
+    "peated",
+    "iconic"
+  ],
+  "notes": "Full-bodied single malt with a surprising sweetness leading into a long, warming finish. Complicated notes of smoke, seaweed, peat and a hint of salt — like a bracing day on Scotland's rugged coast.",
+  "metadata": {
+    "source_page": 2,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Whisky",
+  "subcategory_de": "Islay Single Malt",
+  "tags_de": [
+    "Scotch",
+    "Islay",
+    "Single Malt",
+    "getorft",
+    "kultig"
+  ],
+  "notes_de": "Ein klassischer Dram — dieser vollmundige Single Malt hat eine überraschende Süße, die in einen langen, wärmenden Abgang übergeht. Jeder Schluck bringt komplexe Noten von Rauch, Seetang, Torf und einem Hauch von Salz — wie ein belebender Herbsttag an Schottlands rauer Küste."
+}

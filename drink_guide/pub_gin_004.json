@@ -1,0 +1,58 @@
+{
+  "id": "pub_gin_004",
+  "name": "Caorunn",
+  "category": "gin",
+  "subcategory": "scottish london dry gin",
+  "brand_or_producer": "Caorunn",
+  "abv": 41.8,
+  "taste_profile": {
+    "primary_notes": [
+      "spicy",
+      "full-bodied",
+      "crisp",
+      "floral",
+      "clean"
+    ],
+    "sweetness": "low",
+    "bitterness": "medium-low",
+    "body": "medium-full",
+    "finish": "clean, crisp",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "würzig",
+      "vollmundig",
+      "spritzig",
+      "blumig",
+      "sauber"
+    ]
+  },
+  "origin": "Speyside, Scotland",
+  "food_pairings": [
+    "Kettle Matured Cheddar Cheese & Red Onions",
+    "Tyrrell's Mature Cheddar & Chive",
+    "Kettle Intense Truffle and Sea Salt"
+  ],
+  "tags": [
+    "gin",
+    "scottish",
+    "celtic",
+    "craft",
+    "botanical"
+  ],
+  "notes": "A slightly spicy, full-bodied and invigorating gin with a clean and crisp finish. A modern London Dry gin infused with classic Celtic soul, using 5 locally foraged botanicals.",
+  "metadata": {
+    "source_page": 2,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Gin",
+  "subcategory_de": "Schottischer London Dry Gin",
+  "tags_de": [
+    "Gin",
+    "schottisch",
+    "keltisch",
+    "Craft",
+    "botanisch"
+  ],
+  "notes_de": "Wir würden unseren klassischen Caorunn Gin gerne beschreiben, wissen aber nicht, wo wir anfangen sollen. Wir könnten sagen, er hat einen leicht würzigen, vollmundigen und belebenden Geschmack mit sauberem, knackigem Abgang. Oder vielleicht erklärt er sich am besten als moderner London Dry Gin, veredelt mit klassischer keltischer Seele in Form unserer fünf lokal wildgesammelten Botanicals."
+}

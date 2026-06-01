@@ -1,0 +1,58 @@
+{
+  "id": "pub_spirit_015",
+  "name": "Ramazzotti Amaro",
+  "category": "spirit",
+  "subcategory": "italian amaro",
+  "brand_or_producer": "Ramazzotti",
+  "abv": 30.0,
+  "taste_profile": {
+    "primary_notes": [
+      "orange peel",
+      "herbal",
+      "bittersweet",
+      "gentian",
+      "complex"
+    ],
+    "sweetness": "medium",
+    "bitterness": "medium-high",
+    "body": "medium",
+    "finish": "bittersweet, herbal, long",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "Orangenschale",
+      "kräuterig",
+      "bittersüß",
+      "Enzian",
+      "komplex"
+    ]
+  },
+  "origin": "Milan, Italy",
+  "food_pairings": [
+    "Taylors Haggis & Cracked Black Pepper",
+    "Taylors Aberdeen Angus",
+    "Taylors Fiery Pickled Onions"
+  ],
+  "tags": [
+    "amaro",
+    "italian",
+    "herbal",
+    "bittersweet",
+    "digestif"
+  ],
+  "notes": "Classic Italian amaro with a bittersweet herbal profile. Orange peel, gentian and other botanicals.",
+  "metadata": {
+    "source_page": 35,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Spirituose",
+  "subcategory_de": "Italienischer Amaro",
+  "tags_de": [
+    "Amaro",
+    "italienisch",
+    "kräuterig",
+    "bittersüß",
+    "Digestif"
+  ],
+  "notes_de": "Klassischer italienischer Amaro mit bittersüßem, kräuterigem Profil. Orangenschale, Enzian und andere Botanicals."
+}

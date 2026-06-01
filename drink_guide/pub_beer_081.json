@@ -1,0 +1,56 @@
+{
+  "id": "pub_beer_081",
+  "name": "Astra Special",
+  "category": "beer",
+  "subcategory": "mixed beer",
+  "brand_or_producer": "Astra",
+  "abv": 2.5,
+  "taste_profile": {
+    "primary_notes": [
+      "cola",
+      "orange",
+      "sweet",
+      "fruity"
+    ],
+    "sweetness": "high",
+    "bitterness": "very low",
+    "body": "light",
+    "finish": "sweet, refreshing",
+    "carbonation": "medium-high",
+    "primary_notes_de": [
+      "Cola",
+      "Orange",
+      "süß",
+      "fruchtig"
+    ]
+  },
+  "origin": "Hamburg, Germany",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Kettle Paprika & Roasted Onion",
+    "Kettle Sweet Chilli"
+  ],
+  "tags": [
+    "mixed beer",
+    "bottle",
+    "german",
+    "cola",
+    "sweet"
+  ],
+  "notes": "Lively mix from the neighbourhood made with Astra, cola and orange. With alcohol.",
+  "metadata": {
+    "source_page": 14,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Biermischgetränk",
+  "tags_de": [
+    "Biermischgetränk",
+    "Flasche",
+    "deutsch",
+    "Cola",
+    "süß"
+  ],
+  "notes_de": "Der lebendige Mix aus der Nachbarschaft mit Astra, Cola und Orange. Mit Alkohol."
+}

@@ -1,0 +1,56 @@
+{
+  "id": "pub_beer_023",
+  "name": "Somersby Apple Cider",
+  "category": "cider",
+  "subcategory": "sweet cider",
+  "brand_or_producer": "Somersby",
+  "abv": 4.5,
+  "taste_profile": {
+    "primary_notes": [
+      "apple",
+      "floral",
+      "sweet",
+      "mild tartness"
+    ],
+    "sweetness": "high",
+    "bitterness": "very low",
+    "body": "light-medium",
+    "finish": "sweet, mild tart",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Apfel",
+      "blumig",
+      "süß",
+      "milde Säure"
+    ]
+  },
+  "origin": "Denmark",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Kettle Honey Barbeque",
+    "Kettle Sweet Chilli"
+  ],
+  "tags": [
+    "cider",
+    "draft",
+    "danish",
+    "sweet",
+    "apple"
+  ],
+  "notes": "Sweet apple cider from Denmark. Golden clear, light carbonation. Fresh sweet apple aroma with floral hints. Sweet and apple-forward with mild tartness.",
+  "metadata": {
+    "source_page": 5,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Cidre",
+  "subcategory_de": "Süßer Cidre",
+  "tags_de": [
+    "Cidre",
+    "vom Fass",
+    "dänisch",
+    "süß",
+    "Apfel"
+  ],
+  "notes_de": "Süßer Apfel-Cidre aus Dänemark. Golden und klar mit leichter Kohlensäure. Frisches, süßes Apfelaroma mit blumigen Anklängen. Süß und apfelbetont mit milder Säure."
+}

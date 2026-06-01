@@ -1,0 +1,58 @@
+{
+  "id": "pub_gin_017",
+  "name": "Tanqueray London Dry Gin",
+  "category": "gin",
+  "subcategory": "london dry gin",
+  "brand_or_producer": "Tanqueray",
+  "abv": 43.1,
+  "taste_profile": {
+    "primary_notes": [
+      "juniper",
+      "balanced",
+      "classic",
+      "bold",
+      "smooth"
+    ],
+    "sweetness": "low",
+    "bitterness": "medium",
+    "body": "medium",
+    "finish": "smooth, balanced",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "Wacholder",
+      "ausgewogen",
+      "klassisch",
+      "kräftig",
+      "weich"
+    ]
+  },
+  "origin": "London, England",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Tyrrell's Sea Salt & Cider Vinegar",
+    "Kettle Sea Salt & Balsamic Vinegar of Modena"
+  ],
+  "tags": [
+    "gin",
+    "london dry",
+    "classic",
+    "award-winning",
+    "premium"
+  ],
+  "notes": "Back in the 1830s Charles Tanqueray wasn't afraid to mix his bold ideas. His ingenious pursuit for perfection paid off, creating Tanqueray London Dry, a perfectly balanced gin and one of the most awarded gins in the world.",
+  "metadata": {
+    "source_page": 2,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Gin",
+  "subcategory_de": "London Dry Gin",
+  "tags_de": [
+    "Gin",
+    "London Dry",
+    "klassisch",
+    "preisgekrönt",
+    "Premium"
+  ],
+  "notes_de": "Das Glück begünstigt die Mutigen. In den 1830er Jahren scheute Charles Tanqueray nicht davor zurück, seine kühnen Ideen zu mischen. Sein geniales Streben nach Perfektion zahlte sich aus und schuf Tanqueray London Dry, einen perfekt ausgewogenen Gin und einen der meistausgezeichneten Gins der Welt."
+}

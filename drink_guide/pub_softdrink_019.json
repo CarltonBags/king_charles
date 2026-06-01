@@ -1,0 +1,58 @@
+{
+  "id": "pub_softdrink_019",
+  "name": "Schweppes Bitter Lemon",
+  "category": "soft_drink",
+  "subcategory": "bitter lemon",
+  "brand_or_producer": "Schweppes",
+  "abv": 0.0,
+  "taste_profile": {
+    "primary_notes": [
+      "lemon",
+      "quinine",
+      "bitter",
+      "crisp",
+      "citrus"
+    ],
+    "sweetness": "medium-low",
+    "bitterness": "medium",
+    "body": "light",
+    "finish": "bitter-sweet, crisp",
+    "carbonation": "high",
+    "primary_notes_de": [
+      "Zitrone",
+      "Chinin",
+      "bitter",
+      "spritzig",
+      "Zitrus"
+    ]
+  },
+  "origin": "Germany",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Tyrrell's Sea Salt & Cider Vinegar",
+    "Kettle Sea Salt & Balsamic Vinegar of Modena"
+  ],
+  "tags": [
+    "soft drink",
+    "bitter lemon",
+    "classic",
+    "mixer",
+    "quinine"
+  ],
+  "notes": "Classic bitter lemon soft drink. Lemon and quinine create a refreshingly bitter-sweet, crisp and clean taste.",
+  "metadata": {
+    "source_page": 6,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Alkoholfreies Getränk",
+  "subcategory_de": "Bitter Lemon",
+  "tags_de": [
+    "Softdrink",
+    "Bitter Lemon",
+    "klassisch",
+    "Mixer",
+    "Chinin"
+  ],
+  "notes_de": "Klassisches Bitter-Lemon-Erfrischungsgetränk. Zitrone und Chinin erzeugen einen erfrischend bittersüßen, knackigen und sauberen Geschmack."
+}

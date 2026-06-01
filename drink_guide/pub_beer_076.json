@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_076",
+  "name": "Samuel Smith Winter Welcome",
+  "category": "beer",
+  "subcategory": "winter ale",
+  "brand_or_producer": "Samuel Smith",
+  "abv": 6.0,
+  "taste_profile": {
+    "primary_notes": [
+      "caramel",
+      "spicy",
+      "fruit",
+      "grain",
+      "balanced"
+    ],
+    "sweetness": "medium",
+    "bitterness": "medium-low",
+    "body": "medium",
+    "finish": "balanced, smooth",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Karamell",
+      "würzig",
+      "Frucht",
+      "Getreide",
+      "ausgewogen"
+    ]
+  },
+  "origin": "Yorkshire, England",
+  "food_pairings": [
+    "Taylors Haggis & Cracked Black Pepper",
+    "Kettle Matured Cheddar Cheese & Red Onions",
+    "Ültje Studentenfutter"
+  ],
+  "tags": [
+    "winter ale",
+    "bottle",
+    "english",
+    "yorkshire",
+    "seasonal"
+  ],
+  "notes": "Bright orange-reddish amber with cream-coloured head. Aromas of light caramel and spicy nuances, rounded off by light fruit and grain notes.",
+  "metadata": {
+    "source_page": 13,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Winter Ale",
+  "tags_de": [
+    "Winter Ale",
+    "Flasche",
+    "englisch",
+    "Yorkshire",
+    "saisonal"
+  ],
+  "notes_de": "Leuchtend orange-rötlicher Bernsteinton mit cremefarbenem Schaum. Aromen von leichtem Karamell und würzigen Nuancen, abgerundet durch leichte Frucht- und Getreidenoten."
+}

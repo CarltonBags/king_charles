@@ -1,0 +1,60 @@
+{
+  "id": "pub_beer_173",
+  "name": "Rhubarb & Mango Cider",
+  "category": "cider",
+  "subcategory": "flavoured cider",
+  "brand_or_producer": "Unknown",
+  "abv": 4.0,
+  "taste_profile": {
+    "primary_notes": [
+      "rhubarb",
+      "mango",
+      "apple",
+      "tropical",
+      "sweet"
+    ],
+    "sweetness": "medium-high",
+    "bitterness": "very low",
+    "body": "light-medium",
+    "finish": "sweet, tropical, crisp",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Rhabarber",
+      "Mango",
+      "Apfel",
+      "tropisch",
+      "süß"
+    ]
+  },
+  "origin": "Unknown",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Kettle Honey Barbeque",
+    "Kettle Sweet Chilli"
+  ],
+  "tags": [
+    "cider",
+    "flavoured",
+    "bottle",
+    "rhubarb",
+    "mango",
+    "tropical"
+  ],
+  "notes": "Refreshing apple cider infused with rhubarb and mango juice with a sweet tropical twist.",
+  "metadata": {
+    "source_page": 27,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Cidre",
+  "subcategory_de": "Aromatisierter Cidre",
+  "tags_de": [
+    "Cidre",
+    "aromatisiert",
+    "Flasche",
+    "Rhabarber",
+    "Mango",
+    "tropisch"
+  ],
+  "notes_de": "Erfrischender Apfel-Cidre, verfeinert mit Rhabarber- und Mango-Saft, mit einer süßen, tropischen Note."
+}

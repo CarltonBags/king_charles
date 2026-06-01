@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_192",
+  "name": "BrewDog Hawkes Dead and Berried",
+  "category": "cider",
+  "subcategory": "mixed berry cider",
+  "brand_or_producer": "BrewDog",
+  "abv": 4.0,
+  "taste_profile": {
+    "primary_notes": [
+      "blackberry",
+      "raspberry",
+      "blueberry",
+      "apple",
+      "lush"
+    ],
+    "sweetness": "medium",
+    "bitterness": "low",
+    "body": "medium",
+    "finish": "deep, lush, fruity",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Brombeere",
+      "Himbeere",
+      "Heidelbeere",
+      "Apfel",
+      "üppig"
+    ]
+  },
+  "origin": "Ellon, Scotland",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Kettle Honey Barbeque",
+    "Kettle Sweet Chilli"
+  ],
+  "tags": [
+    "cider",
+    "scottish",
+    "bottle",
+    "berry",
+    "craft"
+  ],
+  "notes": "Packed to the rafters with blackberry, raspberry and blueberry, on a brisk dessert apple base. Fermented with wine yeast to delicately balance the sweet berry front. Deep, lush, dead drinkable.",
+  "metadata": {
+    "source_page": 31,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Cidre",
+  "subcategory_de": "Waldbeeren-Cidre",
+  "tags_de": [
+    "Cidre",
+    "schottisch",
+    "Flasche",
+    "Beere",
+    "Craft"
+  ],
+  "notes_de": "Vollgepackt mit Brombeere, Himbeere und Heidelbeere auf einer spritzigen Tafelapfel-Basis. Dieser super-fruchtige Cidre wird mit Weinhefe vergoren, um die süße Beerenfront delikat auszubalancieren. Tief, üppig und tottrinkbar."
+}

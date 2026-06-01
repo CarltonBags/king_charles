@@ -1,0 +1,58 @@
+{
+  "id": "pub_gin_028",
+  "name": "Martin Miller's Westbourne Strength",
+  "category": "gin",
+  "subcategory": "london dry gin",
+  "brand_or_producer": "Martin Miller's",
+  "abv": 45.2,
+  "taste_profile": {
+    "primary_notes": [
+      "juniper",
+      "citrus",
+      "balanced",
+      "crisp",
+      "smooth"
+    ],
+    "sweetness": "low",
+    "bitterness": "medium",
+    "body": "medium",
+    "finish": "clean, balanced, crisp",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "Wacholder",
+      "Zitrus",
+      "ausgewogen",
+      "spritzig",
+      "weich"
+    ]
+  },
+  "origin": "England / Iceland",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Tyrrell's Sea Salt & Cider Vinegar",
+    "Kettle Sea Salt & Balsamic Vinegar of Modena"
+  ],
+  "tags": [
+    "gin",
+    "london dry",
+    "premium",
+    "icelandic water",
+    "classic"
+  ],
+  "notes": "Unconventional English distillation of the finest botanicals, blended with the purest Icelandic water. A modern classic dry gin based on the best traditions of English distillers, perfectly balanced.",
+  "metadata": {
+    "source_page": 2,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Gin",
+  "subcategory_de": "London Dry Gin",
+  "tags_de": [
+    "Gin",
+    "London Dry",
+    "Premium",
+    "isländisches Wasser",
+    "klassisch"
+  ],
+  "notes_de": "Unkonventionelle englische Destillation feinster Botanicals, vermischt mit reinstem isländischem Wasser. Ist es Wahnsinn oder Genie? Martin Miller's Original Gin. Ein moderner, klassischer Dry Gin, basierend auf den besten Traditionen englischer Brenner, aber mit unserem eigenen Twist, um den perfekt ausgewogenen Gin zu erhalten."
+}

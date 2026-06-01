@@ -1,0 +1,54 @@
+{
+  "id": "pub_beer_049",
+  "name": "Huyghe Delirium Alcohol-Free Blond",
+  "category": "beer",
+  "subcategory": "non-alcoholic belgian blonde",
+  "brand_or_producer": "Huyghe",
+  "abv": 0.3,
+  "taste_profile": {
+    "primary_notes": [
+      "spicy",
+      "fruity",
+      "golden",
+      "balanced"
+    ],
+    "sweetness": "low",
+    "bitterness": "medium-low",
+    "body": "medium",
+    "finish": "gentle bitter",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "würzig",
+      "fruchtig",
+      "golden",
+      "ausgewogen"
+    ]
+  },
+  "origin": "Melle, Belgium",
+  "food_pairings": [
+    "Kettle Matured Cheddar Cheese & Red Onions",
+    "Kettle Intense Truffle and Sea Salt",
+    "Tyrrell's Sweet Chilli & Red Pepper"
+  ],
+  "tags": [
+    "alcohol-free",
+    "belgian",
+    "blonde",
+    "craft"
+  ],
+  "notes": "Belgian beer enjoyment without alcohol. Golden appearance, spicy fruity aroma, gentle bitterness. Full-bodied craft beer for conscious enjoyment.",
+  "metadata": {
+    "source_page": 9,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Alkoholfreies Belgisches Blonde",
+  "tags_de": [
+    "alkoholfrei",
+    "belgisch",
+    "Blonde",
+    "Craft"
+  ],
+  "notes_de": "Belgischer Biergenuss ohne Alkohol. Goldene Erscheinung, würzig-fruchtiges Aroma und sanfte Bitterkeit. Vollmundiges Craft Beer für bewussten Genuss."
+}

@@ -1,0 +1,56 @@
+{
+  "id": "pub_beer_044",
+  "name": "BRLO Naked Helles",
+  "category": "beer",
+  "subcategory": "non-alcoholic helles",
+  "brand_or_producer": "BRLO",
+  "abv": 0.0,
+  "taste_profile": {
+    "primary_notes": [
+      "malty",
+      "crisp",
+      "clean",
+      "light"
+    ],
+    "sweetness": "low",
+    "bitterness": "low",
+    "body": "light",
+    "finish": "crisp, clean",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "malzig",
+      "spritzig",
+      "sauber",
+      "leicht"
+    ]
+  },
+  "origin": "Berlin, Germany",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Kettle Paprika & Roasted Onion",
+    "Kettle Sea Salt & Balsamic Vinegar of Modena"
+  ],
+  "tags": [
+    "alcohol-free",
+    "helles",
+    "german",
+    "craft",
+    "refreshing"
+  ],
+  "notes": "Non-alcoholic lager. Complete beer garden feeling without the hangover.",
+  "metadata": {
+    "source_page": 8,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Alkoholfreies Helles",
+  "tags_de": [
+    "alkoholfrei",
+    "Helles",
+    "deutsch",
+    "Craft",
+    "erfrischend"
+  ],
+  "notes_de": "Alkoholfreies Lager. Das vollständige Biergarten-Gefühl ohne den Kater."
+}

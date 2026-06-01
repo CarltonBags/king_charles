@@ -1,0 +1,58 @@
+{
+  "id": "pub_whisky_023",
+  "name": "Glenmorangie The Quinta Ruban 14 Years Old",
+  "category": "whisky",
+  "subcategory": "highland single malt",
+  "brand_or_producer": "Glenmorangie",
+  "abv": 46.0,
+  "taste_profile": {
+    "primary_notes": [
+      "walnut",
+      "mandarin orange",
+      "dark chocolate",
+      "peppermint",
+      "port"
+    ],
+    "sweetness": "medium",
+    "bitterness": "medium-low",
+    "body": "medium-full",
+    "finish": "complex, chocolate-minty",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "Walnuss",
+      "Mandarinenorange",
+      "dunkle Schokolade",
+      "Pfefferminze",
+      "Portwein"
+    ]
+  },
+  "origin": "Highlands, Scotland",
+  "food_pairings": [
+    "Kettle Matured Cheddar Cheese & Red Onions",
+    "Tyrrell's Mature Cheddar & Chive",
+    "Kettle Intense Truffle and Sea Salt"
+  ],
+  "tags": [
+    "scotch",
+    "highland",
+    "single malt",
+    "port finish",
+    "complex"
+  ],
+  "notes": "A whisky journey into the wild. Begins soft and fruity, then aged 14 years in bourbon casks and port casks from Portugal. Walnut and black pepper, mandarin orange and melted marshmallow, dark chocolate and peppermint.",
+  "metadata": {
+    "source_page": 2,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Whisky",
+  "subcategory_de": "Highland Single Malt",
+  "tags_de": [
+    "Scotch",
+    "Highland",
+    "Single Malt",
+    "Port-Finish",
+    "komplex"
+  ],
+  "notes_de": "Eine Whisky-Reise ins Wilde — ein dunkler und köstlicher Wald, in dem der Wind mit Böen von Pfefferminze pfeift und jederzeit dunkle Schokoladenwirbel auftreten können. In unseren giraffenhöhen Brennanlagen beginnt er weich und fruchtig, wird dann dunkler und tiefer, während wir ihn 14 Jahre in Bourbonfässern und Portweinfässern aus Portugal reifen lassen. Der fertige Whisky ist ein Dickicht üppiger Geschmackskombinationen — Walnuss und schwarzer Pfeffer, Mandarinenorange und geschmolzener Marshmallow, dunkle Schokolade und Pfefferminze."
+}

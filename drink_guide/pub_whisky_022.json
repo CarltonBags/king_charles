@@ -1,0 +1,58 @@
+{
+  "id": "pub_whisky_022",
+  "name": "Bruichladdich The Classic Laddie",
+  "category": "whisky",
+  "subcategory": "islay single malt",
+  "brand_or_producer": "Bruichladdich",
+  "abv": 50.0,
+  "taste_profile": {
+    "primary_notes": [
+      "floral",
+      "elegant",
+      "malty",
+      "maritime",
+      "fresh"
+    ],
+    "sweetness": "medium-low",
+    "bitterness": "low",
+    "body": "medium",
+    "finish": "elegant, floral, clean",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "blumig",
+      "elegant",
+      "malzig",
+      "maritim",
+      "frisch"
+    ]
+  },
+  "origin": "Islay, Scotland",
+  "food_pairings": [
+    "Kettle Matured Cheddar Cheese & Red Onions",
+    "Tyrrell's Mature Cheddar & Chive",
+    "Kettle Intense Truffle and Sea Salt"
+  ],
+  "tags": [
+    "scotch",
+    "islay",
+    "single malt",
+    "unpeated",
+    "artisanal"
+  ],
+  "notes": "The definitive Bruichladdich. Showcasing the classic, floral and elegant house style. Made from 100% Scottish barley, trickle distilled, non-chill filtered and colouring free.",
+  "metadata": {
+    "source_page": 2,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Whisky",
+  "subcategory_de": "Islay Single Malt",
+  "tags_de": [
+    "Scotch",
+    "Islay",
+    "Single Malt",
+    "ungetorft",
+    "handwerklich"
+  ],
+  "notes_de": "Unsere charakteristische Abfüllung und der definitive Bruichladdich. Er zeigt den klassischen, blumigen und eleganten Bruichladdich-Hausstil. The Classic Laddie wird aus 100 % schottischer Gerste hergestellt, tröpfchenweise destilliert, nicht kaltfiltriert und ohne Farbstoff."
+}

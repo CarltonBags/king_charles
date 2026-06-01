@@ -1,0 +1,56 @@
+{
+  "id": "pub_softdrink_008",
+  "name": "Rhodius Gourmet Natur",
+  "category": "soft_drink",
+  "subcategory": "still mineral water",
+  "brand_or_producer": "Rhodius",
+  "abv": 0.0,
+  "taste_profile": {
+    "primary_notes": [
+      "mineral",
+      "clean",
+      "neutral",
+      "pure"
+    ],
+    "sweetness": "very low",
+    "bitterness": "very low",
+    "body": "very light",
+    "finish": "clean, pure",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "mineralisch",
+      "sauber",
+      "neutral",
+      "rein"
+    ]
+  },
+  "origin": "Germany",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Kettle Sea Salt & Balsamic Vinegar of Modena",
+    "Kettle Sea Salt & Black Pepper"
+  ],
+  "tags": [
+    "soft drink",
+    "water",
+    "german",
+    "still",
+    "premium"
+  ],
+  "notes": "Premium German natural still mineral water. Pure and clean.",
+  "metadata": {
+    "source_page": 6,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Alkoholfreies Getränk",
+  "subcategory_de": "Stilles Mineralwasser",
+  "tags_de": [
+    "Softdrink",
+    "Wasser",
+    "deutsch",
+    "still",
+    "Premium"
+  ],
+  "notes_de": "Premium deutsches, natürliches, stilles Mineralwasser. Rein und sauber."
+}

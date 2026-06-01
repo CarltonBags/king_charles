@@ -1,0 +1,60 @@
+{
+  "id": "pub_beer_143",
+  "name": "Tankbusters The Book of Hops Vol.9: Superdelic - Alora",
+  "category": "beer",
+  "subcategory": "new england ipa",
+  "brand_or_producer": "Tankbusters",
+  "abv": 6.1,
+  "taste_profile": {
+    "primary_notes": [
+      "tropical",
+      "citrus",
+      "hoppy",
+      "intense",
+      "hazy"
+    ],
+    "sweetness": "medium-low",
+    "bitterness": "medium",
+    "body": "medium",
+    "finish": "smooth, hoppy",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "tropisch",
+      "Zitrus",
+      "hopfig",
+      "intensiv",
+      "trüb"
+    ]
+  },
+  "origin": "Poland",
+  "food_pairings": [
+    "Kettle Sweet Chilli",
+    "Kettle Jalapeño",
+    "Kettle Sweet Chilli & Sour Cream"
+  ],
+  "tags": [
+    "neipa",
+    "ddh",
+    "can",
+    "polish",
+    "craft",
+    "hazy"
+  ],
+  "notes": "DDH Dual Hop NEIPA featuring Superdelic and Alora hops. A double dry-hopped New England IPA bursting with intense hop character.",
+  "metadata": {
+    "source_page": 1,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "New England IPA",
+  "tags_de": [
+    "NEIPA",
+    "DDH",
+    "Dose",
+    "polnisch",
+    "Craft",
+    "trüb"
+  ],
+  "notes_de": "DDH Dual Hop NEIPA mit Superdelic- und Alora-Hopfen. Ein doppelt trockengehopftes New England IPA mit berstendem Hopfencharakter."
+}

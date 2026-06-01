@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_094",
+  "name": "Rodenbach Alexander Cherry Red Ale",
+  "category": "beer",
+  "subcategory": "flemish red ale",
+  "brand_or_producer": "Rodenbach",
+  "abv": 5.6,
+  "taste_profile": {
+    "primary_notes": [
+      "cherry",
+      "red currants",
+      "strawberry",
+      "oak",
+      "sweet-sour"
+    ],
+    "sweetness": "medium",
+    "bitterness": "medium",
+    "body": "medium",
+    "finish": "sweet-sour, oaky",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Kirsche",
+      "rote Johannisbeeren",
+      "Erdbeere",
+      "Eiche",
+      "süß-sauer"
+    ]
+  },
+  "origin": "Roeselare, Belgium",
+  "food_pairings": [
+    "Kettle Intense Truffle and Sea Salt",
+    "Kettle Matured Cheddar Cheese & Red Onions",
+    "Taylors Aberdeen Angus"
+  ],
+  "tags": [
+    "flemish red",
+    "oak aged",
+    "bottle",
+    "belgian",
+    "cherry"
+  ],
+  "notes": "Flemish red-brown ale matured in oak casks for 2 years. Balanced sweet and sour cherry flavour with undertones of red currants, strawberries and a touch of oak.",
+  "metadata": {
+    "source_page": 16,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Flämisches Rotbier",
+  "tags_de": [
+    "Flämisch Rot",
+    "eichenfassgereift",
+    "Flasche",
+    "belgisch",
+    "Kirsche"
+  ],
+  "notes_de": "Flämisches rotbraunes Ale, zwei Jahre in Eichenfässern gereift. Ausgewogener, süß-saurer Kirschgeschmack mit Untertönen von roten Johannisbeeren, Erdbeeren und einem Hauch von Eiche."
+}

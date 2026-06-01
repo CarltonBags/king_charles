@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_205",
+  "name": "Stone Arrogant Bastard Ale",
+  "category": "beer",
+  "subcategory": "american strong ale",
+  "brand_or_producer": "Stone Brewing",
+  "abv": 7.2,
+  "taste_profile": {
+    "primary_notes": [
+      "caramel",
+      "dark fruits",
+      "hoppy",
+      "bold",
+      "aggressive"
+    ],
+    "sweetness": "medium",
+    "bitterness": "medium-high",
+    "body": "full",
+    "finish": "bold, aggressive, hoppy",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Karamell",
+      "dunkle Früchte",
+      "hopfig",
+      "kräftig",
+      "aggressiv"
+    ]
+  },
+  "origin": "California, USA",
+  "food_pairings": [
+    "Taylors Haggis & Cracked Black Pepper",
+    "Taylors Aberdeen Angus",
+    "Taylors Fiery Pickled Onions"
+  ],
+  "tags": [
+    "strong ale",
+    "bottle",
+    "american",
+    "clearance",
+    "bold"
+  ],
+  "notes": "Deep red, almost brownish hue with a distinctive creamy head. Sweet malt notes of caramel and hop aromas of dark fruits. Bold and unapologetic. Clearance item.",
+  "metadata": {
+    "source_page": 39,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Amerikanisches Starkbier",
+  "tags_de": [
+    "Starkbier",
+    "Flasche",
+    "amerikanisch",
+    "Abverkauf",
+    "kräftig"
+  ],
+  "notes_de": "Tiefrote, fast bräunliche Farbe mit markanter, cremiger Schaumkrone. Süße Malznoten von Karamell und Hopfenaromen dunkler Früchte. Kräftig und kompromisslos. Abverkaufsware."
+}

@@ -1,0 +1,58 @@
+{
+  "id": "pub_spirit_014",
+  "name": "Licor 43",
+  "category": "spirit",
+  "subcategory": "spanish liqueur",
+  "brand_or_producer": "Licor 43",
+  "abv": 31.0,
+  "taste_profile": {
+    "primary_notes": [
+      "vanilla",
+      "citrus",
+      "herbal",
+      "sweet",
+      "complex"
+    ],
+    "sweetness": "high",
+    "bitterness": "very low",
+    "body": "medium-full",
+    "finish": "sweet, complex, vanilla",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "Vanille",
+      "Zitrus",
+      "kräuterig",
+      "süß",
+      "komplex"
+    ]
+  },
+  "origin": "Cartagena, Spain",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Kettle Honey Barbeque",
+    "Kettle Sweet Chilli"
+  ],
+  "tags": [
+    "liqueur",
+    "spanish",
+    "vanilla",
+    "citrus",
+    "complex"
+  ],
+  "notes": "Golden Spanish liqueur made with 43 ingredients including citrus, vanilla, and aromatic herbs. Sweet, complex and versatile.",
+  "metadata": {
+    "source_page": 35,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Spirituose",
+  "subcategory_de": "Spanischer Likör",
+  "tags_de": [
+    "Likör",
+    "spanisch",
+    "Vanille",
+    "Zitrus",
+    "komplex"
+  ],
+  "notes_de": "Goldener spanischer Likör, hergestellt aus 43 Zutaten, darunter Zitrusfrüchte, Vanille und aromatische Kräuter. Süß, komplex und vielseitig."
+}

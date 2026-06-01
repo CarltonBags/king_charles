@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_171",
+  "name": "Apples & Pears Cider",
+  "category": "cider",
+  "subcategory": "pear cider",
+  "brand_or_producer": "Unknown",
+  "abv": 4.0,
+  "taste_profile": {
+    "primary_notes": [
+      "pear",
+      "apple",
+      "sweet",
+      "exotic",
+      "delicious"
+    ],
+    "sweetness": "high",
+    "bitterness": "very low",
+    "body": "medium",
+    "finish": "sweet, exotic",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Birne",
+      "Apfel",
+      "süß",
+      "exotisch",
+      "köstlich"
+    ]
+  },
+  "origin": "Unknown",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Kettle Honey Barbeque",
+    "Kettle Sweet Chilli"
+  ],
+  "tags": [
+    "cider",
+    "pear",
+    "bottle",
+    "sweet",
+    "exotic"
+  ],
+  "notes": "Made from 88% pear and 12% apple. Sweet in taste with a delicious, almost exotic flavour.",
+  "metadata": {
+    "source_page": 27,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Cidre",
+  "subcategory_de": "Birnen-Cidre",
+  "tags_de": [
+    "Cidre",
+    "Birne",
+    "Flasche",
+    "süß",
+    "exotisch"
+  ],
+  "notes_de": "Hergestellt aus 88% Birne und 12% Apfel. Süß im Geschmack mit einem köstlichen, fast exotischen Aroma."
+}

@@ -1,0 +1,56 @@
+{
+  "id": "pub_beer_041",
+  "name": "La Chouffe Alcohol Free",
+  "category": "beer",
+  "subcategory": "non-alcoholic belgian blonde",
+  "brand_or_producer": "La Chouffe",
+  "abv": 0.4,
+  "taste_profile": {
+    "primary_notes": [
+      "grain",
+      "earthy",
+      "fruity",
+      "spicy",
+      "herbal"
+    ],
+    "sweetness": "medium-low",
+    "bitterness": "low",
+    "body": "light",
+    "finish": "crisp, herbal",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Getreide",
+      "erdig",
+      "fruchtig",
+      "würzig",
+      "kräuterig"
+    ]
+  },
+  "origin": "Achouffe, Belgium",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Kettle Paprika & Roasted Onion",
+    "Tyrrell's Sweet Chilli & Red Pepper"
+  ],
+  "tags": [
+    "alcohol-free",
+    "belgian",
+    "blonde",
+    "craft"
+  ],
+  "notes": "Refreshing golden non-alcoholic Belgian Blonde. Gentle grain and earthy flavour with fruity and spicy undertones. Light, smooth brightness, crisp subtly herby finish.",
+  "metadata": {
+    "source_page": 8,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Alkoholfreies Belgisches Blonde",
+  "tags_de": [
+    "alkoholfrei",
+    "belgisch",
+    "Blonde",
+    "Craft"
+  ],
+  "notes_de": "Erfrischendes, goldenes, alkoholfreies, belgisches Blonde. Sanftes Getreide- und erdiges Aroma mit fruchtigen und würzigen Untertönen. Leicht, sanfte Helligkeit und knackiger, subtil kräuteriger Abgang."
+}

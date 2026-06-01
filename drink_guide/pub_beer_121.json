@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_121",
+  "name": "Brewski Pub Ale",
+  "category": "beer",
+  "subcategory": "english ale",
+  "brand_or_producer": "Brewski",
+  "abv": 3.4,
+  "taste_profile": {
+    "primary_notes": [
+      "malt",
+      "biscuity",
+      "floral",
+      "caramel",
+      "gentle"
+    ],
+    "sweetness": "medium-low",
+    "bitterness": "low",
+    "body": "medium",
+    "finish": "gentle, bitter",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Malz",
+      "keksig",
+      "blumig",
+      "Karamell",
+      "sanft"
+    ]
+  },
+  "origin": "Sweden",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Kettle Matured Cheddar Cheese & Red Onions",
+    "Ültje Studentenfutter"
+  ],
+  "tags": [
+    "ale",
+    "can",
+    "swedish",
+    "session",
+    "traditional"
+  ],
+  "notes": "Traditional Ale, amber-copper. Light malt sweetness and subtle biscuity aroma, floral hops. Mild caramel flavours and gentle bitterness.",
+  "metadata": {
+    "source_page": 21,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Englisches Ale",
+  "tags_de": [
+    "Ale",
+    "Dose",
+    "schwedisch",
+    "Session",
+    "traditionell"
+  ],
+  "notes_de": "Traditionelles Ale mit bernstein-kupferfarbener Erscheinung. Leichte Malzsüße und dezentes, keksiges Aroma, ergänzt durch blumigen Hopfen. Milde Karamell-Aromen und sanfte Bitterkeit."
+}

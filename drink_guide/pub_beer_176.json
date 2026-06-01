@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_176",
+  "name": "Orange & Pineapple Cider",
+  "category": "cider",
+  "subcategory": "flavoured cider",
+  "brand_or_producer": "Unknown",
+  "abv": 3.4,
+  "taste_profile": {
+    "primary_notes": [
+      "orange",
+      "pineapple",
+      "apple",
+      "tropical",
+      "exotic"
+    ],
+    "sweetness": "medium-high",
+    "bitterness": "very low",
+    "body": "light-medium",
+    "finish": "exotic, refreshing",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Orange",
+      "Ananas",
+      "Apfel",
+      "tropisch",
+      "exotisch"
+    ]
+  },
+  "origin": "Unknown",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Kettle Honey Barbeque",
+    "Kettle Sweet Chilli"
+  ],
+  "tags": [
+    "cider",
+    "flavoured",
+    "bottle",
+    "orange",
+    "pineapple"
+  ],
+  "notes": "Tropical blend of orange and pineapple juices infused into fresh apple cider for an exotic but refreshing finish.",
+  "metadata": {
+    "source_page": 28,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Cidre",
+  "subcategory_de": "Aromatisierter Cidre",
+  "tags_de": [
+    "Cidre",
+    "aromatisiert",
+    "Flasche",
+    "Orange",
+    "Ananas"
+  ],
+  "notes_de": "Diese tropische Mischung aus Orangen- und Ananassäften verfeinert einen frischen Apfel-Cidre für einen exotischen, aber erfrischenden Abgang."
+}

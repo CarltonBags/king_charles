@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_119",
+  "name": "Maisel's Weisse Original",
+  "category": "beer",
+  "subcategory": "hefeweizen",
+  "brand_or_producer": "Maisel's",
+  "abv": 5.2,
+  "taste_profile": {
+    "primary_notes": [
+      "banana",
+      "clove",
+      "malt",
+      "citrus",
+      "refreshing"
+    ],
+    "sweetness": "medium",
+    "bitterness": "low",
+    "body": "medium",
+    "finish": "clean, refreshing",
+    "carbonation": "medium-high",
+    "primary_notes_de": [
+      "Banane",
+      "Nelke",
+      "Malz",
+      "Zitrus",
+      "erfrischend"
+    ]
+  },
+  "origin": "Bayreuth, Germany",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Ültje Studentenfutter",
+    "Kettle Paprika & Roasted Onion"
+  ],
+  "tags": [
+    "weizen",
+    "bottle",
+    "german",
+    "wheat",
+    "classic"
+  ],
+  "notes": "Classic German wheat beer. Hazy golden orange, aroma of banana, clove and malt sweetness. Soft banana flavour followed by subtle citrus and clean finish. Medium bodied, refreshing.",
+  "metadata": {
+    "source_page": 20,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Hefeweizen",
+  "tags_de": [
+    "Weizen",
+    "Flasche",
+    "deutsch",
+    "Weizen",
+    "klassisch"
+  ],
+  "notes_de": "Klassisches, deutsches Weizenbier. Trüb golden-orange mit Aroma von Banane, Nelke und Malzsüße. Sanfter Bananengeschmack, gefolgt von dezenten Zitrusnoten und einem sauberen Abgang. Mittlerer Körper, erfrischend."
+}

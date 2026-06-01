@@ -1,0 +1,56 @@
+{
+  "id": "pub_beer_195",
+  "name": "Sierra Nevada Trail Pass IPA",
+  "category": "beer",
+  "subcategory": "non-alcoholic ipa",
+  "brand_or_producer": "Sierra Nevada",
+  "abv": 0.5,
+  "taste_profile": {
+    "primary_notes": [
+      "grapefruit",
+      "lime",
+      "orange",
+      "crisp",
+      "hoppy"
+    ],
+    "sweetness": "low",
+    "bitterness": "medium",
+    "body": "medium",
+    "finish": "crisp, bitter, citrus",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Grapefruit",
+      "Limette",
+      "Orange",
+      "spritzig",
+      "hopfig"
+    ]
+  },
+  "origin": "California, USA",
+  "food_pairings": [
+    "Kettle Sweet Chilli",
+    "Kettle Jalapeño",
+    "Kettle Sweet Chilli & Sour Cream"
+  ],
+  "tags": [
+    "alcohol-free",
+    "ipa",
+    "american",
+    "clearance"
+  ],
+  "notes": "Non-alcoholic IPA delivering full hop flavours of grapefruit and lime, bright orange in the glass, and crisp bitterness — without compromising on taste. Clearance item.",
+  "metadata": {
+    "source_page": 37,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Alkoholfreies IPA",
+  "tags_de": [
+    "alkoholfrei",
+    "IPA",
+    "amerikanisch",
+    "Abverkauf"
+  ],
+  "notes_de": "Alkoholfreies IPA mit vollen Hopfenaromen von Grapefruit und Limette, leuchtend orange im Glas und knackiger Bitterkeit — ohne Kompromisse beim Geschmack. Abverkaufsware."
+}

@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_198",
+  "name": "Liefmans On The Rocks Peach",
+  "category": "beer",
+  "subcategory": "fruit beer",
+  "brand_or_producer": "Liefmans",
+  "abv": 3.8,
+  "taste_profile": {
+    "primary_notes": [
+      "peach",
+      "mango",
+      "apricot",
+      "lime",
+      "sparkling"
+    ],
+    "sweetness": "medium-high",
+    "bitterness": "very low",
+    "body": "medium",
+    "finish": "fruity, sparkling, refreshing",
+    "carbonation": "medium-high",
+    "primary_notes_de": [
+      "Pfirsich",
+      "Mango",
+      "Aprikose",
+      "Limette",
+      "prickelnd"
+    ]
+  },
+  "origin": "Oudenaarde, Belgium",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Kettle Honey Barbeque",
+    "Kettle Sweet Chilli"
+  ],
+  "tags": [
+    "fruit beer",
+    "belgian",
+    "clearance",
+    "peach",
+    "on the rocks"
+  ],
+  "notes": "Sparkling beer with orange-pink hue, served On The Rocks. Fruity aromas of peach, mango, apricot and lime. A unique and refreshing serving ritual. Clearance item.",
+  "metadata": {
+    "source_page": 38,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Fruchtbier",
+  "tags_de": [
+    "Fruchtbier",
+    "belgisch",
+    "Abverkauf",
+    "Pfirsich",
+    "On the Rocks"
+  ],
+  "notes_de": "Prickelndes Bier mit orange-rosa Farbton, serviert On the Rocks. Fruchtige Aromen von Pfirsich, Mango, Aprikose und Limette. Ein einzigartiges und erfrischendes Servierritual. Abverkaufsware."
+}

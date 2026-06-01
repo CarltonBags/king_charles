@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_123",
+  "name": "O'Hara's White Haze IPA",
+  "category": "beer",
+  "subcategory": "new england ipa",
+  "brand_or_producer": "O'Hara's",
+  "abv": 5.0,
+  "taste_profile": {
+    "primary_notes": [
+      "citrus",
+      "tropical",
+      "mosaic",
+      "citra",
+      "hazy"
+    ],
+    "sweetness": "medium-low",
+    "bitterness": "medium",
+    "body": "medium",
+    "finish": "smooth, hoppy",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Zitrus",
+      "tropisch",
+      "Mosaic",
+      "Citra",
+      "trüb"
+    ]
+  },
+  "origin": "Carlow, Ireland",
+  "food_pairings": [
+    "Kettle Sweet Chilli",
+    "Kettle Jalapeño",
+    "Tyrrell's Sweet Chilli & Red Pepper"
+  ],
+  "tags": [
+    "neipa",
+    "can",
+    "irish",
+    "hazy",
+    "craft"
+  ],
+  "notes": "Cloudy foggy hazy IPA, bright golden hues. Masterful combination of Citra, Mosaic and Amarillo hops. Modern brewing meets traditional craftsmanship.",
+  "metadata": {
+    "source_page": 21,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "New England IPA",
+  "tags_de": [
+    "NEIPA",
+    "Dose",
+    "irisch",
+    "trüb",
+    "Craft"
+  ],
+  "notes_de": "Trüb-nebliges Hazy IPA mit hellen, goldenen Farbtönen. Meisterhafte Kombination von Citra-, Mosaic- und Amarillo-Hopfen. Modernes Brauen trifft auf traditionelle Handwerkskunst."
+}

@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_227",
+  "name": "Cloudwater Happy Easy Pale Ale",
+  "category": "beer",
+  "subcategory": "pale ale",
+  "brand_or_producer": "Cloudwater",
+  "abv": 3.4,
+  "taste_profile": {
+    "primary_notes": [
+      "juicy",
+      "smooth",
+      "dry",
+      "balanced",
+      "sessionable"
+    ],
+    "sweetness": "medium-low",
+    "bitterness": "medium-low",
+    "body": "light-medium",
+    "finish": "dry, juicy, lingering",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "saftig",
+      "weich",
+      "trocken",
+      "ausgewogen",
+      "süffig"
+    ]
+  },
+  "origin": "Manchester, England",
+  "food_pairings": [
+    "Kettle Sweet Chilli",
+    "Kettle Jalapeño",
+    "Kettle Sweet Chilli & Sour Cream"
+  ],
+  "tags": [
+    "pale ale",
+    "can",
+    "english",
+    "clearance",
+    "session"
+  ],
+  "notes": "Easy-drinking pale ale seamlessly blending contemporary softness with time-honoured drinkability. Smooth body and dry finish allowing juicy flavours to linger. The epitome of sessionability. Clearance item.",
+  "metadata": {
+    "source_page": 43,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Pale Ale",
+  "tags_de": [
+    "Pale Ale",
+    "Dose",
+    "englisch",
+    "Abverkauf",
+    "Session"
+  ],
+  "notes_de": "Süffiges Pale Ale, das zeitgenössische Weichheit nahtlos mit bewährter Trinkbarkeit verbindet. Weicher Körper und trockener Abgang, der die saftigen Aromen am Gaumen nachklingen lässt. Der Inbegriff von Sessionability. Abverkaufsware."
+}

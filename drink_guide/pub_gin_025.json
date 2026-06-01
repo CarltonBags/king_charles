@@ -1,0 +1,58 @@
+{
+  "id": "pub_gin_025",
+  "name": "Whitley Neil Distiller's Cut Gin",
+  "category": "gin",
+  "subcategory": "london dry gin",
+  "brand_or_producer": "Whitley Neill",
+  "abv": 43.0,
+  "taste_profile": {
+    "primary_notes": [
+      "candied orange",
+      "juniper",
+      "white pepper",
+      "earthy",
+      "woody"
+    ],
+    "sweetness": "medium",
+    "bitterness": "medium-low",
+    "body": "medium-full",
+    "finish": "oily, earthy, orange",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "kandierte Orange",
+      "Wacholder",
+      "weißer Pfeffer",
+      "erdig",
+      "holzig"
+    ]
+  },
+  "origin": "England",
+  "food_pairings": [
+    "Kettle Matured Cheddar Cheese & Red Onions",
+    "Tyrrell's Mature Cheddar & Chive",
+    "Kettle Intense Truffle and Sea Salt"
+  ],
+  "tags": [
+    "gin",
+    "london dry",
+    "premium",
+    "candied orange",
+    "complex"
+  ],
+  "notes": "Soft and rounded aroma with present juniper, followed by bittersweet candied orange flavour. Strong flavour notes of candied orange, white pepper and solid juniper. Pleasant oily texture, earthy and woody with orange persisting through the finish.",
+  "metadata": {
+    "source_page": 2,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Gin",
+  "subcategory_de": "London Dry Gin",
+  "tags_de": [
+    "Gin",
+    "London Dry",
+    "Premium",
+    "kandierte Orange",
+    "komplex"
+  ],
+  "notes_de": "Weiches und rundes Aroma. Noch immer präsenter Wacholder, jetzt gefolgt von bittersüßem, kandiertem Orangengeschmack. Eine dezente, zugrunde liegende blumige Note erhellt die Nase. Kräftige Geschmacksnoten von kandierter Orange, einem Hauch von weißem Pfeffer und einem soliden Rückgrat aus Wacholder. Scheinbar etwas süßer und weicher als das Original. Eine angenehme, ölige Textur kühlt den Mund. Die Orange hält sich durch den Abgang. Wacholder ist immer noch präsent und ergänzt die Zitrusfrüchte. Etwas erdig und holzig."
+}

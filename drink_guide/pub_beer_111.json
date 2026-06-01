@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_111",
+  "name": "Jopen Blurred Lines",
+  "category": "beer",
+  "subcategory": "new england ipa",
+  "brand_or_producer": "Jopen",
+  "abv": 5.3,
+  "taste_profile": {
+    "primary_notes": [
+      "mango",
+      "passion fruit",
+      "herbal",
+      "juicy",
+      "smooth"
+    ],
+    "sweetness": "medium",
+    "bitterness": "medium-low",
+    "body": "medium",
+    "finish": "smooth, easy",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Mango",
+      "Maracuja",
+      "kräuterig",
+      "saftig",
+      "weich"
+    ]
+  },
+  "origin": "Haarlem, Netherlands",
+  "food_pairings": [
+    "Kettle Sweet Chilli",
+    "Tyrrell's Sweet Chilli & Red Pepper",
+    "Kettle Sea Salt"
+  ],
+  "tags": [
+    "neipa",
+    "bottle",
+    "dutch",
+    "hazy",
+    "juicy"
+  ],
+  "notes": "Dutch hazy golden IPA. Juicy tropical fruit aroma of mango and passion fruit, layered with soft herbal happiness. Medium bodied, smooth, easy drinking.",
+  "metadata": {
+    "source_page": 18,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "New England IPA",
+  "tags_de": [
+    "NEIPA",
+    "Flasche",
+    "niederländisch",
+    "trüb",
+    "saftig"
+  ],
+  "notes_de": "Niederländisches, trüb-goldenes IPA. Saftiges, tropisches Fruchtaroma von Mango und Maracuja, geschichtet mit weicher, kräuteriger Hopfigkeit. Mittlerer Körper, weich und süffig."
+}

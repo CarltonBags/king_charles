@@ -1,0 +1,58 @@
+{
+  "id": "pub_whisky_025",
+  "name": "Glenfarclas 12 Years Old",
+  "category": "whisky",
+  "subcategory": "speyside single malt",
+  "brand_or_producer": "Glenfarclas",
+  "abv": 43.0,
+  "taste_profile": {
+    "primary_notes": [
+      "sherry",
+      "honey",
+      "raisin",
+      "oak",
+      "spice"
+    ],
+    "sweetness": "medium",
+    "bitterness": "low",
+    "body": "medium",
+    "finish": "balanced, sherried, fruity",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "Sherry",
+      "Honig",
+      "Rosine",
+      "Eiche",
+      "Gewürz"
+    ]
+  },
+  "origin": "Speyside, Scotland",
+  "food_pairings": [
+    "Kettle Matured Cheddar Cheese & Red Onions",
+    "Tyrrell's Mature Cheddar & Chive",
+    "Kettle Intense Truffle and Sea Salt"
+  ],
+  "tags": [
+    "scotch",
+    "speyside",
+    "single malt",
+    "sherry",
+    "balanced"
+  ],
+  "notes": "Lots of sherry and honey on the nose with subtle hints of spice, oak and smoke. Medium-bodied mouthful. Sherry sweetness immediately comes through with fruitcake, raisins, oak and spice. Beautifully balanced.",
+  "metadata": {
+    "source_page": 2,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Whisky",
+  "subcategory_de": "Speyside Single Malt",
+  "tags_de": [
+    "Scotch",
+    "Speyside",
+    "Single Malt",
+    "Sherry",
+    "ausgewogen"
+  ],
+  "notes_de": "Dieser zwölf Jahre alte Single Malt hat viel Sherry und Honig in der Nase. Es gibt dezente Anklänge von Gewürz, Eiche und Rauch. Ein schöner, mittelkräftiger Schluck. Die Sherry-Süße kommt sofort durch, mit weiteren Noten von Früchtekuchen, Rosinen, Eiche und Gewürz. Der Zwölfjährige ist kein komplexer Whisky, aber die Aromen sind wunderschön ausgewogen."
+}

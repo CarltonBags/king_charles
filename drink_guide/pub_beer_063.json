@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_063",
+  "name": "Tennent's Scotch Ale",
+  "category": "beer",
+  "subcategory": "scotch ale",
+  "brand_or_producer": "Tennent's",
+  "abv": 9.0,
+  "taste_profile": {
+    "primary_notes": [
+      "caramel",
+      "toffee",
+      "dried fruits",
+      "dark fruits",
+      "spice"
+    ],
+    "sweetness": "medium-high",
+    "bitterness": "low",
+    "body": "medium-full",
+    "finish": "smooth, subtle citrus",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Karamell",
+      "Toffee",
+      "Trockenfrüchte",
+      "dunkle Früchte",
+      "Gewürz"
+    ]
+  },
+  "origin": "Glasgow, Scotland",
+  "food_pairings": [
+    "Taylors Haggis & Cracked Black Pepper",
+    "Kettle Matured Cheddar Cheese & Red Onions",
+    "Kettle Intense Truffle and Sea Salt"
+  ],
+  "tags": [
+    "scotch ale",
+    "bottle",
+    "scottish",
+    "strong",
+    "malty"
+  ],
+  "notes": "Scotch Ale with clear amber appearance, orange highlights. Rich malty aroma with caramel, toffee and dried fruits. Dark fruits and hints of spice. Smooth, well carbonated, clean subtly blood-orange finish.",
+  "metadata": {
+    "source_page": 11,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Scotch Ale",
+  "tags_de": [
+    "Scotch Ale",
+    "Flasche",
+    "schottisch",
+    "stark",
+    "malzig"
+  ],
+  "notes_de": "Scotch Ale mit klarem, bernsteinfarbenem Aussehen und orangefarbenen Reflexen. Reichhaltiges, malziges Aroma mit Karamell, Toffee und Trockenfrüchten. Dunkle Früchte und Gewürzanklänge. Weich, gut karbonisiert mit sauberem, subtil blutorangenem Abgang."
+}

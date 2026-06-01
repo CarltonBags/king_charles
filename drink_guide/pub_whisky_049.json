@@ -1,0 +1,58 @@
+{
+  "id": "pub_whisky_049",
+  "name": "Jim Beam Devil's Cut",
+  "category": "bourbon",
+  "subcategory": "kentucky straight bourbon",
+  "brand_or_producer": "Jim Beam",
+  "abv": 45.0,
+  "taste_profile": {
+    "primary_notes": [
+      "caramel",
+      "oak",
+      "vanilla",
+      "robust",
+      "complex"
+    ],
+    "sweetness": "medium-low",
+    "bitterness": "medium",
+    "body": "medium-full",
+    "finish": "robust, deep, oaky",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "Karamell",
+      "Eiche",
+      "Vanille",
+      "robust",
+      "komplex"
+    ]
+  },
+  "origin": "Kentucky, USA",
+  "food_pairings": [
+    "Taylors Haggis & Cracked Black Pepper",
+    "Taylors Aberdeen Angus",
+    "Taylors Fiery Pickled Onions"
+  ],
+  "tags": [
+    "bourbon",
+    "kentucky",
+    "american",
+    "premium",
+    "robust"
+  ],
+  "notes": "The liquid extracted from the barrel wood is blended with extra-aged Kentucky straight bourbon whiskey and bottled at 90 proof. Premium bourbon with extra depth and complexity. Robust flavour with deep colour, aroma and character.",
+  "metadata": {
+    "source_page": 9,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bourbon",
+  "subcategory_de": "Kentucky Straight Bourbon",
+  "tags_de": [
+    "Bourbon",
+    "Kentucky",
+    "amerikanisch",
+    "Premium",
+    "robust"
+  ],
+  "notes_de": "Wir nehmen die Flüssigkeit, die wir aus unseren Fässern extrahieren, mischen sie mit extra-gereiftem Kentucky Straight Bourbon Whiskey und füllen sie mit 90 Proof ab, um einen Premium-Bourbon mit zusätzlicher Tiefe und Komplexität zu schaffen. Konzipiert, um pur oder On the Rocks genossen zu werden, hat Jim Beam Devil's Cut einen robusten Geschmack mit tiefer Farbe, Aroma und Charakter."
+}

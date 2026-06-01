@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_051",
+  "name": "Liefmans Fruitesse 0.0",
+  "category": "beer",
+  "subcategory": "non-alcoholic fruit beer",
+  "brand_or_producer": "Liefmans",
+  "abv": 0.0,
+  "taste_profile": {
+    "primary_notes": [
+      "cherry",
+      "raspberry",
+      "strawberry",
+      "blueberry",
+      "elderberry"
+    ],
+    "sweetness": "medium",
+    "bitterness": "very low",
+    "body": "light",
+    "finish": "sparkling, fruity",
+    "carbonation": "medium-high",
+    "primary_notes_de": [
+      "Kirsche",
+      "Himbeere",
+      "Erdbeere",
+      "Heidelbeere",
+      "Holunderbeere"
+    ]
+  },
+  "origin": "Oudenaarde, Belgium",
+  "food_pairings": [
+    "Taylors Aberdeen Angus",
+    "Kettle Intense Truffle and Sea Salt",
+    "Kettle Sea Salt"
+  ],
+  "tags": [
+    "alcohol-free",
+    "fruit beer",
+    "belgian",
+    "berries",
+    "sparkling"
+  ],
+  "notes": "Belgian alcohol-free fruit beer. Bright cherry red colour, red fruity intensity – cherries, raspberries, strawberries, blueberries, elderberries. Sparkling and light, best enjoyed on the rocks.",
+  "metadata": {
+    "source_page": 9,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Alkoholfreies Fruchtbier",
+  "tags_de": [
+    "alkoholfrei",
+    "Fruchtbier",
+    "belgisch",
+    "Beeren",
+    "prickelnd"
+  ],
+  "notes_de": "Belgisches, alkoholfreies Fruchtbier. Leuchtend kirschrote Farbe, rote Fruchtintensität — Kirschen, Himbeeren, Erdbeeren, Heidelbeeren und Holunderbeeren. Prickelnd und leicht, am besten On the Rocks zu genießen."
+}

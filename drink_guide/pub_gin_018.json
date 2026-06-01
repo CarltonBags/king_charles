@@ -1,0 +1,58 @@
+{
+  "id": "pub_gin_018",
+  "name": "Tanqueray Flor de Sevilla Distilled Gin",
+  "category": "gin",
+  "subcategory": "flavoured gin",
+  "brand_or_producer": "Tanqueray",
+  "abv": 41.3,
+  "taste_profile": {
+    "primary_notes": [
+      "seville orange",
+      "orange blossom",
+      "juniper",
+      "citrus",
+      "bittersweet"
+    ],
+    "sweetness": "medium",
+    "bitterness": "medium-low",
+    "body": "medium",
+    "finish": "zesty, fruity, bittersweet",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "Bitterorange",
+      "Orangenblüte",
+      "Wacholder",
+      "Zitrus",
+      "bittersüß"
+    ]
+  },
+  "origin": "London, England",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Tyrrell's Sea Salt & Cider Vinegar",
+    "Kettle Sea Salt & Balsamic Vinegar of Modena"
+  ],
+  "tags": [
+    "gin",
+    "flavoured",
+    "orange",
+    "seville",
+    "citrus"
+  ],
+  "notes": "A zesty, fruitful gin offering a bold and bittersweet taste of the sun-soaked Mediterranean. Seville oranges distilled with orange blossom and the four classic London Dry botanicals: juniper, coriander, angelica, and liquorice.",
+  "metadata": {
+    "source_page": 2,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Gin",
+  "subcategory_de": "Aromatisierter Gin",
+  "tags_de": [
+    "Gin",
+    "aromatisiert",
+    "Orange",
+    "Sevilla",
+    "Zitrus"
+  ],
+  "notes_de": "Tanqueray Flor de Sevilla Distilled Gin ist ein spritziger, fruchtiger Gin, der einen kräftigen und bittersüßen Geschmack der sonnenverwöhnten Mittelmeerregion bietet. Sevilla-Orangen werden mit Orangenblüte und den vier Botanicals unseres klassischen London Dry Gin destilliert — kieferiger Wacholder, pfeffriger Koriander, aromatische Engelwurz und süßes Lakritz — für einen ausgewogenen, fruchtigen Geschmack."
+}

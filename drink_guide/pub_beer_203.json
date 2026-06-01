@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_203",
+  "name": "Brewski I'm Monk-ish IPA",
+  "category": "beer",
+  "subcategory": "india pale ale",
+  "brand_or_producer": "Brewski",
+  "abv": 6.5,
+  "taste_profile": {
+    "primary_notes": [
+      "mango",
+      "hoppy",
+      "soft",
+      "hazy",
+      "sweet"
+    ],
+    "sweetness": "medium",
+    "bitterness": "medium-low",
+    "body": "medium",
+    "finish": "soft, fruity, hazy",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Mango",
+      "hopfig",
+      "sanft",
+      "trüb",
+      "süß"
+    ]
+  },
+  "origin": "Sweden",
+  "food_pairings": [
+    "Kettle Sweet Chilli",
+    "Kettle Jalapeño",
+    "Kettle Sweet Chilli & Sour Cream"
+  ],
+  "tags": [
+    "ipa",
+    "bottle",
+    "swedish",
+    "clearance",
+    "collaboration"
+  ],
+  "notes": "Collaboration with Monkish. Soft hoppy flavour with a touch of sweet mango and a hazy deep golden colour. Clearance item.",
+  "metadata": {
+    "source_page": 39,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "India Pale Ale",
+  "tags_de": [
+    "IPA",
+    "Flasche",
+    "schwedisch",
+    "Abverkauf",
+    "Kollaboration"
+  ],
+  "notes_de": "In Kollaboration mit Monkish gebraut. Weicher, hopfiger Geschmack mit einem Hauch von süßer Mango und einer trüben, tiefgoldenen Farbe. Abverkaufsware."
+}

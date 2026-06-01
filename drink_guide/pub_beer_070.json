@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_070",
+  "name": "Samuel Smith Yorkshire Stingo",
+  "category": "beer",
+  "subcategory": "english strong ale",
+  "brand_or_producer": "Samuel Smith",
+  "abv": 8.0,
+  "taste_profile": {
+    "primary_notes": [
+      "malt",
+      "raisins",
+      "toffee",
+      "oak",
+      "sweet"
+    ],
+    "sweetness": "medium-high",
+    "bitterness": "low",
+    "body": "medium-full",
+    "finish": "smooth, sweet",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Malz",
+      "Rosinen",
+      "Toffee",
+      "Eiche",
+      "süß"
+    ]
+  },
+  "origin": "Yorkshire, England",
+  "food_pairings": [
+    "Kettle Matured Cheddar Cheese & Red Onions",
+    "Kettle Intense Truffle and Sea Salt",
+    "Taylors Haggis & Cracked Black Pepper"
+  ],
+  "tags": [
+    "strong ale",
+    "bottle",
+    "english",
+    "oak aged",
+    "yorkshire"
+  ],
+  "notes": "Strong reddish-brown beer with notes of malt, raisins, and toffee. Oak barrel aged with smooth sweet finish.",
+  "metadata": {
+    "source_page": 12,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Englisches Starkbier",
+  "tags_de": [
+    "Starkbier",
+    "Flasche",
+    "englisch",
+    "eichenfassgereift",
+    "Yorkshire"
+  ],
+  "notes_de": "Starkes, rötlich-braunes Bier mit Noten von Malz, Rosinen und Toffee. Im Eichenfass gereift mit weichem, süßem Abgang."
+}

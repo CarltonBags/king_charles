@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_159",
+  "name": "Raspberry & Blackberry Cider",
+  "category": "cider",
+  "subcategory": "berry cider",
+  "brand_or_producer": "Unknown",
+  "abv": 4.0,
+  "taste_profile": {
+    "primary_notes": [
+      "raspberry",
+      "blackberry",
+      "ripe",
+      "sweet",
+      "berry"
+    ],
+    "sweetness": "high",
+    "bitterness": "very low",
+    "body": "medium",
+    "finish": "sweet, berry",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Himbeere",
+      "Brombeere",
+      "reif",
+      "süß",
+      "Beere"
+    ]
+  },
+  "origin": "Unknown",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Kettle Honey Barbeque",
+    "Kettle Sweet Chilli"
+  ],
+  "tags": [
+    "cider",
+    "berry",
+    "bottle",
+    "raspberry",
+    "blackberry"
+  ],
+  "notes": "Deep ruby-red coloured sweet cider tasting like ripe raspberries and blackberries.",
+  "metadata": {
+    "source_page": 25,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Cidre",
+  "subcategory_de": "Beeren-Cidre",
+  "tags_de": [
+    "Cidre",
+    "Beere",
+    "Flasche",
+    "Himbeere",
+    "Brombeere"
+  ],
+  "notes_de": "Tief rubinrot gefärbter, süßer Cidre, der nach reifen Himbeeren und Brombeeren schmeckt."
+}

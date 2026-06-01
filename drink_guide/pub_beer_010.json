@@ -1,0 +1,56 @@
+{
+  "id": "pub_beer_010",
+  "name": "Kronenbourg 1664 Blanc",
+  "category": "beer",
+  "subcategory": "witbier",
+  "brand_or_producer": "Kronenbourg",
+  "abv": 5.0,
+  "taste_profile": {
+    "primary_notes": [
+      "citrus",
+      "exotic fruit",
+      "coriander",
+      "creamy"
+    ],
+    "sweetness": "medium",
+    "bitterness": "low",
+    "body": "medium",
+    "finish": "smooth, creamy",
+    "carbonation": "medium-high",
+    "primary_notes_de": [
+      "Zitrus",
+      "exotische Frucht",
+      "Koriander",
+      "cremig"
+    ]
+  },
+  "origin": "Strasbourg, France",
+  "food_pairings": [
+    "Tyrrell's Sweet Chilli & Red Pepper",
+    "Kettle Sweet Chilli",
+    "Kettle Rosemary"
+  ],
+  "tags": [
+    "witbier",
+    "french",
+    "draft",
+    "citrus",
+    "refreshing"
+  ],
+  "notes": "French Witbier, hazy pale golden. Hints of citrus and exotic fruits, slightly sweet, refreshing citrus profile balanced by smooth bitterness from coriander and hops. Creamy and effervescent.",
+  "metadata": {
+    "source_page": 3,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Witbier",
+  "tags_de": [
+    "Witbier",
+    "französisch",
+    "vom Fass",
+    "Zitrus",
+    "erfrischend"
+  ],
+  "notes_de": "Französisches Witbier, trüb und hellgolden. Anklänge von Zitrus und exotischen Früchten, leicht süß mit erfrischendem Zitrusprofil, ausgewogen durch sanfte Bitterkeit von Koriander und Hopfen. Cremig und prickelnd."
+}

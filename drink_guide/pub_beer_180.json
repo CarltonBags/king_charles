@@ -1,0 +1,60 @@
+{
+  "id": "pub_beer_180",
+  "name": "Pornstar Martini Cider",
+  "category": "cider",
+  "subcategory": "cocktail-inspired cider",
+  "brand_or_producer": "Unknown",
+  "abv": 4.0,
+  "taste_profile": {
+    "primary_notes": [
+      "passion fruit",
+      "vanilla",
+      "sweet",
+      "tropical",
+      "cocktail"
+    ],
+    "sweetness": "medium-high",
+    "bitterness": "very low",
+    "body": "medium",
+    "finish": "sweet, vanilla, tropical",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Maracuja",
+      "Vanille",
+      "süß",
+      "tropisch",
+      "Cocktail"
+    ]
+  },
+  "origin": "Unknown",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Kettle Honey Barbeque",
+    "Kettle Sweet Chilli"
+  ],
+  "tags": [
+    "cider",
+    "flavoured",
+    "bottle",
+    "cocktail",
+    "passion fruit",
+    "vanilla"
+  ],
+  "notes": "Cocktail-inspired cider combining the flavours of passion fruit and vanilla.",
+  "metadata": {
+    "source_page": 28,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Cidre",
+  "subcategory_de": "Cocktail-Cidre",
+  "tags_de": [
+    "Cidre",
+    "aromatisiert",
+    "Flasche",
+    "Cocktail",
+    "Maracuja",
+    "Vanille"
+  ],
+  "notes_de": "Cocktail-inspirierter Cidre, der die Aromen von Maracuja und Vanille kombiniert."
+}

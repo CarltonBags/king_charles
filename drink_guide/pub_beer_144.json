@@ -1,0 +1,60 @@
+{
+  "id": "pub_beer_144",
+  "name": "Tankbusters All My Heroes Are Dead",
+  "category": "beer",
+  "subcategory": "session neipa",
+  "brand_or_producer": "Tankbusters",
+  "abv": 5.5,
+  "taste_profile": {
+    "primary_notes": [
+      "tropical",
+      "citrus",
+      "bitter",
+      "smooth",
+      "nostalgic"
+    ],
+    "sweetness": "medium-low",
+    "bitterness": "medium",
+    "body": "medium",
+    "finish": "bitter, smooth, tropical",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "tropisch",
+      "Zitrus",
+      "bitter",
+      "weich",
+      "nostalgisch"
+    ]
+  },
+  "origin": "Poland",
+  "food_pairings": [
+    "Kettle Sweet Chilli",
+    "Kettle Jalapeño",
+    "Kettle Sweet Chilli & Sour Cream"
+  ],
+  "tags": [
+    "neipa",
+    "session",
+    "can",
+    "polish",
+    "craft",
+    "citra"
+  ],
+  "notes": "A tribute to the 80's and 90's. Session version of New England DDH with a mix of Citra and Cascade hops. Nostalgic IPA — Bitter-Smooth-Tropical.",
+  "metadata": {
+    "source_page": 1,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Session NEIPA",
+  "tags_de": [
+    "NEIPA",
+    "Session",
+    "Dose",
+    "polnisch",
+    "Craft",
+    "Citra"
+  ],
+  "notes_de": "Eine Hommage an die 80er und 90er. Session-Version des New England DDH mit einer Mischung aus Citra- und Cascade-Hopfen. Nostalgisches IPA — in drei Worten: ,,Bitter-Weich-Tropisch''."
+}

@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_105",
+  "name": "Enigma Lupulin Monster",
+  "category": "beer",
+  "subcategory": "double ipa",
+  "brand_or_producer": "Enigma",
+  "abv": 7.0,
+  "taste_profile": {
+    "primary_notes": [
+      "tropical",
+      "mango",
+      "passion fruit",
+      "citrus",
+      "pine"
+    ],
+    "sweetness": "low",
+    "bitterness": "high",
+    "body": "full",
+    "finish": "creamy, hoppy, bitter",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "tropisch",
+      "Mango",
+      "Maracuja",
+      "Zitrus",
+      "Kiefer"
+    ]
+  },
+  "origin": "Belgium",
+  "food_pairings": [
+    "Kettle Sweet Chilli",
+    "Kettle Jalapeño",
+    "Tyrrell's Sweet Chilli & Red Pepper"
+  ],
+  "tags": [
+    "double ipa",
+    "bottle",
+    "belgian",
+    "hoppy",
+    "tropical"
+  ],
+  "notes": "Hoppy double IPA, deep amber gold. Tropical mango, passion fruit and citrus aroma with hint of pine and resin. Full bodied, smooth with creamy hoppy bitterness.",
+  "metadata": {
+    "source_page": 17,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Double IPA",
+  "tags_de": [
+    "Double IPA",
+    "Flasche",
+    "belgisch",
+    "hopfig",
+    "tropisch"
+  ],
+  "notes_de": "Hopfiges Double IPA, tief bernsteinfarben-gold. Tropisches Mango-, Maracuja- und Zitrus-Aroma mit einem Hauch von Kiefer und Harz. Vollmundig und weich mit cremiger, hopfiger Bitterkeit."
+}

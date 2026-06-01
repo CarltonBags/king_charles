@@ -1,0 +1,56 @@
+{
+  "id": "pub_beer_004",
+  "name": "Newcastle Brown Ale",
+  "category": "beer",
+  "subcategory": "english brown ale",
+  "brand_or_producer": "Heineken UK",
+  "abv": 4.7,
+  "taste_profile": {
+    "primary_notes": [
+      "toasted malt",
+      "caramel",
+      "toffee",
+      "nutty"
+    ],
+    "sweetness": "medium",
+    "bitterness": "low",
+    "body": "medium",
+    "finish": "smooth, roasted",
+    "carbonation": "low",
+    "primary_notes_de": [
+      "getoastetes Malz",
+      "Karamell",
+      "Toffee",
+      "nussig"
+    ]
+  },
+  "origin": "Newcastle upon Tyne, England",
+  "food_pairings": [
+    "Taylors Haggis & Cracked Black Pepper",
+    "Taylors Aberdeen Angus",
+    "Kettle Matured Cheddar Cheese & Red Onions"
+  ],
+  "tags": [
+    "brown ale",
+    "draft",
+    "english",
+    "malty",
+    "session"
+  ],
+  "notes": "Deep amber brown ale with toasted malt aroma, caramel and subtle nutty notes. Smooth toffee sweetness with gentle roasted finish. Medium bodied, soft carbonation.",
+  "metadata": {
+    "source_page": 2,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Englisches Brown Ale",
+  "tags_de": [
+    "Brown Ale",
+    "vom Fass",
+    "englisch",
+    "malzig",
+    "Session"
+  ],
+  "notes_de": "Tief bernsteinfarbenes Brown Ale mit getoastetem Malz-Aroma, Karamell und dezenten nussigen Noten. Sanfte Toffee-Süße mit angenehm röstigem Abgang. Mittlerer Körper, sanfte Kohlensäure."
+}

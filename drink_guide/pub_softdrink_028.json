@@ -1,0 +1,58 @@
+{
+  "id": "pub_softdrink_028",
+  "name": "YUNIQ Yuzu Lemonade",
+  "category": "soft_drink",
+  "subcategory": "lemonade",
+  "brand_or_producer": "YUNIQ",
+  "abv": 0.0,
+  "taste_profile": {
+    "primary_notes": [
+      "yuzu",
+      "citrus",
+      "aromatic",
+      "tangy",
+      "exotic"
+    ],
+    "sweetness": "medium",
+    "bitterness": "medium-low",
+    "body": "light",
+    "finish": "aromatic, tangy",
+    "carbonation": "medium-high",
+    "primary_notes_de": [
+      "Yuzu",
+      "Zitrus",
+      "aromatisch",
+      "spritzig-sauer",
+      "exotisch"
+    ]
+  },
+  "origin": "Germany",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Tyrrell's Sea Salt & Cider Vinegar",
+    "Kettle Sea Salt & Balsamic Vinegar of Modena"
+  ],
+  "tags": [
+    "soft drink",
+    "lemonade",
+    "yuzu",
+    "premium",
+    "exotic"
+  ],
+  "notes": "Premium yuzu lemonade. Exotic Japanese citrus with a unique aromatic and tangy flavour, refreshing and sophisticated.",
+  "metadata": {
+    "source_page": 6,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Alkoholfreies Getränk",
+  "subcategory_de": "Limonade",
+  "tags_de": [
+    "Softdrink",
+    "Limonade",
+    "Yuzu",
+    "Premium",
+    "exotisch"
+  ],
+  "notes_de": "Premium-Yuzu-Limonade. Exotische japanische Zitrusfrucht mit einem einzigartigen, aromatischen und spritzigen Geschmack, erfrischend und raffiniert."
+}

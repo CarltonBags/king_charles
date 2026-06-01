@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_059",
+  "name": "Enigma Black Fuel Quadrupel",
+  "category": "beer",
+  "subcategory": "belgian quadrupel",
+  "brand_or_producer": "Enigma",
+  "abv": 9.5,
+  "taste_profile": {
+    "primary_notes": [
+      "caramelised sugar",
+      "dark fruits",
+      "banana",
+      "malty",
+      "warming"
+    ],
+    "sweetness": "high",
+    "bitterness": "low",
+    "body": "medium",
+    "finish": "smooth, warming, sweet",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "karamellisierter Zucker",
+      "dunkle Früchte",
+      "Banane",
+      "malzig",
+      "wärmend"
+    ]
+  },
+  "origin": "Belgium",
+  "food_pairings": [
+    "Kettle Intense Truffle and Sea Salt",
+    "Kettle Matured Cheddar Cheese & Red Onions",
+    "Taylors Haggis & Cracked Black Pepper"
+  ],
+  "tags": [
+    "quadrupel",
+    "belgian",
+    "bottle",
+    "dark ale",
+    "rich"
+  ],
+  "notes": "Dark brown with ruby highlights Belgian Strong Dark Ale. Rich notes of caramelised sugar, dark fruits and hint of banana. Sweet maltiness, medium-bodied, moderately carbonated. Smooth warming, lingering malt sweet finish.",
+  "metadata": {
+    "source_page": 11,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Belgisches Quadrupel",
+  "tags_de": [
+    "Quadrupel",
+    "belgisch",
+    "Flasche",
+    "Dunkelbier",
+    "reichhaltig"
+  ],
+  "notes_de": "Dunkelbraun mit rubinroten Reflexen, belgisches starkes Dunkelbier. Reichhaltige Noten von karamellisiertem Zucker, dunklen Früchten und einem Hauch von Banane. Süße Malzigkeit, mittlerer Körper, mäßige Kohlensäure. Sanft wärmend mit anhaltendem, malzig-süßem Abgang."
+}

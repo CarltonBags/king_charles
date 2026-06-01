@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_170",
+  "name": "Raspberry Lemonade Cider",
+  "category": "cider",
+  "subcategory": "flavoured cider",
+  "brand_or_producer": "Unknown",
+  "abv": 3.4,
+  "taste_profile": {
+    "primary_notes": [
+      "raspberry",
+      "lemon",
+      "tangy",
+      "sweet",
+      "sparkling"
+    ],
+    "sweetness": "medium-high",
+    "bitterness": "low",
+    "body": "light",
+    "finish": "sweet, tangy, sparkling",
+    "carbonation": "medium-high",
+    "primary_notes_de": [
+      "Himbeere",
+      "Zitrone",
+      "spritzig-sauer",
+      "süß",
+      "prickelnd"
+    ]
+  },
+  "origin": "Unknown",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Kettle Honey Barbeque",
+    "Kettle Sweet Chilli"
+  ],
+  "tags": [
+    "cider",
+    "flavoured",
+    "bottle",
+    "raspberry",
+    "lemon"
+  ],
+  "notes": "Pink and lightly sparkling cider with sweet raspberry flavours balanced by a tangy lemon.",
+  "metadata": {
+    "source_page": 27,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Cidre",
+  "subcategory_de": "Aromatisierter Cidre",
+  "tags_de": [
+    "Cidre",
+    "aromatisiert",
+    "Flasche",
+    "Himbeere",
+    "Zitrone"
+  ],
+  "notes_de": "Rosafarbener und leicht prickelnder Cidre mit süßen Himbeeraromen, ausgewogen durch eine spritzige Zitrone."
+}

@@ -1,0 +1,56 @@
+{
+  "id": "pub_spirit_018",
+  "name": "Sourz Blackcurrant",
+  "category": "spirit",
+  "subcategory": "fruit liqueur",
+  "brand_or_producer": "Sourz",
+  "abv": 15.0,
+  "taste_profile": {
+    "primary_notes": [
+      "blackcurrant",
+      "berry",
+      "sweet",
+      "tangy"
+    ],
+    "sweetness": "high",
+    "bitterness": "very low",
+    "body": "light",
+    "finish": "sweet, tangy, berry",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "Johannisbeere",
+      "Beere",
+      "süß",
+      "spritzig-sauer"
+    ]
+  },
+  "origin": "England",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Kettle Honey Barbeque",
+    "Kettle Sweet Chilli"
+  ],
+  "tags": [
+    "liqueur",
+    "fruit",
+    "blackcurrant",
+    "shot",
+    "cocktail"
+  ],
+  "notes": "Blackcurrant flavoured liqueur. Sweet and tangy with deep berry character.",
+  "metadata": {
+    "source_page": 35,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Spirituose",
+  "subcategory_de": "Fruchtlikör",
+  "tags_de": [
+    "Likör",
+    "Frucht",
+    "Johannisbeere",
+    "Shot",
+    "Cocktail"
+  ],
+  "notes_de": "Johannisbeer-Likör. Süß und spritzig-sauer mit tiefem Beeren-Charakter."
+}

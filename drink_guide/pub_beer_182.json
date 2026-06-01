@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_182",
+  "name": "Strawberry & Lime Cider",
+  "category": "cider",
+  "subcategory": "flavoured cider",
+  "brand_or_producer": "Unknown",
+  "abv": 4.0,
+  "taste_profile": {
+    "primary_notes": [
+      "strawberry",
+      "lime",
+      "sweet",
+      "fresh",
+      "zesty"
+    ],
+    "sweetness": "medium-high",
+    "bitterness": "very low",
+    "body": "light",
+    "finish": "sweet, zesty, sparkling",
+    "carbonation": "medium-high",
+    "primary_notes_de": [
+      "Erdbeere",
+      "Limette",
+      "süß",
+      "frisch",
+      "würzig-frisch"
+    ]
+  },
+  "origin": "Unknown",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Kettle Honey Barbeque",
+    "Kettle Sweet Chilli"
+  ],
+  "tags": [
+    "cider",
+    "flavoured",
+    "bottle",
+    "strawberry",
+    "lime"
+  ],
+  "notes": "Fruity cider, sweet and fresh with a blend of strawberries and zesty limes. Lightly sparkling and smooth drinking experience.",
+  "metadata": {
+    "source_page": 29,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Cidre",
+  "subcategory_de": "Aromatisierter Cidre",
+  "tags_de": [
+    "Cidre",
+    "aromatisiert",
+    "Flasche",
+    "Erdbeere",
+    "Limette"
+  ],
+  "notes_de": "Fruchtiger Cidre, süß und frisch mit einer Mischung aus Erdbeeren und spritzigen Limetten. Leicht prickelnd und ein weiches Trinkerlebnis."
+}

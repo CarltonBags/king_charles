@@ -1,0 +1,58 @@
+{
+  "id": "pub_whisky_009",
+  "name": "Johnnie Walker Black Label",
+  "category": "whisky",
+  "subcategory": "blended scotch",
+  "brand_or_producer": "Johnnie Walker",
+  "abv": 40.0,
+  "taste_profile": {
+    "primary_notes": [
+      "rich",
+      "smooth",
+      "smoky",
+      "fruity",
+      "vanilla"
+    ],
+    "sweetness": "medium",
+    "bitterness": "low",
+    "body": "medium",
+    "finish": "smooth, rich, complex",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "reichhaltig",
+      "weich",
+      "rauchig",
+      "fruchtig",
+      "Vanille"
+    ]
+  },
+  "origin": "Scotland",
+  "food_pairings": [
+    "Taylors Haggis & Cracked Black Pepper",
+    "Taylors Aberdeen Angus",
+    "Taylors Fiery Pickled Onions"
+  ],
+  "tags": [
+    "scotch",
+    "blended",
+    "classic",
+    "smooth",
+    "complex"
+  ],
+  "notes": "Blended to perfection using single malt and grain whiskies from more than 29 distilleries, spending 12 years in a cask growing into a vibrant body of flavour. Rich, smooth and complex.",
+  "metadata": {
+    "source_page": 2,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Whisky",
+  "subcategory_de": "Blended Scotch",
+  "tags_de": [
+    "Scotch",
+    "Blended",
+    "klassisch",
+    "weich",
+    "komplex"
+  ],
+  "notes_de": "Perfekt geblendet ist Johnnie Walker Black Label ein reichhaltiger, weicher Scotch Whisky, der ausschließlich aus Single-Malt- und Grain-Whiskys von mehr als 29 Brennereien hergestellt wird, die zwölf Jahre im Fass zu einem lebendigen Geschmackskörper heranreifen."
+}

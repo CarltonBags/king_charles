@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_187",
+  "name": "Somersby Mango & Lime",
+  "category": "cider",
+  "subcategory": "fruit cider",
+  "brand_or_producer": "Somersby",
+  "abv": 4.5,
+  "taste_profile": {
+    "primary_notes": [
+      "mango",
+      "lime",
+      "sweet",
+      "tart",
+      "tropical"
+    ],
+    "sweetness": "medium-high",
+    "bitterness": "medium-low",
+    "body": "light-medium",
+    "finish": "refreshing, tropical",
+    "carbonation": "medium-high",
+    "primary_notes_de": [
+      "Mango",
+      "Limette",
+      "süß",
+      "herb",
+      "tropisch"
+    ]
+  },
+  "origin": "Denmark",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Kettle Honey Barbeque",
+    "Kettle Sweet Chilli"
+  ],
+  "tags": [
+    "cider",
+    "can",
+    "danish",
+    "mango",
+    "lime"
+  ],
+  "notes": "Refreshingly fruity cider with the taste of juicy-sweet mango and sparkling, slightly tart lime. Intense mango aromas with a hint of lime. Balanced between sweet and tart notes, long-lasting and refreshing.",
+  "metadata": {
+    "source_page": 30,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Cidre",
+  "subcategory_de": "Frucht-Cidre",
+  "tags_de": [
+    "Cidre",
+    "Dose",
+    "dänisch",
+    "Mango",
+    "Limette"
+  ],
+  "notes_de": "Erfrischend fruchtiger Cidre mit dem Geschmack von saftig-süßer Mango und prickelnder, leicht herber Limette. Intensive Mango-Aromen mit einem Hauch von Limette. Ausgewogen zwischen süßen und herben Noten. Lang anhaltender und erfrischender Geschmack."
+}

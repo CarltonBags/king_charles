@@ -1,0 +1,56 @@
+{
+  "id": "pub_beer_226",
+  "name": "Sierra Nevada Trail Pass Golden",
+  "category": "beer",
+  "subcategory": "non-alcoholic golden ale",
+  "brand_or_producer": "Sierra Nevada",
+  "abv": 0.5,
+  "taste_profile": {
+    "primary_notes": [
+      "floral",
+      "citrus",
+      "honey",
+      "malt",
+      "smooth"
+    ],
+    "sweetness": "medium",
+    "bitterness": "low",
+    "body": "light",
+    "finish": "clean, smooth, refreshing",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "blumig",
+      "Zitrus",
+      "Honig",
+      "Malz",
+      "weich"
+    ]
+  },
+  "origin": "California, USA",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Kettle Sea Salt & Balsamic Vinegar of Modena",
+    "Kettle Sea Salt & Black Pepper"
+  ],
+  "tags": [
+    "alcohol-free",
+    "can",
+    "american",
+    "clearance"
+  ],
+  "notes": "Bright and clear golden ale. Gentle floral hop aroma with hints of citrus and honeyed malts. Balanced sweetness from pale malts, delicate citrus fruitiness and mild hop bitterness. Clean, smooth and easy drinking. Clearance item.",
+  "metadata": {
+    "source_page": 43,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Alkoholfreies Golden Ale",
+  "tags_de": [
+    "alkoholfrei",
+    "Dose",
+    "amerikanisch",
+    "Abverkauf"
+  ],
+  "notes_de": "Helles und klares, goldenes Ale. Sanftes, blumiges Hopfenaroma mit Anklängen von Zitrus und honigartigem Malz. Ausgewogene Süße von hellem Malz, dezente Zitrusfruchtigkeit und milde Hopfenbitterkeit. Sauber, knackig und süffig. Abverkaufsware."
+}

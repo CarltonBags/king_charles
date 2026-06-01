@@ -1,0 +1,58 @@
+{
+  "id": "pub_softdrink_011",
+  "name": "Fevertree Ginger Beer",
+  "category": "soft_drink",
+  "subcategory": "ginger beer",
+  "brand_or_producer": "Fever-Tree",
+  "abv": 0.0,
+  "taste_profile": {
+    "primary_notes": [
+      "ginger",
+      "spicy",
+      "warming",
+      "sweet",
+      "zesty"
+    ],
+    "sweetness": "medium",
+    "bitterness": "medium",
+    "body": "light-medium",
+    "finish": "spicy, warming",
+    "carbonation": "high",
+    "primary_notes_de": [
+      "Ingwer",
+      "würzig",
+      "wärmend",
+      "süß",
+      "würzig-frisch"
+    ]
+  },
+  "origin": "England",
+  "food_pairings": [
+    "Kettle Sweet Chilli",
+    "Kettle Jalapeño",
+    "Kettle Sweet Chilli & Sour Cream"
+  ],
+  "tags": [
+    "soft drink",
+    "ginger beer",
+    "premium",
+    "spicy",
+    "mixer"
+  ],
+  "notes": "Premium ginger beer made with a blend of three gingers from Nigeria, Cochin and the Ivory Coast. Spicy, warming and refreshing.",
+  "metadata": {
+    "source_page": 6,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Alkoholfreies Getränk",
+  "subcategory_de": "Ginger Beer",
+  "tags_de": [
+    "Softdrink",
+    "Ginger Beer",
+    "Premium",
+    "würzig",
+    "Mixer"
+  ],
+  "notes_de": "Premium Ginger Beer, hergestellt aus einer Mischung von drei Ingwersorten aus Nigeria, Cochin und der Elfenbeinküste. Würzig, wärmend und erfrischend."
+}

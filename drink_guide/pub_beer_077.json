@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_077",
+  "name": "Innis & Gunn The Original",
+  "category": "beer",
+  "subcategory": "wood-aged golden ale",
+  "brand_or_producer": "Innis & Gunn",
+  "abv": 6.6,
+  "taste_profile": {
+    "primary_notes": [
+      "vanilla",
+      "toffee",
+      "oak",
+      "whisky",
+      "biscuity"
+    ],
+    "sweetness": "medium-high",
+    "bitterness": "low",
+    "body": "medium",
+    "finish": "mellow, sweet, oaky",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Vanille",
+      "Toffee",
+      "Eiche",
+      "Whisky",
+      "keksig"
+    ]
+  },
+  "origin": "Edinburgh, Scotland",
+  "food_pairings": [
+    "Kettle Matured Cheddar Cheese & Red Onions",
+    "Kettle Intense Truffle and Sea Salt",
+    "Taylors Haggis & Cracked Black Pepper"
+  ],
+  "tags": [
+    "golden ale",
+    "bottle",
+    "scottish",
+    "oak aged",
+    "vanilla"
+  ],
+  "notes": "Wood-aged Golden Ale, clear amber. Rich notes of vanilla, toffee and subtle hints of oak and whisky. Smooth balanced biscuity maltiness with vanilla, toffee and oak. Mellow character, lingering sweet finish.",
+  "metadata": {
+    "source_page": 13,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Holzfassgereiftes Golden Ale",
+  "tags_de": [
+    "Golden Ale",
+    "Flasche",
+    "schottisch",
+    "eichenfassgereift",
+    "Vanille"
+  ],
+  "notes_de": "Holzfassgereiftes Golden Ale, klares Bernstein. Reichhaltige Noten von Vanille, Toffee und dezenten Eichen- und Whisky-Anklängen. Weicher, ausgewogener, keksiger Malzgeschmack mit Vanille, Toffee und Eiche. Sanfter Charakter mit anhaltendem, süßem Abgang."
+}

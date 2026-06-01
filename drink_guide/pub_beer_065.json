@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_065",
+  "name": "Wychwood Hobgoblin Ruby",
+  "category": "beer",
+  "subcategory": "english amber ale",
+  "brand_or_producer": "Wychwood",
+  "abv": 5.0,
+  "taste_profile": {
+    "primary_notes": [
+      "toffee",
+      "chocolate",
+      "lemon",
+      "dried fruit",
+      "smooth"
+    ],
+    "sweetness": "medium",
+    "bitterness": "medium",
+    "body": "medium",
+    "finish": "smooth, moderate bitter",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Toffee",
+      "Schokolade",
+      "Zitrone",
+      "Trockenfrucht",
+      "weich"
+    ]
+  },
+  "origin": "Oxfordshire, England",
+  "food_pairings": [
+    "Kettle Matured Cheddar Cheese & Red Onions",
+    "Taylors Haggis & Cracked Black Pepper",
+    "Ültje Studentenfutter"
+  ],
+  "tags": [
+    "amber ale",
+    "bottle",
+    "english",
+    "malty",
+    "smooth"
+  ],
+  "notes": "Very smooth initial taste with toffee, chocolate, and subtle fruity lemon notes. Dried fruit aromas, moderate bitterness finish.",
+  "metadata": {
+    "source_page": 12,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Englisches Amber Ale",
+  "tags_de": [
+    "Amber Ale",
+    "Flasche",
+    "englisch",
+    "malzig",
+    "weich"
+  ],
+  "notes_de": "Sehr weicher Antrunk mit Toffee, Schokolade und dezenten fruchtigen Zitronennoten. Trockenfruchtaromen mit moderatem, bitterem Abgang."
+}

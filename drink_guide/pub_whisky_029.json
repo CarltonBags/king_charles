@@ -1,0 +1,58 @@
+{
+  "id": "pub_whisky_029",
+  "name": "Mortlach 12 Year Old",
+  "category": "whisky",
+  "subcategory": "speyside single malt",
+  "brand_or_producer": "Mortlach",
+  "abv": 43.4,
+  "taste_profile": {
+    "primary_notes": [
+      "rich",
+      "robust",
+      "oak",
+      "spicy",
+      "meaty"
+    ],
+    "sweetness": "medium",
+    "bitterness": "medium",
+    "body": "full",
+    "finish": "rich, robust, oaky",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "reichhaltig",
+      "robust",
+      "Eiche",
+      "würzig",
+      "fleischig"
+    ]
+  },
+  "origin": "Speyside, Scotland",
+  "food_pairings": [
+    "Taylors Haggis & Cracked Black Pepper",
+    "Taylors Aberdeen Angus",
+    "Taylors Fiery Pickled Onions"
+  ],
+  "tags": [
+    "scotch",
+    "speyside",
+    "single malt",
+    "rich",
+    "double cask"
+  ],
+  "notes": "An ode to the 'Wee Witchie', Mortlach's smallest yet most essential still. Double cask matured in both European and American oak to enhance the distinctively rich and robust character that makes Mortlach whiskies legendary.",
+  "metadata": {
+    "source_page": 2,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Whisky",
+  "subcategory_de": "Speyside Single Malt",
+  "tags_de": [
+    "Scotch",
+    "Speyside",
+    "Single Malt",
+    "reichhaltig",
+    "Double Cask"
+  ],
+  "notes_de": "Eine Ode an unsere kleinste, aber wichtigste Brennanlage, die ,,Wee Witchie''. Dieser zwölf Jahre alte Single Malt Scotch Whisky wurde doppelfassgereift — sowohl in europäischer als auch amerikanischer Eiche — um den unverwechselbar reichen und robusten Charakter zu verstärken, der Mortlach-Whiskys legendär macht."
+}

@@ -1,0 +1,56 @@
+{
+  "id": "pub_beer_108",
+  "name": "Corona Extra",
+  "category": "beer",
+  "subcategory": "mexican lager",
+  "brand_or_producer": "Grupo Modelo",
+  "abv": 4.6,
+  "taste_profile": {
+    "primary_notes": [
+      "cereal",
+      "malt",
+      "crisp",
+      "clean"
+    ],
+    "sweetness": "medium-low",
+    "bitterness": "low",
+    "body": "light",
+    "finish": "crisp, clean",
+    "carbonation": "medium-high",
+    "primary_notes_de": [
+      "Getreide",
+      "Malz",
+      "spritzig",
+      "sauber"
+    ]
+  },
+  "origin": "Mexico City, Mexico",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Kettle Jalapeño",
+    "Kettle Paprika & Roasted Onion"
+  ],
+  "tags": [
+    "lager",
+    "bottle",
+    "mexican",
+    "crisp",
+    "refreshing"
+  ],
+  "notes": "Pale Mexican lager, straw yellow. Light malt sweetness with subtle cereal notes. Crisp clean slightly sweet with gentle hop bitterness. Light bodied, easy to drink.",
+  "metadata": {
+    "source_page": 18,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Mexikanisches Lager",
+  "tags_de": [
+    "Lager",
+    "Flasche",
+    "mexikanisch",
+    "spritzig",
+    "erfrischend"
+  ],
+  "notes_de": "Helles, mexikanisches Lager, strohgelb. Leichte Malzsüße mit dezenten Getreidenoten. Knackig und sauber, leicht süß mit sanfter Hopfenbitterkeit. Leichter Körper, süffig."
+}

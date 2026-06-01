@@ -1,0 +1,60 @@
+{
+  "id": "pub_beer_151",
+  "name": "Tankbusters Musashi's Legacy",
+  "category": "beer",
+  "subcategory": "japanese ipa",
+  "brand_or_producer": "Tankbusters",
+  "abv": 5.0,
+  "taste_profile": {
+    "primary_notes": [
+      "citrus",
+      "pineapple",
+      "floral",
+      "balanced",
+      "refined"
+    ],
+    "sweetness": "medium",
+    "bitterness": "medium",
+    "body": "medium",
+    "finish": "harmonious, refined",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Zitrus",
+      "Ananas",
+      "blumig",
+      "ausgewogen",
+      "raffiniert"
+    ]
+  },
+  "origin": "Poland",
+  "food_pairings": [
+    "Kettle Sweet Chilli",
+    "Kettle Jalapeño",
+    "Kettle Sweet Chilli & Sour Cream"
+  ],
+  "tags": [
+    "ipa",
+    "ddh",
+    "can",
+    "polish",
+    "japanese",
+    "craft"
+  ],
+  "notes": "DDH Japanese IPA combining modern brewing techniques with Japanese precision. Double dry-hopped for rich aroma of citrus, pineapple and subtle floral notes. Light golden, intense yet balanced bitterness with fruity sweetness. Harmonious — bold yet refined.",
+  "metadata": {
+    "source_page": 1,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Japanisches IPA",
+  "tags_de": [
+    "IPA",
+    "DDH",
+    "Dose",
+    "polnisch",
+    "japanisch",
+    "Craft"
+  ],
+  "notes_de": "DDH Japanese IPA, das moderne Brautechniken mit japanischer Präzision kombiniert. Doppelt trockengehopft für ein reiches Aroma von Zitrus, Ananas und dezenten, blumigen Noten. Helles Gold mit intensiver, aber ausgewogener Bitterkeit, die perfekt mit der fruchtigen Süße harmoniert. Ein IPA, das kräftigen, modernen Charakter mit Finesse und Subtilität verbindet."
+}

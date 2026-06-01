@@ -1,0 +1,58 @@
+{
+  "id": "pub_gin_021",
+  "name": "Whitley Neil London Dry Gin",
+  "category": "gin",
+  "subcategory": "london dry gin",
+  "brand_or_producer": "Whitley Neill",
+  "abv": 42.0,
+  "taste_profile": {
+    "primary_notes": [
+      "juniper",
+      "citrus",
+      "spicy",
+      "herbal",
+      "cocoa"
+    ],
+    "sweetness": "medium-low",
+    "bitterness": "medium-low",
+    "body": "medium",
+    "finish": "long, herbal, cocoa",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "Wacholder",
+      "Zitrus",
+      "würzig",
+      "kräuterig",
+      "Kakao"
+    ]
+  },
+  "origin": "England",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Tyrrell's Sea Salt & Cider Vinegar",
+    "Kettle Sea Salt & Balsamic Vinegar of Modena"
+  ],
+  "tags": [
+    "gin",
+    "london dry",
+    "smooth",
+    "exotic",
+    "spiced"
+  ],
+  "notes": "Slightly softer and much smoother than traditional gins, with rich notes of juniper and citrus, pot-pourri and exotic spices. Long finish with subtle fade of herbs, cocoa and candied lemon peels.",
+  "metadata": {
+    "source_page": 2,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Gin",
+  "subcategory_de": "London Dry Gin",
+  "tags_de": [
+    "Gin",
+    "London Dry",
+    "weich",
+    "exotisch",
+    "gewürzt"
+  ],
+  "notes_de": "Whitley Neill Gin ist etwas weicher und viel sanfter als traditionelle Gins, mit reichen Noten von Wacholder und Zitrus, Potpourri und exotischen Gewürzen. Der Abgang ist lang mit einem subtilen Nachklang von Kräutern, Kakao und kandierten Zitronenschalen, während die Nase sowohl zitrus-süß als auch pfeffrig ist, mit einem unverwechselbaren blumigen Aroma."
+}

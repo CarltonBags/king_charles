@@ -1,0 +1,56 @@
+{
+  "id": "pub_beer_018",
+  "name": "Borsigplatz Style Export",
+  "category": "beer",
+  "subcategory": "dortmunder export",
+  "brand_or_producer": "Borsigplatz",
+  "abv": 5.6,
+  "taste_profile": {
+    "primary_notes": [
+      "malt",
+      "grain",
+      "floral",
+      "crisp"
+    ],
+    "sweetness": "medium-low",
+    "bitterness": "medium",
+    "body": "medium",
+    "finish": "crisp, dry",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Malz",
+      "Getreide",
+      "blumig",
+      "spritzig"
+    ]
+  },
+  "origin": "Dortmund, Germany",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Kettle Sweet Chilli",
+    "Kettle Paprika & Roasted Onion"
+  ],
+  "tags": [
+    "export",
+    "draft",
+    "german",
+    "dortmunder",
+    "malty"
+  ],
+  "notes": "Dortmunder Export, clear golden amber. Light malt sweet aroma with subtle grain and floral notes. Balanced malt sweet flavour, crisp dry finish with slight lingering hop bitterness.",
+  "metadata": {
+    "source_page": 4,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Dortmunder Export",
+  "tags_de": [
+    "Export",
+    "vom Fass",
+    "deutsch",
+    "Dortmunder",
+    "malzig"
+  ],
+  "notes_de": "Dortmunder Export, klares Gold-Bernstein. Leichtes, malzig-süßes Aroma mit dezentem Getreide und blumigen Noten. Ausgewogener, malzig-süßer Geschmack, knackiger, trockener Abgang mit leichter, anhaltender Hopfenbitterkeit."
+}

@@ -1,0 +1,58 @@
+{
+  "id": "pub_spirit_006",
+  "name": "BVB Bömsken Haselnuss",
+  "category": "spirit",
+  "subcategory": "hazelnut liqueur",
+  "brand_or_producer": "BVB Bömsken",
+  "abv": 20.0,
+  "taste_profile": {
+    "primary_notes": [
+      "hazelnut",
+      "nutty",
+      "sweet",
+      "smooth",
+      "roasted"
+    ],
+    "sweetness": "high",
+    "bitterness": "very low",
+    "body": "medium",
+    "finish": "sweet, nutty, smooth",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "Haselnuss",
+      "nussig",
+      "süß",
+      "weich",
+      "geröstet"
+    ]
+  },
+  "origin": "Germany",
+  "food_pairings": [
+    "Ültje Studentenfutter",
+    "Ültje Erdnüsse Gesalzen",
+    "Taylors Chip Shop Curry Sauce"
+  ],
+  "tags": [
+    "liqueur",
+    "german",
+    "hazelnut",
+    "sweet",
+    "shot"
+  ],
+  "notes": "German hazelnut liqueur. Sweet, nutty and smooth with rich roasted hazelnut flavour.",
+  "metadata": {
+    "source_page": 35,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Spirituose",
+  "subcategory_de": "Haselnusslikör",
+  "tags_de": [
+    "Likör",
+    "deutsch",
+    "Haselnuss",
+    "süß",
+    "Shot"
+  ],
+  "notes_de": "Deutscher Haselnusslikör. Süß, nussig und weich mit reichem, geröstetem Haselnussgeschmack."
+}

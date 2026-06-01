@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_020",
+  "name": "Grimbergen Double Ambrée",
+  "category": "beer",
+  "subcategory": "belgian dubbel",
+  "brand_or_producer": "Grimbergen",
+  "abv": 6.5,
+  "taste_profile": {
+    "primary_notes": [
+      "caramel",
+      "toasted bread",
+      "dried fruits",
+      "spice",
+      "dark fruits"
+    ],
+    "sweetness": "medium-high",
+    "bitterness": "low",
+    "body": "medium-full",
+    "finish": "warm, malty, dry",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Karamell",
+      "Toastbrot",
+      "Trockenfrüchte",
+      "Gewürz",
+      "dunkle Früchte"
+    ]
+  },
+  "origin": "Grimbergen, Belgium",
+  "food_pairings": [
+    "Kettle Matured Cheddar Cheese & Red Onions",
+    "Kettle Intense Truffle and Sea Salt",
+    "Taylors Haggis & Cracked Black Pepper"
+  ],
+  "tags": [
+    "dubbel",
+    "belgian",
+    "draft",
+    "malty",
+    "rich"
+  ],
+  "notes": "Belgian Dubbel, deep amber with reddish highlights. Caramel and toasted bread aroma with dried fruits and light spice. Rich malty sweet, notes of caramel and dark fruits, mild hop bitterness. Warm, malty subtle dry finish.",
+  "metadata": {
+    "source_page": 5,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Belgisches Dubbel",
+  "tags_de": [
+    "Dubbel",
+    "belgisch",
+    "vom Fass",
+    "malzig",
+    "reichhaltig"
+  ],
+  "notes_de": "Belgisches Dubbel, tief bernsteinfarben mit rötlichen Reflexen. Karamell- und Toastbrot-Aroma mit Trockenfrüchten und leichter Würze. Reichhaltig malzig-süß mit Noten von Karamell und dunklen Früchten sowie milder Hopfenbitterkeit. Warmer, malziger, subtil trockener Abgang."
+}

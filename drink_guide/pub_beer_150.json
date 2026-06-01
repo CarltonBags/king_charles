@@ -1,0 +1,60 @@
+{
+  "id": "pub_beer_150",
+  "name": "Tankbusters The Crown Is Mine",
+  "category": "beer",
+  "subcategory": "india pale ale",
+  "brand_or_producer": "Tankbusters",
+  "abv": 5.8,
+  "taste_profile": {
+    "primary_notes": [
+      "citra",
+      "citrus",
+      "hoppy",
+      "intense",
+      "bright"
+    ],
+    "sweetness": "low",
+    "bitterness": "medium-high",
+    "body": "medium",
+    "finish": "hoppy, citrus",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Citra",
+      "Zitrus",
+      "hopfig",
+      "intensiv",
+      "leuchtend"
+    ]
+  },
+  "origin": "Poland",
+  "food_pairings": [
+    "Kettle Sweet Chilli",
+    "Kettle Jalapeño",
+    "Kettle Sweet Chilli & Sour Cream"
+  ],
+  "tags": [
+    "ipa",
+    "can",
+    "polish",
+    "citra",
+    "craft",
+    "hoppy"
+  ],
+  "notes": "IPA showcasing three forms of Citra hops: Citra Lupomax, Citra BBC, and Citra Spectrum. An intense celebration of the Citra hop.",
+  "metadata": {
+    "source_page": 1,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "India Pale Ale",
+  "tags_de": [
+    "IPA",
+    "Dose",
+    "polnisch",
+    "Citra",
+    "Craft",
+    "hopfig"
+  ],
+  "notes_de": "Ein IPA, das drei Formen des Citra-Hopfens präsentiert: Citra Lupomax, Citra BBC und Citra Spectrum. Eine intensive Feier des Citra-Hopfens."
+}

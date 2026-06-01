@@ -1,0 +1,56 @@
+{
+  "id": "pub_beer_037",
+  "name": "Kehrwieder Miami Groove Juicy Pale Ale",
+  "category": "beer",
+  "subcategory": "non-alcoholic pale ale",
+  "brand_or_producer": "Kehrwieder",
+  "abv": 0.4,
+  "taste_profile": {
+    "primary_notes": [
+      "pineapple",
+      "coconut",
+      "grapefruit",
+      "tropical"
+    ],
+    "sweetness": "medium",
+    "bitterness": "low",
+    "body": "medium",
+    "finish": "tropical, juicy",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Ananas",
+      "Kokosnuss",
+      "Grapefruit",
+      "tropisch"
+    ]
+  },
+  "origin": "Hamburg, Germany",
+  "food_pairings": [
+    "Kettle Sweet Chilli",
+    "Kettle Sea Salt",
+    "Kettle Honey Barbeque"
+  ],
+  "tags": [
+    "alcohol-free",
+    "pale ale",
+    "german",
+    "tropical",
+    "juicy"
+  ],
+  "notes": "Alcohol-free Juicy Pale Ale inspired by Miami. Tastes like piña colada – pineapple meets coconut with a hint of pink grapefruit.",
+  "metadata": {
+    "source_page": 7,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Alkoholfreies Pale Ale",
+  "tags_de": [
+    "alkoholfrei",
+    "Pale Ale",
+    "deutsch",
+    "tropisch",
+    "saftig"
+  ],
+  "notes_de": "Alkoholfreies Juicy Pale Ale, inspiriert von Miami. Schmeckt nach Piña Colada — Ananas trifft auf Kokosnuss mit einem Hauch von rosa Grapefruit."
+}

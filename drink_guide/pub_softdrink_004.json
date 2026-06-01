@@ -1,0 +1,56 @@
+{
+  "id": "pub_softdrink_004",
+  "name": "Bluna Zitrone",
+  "category": "soft_drink",
+  "subcategory": "lemon soda",
+  "brand_or_producer": "Bluna",
+  "abv": 0.0,
+  "taste_profile": {
+    "primary_notes": [
+      "lemon",
+      "zesty",
+      "sweet",
+      "citrus",
+      "refreshing"
+    ],
+    "sweetness": "medium",
+    "bitterness": "low",
+    "body": "light",
+    "finish": "crisp, zesty",
+    "carbonation": "high",
+    "primary_notes_de": [
+      "Zitrone",
+      "würzig-frisch",
+      "süß",
+      "Zitrus",
+      "erfrischend"
+    ]
+  },
+  "origin": "Germany",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Tyrrell's Sea Salt & Cider Vinegar",
+    "Kettle Sea Salt & Balsamic Vinegar of Modena"
+  ],
+  "tags": [
+    "soft drink",
+    "lemon",
+    "german",
+    "citrus"
+  ],
+  "notes": "Classic German lemon-flavoured carbonated soft drink, crisp and zesty.",
+  "metadata": {
+    "source_page": 6,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Alkoholfreies Getränk",
+  "subcategory_de": "Zitronenlimonade",
+  "tags_de": [
+    "Softdrink",
+    "Zitrone",
+    "deutsch",
+    "Zitrus"
+  ],
+  "notes_de": "Klassische deutsche Zitronenlimonade, knackig und spritzig."
+}

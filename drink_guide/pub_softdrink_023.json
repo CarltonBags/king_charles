@@ -1,0 +1,58 @@
+{
+  "id": "pub_softdrink_023",
+  "name": "Möller Banane Saft",
+  "category": "soft_drink",
+  "subcategory": "banana juice",
+  "brand_or_producer": "Möller",
+  "abv": 0.0,
+  "taste_profile": {
+    "primary_notes": [
+      "banana",
+      "creamy",
+      "sweet",
+      "rich",
+      "natural"
+    ],
+    "sweetness": "high",
+    "bitterness": "very low",
+    "body": "medium-full",
+    "finish": "sweet, creamy",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "Banane",
+      "cremig",
+      "süß",
+      "reichhaltig",
+      "natürlich"
+    ]
+  },
+  "origin": "Germany",
+  "food_pairings": [
+    "Ültje Studentenfutter",
+    "Ültje Erdnüsse Gesalzen",
+    "Taylors Chip Shop Curry Sauce"
+  ],
+  "tags": [
+    "soft drink",
+    "juice",
+    "banana",
+    "german",
+    "natural"
+  ],
+  "notes": "Pure banana juice. Rich, creamy and naturally sweet with authentic banana flavour.",
+  "metadata": {
+    "source_page": 6,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Alkoholfreies Getränk",
+  "subcategory_de": "Bananensaft",
+  "tags_de": [
+    "Softdrink",
+    "Saft",
+    "Banane",
+    "deutsch",
+    "natürlich"
+  ],
+  "notes_de": "Reiner Bananensaft. Reichhaltig, cremig und natürlich süß mit authentischem Bananengeschmack."
+}

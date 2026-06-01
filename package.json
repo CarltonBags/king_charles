@@ -1,0 +1,18 @@
+{
+  "name": "king_charles",
+  "version": "1.0.0",
+  "description": "We are building a drink guide for an english pub. you need to look into the folder menu_files and check the menu files. Convert each drink in there into a single .json file with the proposed structure from the json-schema below. create a new folder for that. the food pairings must only contain snacks from the menu that are available to be served alongside.",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.106.2",
+    "dotenv": "^17.4.2",
+    "openai": "^6.40.0",
+    "supabase": "^2.103.0"
+  }
+}

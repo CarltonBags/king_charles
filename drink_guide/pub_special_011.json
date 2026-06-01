@@ -1,0 +1,58 @@
+{
+  "id": "pub_special_011",
+  "name": "Cement Mixer",
+  "category": "special",
+  "subcategory": "curdled shot",
+  "brand_or_producer": "House",
+  "abv": 15.0,
+  "taste_profile": {
+    "primary_notes": [
+      "cream",
+      "lime",
+      "tart",
+      "curdled",
+      "unique"
+    ],
+    "sweetness": "medium",
+    "bitterness": "high",
+    "body": "medium",
+    "finish": "tart, textured, unusual",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "Sahne",
+      "Limette",
+      "herb",
+      "geronnen",
+      "einzigartig"
+    ]
+  },
+  "origin": "Pub Classic",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Tyrrell's Sea Salt & Cider Vinegar",
+    "Kettle Sea Salt & Balsamic Vinegar of Modena"
+  ],
+  "tags": [
+    "shot",
+    "baileys",
+    "lime",
+    "novelty",
+    "pub classic"
+  ],
+  "notes": "Bailey's and Lime Juice. The lime curdles the cream — a novelty shot with a unique texture.",
+  "metadata": {
+    "source_page": 36,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Spezialgetränk",
+  "subcategory_de": "Gerinnungs-Shot",
+  "tags_de": [
+    "Shot",
+    "Baileys",
+    "Limette",
+    "Novelty",
+    "Pub-Klassiker"
+  ],
+  "notes_de": "Baileys und Limettensaft. Die Limette lässt die Sahne gerinnen — ein Novelty-Shot mit einzigartiger Textur."
+}

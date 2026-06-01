@@ -1,0 +1,58 @@
+{
+  "id": "pub_gin_011",
+  "name": "Gordon's Dry",
+  "category": "gin",
+  "subcategory": "london dry gin",
+  "brand_or_producer": "Gordon's",
+  "abv": 37.5,
+  "taste_profile": {
+    "primary_notes": [
+      "juniper",
+      "citrus",
+      "classic",
+      "dry",
+      "crisp"
+    ],
+    "sweetness": "low",
+    "bitterness": "medium",
+    "body": "medium",
+    "finish": "dry, crisp",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "Wacholder",
+      "Zitrus",
+      "klassisch",
+      "trocken",
+      "spritzig"
+    ]
+  },
+  "origin": "London, England",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Tyrrell's Sea Salt & Cider Vinegar",
+    "Kettle Sea Salt & Balsamic Vinegar of Modena"
+  ],
+  "tags": [
+    "gin",
+    "london dry",
+    "classic",
+    "export",
+    "traditional"
+  ],
+  "notes": "Award-winning classic London Dry gin. First bottled in the early 1900s with its distinctive export label still used today.",
+  "metadata": {
+    "source_page": 2,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Gin",
+  "subcategory_de": "London Dry Gin",
+  "tags_de": [
+    "Gin",
+    "London Dry",
+    "klassisch",
+    "Export",
+    "traditionell"
+  ],
+  "notes_de": "Derselbe preisgekrönte Gin wie in der klassischen grünen Gordon's-Flasche. Nicht lange nachdem wir Anfang des 20. Jahrhunderts mit der Abfüllung begannen, erhielten wir unsere erste große Bestellung von Gordon's, die nach Australien verschickt werden sollte. Zu diesem Anlass entwarfen wir ein neues Exportetikett, das wir noch heute verwenden."
+}

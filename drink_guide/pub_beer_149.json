@@ -1,0 +1,60 @@
+{
+  "id": "pub_beer_149",
+  "name": "Tankbusters Introduction Vol. 2 Canadian IPA",
+  "category": "beer",
+  "subcategory": "india pale ale",
+  "brand_or_producer": "Tankbusters",
+  "abv": 5.6,
+  "taste_profile": {
+    "primary_notes": [
+      "mandarin",
+      "pineapple",
+      "peach",
+      "fruity",
+      "balanced"
+    ],
+    "sweetness": "medium",
+    "bitterness": "medium",
+    "body": "medium",
+    "finish": "fruity, balanced bitter",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Mandarine",
+      "Ananas",
+      "Pfirsich",
+      "fruchtig",
+      "ausgewogen"
+    ]
+  },
+  "origin": "Poland",
+  "food_pairings": [
+    "Kettle Sweet Chilli",
+    "Kettle Jalapeño",
+    "Kettle Sweet Chilli & Sour Cream"
+  ],
+  "tags": [
+    "ipa",
+    "can",
+    "polish",
+    "canadian",
+    "fruity",
+    "craft"
+  ],
+  "notes": "Top-fermented IPA combining classic IPA features with a unique Canadian twist. Dominated by fruity notes of mandarin, pineapple and peach, balanced with a distinct but pleasant bitterness.",
+  "metadata": {
+    "source_page": 1,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "India Pale Ale",
+  "tags_de": [
+    "IPA",
+    "Dose",
+    "polnisch",
+    "kanadisch",
+    "fruchtig",
+    "Craft"
+  ],
+  "notes_de": "Obergäriges IPA, das klassische IPA-Merkmale mit einem einzigartigen kanadischen Twist kombiniert. Der Geschmack wird von fruchtigen Noten dominiert — Mandarine, Ananas und Pfirsich — die perfekt mit einer deutlichen, aber angenehmen Bitterkeit harmonieren."
+}

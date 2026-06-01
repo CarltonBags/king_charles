@@ -1,0 +1,58 @@
+{
+  "id": "pub_gin_009",
+  "name": "Ferdinand's Saar Quince",
+  "category": "gin",
+  "subcategory": "fruit gin",
+  "brand_or_producer": "Ferdinand's",
+  "abv": 30.0,
+  "taste_profile": {
+    "primary_notes": [
+      "quince",
+      "pear",
+      "fruity",
+      "sweet",
+      "floral"
+    ],
+    "sweetness": "medium-high",
+    "bitterness": "low",
+    "body": "medium",
+    "finish": "fruity, sweet, lingering",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "Quitte",
+      "Birne",
+      "fruchtig",
+      "süß",
+      "blumig"
+    ]
+  },
+  "origin": "Saar, Germany",
+  "food_pairings": [
+    "Kettle Matured Cheddar Cheese & Red Onions",
+    "Tyrrell's Mature Cheddar & Chive",
+    "Kettle Intense Truffle and Sea Salt"
+  ],
+  "tags": [
+    "gin",
+    "fruit",
+    "german",
+    "quince",
+    "regional"
+  ],
+  "notes": "Freshly harvested Muscat quinces, a rare Pear Quince strain, growing behind the distillery as well as an infusion of Rausch Kabinett are the basis for this regional homage to British Sloe Gin.",
+  "metadata": {
+    "source_page": 2,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Gin",
+  "subcategory_de": "Frucht-Gin",
+  "tags_de": [
+    "Gin",
+    "Frucht",
+    "deutsch",
+    "Quitte",
+    "regional"
+  ],
+  "notes_de": "Frisch geerntete Muskatquitten, eine seltene Birnenquitten-Sorte, die hinter der Brennerei wächst, sowie ein Aufguss unseres Rausch Kabinetts bilden die Basis für unsere regionale Hommage an den britischen Sloe Gin."
+}

@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_009",
+  "name": "La Trappe Blonde",
+  "category": "beer",
+  "subcategory": "belgian blonde",
+  "brand_or_producer": "La Trappe",
+  "abv": 6.5,
+  "taste_profile": {
+    "primary_notes": [
+      "citrus",
+      "banana",
+      "malt",
+      "spice",
+      "fruity"
+    ],
+    "sweetness": "medium",
+    "bitterness": "medium-low",
+    "body": "medium",
+    "finish": "clean, gentle bitter",
+    "carbonation": "medium-high",
+    "primary_notes_de": [
+      "Zitrus",
+      "Banane",
+      "Malz",
+      "Gewürz",
+      "fruchtig"
+    ]
+  },
+  "origin": "Tilburg, Netherlands",
+  "food_pairings": [
+    "Kettle Matured Cheddar Cheese & Red Onions",
+    "Tyrrell's Mature Cheddar & Chive",
+    "Tyrrell's Sea Salt & Cider Vinegar"
+  ],
+  "tags": [
+    "trappist",
+    "blonde",
+    "belgian",
+    "draft",
+    "fruity"
+  ],
+  "notes": "Golden yellow Trappist beer with fresh fruity aroma of citrus and banana, complemented by sweet malt and subtle spice. Slightly sweet, soft bitterness, clean refreshing finish.",
+  "metadata": {
+    "source_page": 3,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Belgisches Blonde",
+  "tags_de": [
+    "Trappisten",
+    "Blonde",
+    "belgisch",
+    "vom Fass",
+    "fruchtig"
+  ],
+  "notes_de": "Goldgelbes Trappistenbier mit frischem, fruchtigem Aroma von Zitrus und Banane, ergänzt durch süßes Malz und dezente Gewürznoten. Leicht süß mit sanfter Bitterkeit und sauberem, erfrischendem Abgang."
+}

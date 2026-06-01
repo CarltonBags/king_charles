@@ -1,0 +1,58 @@
+{
+  "id": "pub_whisky_027",
+  "name": "Harvey's Lewes Blend",
+  "category": "whisky",
+  "subcategory": "blended scotch",
+  "brand_or_producer": "Harvey's Brewery",
+  "abv": 43.4,
+  "taste_profile": {
+    "primary_notes": [
+      "balanced",
+      "smooth",
+      "malty",
+      "classic",
+      "heritage"
+    ],
+    "sweetness": "medium",
+    "bitterness": "low",
+    "body": "medium",
+    "finish": "smooth, classic, balanced",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "ausgewogen",
+      "weich",
+      "malzig",
+      "klassisch",
+      "traditionell"
+    ]
+  },
+  "origin": "Lewes, England",
+  "food_pairings": [
+    "Kettle Matured Cheddar Cheese & Red Onions",
+    "Tyrrell's Mature Cheddar & Chive",
+    "Kettle Intense Truffle and Sea Salt"
+  ],
+  "tags": [
+    "scotch",
+    "blended",
+    "english",
+    "heritage",
+    "award-winning"
+  ],
+  "notes": "Over a hundred years ago Harvey's Brewery were blending and bottling spirits. This succession of the original blend celebrates continuing passion for the finest spirits. Rated 89.5/100 in Jim Murray's Whisky Bible.",
+  "metadata": {
+    "source_page": 2,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Whisky",
+  "subcategory_de": "Blended Scotch",
+  "tags_de": [
+    "Scotch",
+    "Blended",
+    "englisch",
+    "traditionell",
+    "preisgekrönt"
+  ],
+  "notes_de": "Wir freuen uns, bekannt zu geben, dass Harveys Lewes Blend Whisky es in Jim Murrays Whisky Bible 2016 geschafft hat. Mit 89,5/100 bewertet, beschrieb Murray ihn als ,,einen hervorragenden Whisky von einer Perle einer Brauerei''. Vor über hundert Jahren mischte und füllte Harveys Brewery verschiedene Spirituosen ab, darunter Lewes Blend Whisky. Ein Jahrhundert später feiert diese Fortführung des ursprünglichen Blends unsere anhaltende Leidenschaft für feinste Spirituosen."
+}

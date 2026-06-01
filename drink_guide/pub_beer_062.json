@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_062",
+  "name": "Shepherd Neame Bishops Finger",
+  "category": "beer",
+  "subcategory": "english strong ale",
+  "brand_or_producer": "Shepherd Neame",
+  "abv": 5.4,
+  "taste_profile": {
+    "primary_notes": [
+      "caramel",
+      "toffee",
+      "dried fruits",
+      "plum",
+      "spice"
+    ],
+    "sweetness": "medium",
+    "bitterness": "medium",
+    "body": "medium-full",
+    "finish": "clean, subtle bitter",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Karamell",
+      "Toffee",
+      "Trockenfrüchte",
+      "Pflaume",
+      "Gewürz"
+    ]
+  },
+  "origin": "Kent, England",
+  "food_pairings": [
+    "Taylors Haggis & Cracked Black Pepper",
+    "Taylors Aberdeen Angus",
+    "Kettle Matured Cheddar Cheese & Red Onions"
+  ],
+  "tags": [
+    "strong ale",
+    "bottle",
+    "english",
+    "kent",
+    "malty"
+  ],
+  "notes": "Strong Ale brewed in Kent. Deep amber with ruby highlights. Rich malty aroma with caramel, toffee and dried fruits. Full-bodied with plums, dried apricots, pepper and cinnamon. Clean finish with subtle blood orange bitterness.",
+  "metadata": {
+    "source_page": 11,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Englisches Starkbier",
+  "tags_de": [
+    "Starkbier",
+    "Flasche",
+    "englisch",
+    "Kent",
+    "malzig"
+  ],
+  "notes_de": "Starkes Ale, gebraut in Kent. Tief bernsteinfarben mit rubinroten Reflexen. Reichhaltiges, malziges Aroma mit Karamell, Toffee und Trockenfrüchten. Vollmundig mit Pflaumen, getrockneten Aprikosen, Pfeffer und Zimt. Sauberer Abgang mit subtiler Blutorangen-Bitterkeit."
+}

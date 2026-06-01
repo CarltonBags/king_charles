@@ -1,0 +1,56 @@
+{
+  "id": "pub_beer_224",
+  "name": "Sierra Nevada Torpedo IPA",
+  "category": "beer",
+  "subcategory": "india pale ale",
+  "brand_or_producer": "Sierra Nevada",
+  "abv": 7.2,
+  "taste_profile": {
+    "primary_notes": [
+      "citrus",
+      "tropical",
+      "caramel",
+      "spicy",
+      "dry"
+    ],
+    "sweetness": "medium-low",
+    "bitterness": "medium-high",
+    "body": "medium-full",
+    "finish": "dry, sparkling, powerful",
+    "carbonation": "medium-high",
+    "primary_notes_de": [
+      "Zitrus",
+      "tropisch",
+      "Karamell",
+      "würzig",
+      "trocken"
+    ]
+  },
+  "origin": "California, USA",
+  "food_pairings": [
+    "Kettle Sweet Chilli",
+    "Kettle Jalapeño",
+    "Kettle Sweet Chilli & Sour Cream"
+  ],
+  "tags": [
+    "ipa",
+    "can",
+    "american",
+    "clearance"
+  ],
+  "notes": "Tropical citrus notes meet caramel from pale and caramel malts. Subtle spicy accents. Dry, finely sparkling and powerful — an IPA that shows character with every sip. Clearance item.",
+  "metadata": {
+    "source_page": 43,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "India Pale Ale",
+  "tags_de": [
+    "IPA",
+    "Dose",
+    "amerikanisch",
+    "Abverkauf"
+  ],
+  "notes_de": "Tropische Zitrusnoten treffen auf Karamell von den verwendeten Pale- und Karamellmalzen. Dazu kommen dezente, fast würzige Akzente. Trocken, fein prickelnd und kraftvoll. Abverkaufsware."
+}

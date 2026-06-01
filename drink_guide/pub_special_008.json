@@ -1,0 +1,58 @@
+{
+  "id": "pub_special_008",
+  "name": "B-52",
+  "category": "special",
+  "subcategory": "layered shot",
+  "brand_or_producer": "House",
+  "abv": 30.0,
+  "taste_profile": {
+    "primary_notes": [
+      "coffee",
+      "orange",
+      "cream",
+      "sweet",
+      "layered"
+    ],
+    "sweetness": "high",
+    "bitterness": "very low",
+    "body": "medium-full",
+    "finish": "sweet, creamy, layered",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "Kaffee",
+      "Orange",
+      "Sahne",
+      "süß",
+      "geschichtet"
+    ]
+  },
+  "origin": "Pub Classic",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Kettle Honey Barbeque",
+    "Kettle Sweet Chilli"
+  ],
+  "tags": [
+    "shot",
+    "layered",
+    "baileys",
+    "grand marnier",
+    "pub classic"
+  ],
+  "notes": "Bailey's, Grand Marnier and Tia Maria layered in a shot glass. A classic after-dinner shooter.",
+  "metadata": {
+    "source_page": 36,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Spezialgetränk",
+  "subcategory_de": "Schichtshot",
+  "tags_de": [
+    "Shot",
+    "geschichtet",
+    "Baileys",
+    "Grand Marnier",
+    "Pub-Klassiker"
+  ],
+  "notes_de": "Baileys, Grand Marnier und Tia Maria, geschichtet in einem Shotglas. Ein klassischer After-Dinner-Shooter."
+}

@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_177",
+  "name": "Raspberry Cider",
+  "category": "cider",
+  "subcategory": "flavoured cider",
+  "brand_or_producer": "Unknown",
+  "abv": 4.0,
+  "taste_profile": {
+    "primary_notes": [
+      "raspberry",
+      "apple",
+      "bright",
+      "sweet",
+      "fruity"
+    ],
+    "sweetness": "high",
+    "bitterness": "very low",
+    "body": "light-medium",
+    "finish": "sweet, raspberry",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Himbeere",
+      "Apfel",
+      "leuchtend",
+      "süß",
+      "fruchtig"
+    ]
+  },
+  "origin": "Unknown",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Kettle Honey Barbeque",
+    "Kettle Sweet Chilli"
+  ],
+  "tags": [
+    "cider",
+    "flavoured",
+    "bottle",
+    "raspberry",
+    "fruity"
+  ],
+  "notes": "Refreshing apple cider infused with bright crushed raspberries with a sweet fruity twist.",
+  "metadata": {
+    "source_page": 28,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Cidre",
+  "subcategory_de": "Aromatisierter Cidre",
+  "tags_de": [
+    "Cidre",
+    "aromatisiert",
+    "Flasche",
+    "Himbeere",
+    "fruchtig"
+  ],
+  "notes_de": "Erfrischender Apfel-Cidre, verfeinert mit hellen, zerdrückten Himbeeren, mit einer süßen, tropischen Note."
+}

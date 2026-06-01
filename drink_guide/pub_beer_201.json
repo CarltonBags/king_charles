@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_201",
+  "name": "Jopen Northsea IPA",
+  "category": "beer",
+  "subcategory": "india pale ale",
+  "brand_or_producer": "Jopen",
+  "abv": 6.5,
+  "taste_profile": {
+    "primary_notes": [
+      "tropical",
+      "resinous",
+      "bitter",
+      "fruity",
+      "balanced"
+    ],
+    "sweetness": "medium-low",
+    "bitterness": "medium-high",
+    "body": "medium",
+    "finish": "resinous, dry, bitter",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "tropisch",
+      "harzig",
+      "bitter",
+      "fruchtig",
+      "ausgewogen"
+    ]
+  },
+  "origin": "Haarlem, Netherlands",
+  "food_pairings": [
+    "Kettle Sweet Chilli",
+    "Kettle Jalapeño",
+    "Kettle Sweet Chilli & Sour Cream"
+  ],
+  "tags": [
+    "ipa",
+    "bottle",
+    "dutch",
+    "clearance",
+    "hoppy"
+  ],
+  "notes": "Rich fruitiness followed by strong but well-integrated bitterness. American hop varieties strike a beautiful balance between tropical sweetness and resinous dryness. Clearance item.",
+  "metadata": {
+    "source_page": 38,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "India Pale Ale",
+  "tags_de": [
+    "IPA",
+    "Flasche",
+    "niederländisch",
+    "Abverkauf",
+    "hopfig"
+  ],
+  "notes_de": "Reiche Fruchtigkeit, gefolgt von kräftiger, aber gut integrierter Bitterkeit. Die amerikanischen Hopfensorten schaffen eine schöne Balance zwischen tropischer Süße und harziger Trockenheit. Abverkaufsware."
+}

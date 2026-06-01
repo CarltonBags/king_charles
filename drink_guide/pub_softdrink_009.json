@@ -1,0 +1,58 @@
+{
+  "id": "pub_softdrink_009",
+  "name": "Fevertree Indian Tonic Water",
+  "category": "soft_drink",
+  "subcategory": "tonic water",
+  "brand_or_producer": "Fever-Tree",
+  "abv": 0.0,
+  "taste_profile": {
+    "primary_notes": [
+      "quinine",
+      "citrus",
+      "bitter",
+      "botanical",
+      "crisp"
+    ],
+    "sweetness": "low",
+    "bitterness": "medium",
+    "body": "light",
+    "finish": "crisp, bitter, botanical",
+    "carbonation": "high",
+    "primary_notes_de": [
+      "Chinin",
+      "Zitrus",
+      "bitter",
+      "botanisch",
+      "spritzig"
+    ]
+  },
+  "origin": "England",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Tyrrell's Sea Salt & Cider Vinegar",
+    "Kettle Sea Salt & Balsamic Vinegar of Modena"
+  ],
+  "tags": [
+    "soft drink",
+    "tonic",
+    "premium",
+    "mixer",
+    "quinine"
+  ],
+  "notes": "Premium Indian tonic water made with the finest quinine from the Congo and citrus botanical oils. Perfect for gin & tonic.",
+  "metadata": {
+    "source_page": 6,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Alkoholfreies Getränk",
+  "subcategory_de": "Tonic Water",
+  "tags_de": [
+    "Softdrink",
+    "Tonic",
+    "Premium",
+    "Mixer",
+    "Chinin"
+  ],
+  "notes_de": "Premium Indian Tonic Water, hergestellt mit feinstem Chinin aus dem Kongo und zitrusartigen, botanischen Ölen. Perfekt für Gin & Tonic."
+}

@@ -1,0 +1,58 @@
+{
+  "id": "pub_whisky_041",
+  "name": "Bushmills Black Bush",
+  "category": "irish_whiskey",
+  "subcategory": "blended irish whiskey",
+  "brand_or_producer": "Bushmills",
+  "abv": 40.0,
+  "taste_profile": {
+    "primary_notes": [
+      "sherry",
+      "fruity",
+      "rich",
+      "intense",
+      "smooth"
+    ],
+    "sweetness": "medium",
+    "bitterness": "low",
+    "body": "medium-full",
+    "finish": "rich, smooth, sherried",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "Sherry",
+      "fruchtig",
+      "reichhaltig",
+      "intensiv",
+      "weich"
+    ]
+  },
+  "origin": "Bushmills, Northern Ireland",
+  "food_pairings": [
+    "Kettle Matured Cheddar Cheese & Red Onions",
+    "Tyrrell's Mature Cheddar & Chive",
+    "Kettle Intense Truffle and Sea Salt"
+  ],
+  "tags": [
+    "irish",
+    "blended",
+    "sherry cask",
+    "rich",
+    "smooth"
+  ],
+  "notes": "Combines a high amount of single malt whiskey matured in former Oloroso sherry casks with a sweet, batch-distilled grain whiskey. Rich, fruity notes and a deep intense character, balanced by incredible smoothness.",
+  "metadata": {
+    "source_page": 8,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Irischer Whiskey",
+  "subcategory_de": "Blended Irish Whiskey",
+  "tags_de": [
+    "irisch",
+    "Blended",
+    "Sherryfass",
+    "reichhaltig",
+    "weich"
+  ],
+  "notes_de": "Black Bush kombiniert einen hohen Anteil an Single Malt Whiskey, der in ehemaligen Oloroso-Sherryfässern gereift ist, mit einem süßen, chargenweise destillierten Grain Whiskey. Dieses einzigartige Rezept verleiht Black Bush reiche, fruchtige Noten und einen tiefen, intensiven Charakter, ausgewogen durch eine unglaublich einzigartige Weichheit."
+}

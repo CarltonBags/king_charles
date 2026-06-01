@@ -1,0 +1,56 @@
+{
+  "id": "pub_beer_093",
+  "name": "Boon Kriek Cherry Beer",
+  "category": "beer",
+  "subcategory": "lambic - fruit",
+  "brand_or_producer": "Boon",
+  "abv": 4.0,
+  "taste_profile": {
+    "primary_notes": [
+      "sour cherry",
+      "almond",
+      "oak",
+      "dry"
+    ],
+    "sweetness": "medium-low",
+    "bitterness": "medium",
+    "body": "medium",
+    "finish": "slightly dry",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Sauerkirsche",
+      "Mandel",
+      "Eiche",
+      "trocken"
+    ]
+  },
+  "origin": "Lembeek, Belgium",
+  "food_pairings": [
+    "Taylors Aberdeen Angus",
+    "Kettle Intense Truffle and Sea Salt",
+    "Kettle Matured Cheddar Cheese & Red Onions"
+  ],
+  "tags": [
+    "fruit beer",
+    "lambic",
+    "bottle",
+    "belgian",
+    "cherry"
+  ],
+  "notes": "Traditional Belgian Lambic fruit-beer, deep ruby red. Intense sour cherry aroma with hints of almond and subtle oak. Medium bodied, moderate carbonation, slightly dry finish.",
+  "metadata": {
+    "source_page": 15,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Lambic - Frucht",
+  "tags_de": [
+    "Fruchtbier",
+    "Lambic",
+    "Flasche",
+    "belgisch",
+    "Kirsche"
+  ],
+  "notes_de": "Traditionelles belgisches Lambic-Fruchtbier, tief rubinrot. Intensives Sauerkirsch-Aroma mit Mandelanklängen und dezenter Eiche. Mittlerer Körper, mäßige Kohlensäure und leicht trockener Abgang."
+}

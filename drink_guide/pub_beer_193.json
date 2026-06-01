@@ -1,0 +1,60 @@
+{
+  "id": "pub_beer_193",
+  "name": "Samuel Smith Organic Cider",
+  "category": "cider",
+  "subcategory": "organic apple cider",
+  "brand_or_producer": "Samuel Smith",
+  "abv": 5.0,
+  "taste_profile": {
+    "primary_notes": [
+      "apple",
+      "apple blossom",
+      "semi-dry",
+      "pure",
+      "organic"
+    ],
+    "sweetness": "medium-low",
+    "bitterness": "low",
+    "body": "light",
+    "finish": "gentle, apple blossom",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Apfel",
+      "Apfelblüte",
+      "halbtrocken",
+      "rein",
+      "Bio"
+    ]
+  },
+  "origin": "Yorkshire, England",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Tyrrell's Sea Salt & Cider Vinegar",
+    "Kettle Matured Cheddar Cheese & Red Onions"
+  ],
+  "tags": [
+    "cider",
+    "english",
+    "bottle",
+    "organic",
+    "gluten-free",
+    "yorkshire"
+  ],
+  "notes": "Semi-dry cider with brilliant straw colour, light body, pure apple taste and a gentle apple blossom finish. Made in a small independent British brewery, the oldest in Yorkshire. Organic and gluten-free.",
+  "metadata": {
+    "source_page": 31,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Cidre",
+  "subcategory_de": "Bio-Apfel-Cidre",
+  "tags_de": [
+    "Cidre",
+    "englisch",
+    "Flasche",
+    "Bio",
+    "glutenfrei",
+    "Yorkshire"
+  ],
+  "notes_de": "Halbtrockener Cidre mit brillanter Strohfarbe, leichtem Körper, reinem Apfelgeschmack und einem sanften Apfelblüten-Abgang. Hergestellt in einer kleinen, unabhängigen britischen Brauerei, der ältesten in Yorkshire. Bio und glutenfrei."
+}

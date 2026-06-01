@@ -1,0 +1,58 @@
+{
+  "id": "pub_whisky_034",
+  "name": "Six Kingdoms Mortlach 15 Year Special Edition",
+  "category": "whisky",
+  "subcategory": "speyside single malt",
+  "brand_or_producer": "Mortlach",
+  "abv": 46.0,
+  "taste_profile": {
+    "primary_notes": [
+      "rich",
+      "complex",
+      "fruity",
+      "spicy",
+      "meaty"
+    ],
+    "sweetness": "medium",
+    "bitterness": "medium",
+    "body": "full",
+    "finish": "complex, rich, meaty",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "reichhaltig",
+      "komplex",
+      "fruchtig",
+      "würzig",
+      "fleischig"
+    ]
+  },
+  "origin": "Speyside, Scotland",
+  "food_pairings": [
+    "Taylors Haggis & Cracked Black Pepper",
+    "Taylors Aberdeen Angus",
+    "Taylors Fiery Pickled Onions"
+  ],
+  "tags": [
+    "scotch",
+    "speyside",
+    "single malt",
+    "game of thrones",
+    "special edition"
+  ],
+  "notes": "Game of Thrones Six Kingdoms special edition. Aged 15 years, presented in a metallic gold canister featuring the Three-Eyed Raven. Mortlach's signature 2.81 times distillation process, as complex and unique as the Three-Eyed Raven itself.",
+  "metadata": {
+    "source_page": 2,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Whisky",
+  "subcategory_de": "Speyside Single Malt",
+  "tags_de": [
+    "Scotch",
+    "Speyside",
+    "Single Malt",
+    "Game of Thrones",
+    "Sonderedition"
+  ],
+  "notes_de": "Dieser 15 Jahre gereifte Mortlach Single Malt Scotch Whisky wird in einer metallisch-goldenen Dose präsentiert, die eine detailreiche Federzeichnung des Dreiäugigen Raben zeigt, wie er in den acht Staffeln der Serie zu sehen war. Die Six Kingdoms-Verpackung ist eine Hommage an den letzten Grünseher. Mortlachs charakteristische 2,81-fach-Destillation ist ein komplexer Prozess, so einzigartig wie der Dreiäugige Rabe selbst."
+}

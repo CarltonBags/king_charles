@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_032",
+  "name": "Erdinger Alcohol Free Weizen",
+  "category": "beer",
+  "subcategory": "non-alcoholic wheat beer",
+  "brand_or_producer": "Erdinger",
+  "abv": 0.0,
+  "taste_profile": {
+    "primary_notes": [
+      "banana",
+      "clove",
+      "malty",
+      "spicy",
+      "fruity"
+    ],
+    "sweetness": "medium",
+    "bitterness": "very low",
+    "body": "medium-full",
+    "finish": "clean, refreshing",
+    "carbonation": "medium-high",
+    "primary_notes_de": [
+      "Banane",
+      "Nelke",
+      "malzig",
+      "würzig",
+      "fruchtig"
+    ]
+  },
+  "origin": "Erding, Germany",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Kettle Intense Camembert & Oak Smoked Garlic",
+    "Ültje Studentenfutter"
+  ],
+  "tags": [
+    "alcohol-free",
+    "weizen",
+    "german",
+    "wheat",
+    "classic"
+  ],
+  "notes": "Alcohol-free German wheat beer. Straw yellow, fine yeast and subtle hop aroma. Rich malty and spicy flavour with hint of fruity acidity. Full-bodied and refreshing.",
+  "metadata": {
+    "source_page": 7,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Alkoholfreies Weizenbier",
+  "tags_de": [
+    "alkoholfrei",
+    "Weizen",
+    "deutsch",
+    "Weizen",
+    "klassisch"
+  ],
+  "notes_de": "Alkoholfreies, deutsches Weizenbier. Strohgelb mit feinem Hefe- und dezentem Hopfen-Aroma. Reichhaltiger, malziger und würziger Geschmack mit einem Hauch fruchtiger Säure. Vollmundig und erfrischend."
+}

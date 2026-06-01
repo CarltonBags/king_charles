@@ -1,0 +1,54 @@
+{
+  "id": "pub_beer_034",
+  "name": "Carlsberg 0.0%",
+  "category": "beer",
+  "subcategory": "non-alcoholic lager",
+  "brand_or_producer": "Carlsberg",
+  "abv": 0.0,
+  "taste_profile": {
+    "primary_notes": [
+      "malt",
+      "grain",
+      "hops",
+      "smooth"
+    ],
+    "sweetness": "medium-low",
+    "bitterness": "low",
+    "body": "light",
+    "finish": "smooth, clean",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Malz",
+      "Getreide",
+      "Hopfen",
+      "weich"
+    ]
+  },
+  "origin": "Copenhagen, Denmark",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Kettle Paprika & Roasted Onion",
+    "Kettle Sea Salt & Balsamic Vinegar of Modena"
+  ],
+  "tags": [
+    "alcohol-free",
+    "lager",
+    "danish",
+    "refreshing"
+  ],
+  "notes": "Non-alcoholic Pale Lager, pale golden clear. Light malt sweet aroma with grain and hop notes. Malty and slightly sweet, gentle bitterness. Light-bodied, smooth, lightly carbonated.",
+  "metadata": {
+    "source_page": 7,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Alkoholfreies Lager",
+  "tags_de": [
+    "alkoholfrei",
+    "Lager",
+    "dänisch",
+    "erfrischend"
+  ],
+  "notes_de": "Alkoholfreies, helles Lager, hellgolden und klar. Leichtes, malzig-süßes Aroma mit Getreide- und Hopfennoten. Malzig und leicht süß mit sanfter Bitterkeit. Leichter Körper, weich, leicht karbonisiert."
+}

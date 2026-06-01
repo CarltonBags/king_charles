@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_172",
+  "name": "Rhubarb Cider",
+  "category": "cider",
+  "subcategory": "flavoured cider",
+  "brand_or_producer": "Unknown",
+  "abv": 4.0,
+  "taste_profile": {
+    "primary_notes": [
+      "rhubarb",
+      "apple",
+      "crisp",
+      "clean",
+      "refreshing"
+    ],
+    "sweetness": "medium",
+    "bitterness": "low",
+    "body": "light-medium",
+    "finish": "crisp, clean, rhubarb",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Rhabarber",
+      "Apfel",
+      "spritzig",
+      "sauber",
+      "erfrischend"
+    ]
+  },
+  "origin": "Unknown",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Tyrrell's Sea Salt & Cider Vinegar",
+    "Kettle Matured Cheddar Cheese & Red Onions"
+  ],
+  "tags": [
+    "cider",
+    "flavoured",
+    "bottle",
+    "rhubarb",
+    "crisp"
+  ],
+  "notes": "Refreshing apple cider infused with rhubarb juice with a crisp clean finish.",
+  "metadata": {
+    "source_page": 27,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Cidre",
+  "subcategory_de": "Aromatisierter Cidre",
+  "tags_de": [
+    "Cidre",
+    "aromatisiert",
+    "Flasche",
+    "Rhabarber",
+    "spritzig"
+  ],
+  "notes_de": "Erfrischender Apfel-Cidre, verfeinert mit Rhabarbersaft, mit knackigem, sauberem Abgang."
+}

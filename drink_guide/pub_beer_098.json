@@ -1,0 +1,56 @@
+{
+  "id": "pub_beer_098",
+  "name": "Huyghe Red Strong Fruity",
+  "category": "beer",
+  "subcategory": "fruit beer",
+  "brand_or_producer": "Huyghe",
+  "abv": 8.0,
+  "taste_profile": {
+    "primary_notes": [
+      "cherry",
+      "fruity",
+      "sweet",
+      "strong"
+    ],
+    "sweetness": "high",
+    "bitterness": "low",
+    "body": "medium-full",
+    "finish": "sweet, fruity",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Kirsche",
+      "fruchtig",
+      "süß",
+      "stark"
+    ]
+  },
+  "origin": "Melle, Belgium",
+  "food_pairings": [
+    "Taylors Aberdeen Angus",
+    "Kettle Intense Truffle and Sea Salt",
+    "Kettle Sea Salt"
+  ],
+  "tags": [
+    "fruit beer",
+    "bottle",
+    "belgian",
+    "cherry",
+    "strong"
+  ],
+  "notes": "Delirium Red Strong Fruit Beer with generous helping of cherry. Fruity cherry flavor takes center stage.",
+  "metadata": {
+    "source_page": 16,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Fruchtbier",
+  "tags_de": [
+    "Fruchtbier",
+    "Flasche",
+    "belgisch",
+    "Kirsche",
+    "stark"
+  ],
+  "notes_de": "Delirium Red Strong Fruit Beer mit einer großzügigen Portion Kirsche. Der fruchtige Kirschgeschmack steht im Mittelpunkt."
+}

@@ -1,0 +1,54 @@
+{
+  "id": "pub_softdrink_016",
+  "name": "Elephant Bay Lemon",
+  "category": "soft_drink",
+  "subcategory": "flavoured water",
+  "brand_or_producer": "Elephant Bay",
+  "abv": 0.0,
+  "taste_profile": {
+    "primary_notes": [
+      "lemon",
+      "citrus",
+      "zesty",
+      "refreshing"
+    ],
+    "sweetness": "medium",
+    "bitterness": "low",
+    "body": "light",
+    "finish": "zesty, citrus",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Zitrone",
+      "Zitrus",
+      "würzig-frisch",
+      "erfrischend"
+    ]
+  },
+  "origin": "Unknown",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Tyrrell's Sea Salt & Cider Vinegar",
+    "Kettle Sea Salt & Balsamic Vinegar of Modena"
+  ],
+  "tags": [
+    "soft drink",
+    "flavoured water",
+    "lemon",
+    "citrus"
+  ],
+  "notes": "Lemon-flavoured water. Zesty and citrus-forward with a refreshing finish.",
+  "metadata": {
+    "source_page": 6,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Alkoholfreies Getränk",
+  "subcategory_de": "Aromatisiertes Wasser",
+  "tags_de": [
+    "Softdrink",
+    "Aromawasser",
+    "Zitrone",
+    "Zitrus"
+  ],
+  "notes_de": "Zitronen-aromatisiertes Wasser. Spritzig und zitrusbetont mit erfrischendem Abgang."
+}

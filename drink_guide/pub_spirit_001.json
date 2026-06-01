@@ -1,0 +1,54 @@
+{
+  "id": "pub_spirit_001",
+  "name": "Ficken Schnapps",
+  "category": "spirit",
+  "subcategory": "schnapps",
+  "brand_or_producer": "Ficken",
+  "abv": 35.0,
+  "taste_profile": {
+    "primary_notes": [
+      "herbal",
+      "warming",
+      "strong",
+      "bold"
+    ],
+    "sweetness": "medium",
+    "bitterness": "medium",
+    "body": "full",
+    "finish": "warming, bold",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "kräuterig",
+      "wärmend",
+      "stark",
+      "kräftig"
+    ]
+  },
+  "origin": "Germany",
+  "food_pairings": [
+    "Taylors Haggis & Cracked Black Pepper",
+    "Taylors Aberdeen Angus",
+    "Taylors Fiery Pickled Onions"
+  ],
+  "tags": [
+    "schnapps",
+    "german",
+    "party",
+    "shot"
+  ],
+  "notes": "Popular German party schnapps with a bold, warming character.",
+  "metadata": {
+    "source_page": 35,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Spirituose",
+  "subcategory_de": "Schnaps",
+  "tags_de": [
+    "Schnaps",
+    "deutsch",
+    "Party",
+    "Shot"
+  ],
+  "notes_de": "Beliebter deutscher Partyschnaps mit kräftigem, wärmendem Charakter."
+}

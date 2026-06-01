@@ -1,0 +1,58 @@
+{
+  "id": "pub_gin_010",
+  "name": "Fifty Pounds",
+  "category": "gin",
+  "subcategory": "london dry gin",
+  "brand_or_producer": "Fifty Pounds",
+  "abv": 43.5,
+  "taste_profile": {
+    "primary_notes": [
+      "juniper",
+      "balanced",
+      "classic",
+      "smooth",
+      "herbal"
+    ],
+    "sweetness": "low",
+    "bitterness": "medium",
+    "body": "medium",
+    "finish": "smooth, classic",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "Wacholder",
+      "ausgewogen",
+      "klassisch",
+      "weich",
+      "kräuterig"
+    ]
+  },
+  "origin": "London, England",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Tyrrell's Sea Salt & Cider Vinegar",
+    "Kettle Sea Salt & Balsamic Vinegar of Modena"
+  ],
+  "tags": [
+    "gin",
+    "london dry",
+    "classic",
+    "premium",
+    "historic"
+  ],
+  "notes": "A London Dry Gin that spans the centuries. Historic in essence, modern in spirit. From the botanicals used to the method of production and bottling, Fifty Pounds Gin pays tribute to London's rich gin history.",
+  "metadata": {
+    "source_page": 2,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Gin",
+  "subcategory_de": "London Dry Gin",
+  "tags_de": [
+    "Gin",
+    "London Dry",
+    "klassisch",
+    "Premium",
+    "historisch"
+  ],
+  "notes_de": "Fifty Pounds Gin ist unser Name, nicht unser Preis! Das Ergebnis ist ein London Dry Gin, der die Jahrhunderte überspannt und es uns erlaubt, Fifty Pounds Gin als historisch im Wesen und modern im Geist zu beschreiben. Von den verwendeten Botanicals bis zur Herstellungs- und Abfüllmethode zollt Fifty Pounds Gin Londons reicher Gin-Geschichte Tribut."
+}

@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_100",
+  "name": "St. Peter's Cream Stout Gluten Free",
+  "category": "beer",
+  "subcategory": "gluten-free stout",
+  "brand_or_producer": "St. Peter's",
+  "abv": 6.5,
+  "taste_profile": {
+    "primary_notes": [
+      "roasted malt",
+      "coffee",
+      "chocolate",
+      "velvety",
+      "creamy"
+    ],
+    "sweetness": "medium-low",
+    "bitterness": "low",
+    "body": "medium",
+    "finish": "velvety, creamy",
+    "carbonation": "low",
+    "primary_notes_de": [
+      "Röstmalz",
+      "Kaffee",
+      "Schokolade",
+      "samten",
+      "cremig"
+    ]
+  },
+  "origin": "Suffolk, England",
+  "food_pairings": [
+    "Kettle Matured Cheddar Cheese & Red Onions",
+    "Taylors Haggis & Cracked Black Pepper",
+    "Kettle Intense Truffle and Sea Salt"
+  ],
+  "tags": [
+    "gluten-free",
+    "stout",
+    "bottle",
+    "english",
+    "creamy"
+  ],
+  "notes": "Deep brown almost black gluten-free stout. Smooth roasted malt and coffee aroma with subtle chocolate sweetness and mild bitterness. Medium bodied, velvety slightly creamy finish.",
+  "metadata": {
+    "source_page": 16,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Glutenfreies Stout",
+  "tags_de": [
+    "glutenfrei",
+    "Stout",
+    "Flasche",
+    "englisch",
+    "cremig"
+  ],
+  "notes_de": "Tiefbraunes, fast schwarzes, glutenfreies Stout. Sanftes Röstmalz- und Kaffee-Aroma mit dezenter Schokoladensüße und milder Bitterkeit. Mittlerer Körper mit samtigem, leicht cremigem Abgang."
+}

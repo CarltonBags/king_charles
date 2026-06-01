@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_148",
+  "name": "Tankbusters Hack'n'Slash 2",
+  "category": "beer",
+  "subcategory": "west coast ipa",
+  "brand_or_producer": "Tankbusters",
+  "abv": 6.5,
+  "taste_profile": {
+    "primary_notes": [
+      "grapefruit",
+      "pine",
+      "resin",
+      "citrus",
+      "tropical"
+    ],
+    "sweetness": "low",
+    "bitterness": "high",
+    "body": "medium",
+    "finish": "bitter, piney, resinous",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Grapefruit",
+      "Kiefer",
+      "Harz",
+      "Zitrus",
+      "tropisch"
+    ]
+  },
+  "origin": "Poland",
+  "food_pairings": [
+    "Kettle Sweet Chilli",
+    "Kettle Jalapeño",
+    "Kettle Sweet Chilli & Sour Cream"
+  ],
+  "tags": [
+    "west coast ipa",
+    "can",
+    "polish",
+    "bitter",
+    "craft"
+  ],
+  "notes": "Distinct, hoppy West Coast IPA with intense bitterness. Balanced citrus, pine and resin notes blend with grapefruit and tropical fruit aromas. Bright golden color, clean texture — classic American style.",
+  "metadata": {
+    "source_page": 1,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "West Coast IPA",
+  "tags_de": [
+    "West Coast IPA",
+    "Dose",
+    "polnisch",
+    "bitter",
+    "Craft"
+  ],
+  "notes_de": "Ausgeprägtes, hopfiges West Coast IPA mit intensiver Bitterkeit. Ausgewogene Zitrus-, Kiefern- und Harznoten verschmelzen perfekt mit dem markanten Aroma von Grapefruit und tropischen Früchten. Helle, goldene Farbe und saubere Textur unterstreichen den klassischen amerikanischen Stil."
+}

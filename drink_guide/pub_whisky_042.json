@@ -1,0 +1,58 @@
+{
+  "id": "pub_whisky_042",
+  "name": "Bushmills Original",
+  "category": "irish_whiskey",
+  "subcategory": "blended irish whiskey",
+  "brand_or_producer": "Bushmills",
+  "abv": 40.0,
+  "taste_profile": {
+    "primary_notes": [
+      "fresh fruit",
+      "vanilla",
+      "malt",
+      "smooth",
+      "balanced"
+    ],
+    "sweetness": "medium",
+    "bitterness": "low",
+    "body": "light-medium",
+    "finish": "smooth, fresh, balanced",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "frisches Obst",
+      "Vanille",
+      "Malz",
+      "weich",
+      "ausgewogen"
+    ]
+  },
+  "origin": "Bushmills, Northern Ireland",
+  "food_pairings": [
+    "Ültje Studentenfutter",
+    "Ültje Erdnüsse Gesalzen",
+    "Taylors Chip Shop Curry Sauce"
+  ],
+  "tags": [
+    "irish",
+    "blended",
+    "triple distilled",
+    "smooth",
+    "classic"
+  ],
+  "notes": "The cornerstone of the Bushmills family. A smooth and versatile triple distilled blend matured in both bourbon and sherry casks resulting in fresh fruit and vanilla notes.",
+  "metadata": {
+    "source_page": 8,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Irischer Whiskey",
+  "subcategory_de": "Blended Irish Whiskey",
+  "tags_de": [
+    "irisch",
+    "Blended",
+    "dreifach destilliert",
+    "weich",
+    "klassisch"
+  ],
+  "notes_de": "Der Grundpfeiler unserer Familie — Bushmills Original ist ein weicher und vielseitiger, dreifach destillierter Blend. Ein zugänglicher Whiskey, der sowohl in Bourbon- als auch Sherryfässern gereift ist und frische Frucht- und Vanillenoten bietet."
+}

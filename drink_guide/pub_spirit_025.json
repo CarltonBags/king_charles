@@ -1,0 +1,58 @@
+{
+  "id": "pub_spirit_025",
+  "name": "Cointreau",
+  "category": "spirit",
+  "subcategory": "triple sec",
+  "brand_or_producer": "Cointreau",
+  "abv": 40.0,
+  "taste_profile": {
+    "primary_notes": [
+      "orange",
+      "citrus",
+      "balanced",
+      "sweet",
+      "bitter"
+    ],
+    "sweetness": "medium-high",
+    "bitterness": "medium-low",
+    "body": "medium",
+    "finish": "smooth, orange, balanced",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "Orange",
+      "Zitrus",
+      "ausgewogen",
+      "süß",
+      "bitter"
+    ]
+  },
+  "origin": "Angers, France",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Tyrrell's Sea Salt & Cider Vinegar",
+    "Kettle Sea Salt & Balsamic Vinegar of Modena"
+  ],
+  "tags": [
+    "liqueur",
+    "french",
+    "orange",
+    "triple sec",
+    "cocktail"
+  ],
+  "notes": "Premium French orange liqueur. Crystal clear with a perfect balance of sweet and bitter orange peels. Essential for cocktails.",
+  "metadata": {
+    "source_page": 35,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Spirituose",
+  "subcategory_de": "Triple Sec",
+  "tags_de": [
+    "Likör",
+    "französisch",
+    "Orange",
+    "Triple Sec",
+    "Cocktail"
+  ],
+  "notes_de": "Premium französischer Orangenlikör. Kristallklar mit einer perfekten Balance aus süßen und bitteren Orangenschalen. Unverzichtbar für Cocktails."
+}

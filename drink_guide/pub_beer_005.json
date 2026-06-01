@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_005",
+  "name": "Fuller's London Pride",
+  "category": "beer",
+  "subcategory": "english pale ale",
+  "brand_or_producer": "Fuller's Brewery",
+  "abv": 4.7,
+  "taste_profile": {
+    "primary_notes": [
+      "malty",
+      "biscuit",
+      "caramel",
+      "floral",
+      "balanced"
+    ],
+    "sweetness": "medium",
+    "bitterness": "medium-low",
+    "body": "medium",
+    "finish": "smooth, slightly sweet",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "malzig",
+      "Keks",
+      "Karamell",
+      "blumig",
+      "ausgewogen"
+    ]
+  },
+  "origin": "London, England",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Kettle Matured Cheddar Cheese & Red Onions",
+    "Taylors Haggis & Cracked Black Pepper"
+  ],
+  "tags": [
+    "cask",
+    "session",
+    "pub classic",
+    "traditional",
+    "balanced"
+  ],
+  "notes": "Clear amber-gold English Pale Ale. Malty sweet aroma with biscuit and subtle floral hops. Balanced malt and hop character with hints of caramel. Medium body, smooth, slightly sweet finish.",
+  "metadata": {
+    "source_page": 2,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Englisches Pale Ale",
+  "tags_de": [
+    "vom Fass",
+    "Session",
+    "Pub-Klassiker",
+    "traditionell",
+    "ausgewogen"
+  ],
+  "notes_de": "Klares, bernsteinfarben-goldenes, englisches Pale Ale. Malzig-süßes Aroma mit Keks-Noten und dezent blumigem Hopfen. Ausgewogener Malz- und Hopfen-Charakter mit Anklängen von Karamell. Mittlerer Körper, weicher, leicht süßer Abgang."
+}

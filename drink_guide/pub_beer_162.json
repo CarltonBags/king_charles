@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_162",
+  "name": "Gold Cider",
+  "category": "cider",
+  "subcategory": "apple cider",
+  "brand_or_producer": "Unknown",
+  "abv": 4.8,
+  "taste_profile": {
+    "primary_notes": [
+      "apple",
+      "honey",
+      "floral",
+      "crisp",
+      "tart"
+    ],
+    "sweetness": "medium",
+    "bitterness": "low",
+    "body": "medium",
+    "finish": "clean, tart, crisp",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Apfel",
+      "Honig",
+      "blumig",
+      "spritzig",
+      "herb"
+    ]
+  },
+  "origin": "Unknown",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Tyrrell's Sea Salt & Cider Vinegar",
+    "Kettle Matured Cheddar Cheese & Red Onions"
+  ],
+  "tags": [
+    "cider",
+    "apple",
+    "bottle",
+    "golden",
+    "crisp"
+  ],
+  "notes": "Bright golden crisp apple cider with subtle honey and floral notes and a balanced sweetness with a clean tart finish.",
+  "metadata": {
+    "source_page": 26,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Cidre",
+  "subcategory_de": "Apfel-Cidre",
+  "tags_de": [
+    "Cidre",
+    "Apfel",
+    "Flasche",
+    "golden",
+    "spritzig"
+  ],
+  "notes_de": "Leuchtend goldener, knackiger Apfel-Cidre mit dezenten Honig- und Blumennoten und ausgewogener Süße mit sauberem, herbem Abgang."
+}

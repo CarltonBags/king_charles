@@ -1,0 +1,58 @@
+{
+  "id": "pub_whisky_020",
+  "name": "Glenkinchie 12 Years Old",
+  "category": "whisky",
+  "subcategory": "lowland single malt",
+  "brand_or_producer": "Glenkinchie",
+  "abv": 43.0,
+  "taste_profile": {
+    "primary_notes": [
+      "floral",
+      "vanilla",
+      "toasty",
+      "citrus",
+      "creamy"
+    ],
+    "sweetness": "medium",
+    "bitterness": "very low",
+    "body": "medium",
+    "finish": "sweet, creamy, floral",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "blumig",
+      "Vanille",
+      "röstig",
+      "Zitrus",
+      "cremig"
+    ]
+  },
+  "origin": "Lowlands, Scotland",
+  "food_pairings": [
+    "Kettle Matured Cheddar Cheese & Red Onions",
+    "Tyrrell's Mature Cheddar & Chive",
+    "Kettle Intense Truffle and Sea Salt"
+  ],
+  "tags": [
+    "scotch",
+    "lowland",
+    "single malt",
+    "floral",
+    "delicate"
+  ],
+  "notes": "Very aromatic and flowery, like breathing in a country garden. Noticeable vanilla, cut flowers — daffodil, blossom and hints of lily — and a clean, toasty note beneath. Becomes increasingly sweet and creamy with fresh citrus.",
+  "metadata": {
+    "source_page": 2,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Whisky",
+  "subcategory_de": "Lowland Single Malt",
+  "tags_de": [
+    "Scotch",
+    "Lowland",
+    "Single Malt",
+    "blumig",
+    "fein"
+  ],
+  "notes_de": "Sehr aromatisch und blumig, wie das Einatmen eines ländlichen Gartens. Deutliche Vanille, Schnittblumen — Narzissen, Blüten und Lilienanklänge — und darunter eine saubere, röstige Note. Wird zunehmend süß und cremig mit einem leicht aromatischen Rand und frischer Zitrusfrucht."
+}

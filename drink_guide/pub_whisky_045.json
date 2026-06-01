@@ -1,0 +1,58 @@
+{
+  "id": "pub_whisky_045",
+  "name": "Tullamore Dew",
+  "category": "irish_whiskey",
+  "subcategory": "blended irish whiskey",
+  "brand_or_producer": "Tullamore Dew",
+  "abv": 40.0,
+  "taste_profile": {
+    "primary_notes": [
+      "malt",
+      "grain",
+      "gentle",
+      "complex",
+      "smooth"
+    ],
+    "sweetness": "medium",
+    "bitterness": "low",
+    "body": "medium",
+    "finish": "smooth, gentle, complex",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "Malz",
+      "Getreide",
+      "sanft",
+      "komplex",
+      "weich"
+    ]
+  },
+  "origin": "Tullamore, Ireland",
+  "food_pairings": [
+    "Ültje Studentenfutter",
+    "Ültje Erdnüsse Gesalzen",
+    "Taylors Chip Shop Curry Sauce"
+  ],
+  "tags": [
+    "irish",
+    "blended",
+    "triple distilled",
+    "classic",
+    "smooth"
+  ],
+  "notes": "The original triple blend Irish whiskey known the world over for its smooth and gentle complexity. Derived from three types of grain, triple distillation and the blend of all three Irish whiskeys. Complex yet approachable.",
+  "metadata": {
+    "source_page": 8,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Irischer Whiskey",
+  "subcategory_de": "Blended Irish Whiskey",
+  "tags_de": [
+    "irisch",
+    "Blended",
+    "dreifach destilliert",
+    "klassisch",
+    "weich"
+  ],
+  "notes_de": "Tullamore Dew ist der originale Triple-Blend-Irish-Whiskey, weltweit bekannt für seine weiche und sanfte Komplexität. Die komplexen, aber zugänglichen Aromen im Whiskey stammen aus drei Getreidesorten, dreifacher Destillation und der Mischung aller drei Irish-Whiskey-Arten."
+}

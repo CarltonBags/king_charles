@@ -1,0 +1,56 @@
+{
+  "id": "pub_beer_043",
+  "name": "Lindemans Kriek 0.0%",
+  "category": "beer",
+  "subcategory": "non-alcoholic fruit beer",
+  "brand_or_producer": "Lindemans",
+  "abv": 0.0,
+  "taste_profile": {
+    "primary_notes": [
+      "cherry",
+      "sweet",
+      "tart",
+      "fruity"
+    ],
+    "sweetness": "medium",
+    "bitterness": "very low",
+    "body": "medium",
+    "finish": "sweet-tart, fruity",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Kirsche",
+      "süß",
+      "herb",
+      "fruchtig"
+    ]
+  },
+  "origin": "Vlezenbeek, Belgium",
+  "food_pairings": [
+    "Taylors Aberdeen Angus",
+    "Kettle Intense Truffle and Sea Salt",
+    "Kettle Sea Salt"
+  ],
+  "tags": [
+    "alcohol-free",
+    "fruit beer",
+    "belgian",
+    "cherry",
+    "lambic"
+  ],
+  "notes": "Lindemans Kriek alcohol-free version. Classic fruity cherry beer without alcohol.",
+  "metadata": {
+    "source_page": 8,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Alkoholfreies Fruchtbier",
+  "tags_de": [
+    "alkoholfrei",
+    "Fruchtbier",
+    "belgisch",
+    "Kirsche",
+    "Lambic"
+  ],
+  "notes_de": "Alkoholfreie Version des Lindemans Kriek. Klassisches, fruchtiges Kirschbier ohne Alkohol."
+}

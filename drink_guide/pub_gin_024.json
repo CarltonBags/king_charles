@@ -1,0 +1,58 @@
+{
+  "id": "pub_gin_024",
+  "name": "Whitley Neil Lemongrass & Ginger Gin",
+  "category": "gin",
+  "subcategory": "flavoured gin",
+  "brand_or_producer": "Whitley Neill",
+  "abv": 43.0,
+  "taste_profile": {
+    "primary_notes": [
+      "lemongrass",
+      "ginger",
+      "citrus",
+      "fragrant",
+      "exotic"
+    ],
+    "sweetness": "medium-low",
+    "bitterness": "medium-low",
+    "body": "medium",
+    "finish": "citrusy, fragrant, warming",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "Zitronengras",
+      "Ingwer",
+      "Zitrus",
+      "duftend",
+      "exotisch"
+    ]
+  },
+  "origin": "England",
+  "food_pairings": [
+    "Kettle Sweet Chilli",
+    "Kettle Jalapeño",
+    "Kettle Sweet Chilli & Sour Cream"
+  ],
+  "tags": [
+    "gin",
+    "flavoured",
+    "lemongrass",
+    "ginger",
+    "exotic"
+  ],
+  "notes": "Lemongrass blended with warming ginger and a variety of exotic herbs and spices giving this gin its distinctive, fragrant, citrusy taste. A handcrafted gin of exceptional quality.",
+  "metadata": {
+    "source_page": 2,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Gin",
+  "subcategory_de": "Aromatisierter Gin",
+  "tags_de": [
+    "Gin",
+    "aromatisiert",
+    "Zitronengras",
+    "Ingwer",
+    "exotisch"
+  ],
+  "notes_de": "Eine beliebte Zutat in lokalen Delikatessen — das Zitronengras wurde mit wärmendem Ingwer sowie einer Vielzahl exotischer Kräuter und Gewürze vermischt, was Whitley Neill Lemongrass & Ginger Gin seinen unverwechselbaren, duftenden, zitrusartigen Geschmack verleiht. Ein handgefertigter Gin von außergewöhnlicher Qualität mit einem Geschmack, der so reich ist wie seine Herkunft."
+}

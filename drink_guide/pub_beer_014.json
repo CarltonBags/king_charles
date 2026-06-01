@@ -1,0 +1,56 @@
+{
+  "id": "pub_beer_014",
+  "name": "Brooklyn The Stonewall Inn IPA",
+  "category": "beer",
+  "subcategory": "india pale ale",
+  "brand_or_producer": "Brooklyn Brewery",
+  "abv": 5.0,
+  "taste_profile": {
+    "primary_notes": [
+      "citrus peel",
+      "grapefruit",
+      "hoppy",
+      "crisp"
+    ],
+    "sweetness": "low",
+    "bitterness": "medium",
+    "body": "medium",
+    "finish": "crisp, hoppy",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Zitrusschale",
+      "Grapefruit",
+      "hopfig",
+      "spritzig"
+    ]
+  },
+  "origin": "Brooklyn, New York, USA",
+  "food_pairings": [
+    "Kettle Sweet Chilli",
+    "Kettle Jalapeño",
+    "Kettle Sea Salt"
+  ],
+  "tags": [
+    "ipa",
+    "draft",
+    "american",
+    "craft",
+    "citrus"
+  ],
+  "notes": "Fearless IPA for all. Unabashed notes of citrus peel and grapefruit, refreshing IPA celebrating diversity. Balanced, crisp and hoppy.",
+  "metadata": {
+    "source_page": 4,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "India Pale Ale",
+  "tags_de": [
+    "IPA",
+    "vom Fass",
+    "amerikanisch",
+    "Craft",
+    "Zitrus"
+  ],
+  "notes_de": "Furchtloses IPA für alle. Unverhohlene Noten von Zitrusschale und Grapefruit, ein erfrischendes IPA, das Diversität zelebriert. Ausgewogen, knackig und hopfig."
+}

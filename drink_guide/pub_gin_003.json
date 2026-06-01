@@ -1,0 +1,58 @@
+{
+  "id": "pub_gin_003",
+  "name": "Bosford Rose",
+  "category": "gin",
+  "subcategory": "flavoured gin",
+  "brand_or_producer": "Bosford",
+  "abv": 37.5,
+  "taste_profile": {
+    "primary_notes": [
+      "strawberry",
+      "raspberry",
+      "juniper",
+      "citrus",
+      "sweet"
+    ],
+    "sweetness": "medium-high",
+    "bitterness": "low",
+    "body": "medium",
+    "finish": "sweet, soft, fruity",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "Erdbeere",
+      "Himbeere",
+      "Wacholder",
+      "Zitrus",
+      "süß"
+    ]
+  },
+  "origin": "England",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Kettle Sea Salt & Balsamic Vinegar of Modena",
+    "Kettle Sea Salt & Black Pepper"
+  ],
+  "tags": [
+    "gin",
+    "flavoured",
+    "pink gin",
+    "berry",
+    "sweet"
+  ],
+  "notes": "Gin of juniper, coriander, angelica, lemon and orange peel, blended with strawberry and raspberry flavours and a hint of sugar for a light sweetness to soften the sometimes-bitter taste gin is known for.",
+  "metadata": {
+    "source_page": 2,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Gin",
+  "subcategory_de": "Aromatisierter Gin",
+  "tags_de": [
+    "Gin",
+    "aromatisiert",
+    "Pink Gin",
+    "Beere",
+    "süß"
+  ],
+  "notes_de": "Dieser Gin besteht aus Wacholder, Koriander, Engelwurz, Zitronen- und Orangenschale. Er wird dann mit Erdbeer- und Himbeeraromen und einem Hauch Zucker verfeinert, was dem Bosford Rose eine leichte Süße verleiht, um den manchmal bitteren Geschmack von Gin zu mildern."
+}

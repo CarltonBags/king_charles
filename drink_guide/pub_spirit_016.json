@@ -1,0 +1,58 @@
+{
+  "id": "pub_spirit_016",
+  "name": "Limoncello di Capri",
+  "category": "spirit",
+  "subcategory": "lemon liqueur",
+  "brand_or_producer": "Limoncello di Capri",
+  "abv": 30.0,
+  "taste_profile": {
+    "primary_notes": [
+      "lemon",
+      "citrus",
+      "sweet",
+      "bright",
+      "zesty"
+    ],
+    "sweetness": "high",
+    "bitterness": "very low",
+    "body": "medium",
+    "finish": "sweet, lemony, bright",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "Zitrone",
+      "Zitrus",
+      "süß",
+      "leuchtend",
+      "würzig-frisch"
+    ]
+  },
+  "origin": "Capri, Italy",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Kettle Honey Barbeque",
+    "Kettle Sweet Chilli"
+  ],
+  "tags": [
+    "liqueur",
+    "italian",
+    "lemon",
+    "citrus",
+    "digestif"
+  ],
+  "notes": "Traditional Italian lemon liqueur from the island of Capri. Sweet, bright and intensely lemony.",
+  "metadata": {
+    "source_page": 35,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Spirituose",
+  "subcategory_de": "Zitronenlikör",
+  "tags_de": [
+    "Likör",
+    "italienisch",
+    "Zitrone",
+    "Zitrus",
+    "Digestif"
+  ],
+  "notes_de": "Traditioneller italienischer Zitronenlikör von der Insel Capri. Süß, hell und intensiv zitronig."
+}

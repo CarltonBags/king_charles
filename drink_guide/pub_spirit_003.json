@@ -1,0 +1,54 @@
+{
+  "id": "pub_spirit_003",
+  "name": "Ketten Fett",
+  "category": "spirit",
+  "subcategory": "herbal liqueur",
+  "brand_or_producer": "Ketten Fett",
+  "abv": 35.0,
+  "taste_profile": {
+    "primary_notes": [
+      "herbal",
+      "spicy",
+      "warming",
+      "complex"
+    ],
+    "sweetness": "medium",
+    "bitterness": "medium",
+    "body": "medium-full",
+    "finish": "warming, herbal",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "kräuterig",
+      "würzig",
+      "wärmend",
+      "komplex"
+    ]
+  },
+  "origin": "Germany",
+  "food_pairings": [
+    "Taylors Haggis & Cracked Black Pepper",
+    "Taylors Aberdeen Angus",
+    "Taylors Fiery Pickled Onions"
+  ],
+  "tags": [
+    "liqueur",
+    "german",
+    "herbal",
+    "shot"
+  ],
+  "notes": "German herbal liqueur with a distinctive warming character and complex spice notes.",
+  "metadata": {
+    "source_page": 35,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Spirituose",
+  "subcategory_de": "Kräuterlikör",
+  "tags_de": [
+    "Likör",
+    "deutsch",
+    "kräuterig",
+    "Shot"
+  ],
+  "notes_de": "Deutscher Kräuterlikör mit unverwechselbarem, wärmendem Charakter und komplexen Gewürznoten."
+}

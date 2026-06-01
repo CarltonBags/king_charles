@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_112",
+  "name": "Adnams Ghost Ship Pale Ale",
+  "category": "beer",
+  "subcategory": "english pale ale",
+  "brand_or_producer": "Adnams",
+  "abv": 4.5,
+  "taste_profile": {
+    "primary_notes": [
+      "citrus",
+      "tropical",
+      "biscuity",
+      "clean",
+      "balanced"
+    ],
+    "sweetness": "medium-low",
+    "bitterness": "medium",
+    "body": "medium",
+    "finish": "clean, moderate bitter",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Zitrus",
+      "tropisch",
+      "keksig",
+      "sauber",
+      "ausgewogen"
+    ]
+  },
+  "origin": "Southwold, England",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Kettle Sweet Chilli",
+    "Kettle Matured Cheddar Cheese & Red Onions"
+  ],
+  "tags": [
+    "pale ale",
+    "bottle",
+    "english",
+    "citrus",
+    "session"
+  ],
+  "notes": "Originally Halloween seasonal English Pale Ale. Amber with citrus and tropical fruit aroma, balanced with light biscuity malt. Bright citrus and tropical flavour, clean moderate bitterness.",
+  "metadata": {
+    "source_page": 18,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Englisches Pale Ale",
+  "tags_de": [
+    "Pale Ale",
+    "Flasche",
+    "englisch",
+    "Zitrus",
+    "Session"
+  ],
+  "notes_de": "Ursprünglich als Halloween-Saisonbier gebraut, dieses englische Pale Ale ist bernsteinfarben mit Zitrus- und tropischem Fruchtaroma, ausgewogen mit leichtem, keksigem Malz. Heller Zitrus- und tropischer Geschmack mit sauberer, moderater Bitterkeit."
+}

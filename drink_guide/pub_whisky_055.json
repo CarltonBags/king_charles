@@ -1,0 +1,60 @@
+{
+  "id": "pub_whisky_055",
+  "name": "Woodford Reserve",
+  "category": "bourbon",
+  "subcategory": "kentucky straight bourbon",
+  "brand_or_producer": "Woodford Reserve",
+  "abv": 43.2,
+  "taste_profile": {
+    "primary_notes": [
+      "grain",
+      "oak",
+      "caramel",
+      "spice",
+      "fruit"
+    ],
+    "sweetness": "medium",
+    "bitterness": "medium",
+    "body": "medium",
+    "finish": "balanced, complex, elegant",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "Getreide",
+      "Eiche",
+      "Karamell",
+      "Gewürz",
+      "Frucht"
+    ]
+  },
+  "origin": "Kentucky, USA",
+  "food_pairings": [
+    "Taylors Haggis & Cracked Black Pepper",
+    "Taylors Aberdeen Angus",
+    "Taylors Fiery Pickled Onions"
+  ],
+  "tags": [
+    "bourbon",
+    "kentucky",
+    "american",
+    "premium",
+    "historic",
+    "complex"
+  ],
+  "notes": "The art of making fine bourbon since 1812 on a National Historic Landmark site. Perfectly balanced taste comprised of more than 200 detectable flavor notes, from bold grain and wood to sweet aromatics, spice, and fruit & floral notes.",
+  "metadata": {
+    "source_page": 9,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bourbon",
+  "subcategory_de": "Kentucky Straight Bourbon",
+  "tags_de": [
+    "Bourbon",
+    "Kentucky",
+    "amerikanisch",
+    "Premium",
+    "historisch",
+    "komplex"
+  ],
+  "notes_de": "Die Kunst, feinen Bourbon herzustellen, fand erstmals 1812 auf dem Gelände der Woodford Reserve Distillery statt, einem National Historic Landmark. Der perfekt ausgewogene Geschmack unseres Kentucky Straight Bourbon Whiskey besteht aus mehr als 200 nachweisbaren Geschmacksnoten — von kräftigem Getreide und Holz bis zu süßen Aromen, Gewürzen sowie Frucht- und Blumennoten."
+}

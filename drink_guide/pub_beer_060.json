@@ -1,0 +1,56 @@
+{
+  "id": "pub_beer_060",
+  "name": "Kona Big Wave Golden Ale",
+  "category": "beer",
+  "subcategory": "golden ale",
+  "brand_or_producer": "Kona Brewing Co.",
+  "abv": 4.4,
+  "taste_profile": {
+    "primary_notes": [
+      "tropical fruit",
+      "honey",
+      "caramel",
+      "crisp"
+    ],
+    "sweetness": "medium",
+    "bitterness": "low",
+    "body": "light",
+    "finish": "smooth, clean",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "tropische Frucht",
+      "Honig",
+      "Karamell",
+      "spritzig"
+    ]
+  },
+  "origin": "Hawaii, USA",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Kettle Sweet Chilli",
+    "Kettle Honey Barbeque"
+  ],
+  "tags": [
+    "golden ale",
+    "bottle",
+    "hawaiian",
+    "tropical",
+    "refreshing"
+  ],
+  "notes": "Brewed in Hawaii. Light malt sweet aroma with hints of tropical fruit. Crisp and refreshing, balanced malt profile with notes of honey and caramel. Light-bodied, smooth clean finish.",
+  "metadata": {
+    "source_page": 11,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Golden Ale",
+  "tags_de": [
+    "Golden Ale",
+    "Flasche",
+    "hawaiianisch",
+    "tropisch",
+    "erfrischend"
+  ],
+  "notes_de": "Auf Hawaii gebraut. Leichtes, malzig-süßes Aroma mit Anklängen tropischer Früchte. Knackig und erfrischend mit ausgewogenem Malzprofil und Honig- sowie Karamellnoten. Leichter Körper, weicher, sauberer Abgang."
+}

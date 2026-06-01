@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_103",
+  "name": "Fuller's India Pale Ale",
+  "category": "beer",
+  "subcategory": "english ipa",
+  "brand_or_producer": "Fuller's Brewery",
+  "abv": 5.3,
+  "taste_profile": {
+    "primary_notes": [
+      "earthy",
+      "floral",
+      "toffee",
+      "biscuit",
+      "orange peel"
+    ],
+    "sweetness": "medium",
+    "bitterness": "medium",
+    "body": "medium",
+    "finish": "resinous, herbal",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "erdig",
+      "blumig",
+      "Toffee",
+      "Keks",
+      "Orangenschale"
+    ]
+  },
+  "origin": "London, England",
+  "food_pairings": [
+    "Taylors Haggis & Cracked Black Pepper",
+    "Kettle Matured Cheddar Cheese & Red Onions",
+    "Kettle Sea Salt"
+  ],
+  "tags": [
+    "ipa",
+    "english",
+    "bottle",
+    "traditional",
+    "balanced"
+  ],
+  "notes": "Pale copper English IPA. Earthy and floral aroma, balanced toffee and biscuit sweetness, cut by resinous herbal hop bitterness and hints of orange peel spice.",
+  "metadata": {
+    "source_page": 17,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Englisches IPA",
+  "tags_de": [
+    "IPA",
+    "englisch",
+    "Flasche",
+    "traditionell",
+    "ausgewogen"
+  ],
+  "notes_de": "Helles, kupferfarbenes, englisches IPA. Erdiges und blumiges Aroma mit ausgewogener Toffee- und Kekssüße, durchschnitten von harziger, kräuteriger Hopfenbitterkeit und Anklängen von Orangenschalen-Würze."
+}

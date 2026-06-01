@@ -1,0 +1,58 @@
+{
+  "id": "pub_gin_013",
+  "name": "Hendricks",
+  "category": "gin",
+  "subcategory": "scottish gin",
+  "brand_or_producer": "Hendrick's",
+  "abv": 44.0,
+  "taste_profile": {
+    "primary_notes": [
+      "rose",
+      "cucumber",
+      "floral",
+      "smooth",
+      "balanced"
+    ],
+    "sweetness": "low",
+    "bitterness": "very low",
+    "body": "medium",
+    "finish": "smooth, floral, cucumber",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "Rose",
+      "Gurke",
+      "blumig",
+      "weich",
+      "ausgewogen"
+    ]
+  },
+  "origin": "Girvan, Scotland",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Tyrrell's Sea Salt & Cider Vinegar",
+    "Kettle Sea Salt & Balsamic Vinegar of Modena"
+  ],
+  "tags": [
+    "gin",
+    "scottish",
+    "cucumber",
+    "rose",
+    "premium"
+  ],
+  "notes": "An unusual gin created from eleven fine botanicals. The curious, yet marvellous, infusions of rose and cucumber imbue this spirit with its uniquely balanced flavour resulting in an impeccably smooth distinct gin.",
+  "metadata": {
+    "source_page": 2,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Gin",
+  "subcategory_de": "Schottischer Gin",
+  "tags_de": [
+    "Gin",
+    "schottisch",
+    "Gurke",
+    "Rose",
+    "Premium"
+  ],
+  "notes_de": "Hendrick's ist ein ungewöhnlicher Gin aus elf feinen Botanicals. Die neugierigen und doch wunderbaren Aufgüsse von Rose und Gurke verleihen unserem Geist seinen einzigartig ausgewogenen Geschmack und machen ihn zu einem tadellos weichen, unverwechselbaren Gin."
+}

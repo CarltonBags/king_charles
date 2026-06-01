@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_079",
+  "name": "Harvey's Prince of Denmark",
+  "category": "beer",
+  "subcategory": "imperial stout",
+  "brand_or_producer": "Harvey's",
+  "abv": 7.5,
+  "taste_profile": {
+    "primary_notes": [
+      "burnt chocolate",
+      "brandy",
+      "umami",
+      "vanilla",
+      "liquorice"
+    ],
+    "sweetness": "medium",
+    "bitterness": "medium-high",
+    "body": "full",
+    "finish": "dry, bittersweet",
+    "carbonation": "low",
+    "primary_notes_de": [
+      "angebrannte Schokolade",
+      "Brandy",
+      "Umami",
+      "Vanille",
+      "Lakritz"
+    ]
+  },
+  "origin": "Lewes, England",
+  "food_pairings": [
+    "Kettle Intense Truffle and Sea Salt",
+    "Kettle Matured Cheddar Cheese & Red Onions",
+    "Taylors Haggis & Cracked Black Pepper"
+  ],
+  "tags": [
+    "imperial stout",
+    "bottle",
+    "english",
+    "room temp",
+    "rich"
+  ],
+  "notes": "Imperial stout served at room temperature. Dark brown, complex aroma with burnt chocolate, brandy, umami and vanilla. Rich warming with leather, chocolate, liquorice and roasted malt. Dry finish with lingering bittersweet aftertaste.",
+  "metadata": {
+    "source_page": 14,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Imperial Stout",
+  "tags_de": [
+    "Imperial Stout",
+    "Flasche",
+    "englisch",
+    "Zimmertemperatur",
+    "reichhaltig"
+  ],
+  "notes_de": "Imperial Stout, bei Zimmertemperatur serviert. Dunkelbraun mit komplexem Aroma aus verbrannter Schokolade, Brandy, Umami und Vanille. Reichhaltig und wärmend mit Leder, Schokolade, Lakritz und Röstmalz. Trockener Abgang mit anhaltendem, bittersüßem Nachgeschmack."
+}

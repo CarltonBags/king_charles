@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_167",
+  "name": "Gladiator Cider",
+  "category": "cider",
+  "subcategory": "strong cider",
+  "brand_or_producer": "Unknown",
+  "abv": 8.4,
+  "taste_profile": {
+    "primary_notes": [
+      "apple",
+      "strong",
+      "rustic",
+      "fruity",
+      "golden"
+    ],
+    "sweetness": "medium-low",
+    "bitterness": "medium",
+    "body": "medium-full",
+    "finish": "strong, rustic, apple",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Apfel",
+      "stark",
+      "rustikal",
+      "fruchtig",
+      "golden"
+    ]
+  },
+  "origin": "Unknown",
+  "food_pairings": [
+    "Taylors Haggis & Cracked Black Pepper",
+    "Taylors Aberdeen Angus",
+    "Taylors Fiery Pickled Onions"
+  ],
+  "tags": [
+    "cider",
+    "strong",
+    "bottle",
+    "rustic",
+    "apple"
+  ],
+  "notes": "Strong rustic cider with a deep golden colour and strong apple character with a subtle fruity undertone.",
+  "metadata": {
+    "source_page": 27,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Cidre",
+  "subcategory_de": "Starker Cidre",
+  "tags_de": [
+    "Cidre",
+    "stark",
+    "Flasche",
+    "rustikal",
+    "Apfel"
+  ],
+  "notes_de": "Starker, rustikaler Cidre mit tiefer, goldener Farbe und kräftigem Apfelcharakter mit dezentem, fruchtigem Unterton."
+}

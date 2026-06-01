@@ -1,0 +1,58 @@
+{
+  "id": "pub_spirit_026",
+  "name": "Drambuie",
+  "category": "spirit",
+  "subcategory": "scotch liqueur",
+  "brand_or_producer": "Drambuie",
+  "abv": 40.0,
+  "taste_profile": {
+    "primary_notes": [
+      "honey",
+      "whisky",
+      "herbal",
+      "spicy",
+      "warming"
+    ],
+    "sweetness": "high",
+    "bitterness": "low",
+    "body": "medium-full",
+    "finish": "sweet, warming, honey",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "Honig",
+      "Whisky",
+      "kräuterig",
+      "würzig",
+      "wärmend"
+    ]
+  },
+  "origin": "Scotland",
+  "food_pairings": [
+    "Taylors Haggis & Cracked Black Pepper",
+    "Taylors Aberdeen Angus",
+    "Taylors Fiery Pickled Onions"
+  ],
+  "tags": [
+    "liqueur",
+    "scottish",
+    "whisky",
+    "honey",
+    "herbal"
+  ],
+  "notes": "Scottish liqueur made with aged Scotch whisky, heather honey, herbs and spices. Rich, sweet and warming.",
+  "metadata": {
+    "source_page": 35,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Spirituose",
+  "subcategory_de": "Scotch-Likör",
+  "tags_de": [
+    "Likör",
+    "schottisch",
+    "Whisky",
+    "Honig",
+    "kräuterig"
+  ],
+  "notes_de": "Schottischer Likör aus gereiftem Scotch Whisky, Heidehonig, Kräutern und Gewürzen. Reichhaltig, süß und wärmend."
+}

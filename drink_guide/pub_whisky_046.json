@@ -1,0 +1,58 @@
+{
+  "id": "pub_whisky_046",
+  "name": "Four Roses",
+  "category": "bourbon",
+  "subcategory": "kentucky straight bourbon",
+  "brand_or_producer": "Four Roses",
+  "abv": 40.0,
+  "taste_profile": {
+    "primary_notes": [
+      "caramel",
+      "vanilla",
+      "oak",
+      "mellow",
+      "smooth"
+    ],
+    "sweetness": "medium",
+    "bitterness": "low",
+    "body": "medium",
+    "finish": "long, soft, mellow",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "Karamell",
+      "Vanille",
+      "Eiche",
+      "mild",
+      "weich"
+    ]
+  },
+  "origin": "Kentucky, USA",
+  "food_pairings": [
+    "Taylors Haggis & Cracked Black Pepper",
+    "Taylors Aberdeen Angus",
+    "Taylors Fiery Pickled Onions"
+  ],
+  "tags": [
+    "bourbon",
+    "kentucky",
+    "american",
+    "smooth",
+    "classic"
+  ],
+  "notes": "Smooth and mellow Bourbon with a long and soft finish. Unique aromas and flavours for cocktails, on the rocks, or with a splash. A worldwide favourite.",
+  "metadata": {
+    "source_page": 9,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bourbon",
+  "subcategory_de": "Kentucky Straight Bourbon",
+  "tags_de": [
+    "Bourbon",
+    "Kentucky",
+    "amerikanisch",
+    "weich",
+    "klassisch"
+  ],
+  "notes_de": "Mischen Sie Ihren Lieblingscocktail mit einem raffinierten, zeitgenössischen Flair mit diesem weltweiten Favoriten. Genießen Sie diesen weichen und milden Bourbon mit seinem langen und sanften Abgang. 80 Proof, 40 % Alkohol."
+}

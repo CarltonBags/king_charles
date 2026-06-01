@@ -1,0 +1,56 @@
+{
+  "id": "pub_beer_208",
+  "name": "Delirium Nocturnum",
+  "category": "beer",
+  "subcategory": "belgian strong dark ale",
+  "brand_or_producer": "Huyghe",
+  "abv": 8.5,
+  "taste_profile": {
+    "primary_notes": [
+      "red fruits",
+      "toasted bread",
+      "chocolate",
+      "toffee",
+      "dark"
+    ],
+    "sweetness": "medium",
+    "bitterness": "medium-low",
+    "body": "full",
+    "finish": "rich, toasty, chocolate",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "rote Früchte",
+      "Toastbrot",
+      "Schokolade",
+      "Toffee",
+      "dunkel"
+    ]
+  },
+  "origin": "Melle, Belgium",
+  "food_pairings": [
+    "Kettle Matured Cheddar Cheese & Red Onions",
+    "Tyrrell's Mature Cheddar & Chive",
+    "Kettle Intense Truffle and Sea Salt"
+  ],
+  "tags": [
+    "belgian",
+    "strong dark ale",
+    "bottle",
+    "clearance"
+  ],
+  "notes": "Dark, top-fermented strong beer with bottle fermentation. Aromas of red fruits and toasted bread, with notes of chocolate and toffee. Clearance item.",
+  "metadata": {
+    "source_page": 40,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Belgisches Starkes Dunkelbier",
+  "tags_de": [
+    "belgisch",
+    "Starkes Dunkel",
+    "Flasche",
+    "Abverkauf"
+  ],
+  "notes_de": "Dunkles, obergäriges Starkbier mit Flaschengärung. Aromen von roten Früchten und getoastetem Brot mit Noten von Schokolade und Toffee. Abverkaufsware."
+}

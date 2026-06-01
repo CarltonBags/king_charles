@@ -1,0 +1,56 @@
+{
+  "id": "pub_beer_219",
+  "name": "Tankbusters All My Heroes Are Dead IPA",
+  "category": "beer",
+  "subcategory": "india pale ale",
+  "brand_or_producer": "Tankbusters",
+  "abv": 5.5,
+  "taste_profile": {
+    "primary_notes": [
+      "tropical",
+      "lime",
+      "citrus",
+      "mild bitter",
+      "balanced"
+    ],
+    "sweetness": "medium-low",
+    "bitterness": "medium",
+    "body": "medium",
+    "finish": "mild, tropical, balanced",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "tropisch",
+      "Limette",
+      "Zitrus",
+      "mild-bitter",
+      "ausgewogen"
+    ]
+  },
+  "origin": "Poland",
+  "food_pairings": [
+    "Kettle Sweet Chilli",
+    "Kettle Jalapeño",
+    "Kettle Sweet Chilli & Sour Cream"
+  ],
+  "tags": [
+    "ipa",
+    "can",
+    "polish",
+    "clearance"
+  ],
+  "notes": "Pleasant mild bitterness perfectly complemented by tropical and lime aromas from Citra BBC, Motueka and Cascade BBC hops. Clearance item.",
+  "metadata": {
+    "source_page": 42,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "India Pale Ale",
+  "tags_de": [
+    "IPA",
+    "Dose",
+    "polnisch",
+    "Abverkauf"
+  ],
+  "notes_de": "Angenehme, milde Bitterkeit, perfekt ergänzt durch tropische und Limetten-Aromen von Citra BBC-, Motueka- und Cascade BBC-Hopfen. Abverkaufsware."
+}

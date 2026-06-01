@@ -1,0 +1,58 @@
+{
+  "id": "pub_whisky_051",
+  "name": "Jack Daniel's Tennessee Fire",
+  "category": "bourbon",
+  "subcategory": "flavoured whiskey",
+  "brand_or_producer": "Jack Daniel's",
+  "abv": 35.0,
+  "taste_profile": {
+    "primary_notes": [
+      "cinnamon",
+      "spicy",
+      "warming",
+      "sweet",
+      "smooth"
+    ],
+    "sweetness": "high",
+    "bitterness": "very low",
+    "body": "medium",
+    "finish": "warm, cinnamon, sweet",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "Zimt",
+      "würzig",
+      "wärmend",
+      "süß",
+      "weich"
+    ]
+  },
+  "origin": "Lynchburg, Tennessee, USA",
+  "food_pairings": [
+    "Kettle Sweet Chilli",
+    "Kettle Jalapeño",
+    "Kettle Sweet Chilli & Sour Cream"
+  ],
+  "tags": [
+    "tennessee whiskey",
+    "flavoured",
+    "cinnamon",
+    "sweet",
+    "warming"
+  ],
+  "notes": "Warm cinnamon liqueur blended with the bold character of Jack Daniel's Old No. 7 for a classic spirit with a surprisingly warm finish.",
+  "metadata": {
+    "source_page": 9,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bourbon",
+  "subcategory_de": "Aromatisierter Whiskey",
+  "tags_de": [
+    "Tennessee Whiskey",
+    "aromatisiert",
+    "Zimt",
+    "süß",
+    "wärmend"
+  ],
+  "notes_de": "Manchmal ist es eine gute Sache, Feuer und Whiskey zu mischen. Unser Tennessee Fire vereint warmen Zimtlikör mit dem kräftigen Charakter von Jack Daniel's Old No. 7 zu einem klassischen Geist mit einem überraschend warmen Abgang."
+}

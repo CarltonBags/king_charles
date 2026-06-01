@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_160",
+  "name": "Orange & Lemon Cider",
+  "category": "cider",
+  "subcategory": "citrus cider",
+  "brand_or_producer": "Unknown",
+  "abv": 4.0,
+  "taste_profile": {
+    "primary_notes": [
+      "orange",
+      "lemon",
+      "citrus",
+      "zesty",
+      "sweet"
+    ],
+    "sweetness": "medium-high",
+    "bitterness": "low",
+    "body": "light",
+    "finish": "zesty, citrus",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Orange",
+      "Zitrone",
+      "Zitrus",
+      "würzig-frisch",
+      "süß"
+    ]
+  },
+  "origin": "Unknown",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Kettle Honey Barbeque",
+    "Kettle Sweet Chilli"
+  ],
+  "tags": [
+    "cider",
+    "citrus",
+    "bottle",
+    "orange",
+    "lemon"
+  ],
+  "notes": "Sweet cider with a fresh citrus orange flavour with a punch of zesty lemon.",
+  "metadata": {
+    "source_page": 26,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Cidre",
+  "subcategory_de": "Zitrus-Cidre",
+  "tags_de": [
+    "Cidre",
+    "Zitrus",
+    "Flasche",
+    "Orange",
+    "Zitrone"
+  ],
+  "notes_de": "Süßer Cidre mit frischem Zitrus-Orangen-Geschmack und einem Schuss spritziger Zitrone."
+}

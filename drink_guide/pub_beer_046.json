@@ -1,0 +1,54 @@
+{
+  "id": "pub_beer_046",
+  "name": "Huyghe Delirium Alcohol-Free",
+  "category": "beer",
+  "subcategory": "non-alcoholic belgian ale",
+  "brand_or_producer": "Huyghe",
+  "abv": 0.3,
+  "taste_profile": {
+    "primary_notes": [
+      "spicy",
+      "fruity",
+      "bitter",
+      "golden"
+    ],
+    "sweetness": "low",
+    "bitterness": "medium-low",
+    "body": "medium",
+    "finish": "dry, bitter",
+    "carbonation": "medium-high",
+    "primary_notes_de": [
+      "würzig",
+      "fruchtig",
+      "bitter",
+      "golden"
+    ]
+  },
+  "origin": "Melle, Belgium",
+  "food_pairings": [
+    "Kettle Matured Cheddar Cheese & Red Onions",
+    "Kettle Intense Truffle and Sea Salt",
+    "Kettle Sea Salt"
+  ],
+  "tags": [
+    "alcohol-free",
+    "belgian",
+    "craft",
+    "spicy"
+  ],
+  "notes": "Legendary Belgian beer experience without alcohol. Spicy and fruity aroma accompanied by slight bitterness. Clear golden yellow, fine-pored head.",
+  "metadata": {
+    "source_page": 9,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Alkoholfreies Belgisches Ale",
+  "tags_de": [
+    "alkoholfrei",
+    "belgisch",
+    "Craft",
+    "würzig"
+  ],
+  "notes_de": "Das legendäre belgische Bier-Erlebnis ohne Alkohol. Würziges und fruchtiges Aroma, begleitet von leichter Bitterkeit. Klares Goldgelb mit feinporigem Schaum."
+}

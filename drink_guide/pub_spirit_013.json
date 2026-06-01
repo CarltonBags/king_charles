@@ -1,0 +1,54 @@
+{
+  "id": "pub_spirit_013",
+  "name": "Krämer Dortmunder Tropfen",
+  "category": "spirit",
+  "subcategory": "herbal liqueur",
+  "brand_or_producer": "Krämer",
+  "abv": 40.0,
+  "taste_profile": {
+    "primary_notes": [
+      "herbal",
+      "botanical",
+      "warming",
+      "complex"
+    ],
+    "sweetness": "medium",
+    "bitterness": "medium-high",
+    "body": "medium-full",
+    "finish": "warming, herbal, complex",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "kräuterig",
+      "botanisch",
+      "wärmend",
+      "komplex"
+    ]
+  },
+  "origin": "Dortmund, Germany",
+  "food_pairings": [
+    "Taylors Haggis & Cracked Black Pepper",
+    "Taylors Aberdeen Angus",
+    "Taylors Fiery Pickled Onions"
+  ],
+  "tags": [
+    "liqueur",
+    "german",
+    "dortmund",
+    "herbal"
+  ],
+  "notes": "Traditional Dortmund herbal liqueur with complex botanical character and warming finish.",
+  "metadata": {
+    "source_page": 35,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Spirituose",
+  "subcategory_de": "Kräuterlikör",
+  "tags_de": [
+    "Likör",
+    "deutsch",
+    "Dortmund",
+    "kräuterig"
+  ],
+  "notes_de": "Traditioneller Dortmunder Kräuterlikör mit komplexem, botanischem Charakter und wärmendem Abgang."
+}

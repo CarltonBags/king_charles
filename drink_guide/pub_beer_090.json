@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_090",
+  "name": "Mongozo Coconut",
+  "category": "beer",
+  "subcategory": "fruit beer",
+  "brand_or_producer": "Mongozo",
+  "abv": 3.6,
+  "taste_profile": {
+    "primary_notes": [
+      "coconut",
+      "sweet",
+      "exotic",
+      "fruity"
+    ],
+    "sweetness": "high",
+    "bitterness": "very low",
+    "body": "medium",
+    "finish": "sweet, fruity",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Kokosnuss",
+      "süß",
+      "exotisch",
+      "fruchtig"
+    ]
+  },
+  "origin": "Belgium",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Kettle Sweet Chilli",
+    "Kettle Honey Barbeque"
+  ],
+  "tags": [
+    "fruit beer",
+    "bottle",
+    "belgian",
+    "coconut",
+    "fairtrade",
+    "gluten-free"
+  ],
+  "notes": "Belgian fruit beer with Fairtrade coconut. Exotic coconut scent and sweet fruity flavour with subtle beer aftertaste. Gluten-free.",
+  "metadata": {
+    "source_page": 15,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Fruchtbier",
+  "tags_de": [
+    "Fruchtbier",
+    "Flasche",
+    "belgisch",
+    "Kokosnuss",
+    "Fairtrade",
+    "glutenfrei"
+  ],
+  "notes_de": "Belgisches Fruchtbier mit Fairtrade-Kokosnuss. Exotischer Kokos-Duft und süßer, fruchtiger Geschmack mit dezentem Bier-Nachgeschmack. Glutenfrei."
+}

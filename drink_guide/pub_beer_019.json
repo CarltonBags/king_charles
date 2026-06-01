@@ -1,0 +1,56 @@
+{
+  "id": "pub_beer_019",
+  "name": "Staropramen Premium Lager",
+  "category": "beer",
+  "subcategory": "czech pale lager",
+  "brand_or_producer": "Staropramen",
+  "abv": 5.0,
+  "taste_profile": {
+    "primary_notes": [
+      "bready malt",
+      "floral",
+      "smooth",
+      "balanced"
+    ],
+    "sweetness": "medium-low",
+    "bitterness": "low",
+    "body": "medium",
+    "finish": "gentle hop",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Brotmalz",
+      "blumig",
+      "weich",
+      "ausgewogen"
+    ]
+  },
+  "origin": "Prague, Czech Republic",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Ültje Studentenfutter",
+    "Kettle Sea Salt & Black Pepper"
+  ],
+  "tags": [
+    "lager",
+    "draft",
+    "czech",
+    "smooth",
+    "balanced"
+  ],
+  "notes": "Czech Pale Lager, clear golden. Mild malt sweet aroma with light bread and floral notes. Balanced smooth, slightly sweet malty flavour with subtle bitterness. Gentle hop aftertaste.",
+  "metadata": {
+    "source_page": 4,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Tschechisches Helles Lager",
+  "tags_de": [
+    "Lager",
+    "vom Fass",
+    "tschechisch",
+    "weich",
+    "ausgewogen"
+  ],
+  "notes_de": "Tschechisches, helles Lager, klares Gold. Mildes, malzig-süßes Aroma mit leichtem Brot und blumigen Noten. Ausgewogen und weich mit leicht süß-malzigem Geschmack und subtiler Bitterkeit. Sanfter Hopfennachgeschmack."
+}

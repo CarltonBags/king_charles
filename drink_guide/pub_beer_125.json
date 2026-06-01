@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_125",
+  "name": "Beak Peach Hazy IPA",
+  "category": "beer",
+  "subcategory": "new england ipa",
+  "brand_or_producer": "Beak Brewery",
+  "abv": 6.5,
+  "taste_profile": {
+    "primary_notes": [
+      "stone fruit",
+      "nectarine",
+      "lime zest",
+      "mandarin",
+      "peach"
+    ],
+    "sweetness": "medium",
+    "bitterness": "medium",
+    "body": "medium",
+    "finish": "fruity, juicy",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Steinobst",
+      "Nektarine",
+      "Limettenschale",
+      "Mandarine",
+      "Pfirsich"
+    ]
+  },
+  "origin": "Lewes, England",
+  "food_pairings": [
+    "Kettle Sweet Chilli",
+    "Kettle Jalapeño",
+    "Tyrrell's Sweet Chilli & Red Pepper"
+  ],
+  "tags": [
+    "neipa",
+    "can",
+    "english",
+    "hazy",
+    "peach"
+  ],
+  "notes": "Brewed with Peacharine hops from Freestyle Hops. Intense notes of stone fruit, nectarine, lime zest and mandarin.",
+  "metadata": {
+    "source_page": 21,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "New England IPA",
+  "tags_de": [
+    "NEIPA",
+    "Dose",
+    "englisch",
+    "trüb",
+    "Pfirsich"
+  ],
+  "notes_de": "Gebraut mit Peacharine-Hopfen von Freestyle Hops. Intensive Noten von Steinobst, Nektarine, Limettenabrieb und Mandarine."
+}

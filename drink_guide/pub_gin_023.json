@@ -1,0 +1,58 @@
+{
+  "id": "pub_gin_023",
+  "name": "Whitley Neil Blood Orange Gin",
+  "category": "gin",
+  "subcategory": "flavoured gin",
+  "brand_or_producer": "Whitley Neill",
+  "abv": 43.0,
+  "taste_profile": {
+    "primary_notes": [
+      "blood orange",
+      "zesty",
+      "citrus",
+      "sweet",
+      "bright"
+    ],
+    "sweetness": "medium",
+    "bitterness": "low",
+    "body": "medium",
+    "finish": "smooth, crisp, citrus",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "Blutorange",
+      "würzig-frisch",
+      "Zitrus",
+      "süß",
+      "leuchtend"
+    ]
+  },
+  "origin": "England",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Tyrrell's Sea Salt & Cider Vinegar",
+    "Kettle Sea Salt & Balsamic Vinegar of Modena"
+  ],
+  "tags": [
+    "gin",
+    "flavoured",
+    "blood orange",
+    "citrus",
+    "craft"
+  ],
+  "notes": "A handcrafted gin bursting with the sweet citrus fruit flavour of Sicilian blood oranges. Bright, zesty aromas head up a clean, citrus gin with a smooth, crisp taste of the Mediterranean sun.",
+  "metadata": {
+    "source_page": 2,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Gin",
+  "subcategory_de": "Aromatisierter Gin",
+  "tags_de": [
+    "Gin",
+    "aromatisiert",
+    "Blutorange",
+    "Zitrus",
+    "Craft"
+  ],
+  "notes_de": "Ein handgefertigter Gin von außergewöhnlicher Qualität, der vor süßem Zitrusfruchtgeschmack sizilianischer Blutorangen nur so strotzt. Helle, spritzige Aromen führen einen sauberen Zitrus-Gin an und in jedem Tropfen ein weicher, knackiger Geschmack der mediterranen Sonne."
+}

@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_186",
+  "name": "Somersby Orange Spritz",
+  "category": "cider",
+  "subcategory": "citrus cider",
+  "brand_or_producer": "Somersby",
+  "abv": 4.5,
+  "taste_profile": {
+    "primary_notes": [
+      "orange",
+      "bittersweet",
+      "herbal",
+      "fruity",
+      "sparkling"
+    ],
+    "sweetness": "medium",
+    "bitterness": "medium-low",
+    "body": "light-medium",
+    "finish": "bittersweet, long-lasting",
+    "carbonation": "medium-high",
+    "primary_notes_de": [
+      "Orange",
+      "bittersüß",
+      "kräuterig",
+      "fruchtig",
+      "prickelnd"
+    ]
+  },
+  "origin": "Denmark",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Tyrrell's Sea Salt & Cider Vinegar",
+    "Kettle Matured Cheddar Cheese & Red Onions"
+  ],
+  "tags": [
+    "cider",
+    "can",
+    "danish",
+    "orange",
+    "sparkling"
+  ],
+  "notes": "Sparkling cider with the taste of bittersweet oranges: refreshing combination of pleasant bitterness and fruity sweetness. Intense fruity orange aroma and light herbal notes. Pleasantly bitter with long-lasting sweetness and acidity.",
+  "metadata": {
+    "source_page": 30,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Cidre",
+  "subcategory_de": "Zitrus-Cidre",
+  "tags_de": [
+    "Cidre",
+    "Dose",
+    "dänisch",
+    "Orange",
+    "prickelnd"
+  ],
+  "notes_de": "Prickelnder Cidre mit dem Geschmack bittersüßer Orangen: eine erfrischende Kombination aus angenehmer Bitterkeit und fruchtiger Süße. Intensives, fruchtiges Orangenaroma und leichte Kräuternoten. Angenehm bitter mit anhaltender Süße und Säure."
+}

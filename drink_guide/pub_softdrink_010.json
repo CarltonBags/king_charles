@@ -1,0 +1,58 @@
+{
+  "id": "pub_softdrink_010",
+  "name": "Fevertree Mediterranean Tonic Water",
+  "category": "soft_drink",
+  "subcategory": "tonic water",
+  "brand_or_producer": "Fever-Tree",
+  "abv": 0.0,
+  "taste_profile": {
+    "primary_notes": [
+      "lemon",
+      "thyme",
+      "rosemary",
+      "herbal",
+      "citrus"
+    ],
+    "sweetness": "low",
+    "bitterness": "medium-low",
+    "body": "light",
+    "finish": "herbal, aromatic, crisp",
+    "carbonation": "high",
+    "primary_notes_de": [
+      "Zitrone",
+      "Thymian",
+      "Rosmarin",
+      "kräuterig",
+      "Zitrus"
+    ]
+  },
+  "origin": "England",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Tyrrell's Sea Salt & Cider Vinegar",
+    "Kettle Sea Salt & Balsamic Vinegar of Modena"
+  ],
+  "tags": [
+    "soft drink",
+    "tonic",
+    "premium",
+    "mediterranean",
+    "mixer"
+  ],
+  "notes": "Premium Mediterranean tonic water infused with essential oils from Mediterranean lemon, thyme and rosemary. Aromatic and refreshing.",
+  "metadata": {
+    "source_page": 6,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Alkoholfreies Getränk",
+  "subcategory_de": "Tonic Water",
+  "tags_de": [
+    "Softdrink",
+    "Tonic",
+    "Premium",
+    "mediterran",
+    "Mixer"
+  ],
+  "notes_de": "Premium Mediterranean Tonic Water, angereichert mit ätherischen Ölen aus mediterraner Zitrone, Thymian und Rosmarin. Aromatisch und erfrischend."
+}

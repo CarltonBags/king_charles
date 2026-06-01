@@ -1,0 +1,56 @@
+{
+  "id": "pub_beer_007",
+  "name": "Brinkhoff's No.1",
+  "category": "beer",
+  "subcategory": "pilsner",
+  "brand_or_producer": "Brinkhoff's",
+  "abv": 5.0,
+  "taste_profile": {
+    "primary_notes": [
+      "biscuit malt",
+      "grassy",
+      "earthy",
+      "crisp"
+    ],
+    "sweetness": "low",
+    "bitterness": "medium",
+    "body": "light-medium",
+    "finish": "dry, bitter",
+    "carbonation": "medium-high",
+    "primary_notes_de": [
+      "Keksmalz",
+      "grasig",
+      "erdig",
+      "spritzig"
+    ]
+  },
+  "origin": "Dortmund, Germany",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Kettle Sea Salt & Balsamic Vinegar of Modena",
+    "Taylors Fiery Pickled Onions"
+  ],
+  "tags": [
+    "pilsner",
+    "draft",
+    "german",
+    "crisp",
+    "refreshing"
+  ],
+  "notes": "Clear pale golden Pils with biscuit malt and grassy hop aroma. Crisp malty flavour balanced by earthy bitterness, slightly bitter dry finish.",
+  "metadata": {
+    "source_page": 3,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Pilsner",
+  "tags_de": [
+    "Pilsner",
+    "vom Fass",
+    "deutsch",
+    "spritzig",
+    "erfrischend"
+  ],
+  "notes_de": "Klares, hellgoldenes Pils mit Keksmalz- und grasigem Hopfen-Aroma. Knackiger, malziger Geschmack, ausgewogen durch erdige Bitterkeit und einen leicht bitteren, trockenen Abgang."
+}

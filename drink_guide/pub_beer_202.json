@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_202",
+  "name": "Brewski Other Hans IPA",
+  "category": "beer",
+  "subcategory": "india pale ale",
+  "brand_or_producer": "Brewski",
+  "abv": 6.9,
+  "taste_profile": {
+    "primary_notes": [
+      "mango",
+      "pine resin",
+      "juicy",
+      "balanced",
+      "refreshing"
+    ],
+    "sweetness": "medium",
+    "bitterness": "medium",
+    "body": "medium",
+    "finish": "soft, refreshing, pine",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Mango",
+      "Kiefernharz",
+      "saftig",
+      "ausgewogen",
+      "erfrischend"
+    ]
+  },
+  "origin": "Sweden",
+  "food_pairings": [
+    "Kettle Sweet Chilli",
+    "Kettle Jalapeño",
+    "Kettle Sweet Chilli & Sour Cream"
+  ],
+  "tags": [
+    "ipa",
+    "bottle",
+    "swedish",
+    "clearance",
+    "juicy"
+  ],
+  "notes": "Juicy IPA with mango flavour and a hint of pine resin, balanced by moderate bitterness and a soft refreshing finish. Clearance item.",
+  "metadata": {
+    "source_page": 38,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "India Pale Ale",
+  "tags_de": [
+    "IPA",
+    "Flasche",
+    "schwedisch",
+    "Abverkauf",
+    "saftig"
+  ],
+  "notes_de": "Saftiges IPA mit Mango-Geschmack und einem Hauch von Kiefernharz, ausgewogen durch moderate Bitterkeit und weichen, erfrischenden Abgang. Abverkaufsware."
+}

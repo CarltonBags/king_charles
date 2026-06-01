@@ -1,0 +1,58 @@
+{
+  "id": "pub_whisky_040",
+  "name": "Bushmills 10 Year Old",
+  "category": "irish_whiskey",
+  "subcategory": "single malt irish whiskey",
+  "brand_or_producer": "Bushmills",
+  "abv": 40.0,
+  "taste_profile": {
+    "primary_notes": [
+      "ripe fruit",
+      "vanilla",
+      "toasted wood",
+      "zesty",
+      "creamy"
+    ],
+    "sweetness": "medium",
+    "bitterness": "very low",
+    "body": "medium",
+    "finish": "creamy, smooth, toasted",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "reife Frucht",
+      "Vanille",
+      "geröstetes Holz",
+      "würzig-frisch",
+      "cremig"
+    ]
+  },
+  "origin": "Bushmills, Northern Ireland",
+  "food_pairings": [
+    "Kettle Matured Cheddar Cheese & Red Onions",
+    "Tyrrell's Mature Cheddar & Chive",
+    "Kettle Intense Truffle and Sea Salt"
+  ],
+  "tags": [
+    "irish",
+    "single malt",
+    "aged",
+    "smooth",
+    "triple distilled"
+  ],
+  "notes": "A marriage of single malts matured for at least 10 years in hand-selected bourbon barrels and sherry butts. Zesty and fresh on the nose, followed by notes of ripe fruit, creamy vanilla and soft toasted wood.",
+  "metadata": {
+    "source_page": 8,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Irischer Whiskey",
+  "subcategory_de": "Single Malt Irish Whiskey",
+  "tags_de": [
+    "irisch",
+    "Single Malt",
+    "gereift",
+    "weich",
+    "dreifach destilliert"
+  ],
+  "notes_de": "Unser Bushmills 10 Year Old ist eine Vermählung von Single Malts, die mindestens zehn Jahre in handverlesenen Bourbonfässern und Sherry-Butts gereift sind. Spritzig und frisch in der Nase, gefolgt von Noten reifer Früchte, cremiger Vanille und weichem, getoastetem Holz."
+}

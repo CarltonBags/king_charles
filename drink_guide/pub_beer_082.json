@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_082",
+  "name": "Jopen Ongelovige Thomas",
+  "category": "beer",
+  "subcategory": "belgian quadrupel",
+  "brand_or_producer": "Jopen",
+  "abv": 10.0,
+  "taste_profile": {
+    "primary_notes": [
+      "fruity",
+      "caramel",
+      "malty",
+      "hoppy",
+      "complex"
+    ],
+    "sweetness": "medium",
+    "bitterness": "medium",
+    "body": "full",
+    "finish": "hoppy, warming",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "fruchtig",
+      "Karamell",
+      "malzig",
+      "hopfig",
+      "komplex"
+    ]
+  },
+  "origin": "Haarlem, Netherlands",
+  "food_pairings": [
+    "Kettle Matured Cheddar Cheese & Red Onions",
+    "Kettle Intense Truffle and Sea Salt",
+    "Taylors Haggis & Cracked Black Pepper"
+  ],
+  "tags": [
+    "quadrupel",
+    "bottle",
+    "dutch",
+    "hoppy",
+    "strong"
+  ],
+  "notes": "Fresh hoppy quadrupel offering a whole bouquet of fruity aromas and malty caramel. 10% ABV.",
+  "metadata": {
+    "source_page": 14,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Belgisches Quadrupel",
+  "tags_de": [
+    "Quadrupel",
+    "Flasche",
+    "niederländisch",
+    "hopfig",
+    "stark"
+  ],
+  "notes_de": "Frisches, hopfiges Quadrupel, das ein ganzes Bouquet von fruchtigen Aromen und malzigem Karamell bietet. 10% Vol."
+}

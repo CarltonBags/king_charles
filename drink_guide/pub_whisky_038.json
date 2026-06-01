@@ -1,0 +1,58 @@
+{
+  "id": "pub_whisky_038",
+  "name": "Mortlach 16 Year Old",
+  "category": "whisky",
+  "subcategory": "speyside single malt",
+  "brand_or_producer": "Mortlach",
+  "abv": 43.4,
+  "taste_profile": {
+    "primary_notes": [
+      "sherry",
+      "fruity",
+      "fragrant",
+      "rich",
+      "complex"
+    ],
+    "sweetness": "medium",
+    "bitterness": "medium",
+    "body": "full",
+    "finish": "rich, sherried, complex",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "Sherry",
+      "fruchtig",
+      "duftend",
+      "reichhaltig",
+      "komplex"
+    ]
+  },
+  "origin": "Speyside, Scotland",
+  "food_pairings": [
+    "Taylors Haggis & Cracked Black Pepper",
+    "Taylors Aberdeen Angus",
+    "Taylors Fiery Pickled Onions"
+  ],
+  "tags": [
+    "scotch",
+    "speyside",
+    "single malt",
+    "sherry cask",
+    "aged"
+  ],
+  "notes": "Inspired by the iconic first bottling of the 16-year-old released in 1992. Matured in only Sherry casks to impart rich, fruity, and fragrant notes atop the beasty complexity synonymous with Mortlach.",
+  "metadata": {
+    "source_page": 2,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Whisky",
+  "subcategory_de": "Speyside Single Malt",
+  "tags_de": [
+    "Scotch",
+    "Speyside",
+    "Single Malt",
+    "Sherryfass",
+    "gereift"
+  ],
+  "notes_de": "Dieser Single Malt Scotch Whisky ist inspiriert von der kultigen und lohnenden Erstabfüllung des 16-Jährigen von 1992. Er wurde ausschließlich in Sherryfässern gereift, um reiche, fruchtige und duftende Noten auf der für Mortlach typischen bestialischen Komplexität zu verleihen."
+}

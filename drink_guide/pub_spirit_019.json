@@ -1,0 +1,58 @@
+{
+  "id": "pub_spirit_019",
+  "name": "Sourz Raspberry",
+  "category": "spirit",
+  "subcategory": "fruit liqueur",
+  "brand_or_producer": "Sourz",
+  "abv": 15.0,
+  "taste_profile": {
+    "primary_notes": [
+      "raspberry",
+      "berry",
+      "sweet",
+      "tangy",
+      "bright"
+    ],
+    "sweetness": "high",
+    "bitterness": "very low",
+    "body": "light",
+    "finish": "sweet, tangy, raspberry",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "Himbeere",
+      "Beere",
+      "süß",
+      "spritzig-sauer",
+      "leuchtend"
+    ]
+  },
+  "origin": "England",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Kettle Honey Barbeque",
+    "Kettle Sweet Chilli"
+  ],
+  "tags": [
+    "liqueur",
+    "fruit",
+    "raspberry",
+    "shot",
+    "cocktail"
+  ],
+  "notes": "Raspberry flavoured liqueur. Sweet and tangy with bright raspberry character.",
+  "metadata": {
+    "source_page": 35,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Spirituose",
+  "subcategory_de": "Fruchtlikör",
+  "tags_de": [
+    "Likör",
+    "Frucht",
+    "Himbeere",
+    "Shot",
+    "Cocktail"
+  ],
+  "notes_de": "Himbeer-Likör. Süß und spritzig-sauer mit hellem Himbeer-Charakter."
+}

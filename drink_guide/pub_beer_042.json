@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_042",
+  "name": "Jopen Non-IPA",
+  "category": "beer",
+  "subcategory": "non-alcoholic india pale ale",
+  "brand_or_producer": "Jopen",
+  "abv": 0.3,
+  "taste_profile": {
+    "primary_notes": [
+      "tropical fruit",
+      "malt",
+      "earthy",
+      "piney",
+      "bitter"
+    ],
+    "sweetness": "medium-low",
+    "bitterness": "medium-high",
+    "body": "medium",
+    "finish": "long, dry, bitter",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "tropische Frucht",
+      "Malz",
+      "erdig",
+      "kieferig",
+      "bitter"
+    ]
+  },
+  "origin": "Haarlem, Netherlands",
+  "food_pairings": [
+    "Kettle Sweet Chilli",
+    "Kettle Jalapeño",
+    "Kettle Sea Salt"
+  ],
+  "tags": [
+    "alcohol-free",
+    "ipa",
+    "dutch",
+    "hoppy",
+    "craft"
+  ],
+  "notes": "Lightly golden slightly cloudy non-alcoholic IPA. Balanced aroma of sweet malt and tropical fruit. Fruity sweetness, firm bitterness with earthy piney notes. Long dry pleasantly bitter finish.",
+  "metadata": {
+    "source_page": 8,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Alkoholfreies India Pale Ale",
+  "tags_de": [
+    "alkoholfrei",
+    "IPA",
+    "niederländisch",
+    "hopfig",
+    "Craft"
+  ],
+  "notes_de": "Leicht goldenes, leicht trübes, alkoholfreies IPA. Ausgewogenes Aroma von süßem Malz und tropischen Früchten. Fruchtige Süße mit kräftiger Bitterkeit und erdig-kieferigen Noten. Langer, trockener, angenehm bitterer Abgang."
+}

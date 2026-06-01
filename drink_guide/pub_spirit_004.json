@@ -1,0 +1,58 @@
+{
+  "id": "pub_spirit_004",
+  "name": "Bärenjäger",
+  "category": "spirit",
+  "subcategory": "honey liqueur",
+  "brand_or_producer": "Bärenjäger",
+  "abv": 33.0,
+  "taste_profile": {
+    "primary_notes": [
+      "honey",
+      "floral",
+      "sweet",
+      "smooth",
+      "warming"
+    ],
+    "sweetness": "high",
+    "bitterness": "very low",
+    "body": "medium",
+    "finish": "smooth, honey, sweet",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "Honig",
+      "blumig",
+      "süß",
+      "weich",
+      "wärmend"
+    ]
+  },
+  "origin": "Germany",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Kettle Honey Barbeque",
+    "Kettle Sweet Chilli"
+  ],
+  "tags": [
+    "liqueur",
+    "german",
+    "honey",
+    "sweet",
+    "shot"
+  ],
+  "notes": "German honey liqueur. Smooth, sweet and warming with rich floral honey notes.",
+  "metadata": {
+    "source_page": 35,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Spirituose",
+  "subcategory_de": "Honiglikör",
+  "tags_de": [
+    "Likör",
+    "deutsch",
+    "Honig",
+    "süß",
+    "Shot"
+  ],
+  "notes_de": "Deutscher Honiglikör. Weich, süß und wärmend mit reichen, blumigen Honignoten."
+}

@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_134",
+  "name": "BRLO Berliner Weisse",
+  "category": "beer",
+  "subcategory": "berliner weisse",
+  "brand_or_producer": "BRLO",
+  "abv": 4.0,
+  "taste_profile": {
+    "primary_notes": [
+      "green apple",
+      "lemon",
+      "wheat malt",
+      "tart",
+      "crisp"
+    ],
+    "sweetness": "low",
+    "bitterness": "medium-high",
+    "body": "light",
+    "finish": "crisp, sour, refreshing",
+    "carbonation": "medium-high",
+    "primary_notes_de": [
+      "grüner Apfel",
+      "Zitrone",
+      "Weizenmalz",
+      "herb",
+      "spritzig"
+    ]
+  },
+  "origin": "Berlin, Germany",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Kettle Sea Salt & Balsamic Vinegar of Modena",
+    "Tyrrell's Sea Salt & Cider Vinegar"
+  ],
+  "tags": [
+    "sour",
+    "can",
+    "german",
+    "berlin",
+    "refreshing"
+  ],
+  "notes": "Refreshing sour beer, slightly hazy. Lightly tart aroma with hints of green apple, lemon and wheat malt. Crisp refreshing with bright citrus and sour notes balanced by soft malt sweetness.",
+  "metadata": {
+    "source_page": 23,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Berliner Weisse",
+  "tags_de": [
+    "Sour",
+    "Dose",
+    "deutsch",
+    "Berlin",
+    "erfrischend"
+  ],
+  "notes_de": "Erfrischendes Sauerbier, leicht trüb. Leicht herbes Aroma mit Anklängen von grünem Apfel, Zitrone und Weizenmalz. Knackig und erfrischend mit hellen Zitrus- und Sauernoten, ausgewogen durch weiche Malzsüße."
+}

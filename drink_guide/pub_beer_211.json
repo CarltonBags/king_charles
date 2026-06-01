@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_211",
+  "name": "Belhaven Scottish Stout",
+  "category": "beer",
+  "subcategory": "scottish stout",
+  "brand_or_producer": "Belhaven",
+  "abv": 7.0,
+  "taste_profile": {
+    "primary_notes": [
+      "coffee",
+      "dark chocolate",
+      "roasted",
+      "smooth",
+      "intense"
+    ],
+    "sweetness": "low",
+    "bitterness": "medium",
+    "body": "medium-full",
+    "finish": "roasted, smooth, intense",
+    "carbonation": "low",
+    "primary_notes_de": [
+      "Kaffee",
+      "dunkle Schokolade",
+      "geröstet",
+      "weich",
+      "intensiv"
+    ]
+  },
+  "origin": "Dunbar, Scotland",
+  "food_pairings": [
+    "Kettle Matured Cheddar Cheese & Red Onions",
+    "Tyrrell's Mature Cheddar & Chive",
+    "Kettle Intense Truffle and Sea Salt"
+  ],
+  "tags": [
+    "stout",
+    "bottle",
+    "scottish",
+    "clearance",
+    "roasted"
+  ],
+  "notes": "Brewed with three specialty malts for a pleasantly smooth beer with intense roasted aromas reminiscent of coffee and dark chocolate. Clearance item.",
+  "metadata": {
+    "source_page": 40,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Schottisches Stout",
+  "tags_de": [
+    "Stout",
+    "Flasche",
+    "schottisch",
+    "Abverkauf",
+    "geröstet"
+  ],
+  "notes_de": "Gebraut mit drei Spezialmalzen für ein angenehm weiches Bier mit intensiven Röstnoten, die an Kaffee und dunkle Schokolade erinnern. Abverkaufsware."
+}

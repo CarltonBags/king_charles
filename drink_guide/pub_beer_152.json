@@ -1,0 +1,60 @@
+{
+  "id": "pub_beer_152",
+  "name": "Browar Fortuna Miłosław Bezalkoholowe IPA",
+  "category": "beer",
+  "subcategory": "non-alcoholic ipa",
+  "brand_or_producer": "Browar Fortuna",
+  "abv": 0.5,
+  "taste_profile": {
+    "primary_notes": [
+      "citrus",
+      "resin",
+      "earl grey",
+      "hoppy",
+      "tea"
+    ],
+    "sweetness": "low",
+    "bitterness": "medium",
+    "body": "medium",
+    "finish": "citrus, resin, tea",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Zitrus",
+      "Harz",
+      "Earl Grey",
+      "hopfig",
+      "Tee"
+    ]
+  },
+  "origin": "Miłosław, Poland",
+  "food_pairings": [
+    "Kettle Sweet Chilli",
+    "Kettle Jalapeño",
+    "Kettle Sweet Chilli & Sour Cream"
+  ],
+  "tags": [
+    "alcohol-free",
+    "ipa",
+    "can",
+    "polish",
+    "tea",
+    "craft"
+  ],
+  "notes": "A distinct IPA with hoppy aroma and flavour but without alcohol. Dry-hopped with Citra, Amarillo, Chinook and Lubelski hops. Sencha Earl Grey tea completes the citrus and resin profile.",
+  "metadata": {
+    "source_page": 1,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Alkoholfreies IPA",
+  "tags_de": [
+    "alkoholfrei",
+    "IPA",
+    "Dose",
+    "polnisch",
+    "Tee",
+    "Craft"
+  ],
+  "notes_de": "Ein ausgeprägtes IPA mit hopfigem Aroma und Geschmack, aber ohne Alkohol. Trockengehopft mit einer Komposition von gleich vier Hopfensorten: Citra, Amarillo, Chinook und Lubelski. Die Zugabe von Sencha-Earl-Grey-Tee vervollständigt das Zitrus- und Harzprofil."
+}

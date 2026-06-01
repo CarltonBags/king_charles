@@ -1,0 +1,58 @@
+{
+  "id": "pub_whisky_016",
+  "name": "Balvenie 12 Years Old DoubleWood",
+  "category": "whisky",
+  "subcategory": "speyside single malt",
+  "brand_or_producer": "The Balvenie",
+  "abv": 40.0,
+  "taste_profile": {
+    "primary_notes": [
+      "vanilla",
+      "oak",
+      "honey",
+      "spice",
+      "smooth"
+    ],
+    "sweetness": "medium",
+    "bitterness": "low",
+    "body": "medium",
+    "finish": "smooth, woody, honeyed",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "Vanille",
+      "Eiche",
+      "Honig",
+      "Gewürz",
+      "weich"
+    ]
+  },
+  "origin": "Speyside, Scotland",
+  "food_pairings": [
+    "Kettle Matured Cheddar Cheese & Red Onions",
+    "Tyrrell's Mature Cheddar & Chive",
+    "Kettle Intense Truffle and Sea Salt"
+  ],
+  "tags": [
+    "scotch",
+    "speyside",
+    "single malt",
+    "wood finish",
+    "classic"
+  ],
+  "notes": "Gains its distinctive character from being matured in two different wood types. Each stage lends different qualities. Pioneered the 'wood finishing' technique in 1982, launched 1993.",
+  "metadata": {
+    "source_page": 2,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Whisky",
+  "subcategory_de": "Speyside Single Malt",
+  "tags_de": [
+    "Scotch",
+    "Speyside",
+    "Single Malt",
+    "Holzfass-Finish",
+    "klassisch"
+  ],
+  "notes_de": "Eingeführt 1993 nach einem Verfahren, das unser Malt Master David Stewart 1982 entwickelte — heute allgemein als ,,Wood Finishing'' bekannt. Der Balvenie DoubleWood Single Malt Whisky gewinnt seinen unverwechselbaren Charakter durch die Reifung in zwei verschiedenen Holzarten. Jede Stufe verleiht dem resultierenden Single Malt unterschiedliche Qualitäten."
+}

@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_068",
+  "name": "Orkney Brewery Corncrake Ale",
+  "category": "beer",
+  "subcategory": "golden ale",
+  "brand_or_producer": "Orkney Brewery",
+  "abv": 4.1,
+  "taste_profile": {
+    "primary_notes": [
+      "lemon",
+      "apricot",
+      "peach",
+      "biscuity",
+      "fruity"
+    ],
+    "sweetness": "medium-low",
+    "bitterness": "medium",
+    "body": "medium",
+    "finish": "fruity, refreshing",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Zitrone",
+      "Aprikose",
+      "Pfirsich",
+      "keksig",
+      "fruchtig"
+    ]
+  },
+  "origin": "Orkney, Scotland",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Kettle Paprika & Roasted Onion",
+    "Kettle Sweet Chilli"
+  ],
+  "tags": [
+    "golden ale",
+    "bottle",
+    "scottish",
+    "fruity",
+    "refreshing"
+  ],
+  "notes": "Irresistible golden ale. New world hops compliment biscuity pale malt. Thirst-quenching with fruit flavours of lemon, apricot and peach.",
+  "metadata": {
+    "source_page": 12,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Golden Ale",
+  "tags_de": [
+    "Golden Ale",
+    "Flasche",
+    "schottisch",
+    "fruchtig",
+    "erfrischend"
+  ],
+  "notes_de": "Unwiderstehliches Golden Ale. Neue-Welt-Hopfen ergänzen das keksige, helle Malz. Durstlöschend mit Fruchtaromen von Zitrone, Aprikose und Pfirsich."
+}

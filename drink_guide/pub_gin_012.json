@@ -1,0 +1,58 @@
+{
+  "id": "pub_gin_012",
+  "name": "Gordon's Pink",
+  "category": "gin",
+  "subcategory": "flavoured gin",
+  "brand_or_producer": "Gordon's",
+  "abv": 37.5,
+  "taste_profile": {
+    "primary_notes": [
+      "raspberry",
+      "strawberry",
+      "redcurrant",
+      "sweet",
+      "tangy"
+    ],
+    "sweetness": "medium-high",
+    "bitterness": "very low",
+    "body": "medium",
+    "finish": "sweet, berry, tangy",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "Himbeere",
+      "Erdbeere",
+      "Rote Johannisbeere",
+      "süß",
+      "spritzig-sauer"
+    ]
+  },
+  "origin": "London, England",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Kettle Sea Salt & Balsamic Vinegar of Modena",
+    "Kettle Sea Salt & Black Pepper"
+  ],
+  "tags": [
+    "gin",
+    "flavoured",
+    "pink gin",
+    "berry",
+    "natural"
+  ],
+  "notes": "Inspired by an 1880s Gordon's recipe. Perfectly crafted to balance the refreshing taste of Gordon's with natural sweetness of raspberries and strawberries, with the tang of redcurrant. Made using only natural fruit flavours.",
+  "metadata": {
+    "source_page": 2,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Gin",
+  "subcategory_de": "Aromatisierter Gin",
+  "tags_de": [
+    "Gin",
+    "aromatisiert",
+    "Pink Gin",
+    "Beere",
+    "natürlich"
+  ],
+  "notes_de": "Inspiriert von einem originalen Gordon's-Rezept aus den 1880er Jahren, ist Gordon's Pink perfekt darauf abgestimmt, den erfrischenden Geschmack von Gordon's mit der natürlichen Süße von Himbeeren und Erdbeeren sowie der Säure der Johannisbeere in einem einzigartigen, errötenden Ton zu vereinen. Hergestellt mit ausschließlich natürlichen Fruchtaromen."
+}

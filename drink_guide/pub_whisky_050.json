@@ -1,0 +1,58 @@
+{
+  "id": "pub_whisky_050",
+  "name": "Knob Creek",
+  "category": "bourbon",
+  "subcategory": "kentucky straight bourbon",
+  "brand_or_producer": "Knob Creek",
+  "abv": 50.0,
+  "taste_profile": {
+    "primary_notes": [
+      "oak",
+      "vanilla",
+      "caramel",
+      "robust",
+      "deep"
+    ],
+    "sweetness": "medium-low",
+    "bitterness": "medium",
+    "body": "full",
+    "finish": "robust, oaky, vanilla",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "Eiche",
+      "Vanille",
+      "Karamell",
+      "robust",
+      "tief"
+    ]
+  },
+  "origin": "Kentucky, USA",
+  "food_pairings": [
+    "Taylors Haggis & Cracked Black Pepper",
+    "Taylors Aberdeen Angus",
+    "Taylors Fiery Pickled Onions"
+  ],
+  "tags": [
+    "bourbon",
+    "kentucky",
+    "american",
+    "premium",
+    "full-bodied"
+  ],
+  "notes": "Patiently aged in white oak barrels. Unflinching balance of deep, pre-Prohibition-style bourbon with a robust oak taste, complemented with hints of smooth vanilla and layered caramel. Full flavour.",
+  "metadata": {
+    "source_page": 9,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bourbon",
+  "subcategory_de": "Kentucky Straight Bourbon",
+  "tags_de": [
+    "Bourbon",
+    "Kentucky",
+    "amerikanisch",
+    "Premium",
+    "vollmundig"
+  ],
+  "notes_de": "Wenn es darum geht, Knob Creek Bourbon herzustellen, gibt es viel zu warten, aber kaum Zeit zum Herumsitzen. Während jedes Fass geduldig in Weißeiche reift, erhöhen unsere Brenner weiterhin die Standards und erfüllen ihr Engagement für vollen Geschmack. Das Ergebnis ist eine unerschütterliche Balance aus tiefem Bourbon im Pre-Prohibition-Stil mit robustem Eichengeschmack, ergänzt durch weiche Vanille und geschichtetes Karamell."
+}

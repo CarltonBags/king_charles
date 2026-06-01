@@ -1,0 +1,58 @@
+{
+  "id": "pub_special_006",
+  "name": "Snakebite",
+  "category": "special",
+  "subcategory": "beer cocktail",
+  "brand_or_producer": "House",
+  "abv": 4.0,
+  "taste_profile": {
+    "primary_notes": [
+      "pilsner",
+      "apple",
+      "blackcurrant",
+      "refreshing",
+      "tart"
+    ],
+    "sweetness": "medium",
+    "bitterness": "low",
+    "body": "light",
+    "finish": "tart, refreshing, fruity",
+    "carbonation": "medium-high",
+    "primary_notes_de": [
+      "Pilsner",
+      "Apfel",
+      "Johannisbeere",
+      "erfrischend",
+      "herb"
+    ]
+  },
+  "origin": "Pub Classic",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Tyrrell's Sea Salt & Cider Vinegar",
+    "Kettle Matured Cheddar Cheese & Red Onions"
+  ],
+  "tags": [
+    "cocktail",
+    "pilsner",
+    "cider",
+    "blackcurrant",
+    "pub classic"
+  ],
+  "notes": "Brinkhoff's Pils, Strongbow Cider and blackcurrant. A refreshing and dangerously drinkable pub classic.",
+  "metadata": {
+    "source_page": 36,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Spezialgetränk",
+  "subcategory_de": "Biermischgetränk",
+  "tags_de": [
+    "Cocktail",
+    "Pilsner",
+    "Cidre",
+    "Johannisbeere",
+    "Pub-Klassiker"
+  ],
+  "notes_de": "Brinkhoff's Pils, Strongbow Cidre und Johannisbeere. Ein erfrischender und gefährlich süffiger Pub-Klassiker."
+}

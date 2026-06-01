@@ -1,0 +1,56 @@
+{
+  "id": "pub_spirit_022",
+  "name": "Mexicaner",
+  "category": "spirit",
+  "subcategory": "spicy shot",
+  "brand_or_producer": "Mexicaner",
+  "abv": 20.0,
+  "taste_profile": {
+    "primary_notes": [
+      "tomato",
+      "spicy",
+      "savoury",
+      "bold"
+    ],
+    "sweetness": "low",
+    "bitterness": "medium",
+    "body": "medium",
+    "finish": "spicy, savoury",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "Tomate",
+      "würzig",
+      "würzig",
+      "kräftig"
+    ]
+  },
+  "origin": "Germany",
+  "food_pairings": [
+    "Taylors Haggis & Cracked Black Pepper",
+    "Taylors Aberdeen Angus",
+    "Taylors Fiery Pickled Onions"
+  ],
+  "tags": [
+    "shot",
+    "german",
+    "spicy",
+    "tomato",
+    "party"
+  ],
+  "notes": "Spicy tomato-based shot with a distinctive kick. Popular party drink.",
+  "metadata": {
+    "source_page": 35,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Spirituose",
+  "subcategory_de": "Würziger Shot",
+  "tags_de": [
+    "Shot",
+    "deutsch",
+    "würzig",
+    "Tomate",
+    "Party"
+  ],
+  "notes_de": "Würziger Shot auf Tomatenbasis mit einem unverwechselbaren Kick. Beliebtes Partygetränk."
+}

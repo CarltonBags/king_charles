@@ -1,0 +1,56 @@
+{
+  "id": "pub_beer_021",
+  "name": "Bayreuther Hell",
+  "category": "beer",
+  "subcategory": "helles lager",
+  "brand_or_producer": "Bayreuther Bierbrauerei",
+  "abv": 4.9,
+  "taste_profile": {
+    "primary_notes": [
+      "malty",
+      "floral",
+      "smooth",
+      "crisp"
+    ],
+    "sweetness": "medium-low",
+    "bitterness": "low",
+    "body": "medium",
+    "finish": "clean, crisp",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "malzig",
+      "blumig",
+      "weich",
+      "spritzig"
+    ]
+  },
+  "origin": "Bayreuth, Germany",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Kettle Paprika & Roasted Onion",
+    "Taylors Aberdeen Angus"
+  ],
+  "tags": [
+    "helles",
+    "draft",
+    "bavarian",
+    "crisp",
+    "refreshing"
+  ],
+  "notes": "Bavarian Helles Lager, pale golden clear. Light malty sweet aroma with subtle floral hops. Smooth malt-forward flavour, gentle bitterness. Medium-bodied, softly carbonated, clean, crisp and refreshing.",
+  "metadata": {
+    "source_page": 5,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Helles Lager",
+  "tags_de": [
+    "Helles",
+    "vom Fass",
+    "bayerisch",
+    "spritzig",
+    "erfrischend"
+  ],
+  "notes_de": "Bayerisches Helles Lager, hellgolden und klar. Leichtes, malzig-süßes Aroma mit dezenten, blumigen Hopfennoten. Sanfter, malzbetonter Geschmack mit sanfter Bitterkeit. Mittlerer Körper, weich karbonisiert, sauber, knackig und erfrischend."
+}

@@ -1,0 +1,58 @@
+{
+  "id": "pub_whisky_004",
+  "name": "Glendronach 12 Years Old",
+  "category": "whisky",
+  "subcategory": "highland single malt",
+  "brand_or_producer": "Glendronach",
+  "abv": 43.0,
+  "taste_profile": {
+    "primary_notes": [
+      "sherry",
+      "sweet",
+      "creamy",
+      "dried fruit",
+      "rich"
+    ],
+    "sweetness": "medium-high",
+    "bitterness": "very low",
+    "body": "medium-full",
+    "finish": "sweet, creamy, sherried",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "Sherry",
+      "süß",
+      "cremig",
+      "Trockenfrucht",
+      "reichhaltig"
+    ]
+  },
+  "origin": "Highlands, Scotland",
+  "food_pairings": [
+    "Kettle Matured Cheddar Cheese & Red Onions",
+    "Tyrrell's Mature Cheddar & Chive",
+    "Kettle Intense Truffle and Sea Salt"
+  ],
+  "tags": [
+    "scotch",
+    "highland",
+    "single malt",
+    "sherry cask",
+    "creamy"
+  ],
+  "notes": "Superb richly sherry casked single malt matured for at least 12 years in a combination of the finest Spanish Pedro Ximénez and Oloroso sherry casks. Natural colour, sweet, creamy dram.",
+  "metadata": {
+    "source_page": 2,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Whisky",
+  "subcategory_de": "Highland Single Malt",
+  "tags_de": [
+    "Scotch",
+    "Highland",
+    "Single Malt",
+    "Sherryfass",
+    "cremig"
+  ],
+  "notes_de": "Dieser hervorragende, reichhaltig im Sherryfass gereifte Single Malt reift mindestens zwölf Jahre in einer Kombination der feinsten spanischen Pedro-Ximénez- und Oloroso-Sherryfässer. Naturfarben und mit 43 % abgefüllt, ist der Glendronach 12 Jahre alt ein süßer, cremiger Dram."
+}

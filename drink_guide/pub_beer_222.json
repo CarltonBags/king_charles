@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_222",
+  "name": "Tankbusters Cold as Ice 2 NEIPA",
+  "category": "beer",
+  "subcategory": "new england ipa",
+  "brand_or_producer": "Tankbusters",
+  "abv": 5.8,
+  "taste_profile": {
+    "primary_notes": [
+      "lime",
+      "lychee",
+      "juicy",
+      "fruity",
+      "smooth"
+    ],
+    "sweetness": "medium",
+    "bitterness": "medium-low",
+    "body": "medium",
+    "finish": "juicy, smooth, refreshing",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Limette",
+      "Litschi",
+      "saftig",
+      "fruchtig",
+      "weich"
+    ]
+  },
+  "origin": "Poland",
+  "food_pairings": [
+    "Kettle Sweet Chilli",
+    "Kettle Jalapeño",
+    "Kettle Sweet Chilli & Sour Cream"
+  ],
+  "tags": [
+    "neipa",
+    "can",
+    "polish",
+    "clearance",
+    "summer"
+  ],
+  "notes": "Refreshing NEIPA with intense lime and lychee aromas. Juicy, fruity and smooth — the perfect summer beer. Clearance item.",
+  "metadata": {
+    "source_page": 42,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "New England IPA",
+  "tags_de": [
+    "NEIPA",
+    "Dose",
+    "polnisch",
+    "Abverkauf",
+    "Sommer"
+  ],
+  "notes_de": "Erfrischendes NEIPA mit intensiven Limetten- und Litschi-Aromen. Saftig, fruchtig und weich — das perfekte Sommerbier. Abverkaufsware."
+}

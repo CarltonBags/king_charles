@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_229",
+  "name": "Garage Beer Co. SANTAKO West Coast IPA",
+  "category": "beer",
+  "subcategory": "west coast ipa",
+  "brand_or_producer": "Garage Beer Co.",
+  "abv": 6.4,
+  "taste_profile": {
+    "primary_notes": [
+      "citrus",
+      "pine",
+      "peach",
+      "caramel",
+      "crisp"
+    ],
+    "sweetness": "medium-low",
+    "bitterness": "medium-high",
+    "body": "medium",
+    "finish": "crisp, bitter, piney",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Zitrus",
+      "Kiefer",
+      "Pfirsich",
+      "Karamell",
+      "spritzig"
+    ]
+  },
+  "origin": "Barcelona, Spain",
+  "food_pairings": [
+    "Kettle Sweet Chilli",
+    "Kettle Jalapeño",
+    "Kettle Sweet Chilli & Sour Cream"
+  ],
+  "tags": [
+    "west coast ipa",
+    "can",
+    "spanish",
+    "clearance",
+    "gluten-free"
+  ],
+  "notes": "Celiac and vegan friendly West Coast IPA. Citrus and pine aroma with a touch of peach. Hint of sweetness from light caramel malt. Clearance item.",
+  "metadata": {
+    "source_page": 43,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "West Coast IPA",
+  "tags_de": [
+    "West Coast IPA",
+    "Dose",
+    "spanisch",
+    "Abverkauf",
+    "glutenfrei"
+  ],
+  "notes_de": "Zöliakie- und vegan-freundliches West Coast IPA. Zitrus- und Kiefernaroma mit einem Hauch von Pfirsich. Ein Hauch von Süße durch leichtes Karamellmalz. Abverkaufsware."
+}

@@ -1,0 +1,58 @@
+{
+  "id": "pub_softdrink_017",
+  "name": "Orangina",
+  "category": "soft_drink",
+  "subcategory": "citrus soda",
+  "brand_or_producer": "Orangina",
+  "abv": 0.0,
+  "taste_profile": {
+    "primary_notes": [
+      "orange",
+      "citrus",
+      "tangy",
+      "pulp",
+      "sweet"
+    ],
+    "sweetness": "high",
+    "bitterness": "low",
+    "body": "light-medium",
+    "finish": "tangy, fruity",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Orange",
+      "Zitrus",
+      "spritzig-sauer",
+      "Fruchtfleisch",
+      "süß"
+    ]
+  },
+  "origin": "France",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Kettle Sea Salt & Balsamic Vinegar of Modena",
+    "Kettle Sea Salt & Black Pepper"
+  ],
+  "tags": [
+    "soft drink",
+    "orange",
+    "french",
+    "iconic",
+    "pulp"
+  ],
+  "notes": "Iconic French citrus soda with real orange pulp. Sweet, tangy, gently sparkling with a unique cloudy appearance.",
+  "metadata": {
+    "source_page": 6,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Alkoholfreies Getränk",
+  "subcategory_de": "Zitruslimonade",
+  "tags_de": [
+    "Softdrink",
+    "Orange",
+    "französisch",
+    "kultig",
+    "Fruchtfleisch"
+  ],
+  "notes_de": "Kultige französische Zitruslimonade mit echtem Orangenfruchtfleisch. Süß, spritzig-sauer und sanft prickelnd mit einzigartigem, trübem Aussehen."
+}

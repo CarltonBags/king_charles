@@ -1,0 +1,56 @@
+{
+  "id": "pub_spirit_011",
+  "name": "Alpenschnaps Obstler",
+  "category": "spirit",
+  "subcategory": "fruit schnapps",
+  "brand_or_producer": "Alpenschnaps",
+  "abv": 40.0,
+  "taste_profile": {
+    "primary_notes": [
+      "apple",
+      "pear",
+      "fruity",
+      "clean",
+      "warming"
+    ],
+    "sweetness": "medium",
+    "bitterness": "medium",
+    "body": "medium",
+    "finish": "clean, fruity, warming",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "Apfel",
+      "Birne",
+      "fruchtig",
+      "sauber",
+      "wärmend"
+    ]
+  },
+  "origin": "Austria",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Kettle Honey Barbeque",
+    "Kettle Sweet Chilli"
+  ],
+  "tags": [
+    "schnapps",
+    "austrian",
+    "fruit",
+    "obstler"
+  ],
+  "notes": "Traditional Austrian fruit schnapps distilled from apples and pears. Clean, fruity and warming.",
+  "metadata": {
+    "source_page": 35,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Spirituose",
+  "subcategory_de": "Obstschnaps",
+  "tags_de": [
+    "Schnaps",
+    "österreichisch",
+    "Frucht",
+    "Obstler"
+  ],
+  "notes_de": "Traditioneller österreichischer Obstschnaps, destilliert aus Äpfeln und Birnen. Sauber, fruchtig und wärmend."
+}

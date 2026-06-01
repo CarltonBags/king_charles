@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_115",
+  "name": "Samuel Smith Organic Chocolate Stout",
+  "category": "beer",
+  "subcategory": "stout",
+  "brand_or_producer": "Samuel Smith",
+  "abv": 5.0,
+  "taste_profile": {
+    "primary_notes": [
+      "dark chocolate",
+      "roasted malt",
+      "coffee",
+      "velvety",
+      "indulgent"
+    ],
+    "sweetness": "medium",
+    "bitterness": "low",
+    "body": "medium",
+    "finish": "velvety, sweet",
+    "carbonation": "low",
+    "primary_notes_de": [
+      "dunkle Schokolade",
+      "Röstmalz",
+      "Kaffee",
+      "samten",
+      "genussvoll"
+    ]
+  },
+  "origin": "Yorkshire, England",
+  "food_pairings": [
+    "Kettle Intense Truffle and Sea Salt",
+    "Kettle Matured Cheddar Cheese & Red Onions",
+    "Taylors Haggis & Cracked Black Pepper"
+  ],
+  "tags": [
+    "stout",
+    "bottle",
+    "english",
+    "organic",
+    "chocolate"
+  ],
+  "notes": "Deep brown Yorkshire stout. Rich roasted malt and dark chocolate aroma with gentle sweetness and subtle coffee flavour. Medium bodied, velvety, very indulgent.",
+  "metadata": {
+    "source_page": 19,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Stout",
+  "tags_de": [
+    "Stout",
+    "Flasche",
+    "englisch",
+    "Bio",
+    "Schokolade"
+  ],
+  "notes_de": "In Yorkshire gebrautes, tiefbraunes Stout mit reichhaltigem Röstmalz- und dunklem Schokoladen-Aroma mit sanfter Süße und dezentem Kaffee-Geschmack. Mittlerer Körper und samtig, sehr genussvoll."
+}

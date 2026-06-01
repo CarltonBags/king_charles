@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_120",
+  "name": "Jopen Witte Kerst",
+  "category": "beer",
+  "subcategory": "dubbel witbier",
+  "brand_or_producer": "Jopen",
+  "abv": 7.5,
+  "taste_profile": {
+    "primary_notes": [
+      "spicy",
+      "malty",
+      "fruity",
+      "festive",
+      "full-bodied"
+    ],
+    "sweetness": "medium",
+    "bitterness": "medium-low",
+    "body": "medium-full",
+    "finish": "full, warming",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "würzig",
+      "malzig",
+      "fruchtig",
+      "festlich",
+      "vollmundig"
+    ]
+  },
+  "origin": "Haarlem, Netherlands",
+  "food_pairings": [
+    "Kettle Matured Cheddar Cheese & Red Onions",
+    "Kettle Intense Truffle and Sea Salt",
+    "Taylors Haggis & Cracked Black Pepper"
+  ],
+  "tags": [
+    "witbier",
+    "bottle",
+    "dutch",
+    "festive",
+    "christmas"
+  ],
+  "notes": "Dubbel Witbier brewed for the festive season. More malts, more alcohol, more color, more flavour, more enjoyment. Full bodied big Wit.",
+  "metadata": {
+    "source_page": 20,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Dubbel Witbier",
+  "tags_de": [
+    "Witbier",
+    "Flasche",
+    "niederländisch",
+    "festlich",
+    "Weihnachten"
+  ],
+  "notes_de": "Dubbel Witbier, gebraut für die Festzeit. Mehr Malz, mehr Alkohol, mehr Farbe, mehr Geschmack, mehr Genuss. Ein vollmundiges, großes Wit."
+}

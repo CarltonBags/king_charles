@@ -1,0 +1,58 @@
+{
+  "id": "pub_spirit_021",
+  "name": "Sourz Apple",
+  "category": "spirit",
+  "subcategory": "fruit liqueur",
+  "brand_or_producer": "Sourz",
+  "abv": 15.0,
+  "taste_profile": {
+    "primary_notes": [
+      "apple",
+      "sweet",
+      "tangy",
+      "crisp",
+      "green"
+    ],
+    "sweetness": "high",
+    "bitterness": "very low",
+    "body": "light",
+    "finish": "sweet, tangy, apple",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "Apfel",
+      "süß",
+      "spritzig-sauer",
+      "spritzig",
+      "grün"
+    ]
+  },
+  "origin": "England",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Kettle Honey Barbeque",
+    "Kettle Sweet Chilli"
+  ],
+  "tags": [
+    "liqueur",
+    "fruit",
+    "apple",
+    "shot",
+    "cocktail"
+  ],
+  "notes": "Apple flavoured liqueur. Sweet and tangy with crisp green apple character.",
+  "metadata": {
+    "source_page": 35,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Spirituose",
+  "subcategory_de": "Fruchtlikör",
+  "tags_de": [
+    "Likör",
+    "Frucht",
+    "Apfel",
+    "Shot",
+    "Cocktail"
+  ],
+  "notes_de": "Apfel-Likör. Süß und spritzig-sauer mit knackigem, grünem Apfel-Charakter."
+}

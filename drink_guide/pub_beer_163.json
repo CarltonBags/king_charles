@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_163",
+  "name": "Haze Cider",
+  "category": "cider",
+  "subcategory": "apple & pear cider",
+  "brand_or_producer": "Unknown",
+  "abv": 4.5,
+  "taste_profile": {
+    "primary_notes": [
+      "apple",
+      "pear",
+      "juicy",
+      "smooth",
+      "tart"
+    ],
+    "sweetness": "medium",
+    "bitterness": "low",
+    "body": "medium",
+    "finish": "smooth, tart, juicy",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Apfel",
+      "Birne",
+      "saftig",
+      "weich",
+      "herb"
+    ]
+  },
+  "origin": "Unknown",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Tyrrell's Sea Salt & Cider Vinegar",
+    "Kettle Matured Cheddar Cheese & Red Onions"
+  ],
+  "tags": [
+    "cider",
+    "fruit",
+    "bottle",
+    "hazy",
+    "juicy"
+  ],
+  "notes": "Hazy amber orange, this juicy apple and pear cider is smooth and fruity with a gentle tartness.",
+  "metadata": {
+    "source_page": 26,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Cidre",
+  "subcategory_de": "Apfel-Birnen-Cidre",
+  "tags_de": [
+    "Cidre",
+    "Frucht",
+    "Flasche",
+    "trüb",
+    "saftig"
+  ],
+  "notes_de": "Trüber, bernstein-orangefarbener, saftiger Apfel-Birnen-Cidre, weich und fruchtig mit sanfter Herbheit."
+}

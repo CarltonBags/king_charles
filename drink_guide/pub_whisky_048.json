@@ -1,0 +1,58 @@
+{
+  "id": "pub_whisky_048",
+  "name": "Jim Beam",
+  "category": "bourbon",
+  "subcategory": "kentucky straight bourbon",
+  "brand_or_producer": "Jim Beam",
+  "abv": 40.0,
+  "taste_profile": {
+    "primary_notes": [
+      "caramel",
+      "vanilla",
+      "oak",
+      "smooth",
+      "classic"
+    ],
+    "sweetness": "medium",
+    "bitterness": "low",
+    "body": "medium",
+    "finish": "smooth, oaky, refined",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "Karamell",
+      "Vanille",
+      "Eiche",
+      "weich",
+      "klassisch"
+    ]
+  },
+  "origin": "Kentucky, USA",
+  "food_pairings": [
+    "Taylors Haggis & Cracked Black Pepper",
+    "Taylors Aberdeen Angus",
+    "Taylors Fiery Pickled Onions"
+  ],
+  "tags": [
+    "bourbon",
+    "kentucky",
+    "american",
+    "classic",
+    "smooth"
+  ],
+  "notes": "Elegant, smooth, refined. Four years of aging in newly charred American white oak barrels. Every drop is worth the effort, sticking to the great-great-grandfather's recipe.",
+  "metadata": {
+    "source_page": 9,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bourbon",
+  "subcategory_de": "Kentucky Straight Bourbon",
+  "tags_de": [
+    "Bourbon",
+    "Kentucky",
+    "amerikanisch",
+    "klassisch",
+    "weich"
+  ],
+  "notes_de": "Elegant, weich, raffiniert. Das bewirken vier Jahre Reifung in frisch verkohlten amerikanischen Weißeichenfässern bei unserem Bourbon. Aber jeder Tropfen ist die Mühe wert, und wir lieben die Idee, am Rezept unseres Ururgroßvaters festzuhalten."
+}

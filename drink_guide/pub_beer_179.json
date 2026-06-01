@@ -1,0 +1,60 @@
+{
+  "id": "pub_beer_179",
+  "name": "Cosmo Cider",
+  "category": "cider",
+  "subcategory": "cocktail-inspired cider",
+  "brand_or_producer": "Unknown",
+  "abv": 3.4,
+  "taste_profile": {
+    "primary_notes": [
+      "cranberry",
+      "lime",
+      "sweet",
+      "tart",
+      "cocktail"
+    ],
+    "sweetness": "medium",
+    "bitterness": "medium-low",
+    "body": "light",
+    "finish": "cranberry, lime",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Cranberry",
+      "Limette",
+      "süß",
+      "herb",
+      "Cocktail"
+    ]
+  },
+  "origin": "Unknown",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Kettle Honey Barbeque",
+    "Kettle Sweet Chilli"
+  ],
+  "tags": [
+    "cider",
+    "flavoured",
+    "bottle",
+    "cocktail",
+    "cosmo",
+    "cranberry"
+  ],
+  "notes": "Cocktail-inspired cider combining the flavours of cranberries and a squeeze of lime.",
+  "metadata": {
+    "source_page": 28,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Cidre",
+  "subcategory_de": "Cocktail-Cidre",
+  "tags_de": [
+    "Cidre",
+    "aromatisiert",
+    "Flasche",
+    "Cocktail",
+    "Cosmo",
+    "Cranberry"
+  ],
+  "notes_de": "Cocktail-inspirierter Cidre, der die Aromen von Cranberries und einem Spritzer Limette kombiniert."
+}

@@ -1,0 +1,58 @@
+{
+  "id": "pub_special_002",
+  "name": "Baby Guinness",
+  "category": "special",
+  "subcategory": "layered shot",
+  "brand_or_producer": "House",
+  "abv": 17.0,
+  "taste_profile": {
+    "primary_notes": [
+      "coffee",
+      "cream",
+      "sweet",
+      "smooth",
+      "velvety"
+    ],
+    "sweetness": "high",
+    "bitterness": "very low",
+    "body": "medium-full",
+    "finish": "smooth, creamy, coffee",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "Kaffee",
+      "Sahne",
+      "süß",
+      "weich",
+      "samten"
+    ]
+  },
+  "origin": "Pub Classic",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Kettle Honey Barbeque",
+    "Kettle Sweet Chilli"
+  ],
+  "tags": [
+    "shot",
+    "layered",
+    "baileys",
+    "tia maria",
+    "pub classic"
+  ],
+  "notes": "2cl Tia Maria and 2cl Bailey's Irish Cream. A layered shot that looks like a tiny pint of Guinness.",
+  "metadata": {
+    "source_page": 36,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Spezialgetränk",
+  "subcategory_de": "Schichtshot",
+  "tags_de": [
+    "Shot",
+    "geschichtet",
+    "Baileys",
+    "Tia Maria",
+    "Pub-Klassiker"
+  ],
+  "notes_de": "2 cl Tia Maria und 2 cl Baileys Irish Cream. Ein geschichteter Shot, der wie ein kleines Pint Guinness aussieht."
+}

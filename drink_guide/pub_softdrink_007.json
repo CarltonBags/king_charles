@@ -1,0 +1,58 @@
+{
+  "id": "pub_softdrink_007",
+  "name": "Rhodius Gourmet Classic",
+  "category": "soft_drink",
+  "subcategory": "sparkling mineral water",
+  "brand_or_producer": "Rhodius",
+  "abv": 0.0,
+  "taste_profile": {
+    "primary_notes": [
+      "mineral",
+      "clean",
+      "neutral",
+      "refreshing",
+      "fine bubbles"
+    ],
+    "sweetness": "very low",
+    "bitterness": "very low",
+    "body": "very light",
+    "finish": "clean, elegant",
+    "carbonation": "medium-high",
+    "primary_notes_de": [
+      "mineralisch",
+      "sauber",
+      "neutral",
+      "erfrischend",
+      "feine Perlage"
+    ]
+  },
+  "origin": "Germany",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Kettle Sea Salt & Balsamic Vinegar of Modena",
+    "Kettle Sea Salt & Black Pepper"
+  ],
+  "tags": [
+    "soft drink",
+    "water",
+    "german",
+    "sparkling",
+    "premium"
+  ],
+  "notes": "Premium German classic sparkling mineral water with fine perlage.",
+  "metadata": {
+    "source_page": 6,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Alkoholfreies Getränk",
+  "subcategory_de": "Sprudelwasser",
+  "tags_de": [
+    "Softdrink",
+    "Wasser",
+    "deutsch",
+    "prickelnd",
+    "Premium"
+  ],
+  "notes_de": "Premium deutsches, klassisches Sprudelmineralwasser mit feiner Perlage."
+}

@@ -1,0 +1,58 @@
+{
+  "id": "pub_whisky_014",
+  "name": "Isle of Jura Rum Cask Finish",
+  "category": "whisky",
+  "subcategory": "island single malt",
+  "brand_or_producer": "Isle of Jura",
+  "abv": 40.0,
+  "taste_profile": {
+    "primary_notes": [
+      "vanilla",
+      "fudge",
+      "coconut",
+      "spiced",
+      "tropical"
+    ],
+    "sweetness": "medium-high",
+    "bitterness": "low",
+    "body": "medium",
+    "finish": "smooth, tropical, sweet",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "Vanille",
+      "Karamellbonbon",
+      "Kokosnuss",
+      "gewürzt",
+      "tropisch"
+    ]
+  },
+  "origin": "Jura, Scotland",
+  "food_pairings": [
+    "Ültje Studentenfutter",
+    "Ültje Erdnüsse Gesalzen",
+    "Taylors Chip Shop Curry Sauce"
+  ],
+  "tags": [
+    "scotch",
+    "island",
+    "single malt",
+    "rum cask",
+    "tropical"
+  ],
+  "notes": "Jura Cask Editions celebrate the connection between land and spirit. This rum cask edition explores Caribbean cask finishes. Mouth-wateringly smooth, vibrant whisky delivering flavours of sweet vanilla, fudge, coconut and spiced tropical notes.",
+  "metadata": {
+    "source_page": 2,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Whisky",
+  "subcategory_de": "Island Single Malt",
+  "tags_de": [
+    "Scotch",
+    "Insel",
+    "Single Malt",
+    "Rumfass",
+    "tropisch"
+  ],
+  "notes_de": "Jura Cask Editions feiern die Verbindung zwischen Land und Geist und bringen unverwechselbare regionale Aromen ausgewählter Fässer aus der ganzen Welt in unseren Insel-Malt. Diese Rumfass-Edition erkundet die Welt der Fass-Finishes aus der Karibik. Dieser wunderbar weiche, aber lebendige Whisky liefert süße Vanille-, Fudge-, Kokosnuss- und würzige tropische Noten."
+}

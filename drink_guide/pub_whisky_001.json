@@ -1,0 +1,58 @@
+{
+  "id": "pub_whisky_001",
+  "name": "Ardbeg 10 Year Old",
+  "category": "whisky",
+  "subcategory": "islay single malt",
+  "brand_or_producer": "Ardbeg",
+  "abv": 46.0,
+  "taste_profile": {
+    "primary_notes": [
+      "peat",
+      "smoke",
+      "sweet malt",
+      "complex",
+      "balanced"
+    ],
+    "sweetness": "medium-low",
+    "bitterness": "medium",
+    "body": "full",
+    "finish": "smoky, long, balanced",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "Torf",
+      "Rauch",
+      "Süßmalz",
+      "komplex",
+      "ausgewogen"
+    ]
+  },
+  "origin": "Islay, Scotland",
+  "food_pairings": [
+    "Taylors Haggis & Cracked Black Pepper",
+    "Taylors Aberdeen Angus",
+    "Taylors Fiery Pickled Onions"
+  ],
+  "tags": [
+    "scotch",
+    "islay",
+    "single malt",
+    "peated",
+    "award-winning"
+  ],
+  "notes": "Revered around the world as the peatiest, smokiest, most complex single malt of them all. Yet it does not flaunt the peat; rather it gives way to the natural sweetness of the malt to produce a whisky of perfect balance. Named World Whisky of the Year in 2008.",
+  "metadata": {
+    "source_page": 2,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Whisky",
+  "subcategory_de": "Islay Single Malt",
+  "tags_de": [
+    "Scotch",
+    "Islay",
+    "Single Malt",
+    "getorft",
+    "preisgekrönt"
+  ],
+  "notes_de": "Weltweit verehrt als der torfigste, rauchigste und komplexeste Single Malt von allen. Doch er stellt den Torf nicht zur Schau, sondern lässt der natürlichen Süße des Malzes den Vortritt, um einen Whisky von perfekter Balance zu erzeugen. Ausgezeichnet als World Whisky of the Year 2008."
+}

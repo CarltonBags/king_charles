@@ -1,0 +1,58 @@
+{
+  "id": "pub_gin_022",
+  "name": "Whitley Neil Rhubarb & Ginger Gin",
+  "category": "gin",
+  "subcategory": "flavoured gin",
+  "brand_or_producer": "Whitley Neill",
+  "abv": 43.0,
+  "taste_profile": {
+    "primary_notes": [
+      "rhubarb",
+      "ginger",
+      "tart",
+      "crisp",
+      "warming"
+    ],
+    "sweetness": "medium",
+    "bitterness": "medium-low",
+    "body": "medium-full",
+    "finish": "full-bodied, warming",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "Rhabarber",
+      "Ingwer",
+      "herb",
+      "spritzig",
+      "wärmend"
+    ]
+  },
+  "origin": "England",
+  "food_pairings": [
+    "Kettle Sweet Chilli",
+    "Kettle Jalapeño",
+    "Kettle Sweet Chilli & Sour Cream"
+  ],
+  "tags": [
+    "gin",
+    "flavoured",
+    "rhubarb",
+    "ginger",
+    "spiced"
+  ],
+  "notes": "The essence of rhubarb adds a tart crisp edge to the smooth gin base whilst ginger extract warms the palate for a full-bodied finish.",
+  "metadata": {
+    "source_page": 2,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Gin",
+  "subcategory_de": "Aromatisierter Gin",
+  "tags_de": [
+    "Gin",
+    "aromatisiert",
+    "Rhabarber",
+    "Ingwer",
+    "gewürzt"
+  ],
+  "notes_de": "Die Essenz von Rhabarber verleiht unserer weichen Gin-Basis eine herbe, knackige Note, während der Ingwer-Extrakt den Gaumen für einen vollmundigen Abgang wärmt."
+}

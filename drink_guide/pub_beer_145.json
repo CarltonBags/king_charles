@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_145",
+  "name": "Tankbusters Follow the Light",
+  "category": "beer",
+  "subcategory": "west coast ipa",
+  "brand_or_producer": "Tankbusters",
+  "abv": 4.8,
+  "taste_profile": {
+    "primary_notes": [
+      "herbal",
+      "citrus",
+      "refreshing",
+      "hoppy",
+      "crisp"
+    ],
+    "sweetness": "low",
+    "bitterness": "medium",
+    "body": "medium",
+    "finish": "crisp, herbal",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "kräuterig",
+      "Zitrus",
+      "erfrischend",
+      "hopfig",
+      "spritzig"
+    ]
+  },
+  "origin": "Poland / UK",
+  "food_pairings": [
+    "Kettle Sweet Chilli",
+    "Kettle Jalapeño",
+    "Kettle Sweet Chilli & Sour Cream"
+  ],
+  "tags": [
+    "west coast ipa",
+    "can",
+    "polish",
+    "collaboration",
+    "craft"
+  ],
+  "notes": "A truly refreshing West Coast IPA with unmistakable herbalism in both aroma and taste. Hopped with Citra, Nectaron and Harlequin U.K. varieties. Collaboration brew with Abbeydale U.K.",
+  "metadata": {
+    "source_page": 1,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "West Coast IPA",
+  "tags_de": [
+    "West Coast IPA",
+    "Dose",
+    "polnisch",
+    "Kollaboration",
+    "Craft"
+  ],
+  "notes_de": "Ein wirklich erfrischendes West Coast IPA mit unverkennbarer Kräuterigkeit in Aroma und Geschmack. Gehopft mit Citra-, Nectaron- und Harlequin-UK-Sorten. Ein Kollaborationssud mit Abbeydale UK."
+}

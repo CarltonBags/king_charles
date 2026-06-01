@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_126",
+  "name": "Siren Soundwave IPA",
+  "category": "beer",
+  "subcategory": "india pale ale",
+  "brand_or_producer": "Siren Craft Brew",
+  "abv": 5.6,
+  "taste_profile": {
+    "primary_notes": [
+      "tropical",
+      "mango",
+      "citrus",
+      "tart",
+      "dry"
+    ],
+    "sweetness": "low",
+    "bitterness": "medium",
+    "body": "medium",
+    "finish": "tart, dry",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "tropisch",
+      "Mango",
+      "Zitrus",
+      "herb",
+      "trocken"
+    ]
+  },
+  "origin": "Reading, England",
+  "food_pairings": [
+    "Kettle Sweet Chilli",
+    "Kettle Jalapeño",
+    "Kettle Sea Salt"
+  ],
+  "tags": [
+    "ipa",
+    "can",
+    "english",
+    "tropical",
+    "craft"
+  ],
+  "notes": "Hoppy IPA with tropical mango aromas and refreshing citrus notes. Delicate tart accents frame this extremely delicate IPA. Wonderfully tart and dry finish.",
+  "metadata": {
+    "source_page": 21,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "India Pale Ale",
+  "tags_de": [
+    "IPA",
+    "Dose",
+    "englisch",
+    "tropisch",
+    "Craft"
+  ],
+  "notes_de": "Hopfiges IPA mit tropischen Mango-Aromen und erfrischenden Zitrusnoten. Dezente, herbe Akzente umrahmen dieses extrem feine IPA. Wunderbar herb und trocken im Abgang."
+}

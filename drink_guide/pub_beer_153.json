@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_153",
+  "name": "Magners Original Cider",
+  "category": "cider",
+  "subcategory": "irish cider",
+  "brand_or_producer": "Magners",
+  "abv": 4.5,
+  "taste_profile": {
+    "primary_notes": [
+      "apple",
+      "floral",
+      "fresh",
+      "clean",
+      "balanced"
+    ],
+    "sweetness": "medium",
+    "bitterness": "very low",
+    "body": "light-medium",
+    "finish": "clean, refreshing",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Apfel",
+      "blumig",
+      "frisch",
+      "sauber",
+      "ausgewogen"
+    ]
+  },
+  "origin": "Clonmel, Ireland",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Tyrrell's Sea Salt & Cider Vinegar",
+    "Kettle Matured Cheddar Cheese & Red Onions"
+  ],
+  "tags": [
+    "cider",
+    "irish",
+    "bottle",
+    "apple",
+    "classic"
+  ],
+  "notes": "Ireland's favourite cider. Clear and golden with fresh apple and mild floral notes, balanced by a gentle acidity with a clean refreshing finish.",
+  "metadata": {
+    "source_page": 25,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Cidre",
+  "subcategory_de": "Irischer Cidre",
+  "tags_de": [
+    "Cidre",
+    "irisch",
+    "Flasche",
+    "Apfel",
+    "klassisch"
+  ],
+  "notes_de": "Irlands beliebtester Cidre. Klar und golden mit frischem Apfel und milden, blumigen Noten, ausgewogen durch eine sanfte Säure mit sauberem, erfrischendem Abgang."
+}

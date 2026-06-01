@@ -1,0 +1,58 @@
+{
+  "id": "pub_special_010",
+  "name": "Irish Flag",
+  "category": "special",
+  "subcategory": "layered shot",
+  "brand_or_producer": "House",
+  "abv": 25.0,
+  "taste_profile": {
+    "primary_notes": [
+      "mint",
+      "orange",
+      "cream",
+      "sweet",
+      "layered"
+    ],
+    "sweetness": "high",
+    "bitterness": "very low",
+    "body": "medium",
+    "finish": "sweet, minty, creamy",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "Minze",
+      "Orange",
+      "Sahne",
+      "süß",
+      "geschichtet"
+    ]
+  },
+  "origin": "Pub Classic",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Kettle Honey Barbeque",
+    "Kettle Sweet Chilli"
+  ],
+  "tags": [
+    "shot",
+    "layered",
+    "irish flag",
+    "mint",
+    "pub classic"
+  ],
+  "notes": "Bailey's, Crème de Menthe and Grand Marnier layered to resemble the Irish flag. Green, white and orange.",
+  "metadata": {
+    "source_page": 36,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Spezialgetränk",
+  "subcategory_de": "Schichtshot",
+  "tags_de": [
+    "Shot",
+    "geschichtet",
+    "irische Flagge",
+    "Minze",
+    "Pub-Klassiker"
+  ],
+  "notes_de": "Baileys, Crème de Menthe und Grand Marnier, geschichtet wie die irische Flagge — grün, weiß und orange."
+}

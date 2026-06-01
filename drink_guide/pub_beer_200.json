@@ -1,0 +1,56 @@
+{
+  "id": "pub_beer_200",
+  "name": "Brewski Broen Session IPA",
+  "category": "beer",
+  "subcategory": "session ipa",
+  "brand_or_producer": "Brewski",
+  "abv": 6.4,
+  "taste_profile": {
+    "primary_notes": [
+      "exotic fruit",
+      "fruity",
+      "hoppy",
+      "balanced",
+      "full-bodied"
+    ],
+    "sweetness": "medium-low",
+    "bitterness": "medium",
+    "body": "medium-full",
+    "finish": "fruity, hoppy",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "exotische Frucht",
+      "fruchtig",
+      "hopfig",
+      "ausgewogen",
+      "vollmundig"
+    ]
+  },
+  "origin": "Sweden",
+  "food_pairings": [
+    "Kettle Sweet Chilli",
+    "Kettle Jalapeño",
+    "Kettle Sweet Chilli & Sour Cream"
+  ],
+  "tags": [
+    "session ipa",
+    "bottle",
+    "swedish",
+    "clearance"
+  ],
+  "notes": "Swedish brewed session IPA, orange yellow in colour with exotic fruity aroma. Full-bodied with balanced fruity hoppy flavour and hints of bitterness. Clearance item.",
+  "metadata": {
+    "source_page": 38,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Session IPA",
+  "tags_de": [
+    "Session IPA",
+    "Flasche",
+    "schwedisch",
+    "Abverkauf"
+  ],
+  "notes_de": "Schwedisches Session IPA, orange-gelb mit exotischem, fruchtigem Aroma. Vollmundig mit ausgewogenem, fruchtig-hopfigem Geschmack und Bitterkeitsanklängen. Abverkaufsware."
+}

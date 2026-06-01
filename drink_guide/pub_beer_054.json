@@ -1,0 +1,54 @@
+{
+  "id": "pub_beer_054",
+  "name": "Thatcher's Zero Cider",
+  "category": "cider",
+  "subcategory": "non-alcoholic cider",
+  "brand_or_producer": "Thatcher's",
+  "abv": 0.0,
+  "taste_profile": {
+    "primary_notes": [
+      "apple",
+      "crisp",
+      "sweet",
+      "clean"
+    ],
+    "sweetness": "medium",
+    "bitterness": "very low",
+    "body": "light",
+    "finish": "clean, refreshing",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Apfel",
+      "spritzig",
+      "süß",
+      "sauber"
+    ]
+  },
+  "origin": "Somerset, England",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Tyrrell's Sea Salt & Cider Vinegar",
+    "Kettle Honey Barbeque"
+  ],
+  "tags": [
+    "alcohol-free",
+    "cider",
+    "english",
+    "apple"
+  ],
+  "notes": "Alcohol-free pale golden cider with crisp apple sweetness and mild clean refreshing finish.",
+  "metadata": {
+    "source_page": 10,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Cidre",
+  "subcategory_de": "Alkoholfreier Cidre",
+  "tags_de": [
+    "alkoholfrei",
+    "Cidre",
+    "englisch",
+    "Apfel"
+  ],
+  "notes_de": "Alkoholfreier, hellgoldener Cidre mit knackiger Apfelsüße und mildem, sauberem, erfrischendem Abgang."
+}

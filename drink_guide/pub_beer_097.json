@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_097",
+  "name": "La Chouffe Cherry",
+  "category": "beer",
+  "subcategory": "fruit beer",
+  "brand_or_producer": "La Chouffe",
+  "abv": 8.0,
+  "taste_profile": {
+    "primary_notes": [
+      "cherry",
+      "strawberry",
+      "almond",
+      "spice",
+      "port wine"
+    ],
+    "sweetness": "medium-high",
+    "bitterness": "medium",
+    "body": "medium-full",
+    "finish": "sweet, lively, bitter",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Kirsche",
+      "Erdbeere",
+      "Mandel",
+      "Gewürz",
+      "Portwein"
+    ]
+  },
+  "origin": "Achouffe, Belgium",
+  "food_pairings": [
+    "Kettle Matured Cheddar Cheese & Red Onions",
+    "Kettle Intense Truffle and Sea Salt",
+    "Taylors Aberdeen Angus"
+  ],
+  "tags": [
+    "fruit beer",
+    "bottle",
+    "belgian",
+    "cherry",
+    "strong"
+  ],
+  "notes": "Combines La Chouffe with sour cherries. Hints of strawberry, almond, spices and sweet port wine. Full-bodied, sweet, lively with bitter note.",
+  "metadata": {
+    "source_page": 16,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Fruchtbier",
+  "tags_de": [
+    "Fruchtbier",
+    "Flasche",
+    "belgisch",
+    "Kirsche",
+    "stark"
+  ],
+  "notes_de": "Kombiniert La Chouffe mit Sauerkirschen. Anklänge von Erdbeere, Mandel, Gewürzen und süßem Portwein. Vollmundig, süß und lebendig mit einer bitteren Note."
+}

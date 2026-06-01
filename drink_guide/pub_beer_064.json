@@ -1,0 +1,56 @@
+{
+  "id": "pub_beer_064",
+  "name": "Wychwood Hobgoblin Gold",
+  "category": "beer",
+  "subcategory": "golden ale",
+  "brand_or_producer": "Wychwood",
+  "abv": 4.5,
+  "taste_profile": {
+    "primary_notes": [
+      "citrus",
+      "hoppy",
+      "malty",
+      "balanced"
+    ],
+    "sweetness": "medium-low",
+    "bitterness": "medium",
+    "body": "medium",
+    "finish": "balanced, bitter",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Zitrus",
+      "hopfig",
+      "malzig",
+      "ausgewogen"
+    ]
+  },
+  "origin": "Oxfordshire, England",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Kettle Sweet Chilli",
+    "Kettle Matured Cheddar Cheese & Red Onions"
+  ],
+  "tags": [
+    "golden ale",
+    "bottle",
+    "english",
+    "citrus",
+    "balanced"
+  ],
+  "notes": "Golden ale balanced by citrus aromas and hints of hops and malt. Perfectly matched bitterness and pleasant carbonation.",
+  "metadata": {
+    "source_page": 11,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Golden Ale",
+  "tags_de": [
+    "Golden Ale",
+    "Flasche",
+    "englisch",
+    "Zitrus",
+    "ausgewogen"
+  ],
+  "notes_de": "Golden Ale, ausgewogen durch Zitrusaromen und Anklänge von Hopfen und Malz. Perfekt abgestimmte Bitterkeit und angenehme Kohlensäure."
+}

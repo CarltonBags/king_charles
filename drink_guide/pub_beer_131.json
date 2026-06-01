@@ -1,0 +1,56 @@
+{
+  "id": "pub_beer_131",
+  "name": "Brewdog Punk IPA Gluten Free",
+  "category": "beer",
+  "subcategory": "gluten-free india pale ale",
+  "brand_or_producer": "BrewDog",
+  "abv": 5.4,
+  "taste_profile": {
+    "primary_notes": [
+      "cereal malt",
+      "tropical fruit",
+      "caramel",
+      "crisp"
+    ],
+    "sweetness": "medium",
+    "bitterness": "medium",
+    "body": "medium",
+    "finish": "crisp, bitter",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Getreidemalz",
+      "tropische Frucht",
+      "Karamell",
+      "spritzig"
+    ]
+  },
+  "origin": "Ellon, Scotland",
+  "food_pairings": [
+    "Kettle Sweet Chilli",
+    "Kettle Jalapeño",
+    "Kettle Sea Salt"
+  ],
+  "tags": [
+    "gluten-free",
+    "ipa",
+    "can",
+    "scottish",
+    "craft"
+  ],
+  "notes": "Popular classic in gluten-free version. Light golden with slight haze, bold cereal malt aroma with tropical fruit flavours. Caramel sweetness, crisp bitterness.",
+  "metadata": {
+    "source_page": 22,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Glutenfreies India Pale Ale",
+  "tags_de": [
+    "glutenfrei",
+    "IPA",
+    "Dose",
+    "schottisch",
+    "Craft"
+  ],
+  "notes_de": "Der beliebte Klassiker jetzt in glutenfreier Version. Leicht golden mit dezenter Trübung und kräftigem Getreidemalz-Aroma mit tropischen Fruchtaromen. Ausgewogen durch Karamellsüße und endend mit knackiger Bitterkeit."
+}

@@ -1,0 +1,56 @@
+{
+  "id": "pub_special_005",
+  "name": "Black and Tan",
+  "category": "special",
+  "subcategory": "beer cocktail",
+  "brand_or_producer": "House",
+  "abv": 4.5,
+  "taste_profile": {
+    "primary_notes": [
+      "stout",
+      "ale",
+      "malty",
+      "balanced",
+      "layered"
+    ],
+    "sweetness": "medium",
+    "bitterness": "medium",
+    "body": "medium",
+    "finish": "smooth, malty, layered",
+    "carbonation": "medium-low",
+    "primary_notes_de": [
+      "Stout",
+      "Ale",
+      "malzig",
+      "ausgewogen",
+      "geschichtet"
+    ]
+  },
+  "origin": "Pub Classic",
+  "food_pairings": [
+    "Taylors Haggis & Cracked Black Pepper",
+    "Taylors Aberdeen Angus",
+    "Taylors Fiery Pickled Onions"
+  ],
+  "tags": [
+    "cocktail",
+    "guinness",
+    "layered",
+    "pub classic"
+  ],
+  "notes": "Guinness layered on Hop House 13 or Kilkenny. Two beers creating a striking layered effect.",
+  "metadata": {
+    "source_page": 36,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Spezialgetränk",
+  "subcategory_de": "Biermischgetränk",
+  "tags_de": [
+    "Cocktail",
+    "Guinness",
+    "geschichtet",
+    "Pub-Klassiker"
+  ],
+  "notes_de": "Guinness, geschichtet auf Hop House 13 oder Kilkenny. Zwei Biere, die einen auffälligen Schichtungseffekt erzeugen."
+}

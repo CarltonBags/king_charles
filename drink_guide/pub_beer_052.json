@@ -1,0 +1,56 @@
+{
+  "id": "pub_beer_052",
+  "name": "Mashsee Blaufrei",
+  "category": "beer",
+  "subcategory": "non-alcoholic beer",
+  "brand_or_producer": "Mashsee",
+  "abv": 0.0,
+  "taste_profile": {
+    "primary_notes": [
+      "peach",
+      "lychee",
+      "malty",
+      "fruity",
+      "tart"
+    ],
+    "sweetness": "medium-low",
+    "bitterness": "low",
+    "body": "medium",
+    "finish": "fruity, tart",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Pfirsich",
+      "Litschi",
+      "malzig",
+      "fruchtig",
+      "herb"
+    ]
+  },
+  "origin": "Germany",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Kettle Sweet Chilli",
+    "Kettle Paprika & Roasted Onion"
+  ],
+  "tags": [
+    "alcohol-free",
+    "german",
+    "craft",
+    "fruity"
+  ],
+  "notes": "Surprisingly full-bodied for non-alcoholic. Slight malt sweetness, pleasantly fruity mildly tart hop aroma reminiscent of peach and lychee.",
+  "metadata": {
+    "source_page": 10,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Alkoholfreies Bier",
+  "tags_de": [
+    "alkoholfrei",
+    "deutsch",
+    "Craft",
+    "fruchtig"
+  ],
+  "notes_de": "Überraschend vollmundig für ein alkoholfreies Bier. Leichte Malzsüße mit angenehm fruchtigem, mild-herbem Hopfenaroma, das an Pfirsich und Litschi erinnert."
+}

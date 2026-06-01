@@ -1,0 +1,60 @@
+{
+  "id": "pub_beer_147",
+  "name": "Tankbusters Prankster (2025)",
+  "category": "beer",
+  "subcategory": "new england ipa",
+  "brand_or_producer": "Tankbusters",
+  "abv": 5.5,
+  "taste_profile": {
+    "primary_notes": [
+      "tropical",
+      "citrus",
+      "juicy",
+      "hazy",
+      "complex"
+    ],
+    "sweetness": "medium",
+    "bitterness": "medium-low",
+    "body": "medium",
+    "finish": "juicy, tropical",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "tropisch",
+      "Zitrus",
+      "saftig",
+      "trüb",
+      "komplex"
+    ]
+  },
+  "origin": "Poland",
+  "food_pairings": [
+    "Kettle Sweet Chilli",
+    "Kettle Jalapeño",
+    "Kettle Sweet Chilli & Sour Cream"
+  ],
+  "tags": [
+    "neipa",
+    "can",
+    "polish",
+    "nz hops",
+    "craft",
+    "celebratory"
+  ],
+  "notes": "NZ NEIPA brewed with Citra, Rakau, Mosaic, Wa-iti, Kohatu and Azacca hops. Birthday celebration brew with IBU Craft Beers from Gliwice. Tropical and juicy.",
+  "metadata": {
+    "source_page": 1,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "New England IPA",
+  "tags_de": [
+    "NEIPA",
+    "Dose",
+    "polnisch",
+    "NZ-Hopfen",
+    "Craft",
+    "festlich"
+  ],
+  "notes_de": "NZ NEIPA, gebraut mit Citra-, Rakau-, Mosaic-, Wa-iti-, Kohatu- und Azacca-Hopfen. Geburtstags-Sud mit IBU Craft Beers aus Gliwice. Tropisch und saftig."
+}

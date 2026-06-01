@@ -1,0 +1,58 @@
+{
+  "id": "pub_whisky_043",
+  "name": "Jameson",
+  "category": "irish_whiskey",
+  "subcategory": "blended irish whiskey",
+  "brand_or_producer": "Jameson",
+  "abv": 40.0,
+  "taste_profile": {
+    "primary_notes": [
+      "floral",
+      "spicy wood",
+      "nutty",
+      "vanilla",
+      "sherry"
+    ],
+    "sweetness": "medium",
+    "bitterness": "low",
+    "body": "medium",
+    "finish": "smooth, balanced, nutty",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "blumig",
+      "würziges Holz",
+      "nussig",
+      "Vanille",
+      "Sherry"
+    ]
+  },
+  "origin": "Cork, Ireland",
+  "food_pairings": [
+    "Ültje Studentenfutter",
+    "Ültje Erdnüsse Gesalzen",
+    "Taylors Chip Shop Curry Sauce"
+  ],
+  "tags": [
+    "irish",
+    "blended",
+    "triple distilled",
+    "classic",
+    "smooth"
+  ],
+  "notes": "A light floral fragrance, peppered with spicy wood and sweet notes. The perfect balance of spicy, nutty and vanilla notes with hints of sweet sherry and exceptional smoothness.",
+  "metadata": {
+    "source_page": 8,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Irischer Whiskey",
+  "subcategory_de": "Blended Irish Whiskey",
+  "tags_de": [
+    "irisch",
+    "Blended",
+    "dreifach destilliert",
+    "klassisch",
+    "weich"
+  ],
+  "notes_de": "Ein leichter, blumiger Duft, gepfeffert mit würzigen Holz- und süßen Noten. Die perfekte Balance aus würzigen, nussigen und Vanillenoten mit Anklängen von süßem Sherry und außergewöhnlicher Weichheit."
+}

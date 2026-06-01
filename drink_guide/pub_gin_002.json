@@ -1,0 +1,58 @@
+{
+  "id": "pub_gin_002",
+  "name": "Bombay Sapphire",
+  "category": "gin",
+  "subcategory": "london dry gin",
+  "brand_or_producer": "Bombay Sapphire",
+  "abv": 40.0,
+  "taste_profile": {
+    "primary_notes": [
+      "juniper",
+      "citrus",
+      "floral",
+      "balanced",
+      "smooth"
+    ],
+    "sweetness": "low",
+    "bitterness": "medium-low",
+    "body": "medium",
+    "finish": "bright, vibrant",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "Wacholder",
+      "Zitrus",
+      "blumig",
+      "ausgewogen",
+      "weich"
+    ]
+  },
+  "origin": "Laverstoke, England",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Tyrrell's Sea Salt & Cider Vinegar",
+    "Kettle Sea Salt & Balsamic Vinegar of Modena"
+  ],
+  "tags": [
+    "gin",
+    "london dry",
+    "classic",
+    "vapour infused",
+    "balanced"
+  ],
+  "notes": "World famous gin in its distinctive blue bottle. Every drop contains 10 hand-selected botanicals from exotic locations around the world. Vapour infused to capture their bright, vibrant flavours.",
+  "metadata": {
+    "source_page": 2,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Gin",
+  "subcategory_de": "London Dry Gin",
+  "tags_de": [
+    "Gin",
+    "London Dry",
+    "klassisch",
+    "dampfinfundiert",
+    "ausgewogen"
+  ],
+  "notes_de": "Unser weltberühmter Gin in seiner markanten blauen Flasche. Jeder Tropfen enthält zehn handverlesene Botanicals von exotischen Orten der Welt. Wir kochen sie nicht, sondern infundieren sie schonend mit Dampf, um ihre hellen, lebendigen Aromen einzufangen."
+}

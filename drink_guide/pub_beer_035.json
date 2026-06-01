@@ -1,0 +1,52 @@
+{
+  "id": "pub_beer_035",
+  "name": "Guinness 0.0%",
+  "category": "beer",
+  "subcategory": "non-alcoholic stout",
+  "brand_or_producer": "Guinness",
+  "abv": 0.0,
+  "taste_profile": {
+    "primary_notes": [
+      "roasted malt",
+      "coffee",
+      "chocolate"
+    ],
+    "sweetness": "low",
+    "bitterness": "medium-low",
+    "body": "medium",
+    "finish": "creamy, smooth",
+    "carbonation": "low",
+    "primary_notes_de": [
+      "Röstmalz",
+      "Kaffee",
+      "Schokolade"
+    ]
+  },
+  "origin": "Dublin, Ireland",
+  "food_pairings": [
+    "Kettle Matured Cheddar Cheese & Red Onions",
+    "Taylors Haggis & Cracked Black Pepper",
+    "Ültje Studentenfutter"
+  ],
+  "tags": [
+    "alcohol-free",
+    "stout",
+    "irish",
+    "classic"
+  ],
+  "notes": "Alcohol-free version of the popular Irish stout.",
+  "metadata": {
+    "source_page": 7,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Alkoholfreies Stout",
+  "tags_de": [
+    "alkoholfrei",
+    "Stout",
+    "irisch",
+    "klassisch"
+  ],
+  "notes_de": "Alkoholfreie Version des beliebten irischen Stouts."
+}

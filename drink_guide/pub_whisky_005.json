@@ -1,0 +1,58 @@
+{
+  "id": "pub_whisky_005",
+  "name": "Glenfarclas 10 Years Old",
+  "category": "whisky",
+  "subcategory": "speyside single malt",
+  "brand_or_producer": "Glenfarclas",
+  "abv": 40.0,
+  "taste_profile": {
+    "primary_notes": [
+      "orange",
+      "caramel",
+      "mocha",
+      "cereal",
+      "vanilla"
+    ],
+    "sweetness": "medium",
+    "bitterness": "low",
+    "body": "light",
+    "finish": "sweet, light, smooth",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "Orange",
+      "Karamell",
+      "Mokka",
+      "Getreide",
+      "Vanille"
+    ]
+  },
+  "origin": "Speyside, Scotland",
+  "food_pairings": [
+    "Ültje Studentenfutter",
+    "Ültje Erdnüsse Gesalzen",
+    "Taylors Chip Shop Curry Sauce"
+  ],
+  "tags": [
+    "scotch",
+    "speyside",
+    "single malt",
+    "sweet",
+    "approachable"
+  ],
+  "notes": "Sweet, quite light, pleasant. Oranges and brown sugar/caramel, mixed with mocha and sugared cereals. A little vanilla. An approachable Speyside dram.",
+  "metadata": {
+    "source_page": 2,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Whisky",
+  "subcategory_de": "Speyside Single Malt",
+  "tags_de": [
+    "Scotch",
+    "Speyside",
+    "Single Malt",
+    "süß",
+    "zugänglich"
+  ],
+  "notes_de": "Dieser zehn Jahre alte Single Malt ist süß, recht leicht, angenehm, aber mit begrenzter Komplexität. Orangen und brauner Zucker bzw. Karamell, gemischt mit Mokka und gezuckerten Cerealien. Ein wenig Vanille."
+}

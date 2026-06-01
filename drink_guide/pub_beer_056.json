@@ -1,0 +1,54 @@
+{
+  "id": "pub_beer_056",
+  "name": "Mac Ivors Alcohol Free Irish Cider",
+  "category": "cider",
+  "subcategory": "non-alcoholic cider",
+  "brand_or_producer": "Mac Ivors",
+  "abv": 0.5,
+  "taste_profile": {
+    "primary_notes": [
+      "apple",
+      "fresh",
+      "semi-dry",
+      "light"
+    ],
+    "sweetness": "medium",
+    "bitterness": "very low",
+    "body": "light",
+    "finish": "light, refreshing",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Apfel",
+      "frisch",
+      "halbtrocken",
+      "leicht"
+    ]
+  },
+  "origin": "Northern Ireland",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Tyrrell's Sea Salt & Cider Vinegar",
+    "Ültje Studentenfutter"
+  ],
+  "tags": [
+    "alcohol-free",
+    "cider",
+    "irish",
+    "low-calorie"
+  ],
+  "notes": "Innovative non-alcoholic cider blend of apple wine and fresh juice from Northern Irish dessert apples. Straw-yellow, fine carbonation, light refreshing semi-dry. Only 76 calories.",
+  "metadata": {
+    "source_page": 10,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Cidre",
+  "subcategory_de": "Alkoholfreier Cidre",
+  "tags_de": [
+    "alkoholfrei",
+    "Cidre",
+    "irisch",
+    "kalorienarm"
+  ],
+  "notes_de": "Innovativer, alkoholfreier Cidre — eine Mischung aus Apfelwein und frischem Saft von nordirischen Tafeläpfeln. Strohgelb mit feiner Kohlensäure, leicht, erfrischend und halbtrocken. Nur 76 Kalorien."
+}

@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_189",
+  "name": "Apfel Räuber (Orchard Thieves)",
+  "category": "cider",
+  "subcategory": "apple & raspberry cider",
+  "brand_or_producer": "Orchard Thieves",
+  "abv": 4.5,
+  "taste_profile": {
+    "primary_notes": [
+      "green apple",
+      "raspberry",
+      "fizzy",
+      "sweet",
+      "refreshing"
+    ],
+    "sweetness": "medium-high",
+    "bitterness": "very low",
+    "body": "light",
+    "finish": "balanced, refreshing",
+    "carbonation": "high",
+    "primary_notes_de": [
+      "grüner Apfel",
+      "Himbeere",
+      "spritzig",
+      "süß",
+      "erfrischend"
+    ]
+  },
+  "origin": "Ireland",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Kettle Honey Barbeque",
+    "Kettle Sweet Chilli"
+  ],
+  "tags": [
+    "cider",
+    "can",
+    "irish",
+    "apple",
+    "raspberry"
+  ],
+  "notes": "Light-bodied, fizzy cider with a pale golden colour with a touch of pink. Tastes of fresh green apples with bright raspberry sweetness. Balanced and refreshing.",
+  "metadata": {
+    "source_page": 31,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Cidre",
+  "subcategory_de": "Apfel-Himbeer-Cidre",
+  "tags_de": [
+    "Cidre",
+    "Dose",
+    "irisch",
+    "Apfel",
+    "Himbeere"
+  ],
+  "notes_de": "Leichter, spritziger Cidre mit hellgoldener Farbe und einem Hauch von Rosa. Schmeckt nach frischen grünen Äpfeln mit heller Himbeersüße — ausgewogen und erfrischend."
+}

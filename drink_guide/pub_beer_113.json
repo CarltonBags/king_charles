@@ -1,0 +1,56 @@
+{
+  "id": "pub_beer_113",
+  "name": "Grolsch Premium Pilsner",
+  "category": "beer",
+  "subcategory": "pilsner",
+  "brand_or_producer": "Grolsch",
+  "abv": 5.0,
+  "taste_profile": {
+    "primary_notes": [
+      "malt",
+      "floral",
+      "hoppy",
+      "crisp"
+    ],
+    "sweetness": "low",
+    "bitterness": "medium",
+    "body": "light-medium",
+    "finish": "crisp, clean",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Malz",
+      "blumig",
+      "hopfig",
+      "spritzig"
+    ]
+  },
+  "origin": "Enschede, Netherlands",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Kettle Sea Salt & Balsamic Vinegar of Modena",
+    "Taylors Fiery Pickled Onions"
+  ],
+  "tags": [
+    "pilsner",
+    "bottle",
+    "dutch",
+    "crisp",
+    "traditional"
+  ],
+  "notes": "Traditional Pilsner style beer from Netherlands. Pale golden clear, light malt sweet aroma with floral hoppy flavour. Crisp and clean, easy to drink.",
+  "metadata": {
+    "source_page": 19,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Pilsner",
+  "tags_de": [
+    "Pilsner",
+    "Flasche",
+    "niederländisch",
+    "spritzig",
+    "traditionell"
+  ],
+  "notes_de": "Traditionelles Pilsner aus den Niederlanden. Helles, goldfarbenes Klares mit leichtem, malzig-süßem Aroma und blumig-hopfigem Geschmack. Knackig und sauber, süffig."
+}

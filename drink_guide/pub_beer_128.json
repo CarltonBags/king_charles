@@ -1,0 +1,56 @@
+{
+  "id": "pub_beer_128",
+  "name": "Troublebrewing Vietnow",
+  "category": "beer",
+  "subcategory": "india pale ale",
+  "brand_or_producer": "Trouble Brewing",
+  "abv": 5.5,
+  "taste_profile": {
+    "primary_notes": [
+      "tropical fruits",
+      "citrus",
+      "resinous",
+      "balanced"
+    ],
+    "sweetness": "low",
+    "bitterness": "medium",
+    "body": "medium",
+    "finish": "balanced, bitter",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "tropische Früchte",
+      "Zitrus",
+      "harzig",
+      "ausgewogen"
+    ]
+  },
+  "origin": "Ireland",
+  "food_pairings": [
+    "Kettle Sweet Chilli",
+    "Kettle Jalapeño",
+    "Tyrrell's Sweet Chilli & Red Pepper"
+  ],
+  "tags": [
+    "ipa",
+    "can",
+    "irish",
+    "tropical",
+    "craft"
+  ],
+  "notes": "IPA with harmonious composition of tropical fruits, citrus notes and subtle resinousness. Fresh wave of tropical fruits, pleasantly balanced bitterness.",
+  "metadata": {
+    "source_page": 22,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "India Pale Ale",
+  "tags_de": [
+    "IPA",
+    "Dose",
+    "irisch",
+    "tropisch",
+    "Craft"
+  ],
+  "notes_de": "Vietnow IPA überrascht mit einer harmonischen Komposition aus tropischen Früchten, Zitrusnoten und einer dezenten, für ein IPA typischen Harzigkeit. Am Gaumen entfaltet sich eine frische Welle tropischer Früchte, gefolgt von einer angenehm ausgewogenen Bitterkeit."
+}

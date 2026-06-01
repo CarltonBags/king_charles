@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_133",
+  "name": "Siren Lumina",
+  "category": "beer",
+  "subcategory": "gluten-free session ipa",
+  "brand_or_producer": "Siren Craft Brew",
+  "abv": 4.2,
+  "taste_profile": {
+    "primary_notes": [
+      "mango",
+      "pineapple",
+      "citrus",
+      "soft",
+      "balanced"
+    ],
+    "sweetness": "low",
+    "bitterness": "medium",
+    "body": "medium",
+    "finish": "soft, balanced",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Mango",
+      "Ananas",
+      "Zitrus",
+      "sanft",
+      "ausgewogen"
+    ]
+  },
+  "origin": "Reading, England",
+  "food_pairings": [
+    "Kettle Sweet Chilli",
+    "Kettle Jalapeño",
+    "Tyrrell's Sweet Chilli & Red Pepper"
+  ],
+  "tags": [
+    "gluten-free",
+    "session ipa",
+    "can",
+    "english",
+    "craft"
+  ],
+  "notes": "Hoppy aromas of mango and pineapple. Explosive flavour, flashes of delicate citrus highlights, refreshing balanced bitterness. Pillowy soft mouthfeel, light haze.",
+  "metadata": {
+    "source_page": 22,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Glutenfreies Session IPA",
+  "tags_de": [
+    "glutenfrei",
+    "Session IPA",
+    "Dose",
+    "englisch",
+    "Craft"
+  ],
+  "notes_de": "Hopfige Aromen von Mango und Ananas. Explosiver Geschmack, zarte Zitrus-Highlights und erfrischend ausgewogene Bitterkeit. Kissenweiches Mundgefühl mit einer schönen, leichten Trübung."
+}

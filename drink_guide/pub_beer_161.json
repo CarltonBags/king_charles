@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_161",
+  "name": "Rascal Cider",
+  "category": "cider",
+  "subcategory": "berry cider",
+  "brand_or_producer": "Unknown",
+  "abv": 4.5,
+  "taste_profile": {
+    "primary_notes": [
+      "strawberry",
+      "apple",
+      "red berry",
+      "crisp",
+      "sweet"
+    ],
+    "sweetness": "medium-high",
+    "bitterness": "very low",
+    "body": "medium-full",
+    "finish": "crisp, fruity",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Erdbeere",
+      "Apfel",
+      "rote Beere",
+      "spritzig",
+      "süß"
+    ]
+  },
+  "origin": "Unknown",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Tyrrell's Sea Salt & Cider Vinegar",
+    "Kettle Matured Cheddar Cheese & Red Onions"
+  ],
+  "tags": [
+    "cider",
+    "berry",
+    "bottle",
+    "amber",
+    "strawberry"
+  ],
+  "notes": "Full-bodied amber cider with a sweet red berry aroma of strawberry layered with crisp apple.",
+  "metadata": {
+    "source_page": 26,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Cidre",
+  "subcategory_de": "Beeren-Cidre",
+  "tags_de": [
+    "Cidre",
+    "Beere",
+    "Flasche",
+    "bernsteinfarben",
+    "Erdbeere"
+  ],
+  "notes_de": "Vollmundiger, bernsteinfarbener Cidre mit süßem, rotem Beerenaroma von Erdbeere, geschichtet mit knackigem Apfel."
+}

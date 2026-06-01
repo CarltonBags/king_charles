@@ -1,0 +1,58 @@
+{
+  "id": "pub_gin_007",
+  "name": "Edinburgh Dry",
+  "category": "gin",
+  "subcategory": "london dry gin",
+  "brand_or_producer": "Edinburgh Gin",
+  "abv": 43.0,
+  "taste_profile": {
+    "primary_notes": [
+      "juniper",
+      "balanced",
+      "floral",
+      "citrus",
+      "classic"
+    ],
+    "sweetness": "low",
+    "bitterness": "medium",
+    "body": "medium",
+    "finish": "clean, classic",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "Wacholder",
+      "ausgewogen",
+      "blumig",
+      "Zitrus",
+      "klassisch"
+    ]
+  },
+  "origin": "Edinburgh, Scotland",
+  "food_pairings": [
+    "Kettle Matured Cheddar Cheese & Red Onions",
+    "Tyrrell's Mature Cheddar & Chive",
+    "Kettle Intense Truffle and Sea Salt"
+  ],
+  "tags": [
+    "gin",
+    "london dry",
+    "scottish",
+    "classic",
+    "award-winning"
+  ],
+  "notes": "Unmistakable London Dry born in Edinburgh. The finest grain spirit brought together with an original balance of 14 botanicals. An award-winning gin, a labour of love and the heart of the Edinburgh range.",
+  "metadata": {
+    "source_page": 2,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Gin",
+  "subcategory_de": "London Dry Gin",
+  "tags_de": [
+    "Gin",
+    "London Dry",
+    "schottisch",
+    "klassisch",
+    "preisgekrönt"
+  ],
+  "notes_de": "Ein unverkennbarer London Dry, geboren in der alten und magischen Stadt Edinburgh. Der feinste Getreidealkohol wird mit einer originellen Balance von 14 Botanicals vereint. Dieser preisgekrönte Gin ist eine Liebesarbeit und das Herzstück unseres Sortiments."
+}

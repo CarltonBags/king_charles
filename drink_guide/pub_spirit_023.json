@@ -1,0 +1,58 @@
+{
+  "id": "pub_spirit_023",
+  "name": "Aperol",
+  "category": "spirit",
+  "subcategory": "italian aperitif",
+  "brand_or_producer": "Aperol",
+  "abv": 11.0,
+  "taste_profile": {
+    "primary_notes": [
+      "orange",
+      "bittersweet",
+      "herbal",
+      "rhubarb",
+      "gentian"
+    ],
+    "sweetness": "medium",
+    "bitterness": "medium-low",
+    "body": "light",
+    "finish": "bittersweet, refreshing",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "Orange",
+      "bittersüß",
+      "kräuterig",
+      "Rhabarber",
+      "Enzian"
+    ]
+  },
+  "origin": "Padua, Italy",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Tyrrell's Sea Salt & Cider Vinegar",
+    "Kettle Sea Salt & Balsamic Vinegar of Modena"
+  ],
+  "tags": [
+    "aperitif",
+    "italian",
+    "orange",
+    "bittersweet",
+    "spritz"
+  ],
+  "notes": "Iconic Italian aperitif with a bright orange hue. Bittersweet with notes of orange, gentian, rhubarb and cinchona. Perfect for Aperol Spritz.",
+  "metadata": {
+    "source_page": 35,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Spirituose",
+  "subcategory_de": "Italienischer Aperitif",
+  "tags_de": [
+    "Aperitif",
+    "italienisch",
+    "Orange",
+    "bittersüß",
+    "Spritz"
+  ],
+  "notes_de": "Kultiger italienischer Aperitif mit leuchtend orangefarbenem Ton. Bittersüß mit Noten von Orange, Enzian, Rhabarber und Chinarinde. Perfekt für Aperol Spritz."
+}

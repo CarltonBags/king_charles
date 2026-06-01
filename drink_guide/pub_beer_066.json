@@ -1,0 +1,56 @@
+{
+  "id": "pub_beer_066",
+  "name": "O'Hara's Irish Red Ale",
+  "category": "beer",
+  "subcategory": "irish red ale",
+  "brand_or_producer": "O'Hara's",
+  "abv": 4.3,
+  "taste_profile": {
+    "primary_notes": [
+      "caramel",
+      "malty",
+      "hoppy",
+      "full-bodied"
+    ],
+    "sweetness": "medium",
+    "bitterness": "medium",
+    "body": "medium-full",
+    "finish": "malty, hoppy",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Karamell",
+      "malzig",
+      "hopfig",
+      "vollmundig"
+    ]
+  },
+  "origin": "Carlow, Ireland",
+  "food_pairings": [
+    "Taylors Haggis & Cracked Black Pepper",
+    "Kettle Matured Cheddar Cheese & Red Onions",
+    "Tyrrell's Mature Cheddar & Chive"
+  ],
+  "tags": [
+    "red ale",
+    "bottle",
+    "irish",
+    "full-bodied",
+    "malty"
+  ],
+  "notes": "Round and very full-bodied Irish red ale, almost like a bock beer. Caramel malt comes through clearly, hops give plenty of bite. Strong character.",
+  "metadata": {
+    "source_page": 12,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Irish Red Ale",
+  "tags_de": [
+    "Red Ale",
+    "Flasche",
+    "irisch",
+    "vollmundig",
+    "malzig"
+  ],
+  "notes_de": "Rundes und sehr vollmundiges Irish Red Ale, fast wie ein Bockbier. Karamellmalz kommt deutlich durch, der Hopfen sorgt für kräftigen Biss. Ein Red Ale mit starkem Charakter."
+}

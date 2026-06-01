@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_078",
+  "name": "La Trappe Dubbel",
+  "category": "beer",
+  "subcategory": "belgian dubbel",
+  "brand_or_producer": "La Trappe",
+  "abv": 7.0,
+  "taste_profile": {
+    "primary_notes": [
+      "vanilla",
+      "caramel",
+      "roasted chocolate",
+      "dates",
+      "honey"
+    ],
+    "sweetness": "medium-high",
+    "bitterness": "medium-low",
+    "body": "medium-full",
+    "finish": "sweet, slightly bitter",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Vanille",
+      "Karamell",
+      "geröstete Schokolade",
+      "Datteln",
+      "Honig"
+    ]
+  },
+  "origin": "Tilburg, Netherlands",
+  "food_pairings": [
+    "Kettle Matured Cheddar Cheese & Red Onions",
+    "Kettle Intense Truffle and Sea Salt",
+    "Taylors Haggis & Cracked Black Pepper"
+  ],
+  "tags": [
+    "dubbel",
+    "trappist",
+    "bottle",
+    "dutch",
+    "rich"
+  ],
+  "notes": "Dark-brown Trappist ale with fruity aroma, warm tones of vanilla, caramel and roasted chocolate. Full malty caramel-sweet taste with subtle sweet influence of dates, honey and dried fruits. Aftertaste sweet and slightly bitter.",
+  "metadata": {
+    "source_page": 13,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Belgisches Dubbel",
+  "tags_de": [
+    "Dubbel",
+    "Trappisten",
+    "Flasche",
+    "niederländisch",
+    "reichhaltig"
+  ],
+  "notes_de": "Dunkelbraunes Trappistenbier mit fruchtigem Aroma, warmen Vanilletönen, Karamell und gerösteter Schokolade. Voller, malziger, karamell-süßer Geschmack mit dem subtilen, süßen Einfluss von Datteln, Honig und Trockenfrüchten. Der Nachgeschmack ist süß und leicht bitter."
+}

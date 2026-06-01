@@ -1,0 +1,56 @@
+{
+  "id": "pub_beer_030",
+  "name": "Bergmann Amber Lager",
+  "category": "beer",
+  "subcategory": "vienna lager",
+  "brand_or_producer": "Bergmann",
+  "abv": 5.7,
+  "taste_profile": {
+    "primary_notes": [
+      "malty",
+      "fruit",
+      "yeast",
+      "balanced"
+    ],
+    "sweetness": "medium",
+    "bitterness": "low",
+    "body": "medium-full",
+    "finish": "smooth",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "malzig",
+      "Frucht",
+      "Hefe",
+      "ausgewogen"
+    ]
+  },
+  "origin": "Germany",
+  "food_pairings": [
+    "Taylors Haggis & Cracked Black Pepper",
+    "Taylors Aberdeen Angus",
+    "Kettle Matured Cheddar Cheese & Red Onions"
+  ],
+  "tags": [
+    "vienna lager",
+    "guest tap",
+    "german",
+    "malty",
+    "smooth"
+  ],
+  "notes": "Viennese-style amber lager. Gentle fruit and subtle yeast notes on aroma. Harmonious malty body on the palate. Restrained bitterness for balance, smooth finish.",
+  "metadata": {
+    "source_page": 6,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Vienna Lager",
+  "tags_de": [
+    "Vienna Lager",
+    "Gastzapf",
+    "deutsch",
+    "malzig",
+    "weich"
+  ],
+  "notes_de": "Lager nach Wiener Art. Sanfte Frucht- und dezente Hefenoten im Aroma. Harmonischer Malzkörper am Gaumen. Zurückhaltende Bitterkeit als Ausgleich mit weichem Abgang."
+}

@@ -1,0 +1,58 @@
+{
+  "id": "pub_softdrink_027",
+  "name": "Granini Cranberry Saft",
+  "category": "soft_drink",
+  "subcategory": "cranberry juice",
+  "brand_or_producer": "Granini",
+  "abv": 0.0,
+  "taste_profile": {
+    "primary_notes": [
+      "cranberry",
+      "tart",
+      "fruity",
+      "sharp",
+      "refreshing"
+    ],
+    "sweetness": "medium-low",
+    "bitterness": "medium",
+    "body": "light",
+    "finish": "tart, sharp, fruity",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "Cranberry",
+      "herb",
+      "fruchtig",
+      "scharf",
+      "erfrischend"
+    ]
+  },
+  "origin": "Germany",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Tyrrell's Sea Salt & Cider Vinegar",
+    "Kettle Sea Salt & Balsamic Vinegar of Modena"
+  ],
+  "tags": [
+    "soft drink",
+    "juice",
+    "cranberry",
+    "german",
+    "premium"
+  ],
+  "notes": "Premium cranberry juice. Tart, fruity and refreshing with a characteristic cranberry sharpness.",
+  "metadata": {
+    "source_page": 6,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Alkoholfreies Getränk",
+  "subcategory_de": "Cranberrysaft",
+  "tags_de": [
+    "Softdrink",
+    "Saft",
+    "Cranberry",
+    "deutsch",
+    "Premium"
+  ],
+  "notes_de": "Premium-Cranberrysaft. Herb, fruchtig und erfrischend mit charakteristischer Cranberry-Schärfe."
+}

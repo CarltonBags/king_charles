@@ -1,0 +1,58 @@
+{
+  "id": "pub_whisky_030",
+  "name": "Caol Ila 18 Years Old",
+  "category": "whisky",
+  "subcategory": "islay single malt",
+  "brand_or_producer": "Caol Ila",
+  "abv": 43.0,
+  "taste_profile": {
+    "primary_notes": [
+      "smoke",
+      "mellow",
+      "sweet",
+      "maritime",
+      "golden"
+    ],
+    "sweetness": "medium",
+    "bitterness": "medium-low",
+    "body": "medium",
+    "finish": "sweetly smoky, mellow, long",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "Rauch",
+      "mild",
+      "süß",
+      "maritim",
+      "golden"
+    ]
+  },
+  "origin": "Islay, Scotland",
+  "food_pairings": [
+    "Taylors Haggis & Cracked Black Pepper",
+    "Taylors Aberdeen Angus",
+    "Taylors Fiery Pickled Onions"
+  ],
+  "tags": [
+    "scotch",
+    "islay",
+    "single malt",
+    "aged",
+    "refined"
+  ],
+  "notes": "Mellow, golden and sweetly smoky, evoking the sun sinking low over the dying embers of a beach bonfire. The hidden treasure of Islay, pronounced 'Cull Eela'. Fine, smoky whisky from the rugged eastern coast.",
+  "metadata": {
+    "source_page": 2,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Whisky",
+  "subcategory_de": "Islay Single Malt",
+  "tags_de": [
+    "Scotch",
+    "Islay",
+    "Single Malt",
+    "gereift",
+    "raffiniert"
+  ],
+  "notes_de": "Mild, golden und süßrauchig — Caol Ila 18 Years Old erinnert an die Sonne, die tief über den sterbenden Gluten eines Strandlagerfeuers versinkt, während der Tag sanft in die Dunkelheit der schließenden Nacht übergeht. Der verborgene Schatz von Islay. Ausgesprochen ,,Cull Eela'', ist es der gälische Name für den Sund von Islay. Feiner, rauchiger Whisky, produziert von Generationen von Inselbewohnern."
+}

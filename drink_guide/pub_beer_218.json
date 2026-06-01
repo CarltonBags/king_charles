@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_218",
+  "name": "Tankbusters Book of Hops Riwaka & Elani",
+  "category": "beer",
+  "subcategory": "new england ipa",
+  "brand_or_producer": "Tankbusters",
+  "abv": 6.1,
+  "taste_profile": {
+    "primary_notes": [
+      "kumquat",
+      "passion fruit",
+      "mango",
+      "white fruits",
+      "tropical"
+    ],
+    "sweetness": "medium",
+    "bitterness": "medium-low",
+    "body": "medium",
+    "finish": "tropical, fruity, balanced",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Kumquat",
+      "Maracuja",
+      "Mango",
+      "weiße Früchte",
+      "tropisch"
+    ]
+  },
+  "origin": "Poland",
+  "food_pairings": [
+    "Kettle Sweet Chilli",
+    "Kettle Jalapeño",
+    "Kettle Sweet Chilli & Sour Cream"
+  ],
+  "tags": [
+    "neipa",
+    "can",
+    "polish",
+    "clearance",
+    "tropical"
+  ],
+  "notes": "Aromas of kumquat, passion fruit, mango and white fruits explode in the glass. Riwaka and Elani hops create harmonious, fruity balance with clear, powerful character. Clearance item.",
+  "metadata": {
+    "source_page": 42,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "New England IPA",
+  "tags_de": [
+    "NEIPA",
+    "Dose",
+    "polnisch",
+    "Abverkauf",
+    "tropisch"
+  ],
+  "notes_de": "Aromen von Kumquat, Maracuja, Mango und weißen Früchten explodieren förmlich im Glas. Riwaka- und Elani-Hopfen sorgen für harmonische, fruchtige Balance mit klarem, kraftvollem Charakter. Abverkaufsware."
+}

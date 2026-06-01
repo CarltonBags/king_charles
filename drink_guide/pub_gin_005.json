@@ -1,0 +1,58 @@
+{
+  "id": "pub_gin_005",
+  "name": "City of London Gin",
+  "category": "gin",
+  "subcategory": "london dry gin",
+  "brand_or_producer": "City of London Distillery",
+  "abv": 41.3,
+  "taste_profile": {
+    "primary_notes": [
+      "orange",
+      "lemon",
+      "pink grapefruit",
+      "juniper",
+      "piquant"
+    ],
+    "sweetness": "medium-low",
+    "bitterness": "medium-low",
+    "body": "medium",
+    "finish": "fruity, piquant",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "Orange",
+      "Zitrone",
+      "Rosa Grapefruit",
+      "Wacholder",
+      "pikant"
+    ]
+  },
+  "origin": "London, England",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Tyrrell's Sea Salt & Cider Vinegar",
+    "Kettle Sea Salt & Balsamic Vinegar of Modena"
+  ],
+  "tags": [
+    "gin",
+    "london dry",
+    "classic",
+    "citrus",
+    "balanced"
+  ],
+  "notes": "Classic, perfectly balanced gin from the heart of London. Uses angelica, liquorice and coriander seeds as botanicals. Fresh oranges, lemons and pink grapefruit give it an unmistakably piquant, fruity note.",
+  "metadata": {
+    "source_page": 2,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Gin",
+  "subcategory_de": "London Dry Gin",
+  "tags_de": [
+    "Gin",
+    "London Dry",
+    "klassisch",
+    "Zitrus",
+    "ausgewogen"
+  ],
+  "notes_de": "Dieser City of London No. 1 London Dry Gin ist ein klassischer, perfekt ausgewogener Gin aus dem Herzen Londons. Neben Wacholder verwendet die Brennerei Engelwurz, Lakritz und Koriandersamen als Botanicals. Für den letzten Schliff werden frische Orangen, Zitronen und rosa Grapefruit verwendet, die dem Gin eine unverwechselbar pikante, fruchtige Note verleihen."
+}

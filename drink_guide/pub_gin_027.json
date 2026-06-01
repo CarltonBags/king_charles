@@ -1,0 +1,58 @@
+{
+  "id": "pub_gin_027",
+  "name": "Whitley Neil Quince Gin",
+  "category": "gin",
+  "subcategory": "flavoured gin",
+  "brand_or_producer": "Whitley Neill",
+  "abv": 43.0,
+  "taste_profile": {
+    "primary_notes": [
+      "quince",
+      "apricot",
+      "peach",
+      "orange blossom",
+      "grapefruit"
+    ],
+    "sweetness": "medium-high",
+    "bitterness": "very low",
+    "body": "medium",
+    "finish": "long, fruity, zesty",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "Quitte",
+      "Aprikose",
+      "Pfirsich",
+      "Orangenblüte",
+      "Grapefruit"
+    ]
+  },
+  "origin": "England",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Tyrrell's Sea Salt & Cider Vinegar",
+    "Kettle Sea Salt & Balsamic Vinegar of Modena"
+  ],
+  "tags": [
+    "gin",
+    "flavoured",
+    "quince",
+    "stone fruit",
+    "fruity"
+  ],
+  "notes": "Distinctive flavour of Turkish quince, with a long, fruity finish. Aroma of fresh stone fruits, hints of juniper and citrus zest. Quince dominates the palate, giving way to sweetness of apricots and peaches, finishing with orange blossoms and zesty grapefruits.",
+  "metadata": {
+    "source_page": 2,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Gin",
+  "subcategory_de": "Aromatisierter Gin",
+  "tags_de": [
+    "Gin",
+    "aromatisiert",
+    "Quitte",
+    "Steinobst",
+    "fruchtig"
+  ],
+  "notes_de": "Unverwechselbarer Geschmack türkischer Quitte mit einem langen, fruchtigen Abgang. Das Aroma von frischem Steinobst erscheint sofort, sanft gefolgt von Anklängen von Wacholder und Zitrusschale. Der unverwechselbare Geschmack von Quitte dominiert den Gaumen und geht in die Süße von Aprikosen und Pfirsichen über, mit einem langen, fruchtigen Abgang, der sich zu Orangenblüten und spritzigen Grapefruits öffnet."
+}

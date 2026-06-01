@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_025",
+  "name": "Vocation Life and Death IPA",
+  "category": "beer",
+  "subcategory": "india pale ale",
+  "brand_or_producer": "Vocation Brewery",
+  "abv": 6.5,
+  "taste_profile": {
+    "primary_notes": [
+      "citrus",
+      "tropical",
+      "mosaic hops",
+      "citra hops",
+      "tart"
+    ],
+    "sweetness": "low",
+    "bitterness": "medium-high",
+    "body": "medium",
+    "finish": "fresh, tart, hoppy",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Zitrus",
+      "tropisch",
+      "Mosaic-Hopfen",
+      "Citra-Hopfen",
+      "herb"
+    ]
+  },
+  "origin": "Hebden Bridge, England",
+  "food_pairings": [
+    "Kettle Sweet Chilli",
+    "Kettle Jalapeño",
+    "Tyrrell's Sweet Chilli & Red Pepper"
+  ],
+  "tags": [
+    "ipa",
+    "guest tap",
+    "english",
+    "hoppy",
+    "craft"
+  ],
+  "notes": "Wonderfully fresh IPA with pleasant tartness and smooth malt body. Large quantities of Mosaic and Citra hops.",
+  "metadata": {
+    "source_page": 6,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "India Pale Ale",
+  "tags_de": [
+    "IPA",
+    "Gastzapf",
+    "englisch",
+    "hopfig",
+    "Craft"
+  ],
+  "notes_de": "Wunderbar frisches IPA mit angenehmer Säure und weichem Malzkörper. Großzügige Mengen an Mosaic- und Citra-Hopfen."
+}

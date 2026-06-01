@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_067",
+  "name": "Shepherd Neame Christmas Ale",
+  "category": "beer",
+  "subcategory": "winter ale",
+  "brand_or_producer": "Shepherd Neame",
+  "abv": 7.0,
+  "taste_profile": {
+    "primary_notes": [
+      "raisins",
+      "plums",
+      "cloves",
+      "cinnamon",
+      "nutmeg"
+    ],
+    "sweetness": "medium-high",
+    "bitterness": "medium-low",
+    "body": "medium-full",
+    "finish": "warm, spiced",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Rosinen",
+      "Pflaumen",
+      "Nelken",
+      "Zimt",
+      "Muskatnuss"
+    ]
+  },
+  "origin": "Kent, England",
+  "food_pairings": [
+    "Taylors Haggis & Cracked Black Pepper",
+    "Kettle Matured Cheddar Cheese & Red Onions",
+    "Kettle Intense Truffle and Sea Salt"
+  ],
+  "tags": [
+    "winter ale",
+    "bottle",
+    "english",
+    "christmas",
+    "spiced"
+  ],
+  "notes": "Rich malt notes complemented by dried fruits – raisins and plums. Warm undertone of cloves, cinnamon, nutmeg. Subtle hop bitterness for freshness.",
+  "metadata": {
+    "source_page": 12,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Winter Ale",
+  "tags_de": [
+    "Winter Ale",
+    "Flasche",
+    "englisch",
+    "Weihnachten",
+    "gewürzt"
+  ],
+  "notes_de": "Reichhaltige Malznoten, ergänzt durch Trockenfrüchte — Rosinen und Pflaumen. Warmer Unterton von Nelken, Zimt und Muskatnuss, abgerundet durch eine subtile Hopfenbitterkeit für angenehme Frische."
+}

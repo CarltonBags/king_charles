@@ -1,0 +1,58 @@
+{
+  "id": "pub_softdrink_024",
+  "name": "Vaihinger Sauerkirschen Saft",
+  "category": "soft_drink",
+  "subcategory": "sour cherry juice",
+  "brand_or_producer": "Vaihinger",
+  "abv": 0.0,
+  "taste_profile": {
+    "primary_notes": [
+      "sour cherry",
+      "tart",
+      "fruity",
+      "rich",
+      "natural"
+    ],
+    "sweetness": "medium",
+    "bitterness": "medium",
+    "body": "medium",
+    "finish": "tart, fruity, lingering",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "Sauerkirsche",
+      "herb",
+      "fruchtig",
+      "reichhaltig",
+      "natürlich"
+    ]
+  },
+  "origin": "Germany",
+  "food_pairings": [
+    "Ültje Studentenfutter",
+    "Ültje Erdnüsse Gesalzen",
+    "Taylors Chip Shop Curry Sauce"
+  ],
+  "tags": [
+    "soft drink",
+    "juice",
+    "sour cherry",
+    "german",
+    "natural"
+  ],
+  "notes": "Pure German sour cherry juice. Tart, fruity and deeply flavoured with authentic cherry character.",
+  "metadata": {
+    "source_page": 6,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Alkoholfreies Getränk",
+  "subcategory_de": "Sauerkirschsaft",
+  "tags_de": [
+    "Softdrink",
+    "Saft",
+    "Sauerkirsche",
+    "deutsch",
+    "natürlich"
+  ],
+  "notes_de": "Reiner deutscher Sauerkirschsaft. Herb, fruchtig und tiefgründig mit authentischem Kirschcharakter."
+}

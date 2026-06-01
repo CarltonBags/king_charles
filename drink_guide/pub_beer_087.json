@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_087",
+  "name": "Lindemans Kriek",
+  "category": "beer",
+  "subcategory": "lambic - fruit",
+  "brand_or_producer": "Lindemans",
+  "abv": 3.5,
+  "taste_profile": {
+    "primary_notes": [
+      "cherry",
+      "oak",
+      "yeast",
+      "sour",
+      "dry"
+    ],
+    "sweetness": "medium-low",
+    "bitterness": "medium",
+    "body": "medium",
+    "finish": "dry, woody, tart",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Kirsche",
+      "Eiche",
+      "Hefe",
+      "sauer",
+      "trocken"
+    ]
+  },
+  "origin": "Vlezenbeek, Belgium",
+  "food_pairings": [
+    "Taylors Aberdeen Angus",
+    "Kettle Matured Cheddar Cheese & Red Onions",
+    "Kettle Intense Truffle and Sea Salt"
+  ],
+  "tags": [
+    "fruit beer",
+    "lambic",
+    "bottle",
+    "belgian",
+    "cherry"
+  ],
+  "notes": "Deep red lambic beer with strong cherry fragrance, subtle hints of oak and yeast. Light acidity, dry woody finish.",
+  "metadata": {
+    "source_page": 15,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Lambic - Frucht",
+  "tags_de": [
+    "Fruchtbier",
+    "Lambic",
+    "Flasche",
+    "belgisch",
+    "Kirsche"
+  ],
+  "notes_de": "Tiefrotes Lambic-Bier mit starkem Kirschduft sowie dezenten Eichen- und Hefenoten. Leichte Säure mit trockenem, holzigem Abgang."
+}

@@ -1,0 +1,60 @@
+{
+  "id": "pub_whisky_032",
+  "name": "Highland Park 18 Years Old",
+  "category": "whisky",
+  "subcategory": "island single malt",
+  "brand_or_producer": "Highland Park",
+  "abv": 43.0,
+  "taste_profile": {
+    "primary_notes": [
+      "cherry",
+      "cocoa",
+      "honeycomb",
+      "orange peel",
+      "peat smoke"
+    ],
+    "sweetness": "medium",
+    "bitterness": "medium-low",
+    "body": "full",
+    "finish": "sophisticated, salty, smoky",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "Kirsche",
+      "Kakao",
+      "Honigwabe",
+      "Orangenschale",
+      "Torfrauch"
+    ]
+  },
+  "origin": "Orkney, Scotland",
+  "food_pairings": [
+    "Taylors Haggis & Cracked Black Pepper",
+    "Taylors Aberdeen Angus",
+    "Taylors Fiery Pickled Onions"
+  ],
+  "tags": [
+    "scotch",
+    "island",
+    "single malt",
+    "orkney",
+    "premium",
+    "aged"
+  ],
+  "notes": "Matured in first-fill sherry seasoned European and American oak casks. A sophisticated medley of ripe cherries dusted with bittersweet cocoa, freshly harvested honeycomb and candied orange peel. A whisper of Orkney's salty seaspray in aromatic peat smoke.",
+  "metadata": {
+    "source_page": 2,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Whisky",
+  "subcategory_de": "Island Single Malt",
+  "tags_de": [
+    "Scotch",
+    "Insel",
+    "Single Malt",
+    "Orkney",
+    "Premium",
+    "gereift"
+  ],
+  "notes_de": "Gereift in First-Fill-Sherry-gereiften europäischen und amerikanischen Eichenfässern, zollt dieser hervorragende 18-jährige Single Malt unseren fünf Grundpfeilern der Produktion Tribut und präsentiert ein raffiniertes Medley aus reifen Kirschen, bestäubt mit bittersüßem Kakao, frisch geernteten Honigwaben und kandierter Orangenschale. Ein Hauch von Orkneys salziger Meeresgischt im aromatischen Torfrauch."
+}

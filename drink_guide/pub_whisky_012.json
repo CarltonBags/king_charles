@@ -1,0 +1,58 @@
+{
+  "id": "pub_whisky_012",
+  "name": "Old Pulteney 12 Years Old",
+  "category": "whisky",
+  "subcategory": "highland single malt",
+  "brand_or_producer": "Old Pulteney",
+  "abv": 40.0,
+  "taste_profile": {
+    "primary_notes": [
+      "honey",
+      "cream",
+      "salty",
+      "spicy",
+      "sweet"
+    ],
+    "sweetness": "medium",
+    "bitterness": "low",
+    "body": "medium",
+    "finish": "sweet, long-lasting, maritime",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "Honig",
+      "Sahne",
+      "salzig",
+      "würzig",
+      "süß"
+    ]
+  },
+  "origin": "Highlands, Scotland",
+  "food_pairings": [
+    "Kettle Matured Cheddar Cheese & Red Onions",
+    "Tyrrell's Mature Cheddar & Chive",
+    "Kettle Intense Truffle and Sea Salt"
+  ],
+  "tags": [
+    "scotch",
+    "highland",
+    "single malt",
+    "maritime",
+    "award-winning"
+  ],
+  "notes": "Winner of numerous gold medals. Dry, medium-bodied and smooth, redolent of honey and cream, faintly salty with a slight spicy note and a sweet long-lasting finish. The maritime malt.",
+  "metadata": {
+    "source_page": 2,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Whisky",
+  "subcategory_de": "Highland Single Malt",
+  "tags_de": [
+    "Scotch",
+    "Highland",
+    "Single Malt",
+    "maritim",
+    "preisgekrönt"
+  ],
+  "notes_de": "Traditionell handwerklich hergestellt mit Techniken, die andere Brennereien längst aufgegeben haben — dieser Gewinner zahlreicher Goldmedaillen bei den renommiertesten internationalen Wettbewerben ist ein Höhepunkt hochwertiger Spirituosen. Trocken, mittelkräftig und weich, reich an Honig und Sahne, dezent salzig mit einer leichten würzigen Note und einem süßen, lang anhaltenden Abgang."
+}

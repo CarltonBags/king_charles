@@ -1,0 +1,54 @@
+{
+  "id": "pub_spirit_008",
+  "name": "Prinz Hausschnaps Marille",
+  "category": "spirit",
+  "subcategory": "apricot schnapps",
+  "brand_or_producer": "Prinz",
+  "abv": 40.0,
+  "taste_profile": {
+    "primary_notes": [
+      "apricot",
+      "fruity",
+      "clean",
+      "bright"
+    ],
+    "sweetness": "medium",
+    "bitterness": "medium",
+    "body": "medium",
+    "finish": "clean, fruity, warming",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "Aprikose",
+      "fruchtig",
+      "sauber",
+      "leuchtend"
+    ]
+  },
+  "origin": "Austria",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Kettle Honey Barbeque",
+    "Kettle Sweet Chilli"
+  ],
+  "tags": [
+    "schnapps",
+    "austrian",
+    "apricot",
+    "fruit brandy"
+  ],
+  "notes": "Traditional Austrian apricot schnapps. Clean, fruity spirit with bright apricot character.",
+  "metadata": {
+    "source_page": 35,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Spirituose",
+  "subcategory_de": "Marillenschnaps",
+  "tags_de": [
+    "Schnaps",
+    "österreichisch",
+    "Aprikose",
+    "Obstbrand"
+  ],
+  "notes_de": "Traditioneller österreichischer Marillenschnaps. Sauberer, fruchtiger Geist mit hellem Aprikosen-Charakter."
+}

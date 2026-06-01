@@ -1,0 +1,58 @@
+{
+  "id": "pub_special_009",
+  "name": "Slippery Nipple",
+  "category": "special",
+  "subcategory": "layered shot",
+  "brand_or_producer": "House",
+  "abv": 20.0,
+  "taste_profile": {
+    "primary_notes": [
+      "anise",
+      "cream",
+      "berry",
+      "sweet",
+      "layered"
+    ],
+    "sweetness": "high",
+    "bitterness": "very low",
+    "body": "medium",
+    "finish": "sweet, creamy, anise",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "Anis",
+      "Sahne",
+      "Beere",
+      "süß",
+      "geschichtet"
+    ]
+  },
+  "origin": "Pub Classic",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Kettle Honey Barbeque",
+    "Kettle Sweet Chilli"
+  ],
+  "tags": [
+    "shot",
+    "layered",
+    "baileys",
+    "sambuca",
+    "pub classic"
+  ],
+  "notes": "Bailey's, Sambuca and Grenadine. A sweet, layered shot with anise and berry notes.",
+  "metadata": {
+    "source_page": 36,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Spezialgetränk",
+  "subcategory_de": "Schichtshot",
+  "tags_de": [
+    "Shot",
+    "geschichtet",
+    "Baileys",
+    "Sambuca",
+    "Pub-Klassiker"
+  ],
+  "notes_de": "Baileys, Sambuca und Grenadine. Ein süßer, geschichteter Shot mit Anis- und Beerennoten."
+}

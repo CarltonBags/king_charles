@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_086",
+  "name": "Lindemans Cassis",
+  "category": "beer",
+  "subcategory": "lambic - fruit",
+  "brand_or_producer": "Lindemans",
+  "abv": 3.5,
+  "taste_profile": {
+    "primary_notes": [
+      "blackcurrant",
+      "oak",
+      "yeast",
+      "sweet",
+      "dry"
+    ],
+    "sweetness": "medium",
+    "bitterness": "medium-low",
+    "body": "medium",
+    "finish": "dry, woody",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Johannisbeere",
+      "Eiche",
+      "Hefe",
+      "süß",
+      "trocken"
+    ]
+  },
+  "origin": "Vlezenbeek, Belgium",
+  "food_pairings": [
+    "Taylors Aberdeen Angus",
+    "Kettle Matured Cheddar Cheese & Red Onions",
+    "Kettle Intense Truffle and Sea Salt"
+  ],
+  "tags": [
+    "fruit beer",
+    "lambic",
+    "bottle",
+    "belgian",
+    "blackcurrant"
+  ],
+  "notes": "Deep reddish-purple Lambic beer. Dominant blackcurrant fragrance with subtle hints of oak and yeast. Sweet blackcurrant flavours, light acidity, dry woody finish.",
+  "metadata": {
+    "source_page": 15,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Lambic - Frucht",
+  "tags_de": [
+    "Fruchtbier",
+    "Lambic",
+    "Flasche",
+    "belgisch",
+    "Johannisbeere"
+  ],
+  "notes_de": "Tief violett-rotes Lambic-Bier. Dominierender Johannisbeer-Duft mit dezenten Eichen- und Hefenoten. Süße Johannisbeer-Aromen, ergänzt durch leichte Säure und einen trockenen, holzigen Abgang."
+}

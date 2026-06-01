@@ -1,0 +1,56 @@
+{
+  "id": "pub_beer_012",
+  "name": "Birra Moretti",
+  "category": "beer",
+  "subcategory": "italian pale lager",
+  "brand_or_producer": "Heineken Italia",
+  "abv": 4.6,
+  "taste_profile": {
+    "primary_notes": [
+      "bready malt",
+      "citrus",
+      "floral",
+      "crisp"
+    ],
+    "sweetness": "low",
+    "bitterness": "low",
+    "body": "light",
+    "finish": "crisp, clean",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Brotmalz",
+      "Zitrus",
+      "blumig",
+      "spritzig"
+    ]
+  },
+  "origin": "Udine, Italy",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Kettle Paprika & Roasted Onion",
+    "Kettle Sea Salt & Black Pepper"
+  ],
+  "tags": [
+    "lager",
+    "draft",
+    "italian",
+    "crisp",
+    "refreshing"
+  ],
+  "notes": "Italian Pale Lager, balanced and smooth with bready malt character and delicate citrus and floral notes. Light bitterness and crisp finish.",
+  "metadata": {
+    "source_page": 3,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Italienisches Helles Lager",
+  "tags_de": [
+    "Lager",
+    "vom Fass",
+    "italienisch",
+    "spritzig",
+    "erfrischend"
+  ],
+  "notes_de": "Italienisches, helles Lager, ausgewogen und weich mit brotigem Malzcharakter und dezenten Zitrus- und Blumennoten. Leichte Bitterkeit und knackiger Abgang."
+}

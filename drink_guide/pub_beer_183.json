@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_183",
+  "name": "Wild Berries Cider",
+  "category": "cider",
+  "subcategory": "berry cider",
+  "brand_or_producer": "Unknown",
+  "abv": 4.0,
+  "taste_profile": {
+    "primary_notes": [
+      "wild berries",
+      "sweet",
+      "fresh",
+      "fruity",
+      "smooth"
+    ],
+    "sweetness": "high",
+    "bitterness": "very low",
+    "body": "light",
+    "finish": "sweet, berry, sparkling",
+    "carbonation": "medium-high",
+    "primary_notes_de": [
+      "Waldbeeren",
+      "süß",
+      "frisch",
+      "fruchtig",
+      "weich"
+    ]
+  },
+  "origin": "Unknown",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Kettle Honey Barbeque",
+    "Kettle Sweet Chilli"
+  ],
+  "tags": [
+    "cider",
+    "berry",
+    "bottle",
+    "wild berries",
+    "sweet"
+  ],
+  "notes": "Fruity cider, sweet and fresh with a blend of wild berries. Lightly sparkling and smooth drinking experience.",
+  "metadata": {
+    "source_page": 29,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Cidre",
+  "subcategory_de": "Beeren-Cidre",
+  "tags_de": [
+    "Cidre",
+    "Beere",
+    "Flasche",
+    "Waldbeeren",
+    "süß"
+  ],
+  "notes_de": "Fruchtiger Cidre, süß und frisch mit einer Mischung aus Waldbeeren. Leicht prickelnd und ein weiches Trinkerlebnis."
+}

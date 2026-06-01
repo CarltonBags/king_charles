@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_154",
+  "name": "Magners Red Berries",
+  "category": "cider",
+  "subcategory": "berry cider",
+  "brand_or_producer": "Magners",
+  "abv": 4.5,
+  "taste_profile": {
+    "primary_notes": [
+      "strawberry",
+      "raspberry",
+      "apple",
+      "red berry",
+      "tart"
+    ],
+    "sweetness": "medium",
+    "bitterness": "low",
+    "body": "medium",
+    "finish": "tart, fruity",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Erdbeere",
+      "Himbeere",
+      "Apfel",
+      "rote Beere",
+      "herb"
+    ]
+  },
+  "origin": "Clonmel, Ireland",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Kettle Honey Barbeque",
+    "Kettle Sweet Chilli"
+  ],
+  "tags": [
+    "cider",
+    "irish",
+    "bottle",
+    "berry",
+    "fruity"
+  ],
+  "notes": "Ruby-red cider with a fresh red berry aroma and flavours of strawberry, raspberry and apple. Subtle sweetness and tart finish.",
+  "metadata": {
+    "source_page": 25,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Cidre",
+  "subcategory_de": "Beeren-Cidre",
+  "tags_de": [
+    "Cidre",
+    "irisch",
+    "Flasche",
+    "Beere",
+    "fruchtig"
+  ],
+  "notes_de": "Rubinroter Cidre mit frischem, rotem Beerenaroma und Geschmacksnoten von Erdbeere, Himbeere und Apfel. Dezente Süße mit herbem Abgang."
+}

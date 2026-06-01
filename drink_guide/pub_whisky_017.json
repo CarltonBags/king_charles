@@ -1,0 +1,60 @@
+{
+  "id": "pub_whisky_017",
+  "name": "Ardbeg Uigeadail",
+  "category": "whisky",
+  "subcategory": "islay single malt",
+  "brand_or_producer": "Ardbeg",
+  "abv": 54.2,
+  "taste_profile": {
+    "primary_notes": [
+      "peat",
+      "smoke",
+      "sherry",
+      "raisin",
+      "spice"
+    ],
+    "sweetness": "medium",
+    "bitterness": "medium",
+    "body": "full",
+    "finish": "smoky, rich, spicy, long",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "Torf",
+      "Rauch",
+      "Sherry",
+      "Rosine",
+      "Gewürz"
+    ]
+  },
+  "origin": "Islay, Scotland",
+  "food_pairings": [
+    "Taylors Haggis & Cracked Black Pepper",
+    "Taylors Aberdeen Angus",
+    "Taylors Fiery Pickled Onions"
+  ],
+  "tags": [
+    "scotch",
+    "islay",
+    "single malt",
+    "cask strength",
+    "sherry",
+    "award-winning"
+  ],
+  "notes": "A special vatting that marries Ardbeg's traditional deep, smoky notes with luscious, raisiny tones of old ex-Sherry casks. Voted favourite Ardbeg by the 120,000+ strong Ardbeg Committee. Full flavoured and rich with winter spices, honey glazed smoke and chewy treacle. Waves of deep smoky tones like a fine Montecristo cigar.",
+  "metadata": {
+    "source_page": 2,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Whisky",
+  "subcategory_de": "Islay Single Malt",
+  "tags_de": [
+    "Scotch",
+    "Islay",
+    "Single Malt",
+    "Fassstärke",
+    "Sherry",
+    "preisgekrönt"
+  ],
+  "notes_de": "Ausgesprochen ,,Oog-a-dal'', ist es eine besondere Vermählung, die Ardbegs traditionelle tiefe, rauchige Noten mit üppigen, rosinigen Tönen alter Ex-Sherryfässer verbindet. Ardbeg Uigeadail wurde von den über 120.000 Mitgliedern des Ardbeg Committee zu ihrem Lieblings-Ardbeg gewählt. Vollmundig und reichhaltig mit einer tiefen, den Mund umhüllenden Textur — der Geschmack ist eine faszinierende Balance zwischen süßen, würzigen und tiefrauchigen Aromen. Wellen tiefer Rauchtöne und reicher Aromen bauen sich am Gaumen auf wie eine feine Montecristo-Zigarre."
+}

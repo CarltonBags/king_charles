@@ -1,0 +1,54 @@
+{
+  "id": "pub_spirit_012",
+  "name": "Echter Nordhäuser Doppelkorn",
+  "category": "spirit",
+  "subcategory": "grain spirit",
+  "brand_or_producer": "Nordhäuser",
+  "abv": 38.0,
+  "taste_profile": {
+    "primary_notes": [
+      "grain",
+      "clean",
+      "neutral",
+      "warming"
+    ],
+    "sweetness": "very low",
+    "bitterness": "medium",
+    "body": "medium",
+    "finish": "clean, warming",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "Getreide",
+      "sauber",
+      "neutral",
+      "wärmend"
+    ]
+  },
+  "origin": "Nordhausen, Germany",
+  "food_pairings": [
+    "Taylors Haggis & Cracked Black Pepper",
+    "Taylors Aberdeen Angus",
+    "Taylors Fiery Pickled Onions"
+  ],
+  "tags": [
+    "grain spirit",
+    "german",
+    "korn",
+    "traditional"
+  ],
+  "notes": "Classic German double-distilled grain spirit from Nordhausen. Clean, neutral and warming.",
+  "metadata": {
+    "source_page": 35,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Spirituose",
+  "subcategory_de": "Kornbrand",
+  "tags_de": [
+    "Kornbrand",
+    "deutsch",
+    "Korn",
+    "traditionell"
+  ],
+  "notes_de": "Klassischer deutscher, doppelt destillierter Kornbrand aus Nordhausen. Sauber, neutral und wärmend."
+}

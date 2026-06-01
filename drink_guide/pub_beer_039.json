@@ -1,0 +1,54 @@
+{
+  "id": "pub_beer_039",
+  "name": "Tut Gut Malz",
+  "category": "beer",
+  "subcategory": "non-alcoholic malt drink",
+  "brand_or_producer": "Tut Gut",
+  "abv": 0.0,
+  "taste_profile": {
+    "primary_notes": [
+      "malt",
+      "caramel",
+      "sweet"
+    ],
+    "sweetness": "high",
+    "bitterness": "very low",
+    "body": "medium-full",
+    "finish": "clean, sweet",
+    "carbonation": "low",
+    "primary_notes_de": [
+      "Malz",
+      "Karamell",
+      "süß"
+    ]
+  },
+  "origin": "Germany",
+  "food_pairings": [
+    "Ültje Studentenfutter",
+    "Taylors Chip Shop Curry Sauce",
+    "Ültje Erdnüsse Gesalzen"
+  ],
+  "tags": [
+    "alcohol-free",
+    "malz",
+    "german",
+    "vitamin",
+    "traditional"
+  ],
+  "notes": "Dark amber malty and sweet beverage. Traditional malty experience without alcohol. Rich malt, caramel and subtle sweet flavours, clean slightly sweet finish. Packed with vitamins, natural products.",
+  "metadata": {
+    "source_page": 8,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Alkoholfreies Malzgetränk",
+  "tags_de": [
+    "alkoholfrei",
+    "Malz",
+    "deutsch",
+    "Vitamin",
+    "traditionell"
+  ],
+  "notes_de": "Dunkel bernsteinfarbenes, malziges und süßes Getränk. Traditionelles Malzerlebnis ohne Alkohol. Reichhaltiges Malz, Karamell und dezent süße Aromen, sauberer, leicht süßer Abgang. Vollgepackt mit Vitaminen, ein Naturprodukt."
+}

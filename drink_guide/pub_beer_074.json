@@ -1,0 +1,56 @@
+{
+  "id": "pub_beer_074",
+  "name": "Enigma Winter Helheim",
+  "category": "beer",
+  "subcategory": "winter ale",
+  "brand_or_producer": "Enigma",
+  "abv": 12.0,
+  "taste_profile": {
+    "primary_notes": [
+      "caramel",
+      "malty",
+      "bitter",
+      "candy sugar"
+    ],
+    "sweetness": "medium-high",
+    "bitterness": "medium",
+    "body": "medium-full",
+    "finish": "warming, bitter",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Karamell",
+      "malzig",
+      "bitter",
+      "Kandiszucker"
+    ]
+  },
+  "origin": "Belgium",
+  "food_pairings": [
+    "Taylors Haggis & Cracked Black Pepper",
+    "Kettle Matured Cheddar Cheese & Red Onions",
+    "Kettle Intense Truffle and Sea Salt"
+  ],
+  "tags": [
+    "winter ale",
+    "bottle",
+    "belgian",
+    "christmas",
+    "strong"
+  ],
+  "notes": "Malty caramel nuances harmonise with pleasant bitter accent of 31 IBU. Barley malt, hops and candy sugar for Christmas season enjoyment.",
+  "metadata": {
+    "source_page": 13,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Winter Ale",
+  "tags_de": [
+    "Winter Ale",
+    "Flasche",
+    "belgisch",
+    "Weihnachten",
+    "stark"
+  ],
+  "notes_de": "Malzige Karamellnuancen harmonieren mit einem angenehmen, bitteren Akzent von 31 IBU. Gerstenmalz, Hopfen und Kandiszucker für Genussmomente in der Weihnachtszeit."
+}

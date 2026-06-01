@@ -1,0 +1,58 @@
+{
+  "id": "pub_whisky_054",
+  "name": "Jack Daniel's Single Barrel Select",
+  "category": "bourbon",
+  "subcategory": "tennessee whiskey",
+  "brand_or_producer": "Jack Daniel's",
+  "abv": 47.0,
+  "taste_profile": {
+    "primary_notes": [
+      "caramel",
+      "spice",
+      "bright fruit",
+      "sweet",
+      "complex"
+    ],
+    "sweetness": "medium",
+    "bitterness": "medium",
+    "body": "medium-full",
+    "finish": "complex, caramel, spicy",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "Karamell",
+      "Gewürz",
+      "helle Frucht",
+      "süß",
+      "komplex"
+    ]
+  },
+  "origin": "Lynchburg, Tennessee, USA",
+  "food_pairings": [
+    "Taylors Haggis & Cracked Black Pepper",
+    "Taylors Aberdeen Angus",
+    "Taylors Fiery Pickled Onions"
+  ],
+  "tags": [
+    "tennessee whiskey",
+    "single barrel",
+    "premium",
+    "american",
+    "complex"
+  ],
+  "notes": "Bottled at 94-proof. Layers subtle notes of caramel and spice with bright fruit notes and sweet aromatics for a Tennessee Whiskey with one-of-a-kind flavor.",
+  "metadata": {
+    "source_page": 9,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bourbon",
+  "subcategory_de": "Tennessee Whiskey",
+  "tags_de": [
+    "Tennessee Whiskey",
+    "Single Barrel",
+    "Premium",
+    "amerikanisch",
+    "komplex"
+  ],
+  "notes_de": "Mit 94 Proof abgefüllt, schichtet Single Barrel Select dezente Noten von Karamell und Gewürz mit hellen Fruchtnoten und süßen Aromen zu einem Tennessee Whiskey mit einzigartigem Geschmack."
+}

@@ -1,0 +1,56 @@
+{
+  "id": "pub_spirit_009",
+  "name": "Alpenschnaps Williams Birne",
+  "category": "spirit",
+  "subcategory": "pear schnapps",
+  "brand_or_producer": "Alpenschnaps",
+  "abv": 40.0,
+  "taste_profile": {
+    "primary_notes": [
+      "pear",
+      "fruity",
+      "clean",
+      "bright",
+      "smooth"
+    ],
+    "sweetness": "medium",
+    "bitterness": "medium",
+    "body": "medium",
+    "finish": "clean, fruity, pear",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "Birne",
+      "fruchtig",
+      "sauber",
+      "leuchtend",
+      "weich"
+    ]
+  },
+  "origin": "Austria",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Kettle Honey Barbeque",
+    "Kettle Sweet Chilli"
+  ],
+  "tags": [
+    "schnapps",
+    "austrian",
+    "pear",
+    "fruit brandy"
+  ],
+  "notes": "Traditional Austrian pear schnapps. Clean, fruity spirit with bright Williams pear character.",
+  "metadata": {
+    "source_page": 35,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Spirituose",
+  "subcategory_de": "Birnenschnaps",
+  "tags_de": [
+    "Schnaps",
+    "österreichisch",
+    "Birne",
+    "Obstbrand"
+  ],
+  "notes_de": "Traditioneller österreichischer Birnenschnaps. Sauberer, fruchtiger Geist mit hellem Williams-Birnen-Charakter."
+}

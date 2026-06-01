@@ -1,0 +1,56 @@
+{
+  "id": "pub_beer_016",
+  "name": "Budweiser Budvar",
+  "category": "beer",
+  "subcategory": "czech pale lager",
+  "brand_or_producer": "Budějovický Budvar",
+  "abv": 5.0,
+  "taste_profile": {
+    "primary_notes": [
+      "fresh bread",
+      "grassy hops",
+      "malt",
+      "crisp"
+    ],
+    "sweetness": "low",
+    "bitterness": "medium",
+    "body": "medium",
+    "finish": "clean, dry, hoppy",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "frisches Brot",
+      "grasiger Hopfen",
+      "Malz",
+      "spritzig"
+    ]
+  },
+  "origin": "České Budějovice, Czech Republic",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Taylors Fiery Pickled Onions",
+    "Taylors Aberdeen Angus"
+  ],
+  "tags": [
+    "pilsner",
+    "draft",
+    "czech",
+    "classic",
+    "crisp"
+  ],
+  "notes": "Czech Pale Lager with Žatec hops and Moravian barley. Clear golden amber, crisp clean notes of fresh bread and grassy hops with malt sweetness. Medium bodied, clean dry finish.",
+  "metadata": {
+    "source_page": 4,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Tschechisches Helles Lager",
+  "tags_de": [
+    "Pilsner",
+    "vom Fass",
+    "tschechisch",
+    "klassisch",
+    "spritzig"
+  ],
+  "notes_de": "Tschechisches, helles Lager mit Žatec-Hopfen und mährischer Gerste. Klares Gold-Bernstein, knackige, saubere Noten von frischem Brot und grasigem Hopfen mit Malzsüße. Mittlerer Körper, sauberer, trockener Abgang."
+}

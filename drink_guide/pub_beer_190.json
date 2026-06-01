@@ -1,0 +1,60 @@
+{
+  "id": "pub_beer_190",
+  "name": "Gwatkin Dry Oak Craft Cider",
+  "category": "cider",
+  "subcategory": "oak-aged cider",
+  "brand_or_producer": "Gwatkin",
+  "abv": 6.0,
+  "taste_profile": {
+    "primary_notes": [
+      "oak",
+      "apple",
+      "dry",
+      "crisp",
+      "woody"
+    ],
+    "sweetness": "low",
+    "bitterness": "medium",
+    "body": "medium",
+    "finish": "dry, oaky, crisp",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Eiche",
+      "Apfel",
+      "trocken",
+      "spritzig",
+      "holzig"
+    ]
+  },
+  "origin": "Herefordshire, England",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Tyrrell's Sea Salt & Cider Vinegar",
+    "Kettle Matured Cheddar Cheese & Red Onions"
+  ],
+  "tags": [
+    "cider",
+    "oak aged",
+    "bottle",
+    "english",
+    "craft",
+    "dry"
+  ],
+  "notes": "Dry Oak Craft cider made using a blend of the finest Herefordshire cider apples laid down and matured in seasoned oak vats, combining the crisp flavour of the timber and the fruit.",
+  "metadata": {
+    "source_page": 31,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Cidre",
+  "subcategory_de": "Eichenfassgereifter Cidre",
+  "tags_de": [
+    "Cidre",
+    "eichenfassgereift",
+    "Flasche",
+    "englisch",
+    "Craft",
+    "trocken"
+  ],
+  "notes_de": "Trockener Eichenfass-Craft-Cidre, hergestellt aus einer Mischung der feinsten Herefordshire-Cidre-Äpfel, gelagert und gereift in abgelagerten Eichenfässern, die den knackigen Geschmack des Holzes und der Frucht vereinen."
+}

@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_139",
+  "name": "Tankbusters Hall of Fame",
+  "category": "beer",
+  "subcategory": "pale ale",
+  "brand_or_producer": "Tankbusters",
+  "abv": 5.5,
+  "taste_profile": {
+    "primary_notes": [
+      "pineapple",
+      "citrus",
+      "coconut",
+      "tropical",
+      "smooth"
+    ],
+    "sweetness": "medium",
+    "bitterness": "medium-low",
+    "body": "medium",
+    "finish": "smooth, well-rounded",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Ananas",
+      "Zitrus",
+      "Kokosnuss",
+      "tropisch",
+      "weich"
+    ]
+  },
+  "origin": "Poland",
+  "food_pairings": [
+    "Kettle Sweet Chilli",
+    "Kettle Jalapeño",
+    "Tyrrell's Sweet Chilli & Red Pepper"
+  ],
+  "tags": [
+    "pale ale",
+    "can",
+    "polish",
+    "tropical",
+    "craft"
+  ],
+  "notes": "Tropical aromas of pineapple, citrus and hint of coconut from Citra, Mosaic and Sabro hops. Wheat malt, oat malt and wheat flakes ensure smooth texture and well-rounded experience.",
+  "metadata": {
+    "source_page": 23,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Pale Ale",
+  "tags_de": [
+    "Pale Ale",
+    "Dose",
+    "polnisch",
+    "tropisch",
+    "Craft"
+  ],
+  "notes_de": "Tropische Aromen von Ananas, Zitrus und einem Hauch von Kokosnuss erwarten Sie in Nase und Gaumen — eine Kombination der verwendeten Citra-, Mosaic- und Sabro-Hopfensorten. Das Zusammenspiel von Weizenmalz, Hafermalz und Weizenflocken sorgt für eine angenehm weiche Textur und ein rundes Trinkerlebnis."
+}

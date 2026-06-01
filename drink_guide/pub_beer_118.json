@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_118",
+  "name": "Orkney Brewery Dragonhead Stout",
+  "category": "beer",
+  "subcategory": "scottish stout",
+  "brand_or_producer": "Orkney Brewery",
+  "abv": 4.0,
+  "taste_profile": {
+    "primary_notes": [
+      "bitter chocolate",
+      "roast coffee",
+      "dark fruits",
+      "spicy",
+      "complex"
+    ],
+    "sweetness": "low",
+    "bitterness": "medium-high",
+    "body": "medium",
+    "finish": "complex, bitter",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Bitterschokolade",
+      "Röstkaffee",
+      "dunkle Früchte",
+      "würzig",
+      "komplex"
+    ]
+  },
+  "origin": "Orkney, Scotland",
+  "food_pairings": [
+    "Kettle Matured Cheddar Cheese & Red Onions",
+    "Taylors Haggis & Cracked Black Pepper",
+    "Kettle Intense Truffle and Sea Salt"
+  ],
+  "tags": [
+    "stout",
+    "bottle",
+    "scottish",
+    "roasted",
+    "complex"
+  ],
+  "notes": "Brimming with rich roast malt and roast barley flavours. Aromas of bitter chocolate, roast coffee and spicy dark fruits complemented by complex bitter blend of hop varieties.",
+  "metadata": {
+    "source_page": 19,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Schottisches Stout",
+  "tags_de": [
+    "Stout",
+    "Flasche",
+    "schottisch",
+    "geröstet",
+    "komplex"
+  ],
+  "notes_de": "Strotzt vor reichen Röstmalz- und Röstgersten-Aromen. Aromen von Bitterschokolade, Röstkaffee und würzigen dunklen Früchten, ergänzt durch eine komplexe, bittere Mischung von Hopfensorten."
+}

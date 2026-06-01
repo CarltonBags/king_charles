@@ -1,0 +1,58 @@
+{
+  "id": "pub_whisky_019",
+  "name": "Glenfiddich 15 Years Old",
+  "category": "whisky",
+  "subcategory": "speyside single malt",
+  "brand_or_producer": "Glenfiddich",
+  "abv": 40.0,
+  "taste_profile": {
+    "primary_notes": [
+      "honey",
+      "vanilla",
+      "oak",
+      "sherry",
+      "fresh"
+    ],
+    "sweetness": "medium",
+    "bitterness": "low",
+    "body": "medium",
+    "finish": "delicate, integrated, fresh",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "Honig",
+      "Vanille",
+      "Eiche",
+      "Sherry",
+      "frisch"
+    ]
+  },
+  "origin": "Speyside, Scotland",
+  "food_pairings": [
+    "Kettle Matured Cheddar Cheese & Red Onions",
+    "Tyrrell's Mature Cheddar & Chive",
+    "Kettle Intense Truffle and Sea Salt"
+  ],
+  "tags": [
+    "scotch",
+    "speyside",
+    "single malt",
+    "solera",
+    "balanced"
+  ],
+  "notes": "Matured using the Solera process in oloroso sherry, bourbon and new oak casks. Delicious single malt with fine extracts of honey and vanilla. Delicate flavours beautifully integrated and fresh.",
+  "metadata": {
+    "source_page": 2,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Whisky",
+  "subcategory_de": "Speyside Single Malt",
+  "tags_de": [
+    "Scotch",
+    "Speyside",
+    "Single Malt",
+    "Solera",
+    "ausgewogen"
+  ],
+  "notes_de": "Im Solera-Verfahren gereift, ist er ein köstlicher Single Malt mit feinen Extrakten von Honig und Vanille. Er reift in Oloroso-Sherry-, Bourbon- und neuen Eichenfässern. Durch diese verschiedenen Fasstypen entwickeln sich feine Aromen, die wunderschön integriert und frisch sind."
+}

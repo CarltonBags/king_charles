@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_184",
+  "name": "Holly Golightly Cider",
+  "category": "cider",
+  "subcategory": "low-alcohol cider",
+  "brand_or_producer": "Unknown",
+  "abv": 0.5,
+  "taste_profile": {
+    "primary_notes": [
+      "apple",
+      "sweet",
+      "slightly acidic",
+      "light",
+      "lingering"
+    ],
+    "sweetness": "medium-high",
+    "bitterness": "low",
+    "body": "light",
+    "finish": "sweet, apple, lingering",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Apfel",
+      "süß",
+      "leicht säuerlich",
+      "leicht",
+      "anhaltend"
+    ]
+  },
+  "origin": "Unknown",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Tyrrell's Sea Salt & Cider Vinegar",
+    "Kettle Matured Cheddar Cheese & Red Onions"
+  ],
+  "tags": [
+    "cider",
+    "low-alcohol",
+    "bottle",
+    "apple",
+    "light"
+  ],
+  "notes": "Low alcohol cider, sweet and slightly acidic with a lingering apple aftertaste.",
+  "metadata": {
+    "source_page": 29,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Cidre",
+  "subcategory_de": "Alkoholarmer Cidre",
+  "tags_de": [
+    "Cidre",
+    "alkoholarm",
+    "Flasche",
+    "Apfel",
+    "leicht"
+  ],
+  "notes_de": "Alkoholarmer Cidre, süß und leicht säuerlich mit anhaltendem Apfel-Nachgeschmack."
+}

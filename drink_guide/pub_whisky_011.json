@@ -1,0 +1,58 @@
+{
+  "id": "pub_whisky_011",
+  "name": "Monkey Shoulder Batch 27",
+  "category": "whisky",
+  "subcategory": "blended malt scotch",
+  "brand_or_producer": "Monkey Shoulder",
+  "abv": 40.0,
+  "taste_profile": {
+    "primary_notes": [
+      "orange",
+      "vanilla",
+      "honey",
+      "spiced oak",
+      "mellow"
+    ],
+    "sweetness": "medium",
+    "bitterness": "low",
+    "body": "medium",
+    "finish": "mellow, spicy, smooth",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "Orange",
+      "Vanille",
+      "Honig",
+      "Gewürzeiche",
+      "mild"
+    ]
+  },
+  "origin": "Speyside (Highland), Scotland",
+  "food_pairings": [
+    "Ültje Studentenfutter",
+    "Ültje Erdnüsse Gesalzen",
+    "Taylors Chip Shop Curry Sauce"
+  ],
+  "tags": [
+    "scotch",
+    "blended malt",
+    "speyside",
+    "smooth",
+    "spiced"
+  ],
+  "notes": "A blend of malt whiskies from Speyside, selected in small batches and married together. Zesty orange, vanilla, honey and spiced oak on the nose. Mellow vanilla with spicy hints on the palate.",
+  "metadata": {
+    "source_page": 2,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Whisky",
+  "subcategory_de": "Blended Malt Scotch",
+  "tags_de": [
+    "Scotch",
+    "Blended Malt",
+    "Speyside",
+    "weich",
+    "gewürzt"
+  ],
+  "notes_de": "Eine Mischung aus Malt Whiskys aus der Speyside-Region (Highland) Schottlands. Die Whiskys werden in kleinen Chargen ausgewählt und dann miteinander vermählt, um in jeder Flasche konstant Monkey Shoulders charakteristischen Geschmack zu erreichen. In der Nase spritzige Orange, Vanille, Honig und Gewürzeiche. Am Gaumen milde Vanille mit würzigen Anklängen."
+}

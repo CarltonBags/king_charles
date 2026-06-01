@@ -1,0 +1,58 @@
+{
+  "id": "pub_whisky_024",
+  "name": "Highland Park 12 Years Old",
+  "category": "whisky",
+  "subcategory": "island single malt",
+  "brand_or_producer": "Highland Park",
+  "abv": 40.0,
+  "taste_profile": {
+    "primary_notes": [
+      "seville orange",
+      "fruitcake",
+      "cinnamon",
+      "nutmeg",
+      "heather honey"
+    ],
+    "sweetness": "medium",
+    "bitterness": "medium-low",
+    "body": "medium",
+    "finish": "spicy, well-rounded, heather smoke",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "Bitterorange",
+      "Früchtekuchen",
+      "Zimt",
+      "Muskatnuss",
+      "Heidehonig"
+    ]
+  },
+  "origin": "Orkney, Scotland",
+  "food_pairings": [
+    "Taylors Haggis & Cracked Black Pepper",
+    "Taylors Aberdeen Angus",
+    "Taylors Fiery Pickled Onions"
+  ],
+  "tags": [
+    "scotch",
+    "island",
+    "single malt",
+    "orkney",
+    "balanced"
+  ],
+  "notes": "Spicy and well-rounded, packed with flavours of sun-kissed Seville oranges and rich fruitcake spiced with cinnamon, nutmeg and cloves. Molten heather honey in waves of heathery peat smoke.",
+  "metadata": {
+    "source_page": 2,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Whisky",
+  "subcategory_de": "Island Single Malt",
+  "tags_de": [
+    "Scotch",
+    "Insel",
+    "Single Malt",
+    "Orkney",
+    "ausgewogen"
+  ],
+  "notes_de": "Unser kultiger 12 Jahre alter Single Malt Whisky ist würzig und rund, vollgepackt mit den Aromen sonnenverwöhnter Bitterorangen und reichhaltigem Früchtekuchen, gewürzt mit Zimt, Muskatnuss und Nelken. Sie finden flüssigen Heidehonig in den Wellen heidigen Torfrauchs."
+}

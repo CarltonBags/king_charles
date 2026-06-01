@@ -1,0 +1,56 @@
+{
+  "id": "pub_beer_101",
+  "name": "Jopen Hop Zij Met Ons IPA Gluten Free",
+  "category": "beer",
+  "subcategory": "gluten-free india pale ale",
+  "brand_or_producer": "Jopen",
+  "abv": 6.0,
+  "taste_profile": {
+    "primary_notes": [
+      "tropical fruit",
+      "citrus",
+      "pine",
+      "bitter"
+    ],
+    "sweetness": "low",
+    "bitterness": "medium-high",
+    "body": "medium",
+    "finish": "dry, bitter",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "tropische Frucht",
+      "Zitrus",
+      "Kiefer",
+      "bitter"
+    ]
+  },
+  "origin": "Haarlem, Netherlands",
+  "food_pairings": [
+    "Kettle Sweet Chilli",
+    "Kettle Jalapeño",
+    "Kettle Sea Salt"
+  ],
+  "tags": [
+    "gluten-free",
+    "ipa",
+    "bottle",
+    "dutch",
+    "hoppy"
+  ],
+  "notes": "Golden clear Dutch gluten-free IPA. Intense tropical fruit flavour with citrus and pine notes, pronounced bitterness.",
+  "metadata": {
+    "source_page": 16,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Glutenfreies India Pale Ale",
+  "tags_de": [
+    "glutenfrei",
+    "IPA",
+    "Flasche",
+    "niederländisch",
+    "hopfig"
+  ],
+  "notes_de": "Goldenes, klares, niederländisches, glutenfreies IPA. Intensiver, tropischer Fruchtgeschmack mit Zitrus- und Kiefernnoten sowie ausgeprägter Bitterkeit."
+}

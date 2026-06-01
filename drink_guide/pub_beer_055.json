@@ -1,0 +1,52 @@
+{
+  "id": "pub_beer_055",
+  "name": "Pulp Low Alcohol Apple Cider",
+  "category": "cider",
+  "subcategory": "low-alcohol cider",
+  "brand_or_producer": "Pulp",
+  "abv": 0.5,
+  "taste_profile": {
+    "primary_notes": [
+      "apple",
+      "fresh",
+      "sweet"
+    ],
+    "sweetness": "medium-high",
+    "bitterness": "very low",
+    "body": "light",
+    "finish": "sweet, fresh",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Apfel",
+      "frisch",
+      "süß"
+    ]
+  },
+  "origin": "England",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Tyrrell's Sea Salt & Cider Vinegar",
+    "Kettle Honey Barbeque"
+  ],
+  "tags": [
+    "low-alcohol",
+    "cider",
+    "english",
+    "apple"
+  ],
+  "notes": "Crafted from home grown fresh pressed cider apples. Low alcohol, sweet but fresh flavour.",
+  "metadata": {
+    "source_page": 10,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Cidre",
+  "subcategory_de": "Alkoholarmer Cidre",
+  "tags_de": [
+    "alkoholarm",
+    "Cidre",
+    "englisch",
+    "Apfel"
+  ],
+  "notes_de": "Hergestellt aus selbst angebauten, frisch gepressten Cidre-Äpfeln. Alkoholarm mit süßem, aber frischem Geschmack."
+}

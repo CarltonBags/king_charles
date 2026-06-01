@@ -1,0 +1,58 @@
+{
+  "id": "pub_whisky_044",
+  "name": "Paddy",
+  "category": "irish_whiskey",
+  "subcategory": "blended irish whiskey",
+  "brand_or_producer": "Paddy",
+  "abv": 40.0,
+  "taste_profile": {
+    "primary_notes": [
+      "malty",
+      "woody",
+      "honey",
+      "vanilla",
+      "nutty"
+    ],
+    "sweetness": "medium",
+    "bitterness": "very low",
+    "body": "light",
+    "finish": "light, crisp, charred",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "malzig",
+      "holzig",
+      "Honig",
+      "Vanille",
+      "nussig"
+    ]
+  },
+  "origin": "Cork, Ireland",
+  "food_pairings": [
+    "Ültje Studentenfutter",
+    "Ültje Erdnüsse Gesalzen",
+    "Taylors Chip Shop Curry Sauce"
+  ],
+  "tags": [
+    "irish",
+    "blended",
+    "triple distilled",
+    "heritage",
+    "crisp"
+  ],
+  "notes": "Triple distilled the same way in County Cork for nearly a quarter-millennium. Malty, fresh, and woody with hints of spice, honey and vanilla on the nose. Light and crisp taste with hints of nuts, malt and charred wood.",
+  "metadata": {
+    "source_page": 8,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Irischer Whiskey",
+  "subcategory_de": "Blended Irish Whiskey",
+  "tags_de": [
+    "irisch",
+    "Blended",
+    "dreifach destilliert",
+    "traditionell",
+    "spritzig"
+  ],
+  "notes_de": "Es gibt einen Grund, warum Paddy seit fast einem Vierteljahrtausend auf die gleiche Weise in County Cork, Irland, dreifach destilliert wird. Manche guten Dinge finden kein Ende. In der Nase ist er malzig, frisch und holzig mit Anklängen von Gewürz, Honig und Vanille. Der Geschmack ist leicht und knackig mit Anklängen von Nüssen, Malz und verkohltem Holz."
+}

@@ -1,0 +1,58 @@
+{
+  "id": "pub_gin_019",
+  "name": "Tanqueray No 10",
+  "category": "gin",
+  "subcategory": "premium london dry gin",
+  "brand_or_producer": "Tanqueray",
+  "abv": 47.3,
+  "taste_profile": {
+    "primary_notes": [
+      "citrus",
+      "grapefruit",
+      "lime",
+      "chamomile",
+      "juniper"
+    ],
+    "sweetness": "low",
+    "bitterness": "medium",
+    "body": "medium-full",
+    "finish": "explosive citrus, smooth",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "Zitrus",
+      "Grapefruit",
+      "Limette",
+      "Kamille",
+      "Wacholder"
+    ]
+  },
+  "origin": "London, England",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Tyrrell's Sea Salt & Cider Vinegar",
+    "Kettle Sea Salt & Balsamic Vinegar of Modena"
+  ],
+  "tags": [
+    "gin",
+    "premium",
+    "small batch",
+    "citrus",
+    "chamomile"
+  ],
+  "notes": "The first ultra-premium gin. Distilled in small batches with the four original London Dry botanicals plus fresh whole grapefruits, oranges, limes and chamomile flowers. An explosion of fresh citrus with every sip.",
+  "metadata": {
+    "source_page": 2,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Gin",
+  "subcategory_de": "Premium London Dry Gin",
+  "tags_de": [
+    "Gin",
+    "Premium",
+    "Small Batch",
+    "Zitrus",
+    "Kamille"
+  ],
+  "notes_de": "Das Erbe des originalen London Dry-Rezepts weiterführend, setzt Tanqueray No. 10 den Standard als erster Ultra-Premium-Gin. In kleinen Chargen destilliert mit den vier ursprünglichen Botanicals des London Dry und der Zugabe von frischen, ganzen Grapefruits, Orangen, Limetten und Kamillenblüten bringt Tanqueray No. 10 Gin eine Explosion von frischen Zitrusfrüchten bei jedem Schluck."
+}

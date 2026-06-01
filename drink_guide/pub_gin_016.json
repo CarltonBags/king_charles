@@ -1,0 +1,58 @@
+{
+  "id": "pub_gin_016",
+  "name": "Sipsmith London Dry Gin",
+  "category": "gin",
+  "subcategory": "london dry gin",
+  "brand_or_producer": "Sipsmith",
+  "abv": 41.6,
+  "taste_profile": {
+    "primary_notes": [
+      "juniper",
+      "citrus",
+      "classic",
+      "smooth",
+      "balanced"
+    ],
+    "sweetness": "low",
+    "bitterness": "medium",
+    "body": "medium",
+    "finish": "smooth, classic",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "Wacholder",
+      "Zitrus",
+      "klassisch",
+      "weich",
+      "ausgewogen"
+    ]
+  },
+  "origin": "London, England",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Tyrrell's Sea Salt & Cider Vinegar",
+    "Kettle Sea Salt & Balsamic Vinegar of Modena"
+  ],
+  "tags": [
+    "gin",
+    "london dry",
+    "small batch",
+    "craft",
+    "award-winning"
+  ],
+  "notes": "In 2009, London's first copper distillery in 189 years was set up. Award-winning gin handcrafted in small batches. A London Dry Gin of truly uncompromising quality and character, back in the city where gin first earned its name.",
+  "metadata": {
+    "source_page": 2,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Gin",
+  "subcategory_de": "London Dry Gin",
+  "tags_de": [
+    "Gin",
+    "London Dry",
+    "Small Batch",
+    "Craft",
+    "preisgekrönt"
+  ],
+  "notes_de": "Gin, hergestellt wie früher — und wie wir glauben, dass er sein sollte. 2009 errichteten wir Londons erste Kupferbrennblase seit 189 Jahren und stellten unseren preisgekrönten Gin von Hand in kleinen Chargen her. Unsere Mission war einfach: einen London Dry Gin von wirklich kompromissloser Qualität und Charakter zurück in die Stadt zu bringen, in der Gin seinen Namen erhielt."
+}

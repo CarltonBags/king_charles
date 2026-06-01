@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_206",
+  "name": "Two Tribes Campfire Hazy IPA",
+  "category": "beer",
+  "subcategory": "new england ipa",
+  "brand_or_producer": "Two Tribes",
+  "abv": 5.2,
+  "taste_profile": {
+    "primary_notes": [
+      "tropical",
+      "coconut",
+      "hazy",
+      "full-bodied",
+      "fruit"
+    ],
+    "sweetness": "medium",
+    "bitterness": "medium-low",
+    "body": "medium-full",
+    "finish": "tropical, creamy, hazy",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "tropisch",
+      "Kokosnuss",
+      "trüb",
+      "vollmundig",
+      "Frucht"
+    ]
+  },
+  "origin": "England",
+  "food_pairings": [
+    "Kettle Sweet Chilli",
+    "Kettle Jalapeño",
+    "Kettle Sweet Chilli & Sour Cream"
+  ],
+  "tags": [
+    "neipa",
+    "bottle",
+    "english",
+    "clearance",
+    "coconut"
+  ],
+  "notes": "Full-bodied, hazy IPA inspired by campfire sessions. Tropical fruit flavours and a hint of coconut. Best enjoyed with friends. Clearance item.",
+  "metadata": {
+    "source_page": 39,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "New England IPA",
+  "tags_de": [
+    "NEIPA",
+    "Flasche",
+    "englisch",
+    "Abverkauf",
+    "Kokosnuss"
+  ],
+  "notes_de": "Vollmundiges, trübes IPA, inspiriert von Lagerfeuer-Sessions. Tropische Fruchtaromen und ein Hauch von Kokosnuss. Am besten mit Freunden zu genießen. Abverkaufsware."
+}

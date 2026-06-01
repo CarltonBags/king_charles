@@ -1,0 +1,60 @@
+{
+  "id": "pub_beer_073",
+  "name": "Boon Geuze Mariage Parfait",
+  "category": "beer",
+  "subcategory": "lambic - gueuze",
+  "brand_or_producer": "Boon",
+  "abv": 8.0,
+  "taste_profile": {
+    "primary_notes": [
+      "lemon",
+      "pistachio",
+      "leather",
+      "oak",
+      "tannic"
+    ],
+    "sweetness": "low",
+    "bitterness": "high",
+    "body": "medium",
+    "finish": "dry, tannic, spicy",
+    "carbonation": "high",
+    "primary_notes_de": [
+      "Zitrone",
+      "Pistazie",
+      "Leder",
+      "Eiche",
+      "tanninhaltig"
+    ]
+  },
+  "origin": "Lembeek, Belgium",
+  "food_pairings": [
+    "Tyrrell's Sea Salt & Cider Vinegar",
+    "Kettle Matured Cheddar Cheese & Red Onions",
+    "Kettle Intense Truffle and Sea Salt"
+  ],
+  "tags": [
+    "lambic",
+    "gueuze",
+    "bottle",
+    "belgian",
+    "oak aged",
+    "sour"
+  ],
+  "notes": "Lambic beers aged for three years in oak barrels. Aroma of new leather, lemon and light pistachio. Spritzy and dry with bright acidity and tannic spicy finish.",
+  "metadata": {
+    "source_page": 13,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Lambic - Gueuze",
+  "tags_de": [
+    "Lambic",
+    "Gueuze",
+    "Flasche",
+    "belgisch",
+    "eichenfassgereift",
+    "Sour"
+  ],
+  "notes_de": "Drei Jahre in Eichenfässern gereifte Lambic-Biere. Aroma von neuem Leder, Zitrone und leichter Pistazie. Spritzig und trocken mit heller Säure und tanninhaltigem, würzigem Abgang."
+}

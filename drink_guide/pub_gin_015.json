@@ -1,0 +1,58 @@
+{
+  "id": "pub_gin_015",
+  "name": "Ophir",
+  "category": "gin",
+  "subcategory": "spiced gin",
+  "brand_or_producer": "Ophir",
+  "abv": 42.5,
+  "taste_profile": {
+    "primary_notes": [
+      "cubeb pepper",
+      "black pepper",
+      "coriander",
+      "spicy",
+      "exotic"
+    ],
+    "sweetness": "low",
+    "bitterness": "medium-high",
+    "body": "medium",
+    "finish": "spicy, warm, exotic",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "Kubebenpfeffer",
+      "schwarzer Pfeffer",
+      "Koriander",
+      "würzig",
+      "exotisch"
+    ]
+  },
+  "origin": "England (Opihr Distillery)",
+  "food_pairings": [
+    "Kettle Sweet Chilli",
+    "Kettle Jalapeño",
+    "Kettle Sweet Chilli & Sour Cream"
+  ],
+  "tags": [
+    "gin",
+    "spiced",
+    "oriental",
+    "exotic",
+    "london dry"
+  ],
+  "notes": "OPIHR Spices of the Orient Gin crafted with exotic hand-picked botanicals: spicy Cubeb berries from Indonesia, Black Pepper from India and Coriander from Morocco. Distilled using the London Dry method since 1761.",
+  "metadata": {
+    "source_page": 2,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Gin",
+  "subcategory_de": "Gewürz-Gin",
+  "tags_de": [
+    "Gin",
+    "gewürzt",
+    "orientalisch",
+    "exotisch",
+    "London Dry"
+  ],
+  "notes_de": "OPIHR Spices of the Orient Gin wird aus einer Auswahl exotischer, handverlesener Botanicals handgefertigt, sorgfältig ausgewählt von OPIHRs Master Distiller — darunter würzige Kubebenbeeren aus Indonesien, schwarzer Pfeffer aus Indien und Koriander aus Marokko."
+}

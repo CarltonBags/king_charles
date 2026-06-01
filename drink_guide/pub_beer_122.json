@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_122",
+  "name": "Sierra Nevada Hazy Little Thing",
+  "category": "beer",
+  "subcategory": "new england ipa",
+  "brand_or_producer": "Sierra Nevada",
+  "abv": 6.7,
+  "taste_profile": {
+    "primary_notes": [
+      "mango",
+      "pineapple",
+      "citrus",
+      "juicy",
+      "tropical"
+    ],
+    "sweetness": "medium",
+    "bitterness": "medium-low",
+    "body": "medium",
+    "finish": "soft, juicy",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Mango",
+      "Ananas",
+      "Zitrus",
+      "saftig",
+      "tropisch"
+    ]
+  },
+  "origin": "California, USA",
+  "food_pairings": [
+    "Kettle Sweet Chilli",
+    "Kettle Jalapeño",
+    "Tyrrell's Sweet Chilli & Red Pepper"
+  ],
+  "tags": [
+    "neipa",
+    "can",
+    "american",
+    "hazy",
+    "juicy"
+  ],
+  "notes": "Hazy golden-orange New England IPA. Tropical fruit and citrus aroma, juicy mango and pineapple flavour, balanced by mild malt sweetness and soft bitterness.",
+  "metadata": {
+    "source_page": 21,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "New England IPA",
+  "tags_de": [
+    "NEIPA",
+    "Dose",
+    "amerikanisch",
+    "trüb",
+    "saftig"
+  ],
+  "notes_de": "Trüb golden-orangefarbenes New England IPA. Tropisches Frucht- und Zitrus-Aroma mit saftigem Mango- und Ananas-Geschmack, ausgewogen durch milde Malzsüße und weiche Bitterkeit."
+}

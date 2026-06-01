@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_071",
+  "name": "La Chouffe Blonde",
+  "category": "beer",
+  "subcategory": "belgian blonde",
+  "brand_or_producer": "La Chouffe",
+  "abv": 8.0,
+  "taste_profile": {
+    "primary_notes": [
+      "citrus",
+      "pear",
+      "banana",
+      "clove",
+      "coriander"
+    ],
+    "sweetness": "medium",
+    "bitterness": "medium-low",
+    "body": "medium",
+    "finish": "long, smooth",
+    "carbonation": "high",
+    "primary_notes_de": [
+      "Zitrus",
+      "Birne",
+      "Banane",
+      "Nelke",
+      "Koriander"
+    ]
+  },
+  "origin": "Achouffe, Belgium",
+  "food_pairings": [
+    "Kettle Matured Cheddar Cheese & Red Onions",
+    "Kettle Intense Truffle and Sea Salt",
+    "Tyrrell's Sweet Chilli & Red Pepper"
+  ],
+  "tags": [
+    "blonde",
+    "belgian",
+    "bottle",
+    "fruity",
+    "spicy"
+  ],
+  "notes": "Golden beer, slightly hazy. Bright citrus and pear aroma with sweet banana, clove and coriander notes. Silky smooth with subtle bitterness and bright carbonation for long smooth finish.",
+  "metadata": {
+    "source_page": 12,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Belgisches Blonde",
+  "tags_de": [
+    "Blonde",
+    "belgisch",
+    "Flasche",
+    "fruchtig",
+    "würzig"
+  ],
+  "notes_de": "Goldenes Bier, leicht trüb. Helles Zitrus- und Birnenaroma mit süßer Banane, Nelke und Koriandernoten. Seidig-weich mit subtiler Bitterkeit und heller Kohlensäure für einen langen, weichen Abgang."
+}

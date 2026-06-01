@@ -1,0 +1,58 @@
+{
+  "id": "pub_softdrink_025",
+  "name": "Vaihinger Johannisbeersaft",
+  "category": "soft_drink",
+  "subcategory": "blackcurrant juice",
+  "brand_or_producer": "Vaihinger",
+  "abv": 0.0,
+  "taste_profile": {
+    "primary_notes": [
+      "blackcurrant",
+      "tart",
+      "rich",
+      "berry",
+      "intense"
+    ],
+    "sweetness": "medium",
+    "bitterness": "medium",
+    "body": "medium",
+    "finish": "tart, rich, berry",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "Johannisbeere",
+      "herb",
+      "reichhaltig",
+      "Beere",
+      "intensiv"
+    ]
+  },
+  "origin": "Germany",
+  "food_pairings": [
+    "Ültje Studentenfutter",
+    "Ültje Erdnüsse Gesalzen",
+    "Taylors Chip Shop Curry Sauce"
+  ],
+  "tags": [
+    "soft drink",
+    "juice",
+    "blackcurrant",
+    "german",
+    "natural"
+  ],
+  "notes": "Pure German blackcurrant juice. Rich, tart and deeply fruity with intense berry character.",
+  "metadata": {
+    "source_page": 6,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Alkoholfreies Getränk",
+  "subcategory_de": "Johannisbeersaft",
+  "tags_de": [
+    "Softdrink",
+    "Saft",
+    "Johannisbeere",
+    "deutsch",
+    "natürlich"
+  ],
+  "notes_de": "Reiner deutscher Johannisbeersaft. Reichhaltig, herb und tief-fruchtig mit intensivem Beerencharakter."
+}

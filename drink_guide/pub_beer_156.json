@@ -1,0 +1,60 @@
+{
+  "id": "pub_beer_156",
+  "name": "Toffee Apple Cider",
+  "category": "cider",
+  "subcategory": "flavoured cider",
+  "brand_or_producer": "Unknown",
+  "abv": 4.0,
+  "taste_profile": {
+    "primary_notes": [
+      "toffee",
+      "caramel",
+      "apple",
+      "sweet",
+      "dessert"
+    ],
+    "sweetness": "high",
+    "bitterness": "very low",
+    "body": "medium",
+    "finish": "sweet, toffee, caramel",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Toffee",
+      "Karamell",
+      "Apfel",
+      "süß",
+      "Dessert"
+    ]
+  },
+  "origin": "Unknown",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Kettle Honey Barbeque",
+    "Kettle Sweet Chilli"
+  ],
+  "tags": [
+    "cider",
+    "flavoured",
+    "bottle",
+    "toffee",
+    "sweet",
+    "dessert"
+  ],
+  "notes": "Dessert-style cider with a rich sweet toffee and caramel flavour with hints of apple.",
+  "metadata": {
+    "source_page": 25,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Cidre",
+  "subcategory_de": "Aromatisierter Cidre",
+  "tags_de": [
+    "Cidre",
+    "aromatisiert",
+    "Flasche",
+    "Toffee",
+    "süß",
+    "Dessert"
+  ],
+  "notes_de": "Dessert-artiger Cidre mit reichhaltigem, süßem Toffee- und Karamell-Geschmack und Apfelanklängen."
+}

@@ -1,0 +1,56 @@
+{
+  "id": "pub_beer_110",
+  "name": "Astra Kleine Freiheit Helles",
+  "category": "beer",
+  "subcategory": "helles lager",
+  "brand_or_producer": "Astra",
+  "abv": 5.1,
+  "taste_profile": {
+    "primary_notes": [
+      "malt",
+      "balanced",
+      "light",
+      "clean"
+    ],
+    "sweetness": "low",
+    "bitterness": "low",
+    "body": "light",
+    "finish": "clean, easy",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Malz",
+      "ausgewogen",
+      "leicht",
+      "sauber"
+    ]
+  },
+  "origin": "Hamburg, Germany",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Kettle Paprika & Roasted Onion",
+    "Kettle Sea Salt & Black Pepper"
+  ],
+  "tags": [
+    "helles",
+    "bottle",
+    "german",
+    "hamburg",
+    "easy drinking"
+  ],
+  "notes": "Helles Lager brewed in Hamburg. Bright clear pale straw. Light balanced malt aroma with touch of bitterness. Light bodied, very easy to drink.",
+  "metadata": {
+    "source_page": 18,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Helles Lager",
+  "tags_de": [
+    "Helles",
+    "Flasche",
+    "deutsch",
+    "Hamburg",
+    "süffig"
+  ],
+  "notes_de": "Helles Lager, gebraut in Hamburg. Hell und klar, blasses Stroh. Leichtes, ausgewogenes Malz-Aroma mit einem Hauch Bitterkeit. Leichter Körper, sehr süffig."
+}

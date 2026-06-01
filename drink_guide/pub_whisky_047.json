@@ -1,0 +1,58 @@
+{
+  "id": "pub_whisky_047",
+  "name": "Jack Daniel's Old No. 7",
+  "category": "bourbon",
+  "subcategory": "tennessee whiskey",
+  "brand_or_producer": "Jack Daniel's",
+  "abv": 40.0,
+  "taste_profile": {
+    "primary_notes": [
+      "caramel",
+      "vanilla",
+      "charcoal",
+      "oak",
+      "mellow"
+    ],
+    "sweetness": "medium",
+    "bitterness": "low",
+    "body": "medium",
+    "finish": "mellow, smooth, classic",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "Karamell",
+      "Vanille",
+      "Holzkohle",
+      "Eiche",
+      "mild"
+    ]
+  },
+  "origin": "Lynchburg, Tennessee, USA",
+  "food_pairings": [
+    "Taylors Haggis & Cracked Black Pepper",
+    "Taylors Aberdeen Angus",
+    "Taylors Fiery Pickled Onions"
+  ],
+  "tags": [
+    "tennessee whiskey",
+    "american",
+    "charcoal mellowed",
+    "classic",
+    "iconic"
+  ],
+  "notes": "Mellowed drop by drop through 10-feet of sugar maple charcoal, then matured in handcrafted barrels. Judged by look, aroma and taste as Jack Daniel himself did it over a century ago.",
+  "metadata": {
+    "source_page": 9,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bourbon",
+  "subcategory_de": "Tennessee Whiskey",
+  "tags_de": [
+    "Tennessee Whiskey",
+    "amerikanisch",
+    "holzkohle-gefiltert",
+    "klassisch",
+    "kultig"
+  ],
+  "notes_de": "Tropfen für Tropfen durch drei Meter Zuckerahorn-Holzkohle gefiltert, dann in handgefertigten Fässern unserer eigenen Herstellung gereift. Und unser Tennessee Whiskey folgt keinem Kalender — er ist erst fertig, wenn unsere Verkoster sagen, dass er es ist. Wir beurteilen ihn nach seinem Aussehen, nach seinem Aroma und natürlich nach seinem Geschmack. So hat es Jack Daniel selbst vor über einem Jahrhundert gemacht. Und so machen wir es noch heute."
+}

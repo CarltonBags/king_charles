@@ -1,0 +1,54 @@
+{
+  "id": "pub_softdrink_003",
+  "name": "Bluna Orange",
+  "category": "soft_drink",
+  "subcategory": "orange soda",
+  "brand_or_producer": "Bluna",
+  "abv": 0.0,
+  "taste_profile": {
+    "primary_notes": [
+      "orange",
+      "fruity",
+      "sweet",
+      "citrus"
+    ],
+    "sweetness": "high",
+    "bitterness": "very low",
+    "body": "light",
+    "finish": "sweet, citrusy",
+    "carbonation": "high",
+    "primary_notes_de": [
+      "Orange",
+      "fruchtig",
+      "süß",
+      "Zitrus"
+    ]
+  },
+  "origin": "Germany",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Kettle Sea Salt & Balsamic Vinegar of Modena",
+    "Kettle Sea Salt & Black Pepper"
+  ],
+  "tags": [
+    "soft drink",
+    "orange",
+    "german",
+    "fruity"
+  ],
+  "notes": "Classic German orange-flavoured carbonated soft drink, fruity and refreshing.",
+  "metadata": {
+    "source_page": 6,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Alkoholfreies Getränk",
+  "subcategory_de": "Orangenlimonade",
+  "tags_de": [
+    "Softdrink",
+    "Orange",
+    "deutsch",
+    "fruchtig"
+  ],
+  "notes_de": "Klassische deutsche Orangenlimonade, fruchtig und erfrischend."
+}

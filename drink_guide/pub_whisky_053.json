@@ -1,0 +1,58 @@
+{
+  "id": "pub_whisky_053",
+  "name": "Jack Daniel's Tennessee Rye",
+  "category": "bourbon",
+  "subcategory": "tennessee rye whiskey",
+  "brand_or_producer": "Jack Daniel's",
+  "abv": 45.0,
+  "taste_profile": {
+    "primary_notes": [
+      "rye",
+      "spicy",
+      "pepper",
+      "charcoal",
+      "bold"
+    ],
+    "sweetness": "low",
+    "bitterness": "medium-high",
+    "body": "medium",
+    "finish": "spicy, bold, mellowed",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "Roggen",
+      "würzig",
+      "Pfeffer",
+      "Holzkohle",
+      "kräftig"
+    ]
+  },
+  "origin": "Lynchburg, Tennessee, USA",
+  "food_pairings": [
+    "Taylors Haggis & Cracked Black Pepper",
+    "Taylors Aberdeen Angus",
+    "Taylors Fiery Pickled Onions"
+  ],
+  "tags": [
+    "tennessee whiskey",
+    "rye",
+    "american",
+    "charcoal mellowed",
+    "bold"
+  ],
+  "notes": "Rye whiskey made Jack's way. Crafted with 70-percent rye grain bill, natural spring water from Cave Spring Hollow, and Jack's time-honored charcoal mellowing process. Only from Lynchburg, Tennessee.",
+  "metadata": {
+    "source_page": 9,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bourbon",
+  "subcategory_de": "Tennessee Rye Whiskey",
+  "tags_de": [
+    "Tennessee Whiskey",
+    "Roggen",
+    "amerikanisch",
+    "holzkohle-gefiltert",
+    "kräftig"
+  ],
+  "notes_de": "Wir präsentieren Rye Whiskey, hergestellt auf Jacks Art. Gefertigt mit unserer 70-prozentigen Roggen-Getreidemischung, natürlichem Quellwasser aus unserer eigenen Cave Spring Hollow und Jacks bewährtem Holzkohle-Mellowing-Verfahren — Jack Daniel's Tennessee Rye ist ein Whiskey, der nur aus Lynchburg, Tennessee, kommen kann."
+}

@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_197",
+  "name": "La Chouffe Sans Alcool",
+  "category": "beer",
+  "subcategory": "non-alcoholic belgian blonde",
+  "brand_or_producer": "La Chouffe",
+  "abv": 0.4,
+  "taste_profile": {
+    "primary_notes": [
+      "fruity",
+      "spicy",
+      "fresh",
+      "balanced",
+      "citrus"
+    ],
+    "sweetness": "medium-low",
+    "bitterness": "low",
+    "body": "medium",
+    "finish": "fresh, spicy, fruity",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "fruchtig",
+      "würzig",
+      "frisch",
+      "ausgewogen",
+      "Zitrus"
+    ]
+  },
+  "origin": "Achouffe, Belgium",
+  "food_pairings": [
+    "Kettle Matured Cheddar Cheese & Red Onions",
+    "Tyrrell's Mature Cheddar & Chive",
+    "Kettle Intense Truffle and Sea Salt"
+  ],
+  "tags": [
+    "alcohol-free",
+    "belgian",
+    "blonde",
+    "clearance",
+    "spicy"
+  ],
+  "notes": "The great taste of La Chouffe — fruity bouquet, hint of spice, unbeatable freshness — only without the alcohol. Clearance item.",
+  "metadata": {
+    "source_page": 37,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Alkoholfreies Belgisches Blonde",
+  "tags_de": [
+    "alkoholfrei",
+    "belgisch",
+    "Blonde",
+    "Abverkauf",
+    "würzig"
+  ],
+  "notes_de": "Der großartige Geschmack von La Chouffe — fruchtiges Bouquet, ein Hauch von Würze, unschlagbare Frische — nur ohne Alkohol. Abverkaufsware."
+}

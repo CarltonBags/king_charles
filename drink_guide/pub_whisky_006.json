@@ -1,0 +1,58 @@
+{
+  "id": "pub_whisky_006",
+  "name": "Glenlivet 12 Years Old Double Oak",
+  "category": "whisky",
+  "subcategory": "speyside single malt",
+  "brand_or_producer": "The Glenlivet",
+  "abv": 40.0,
+  "taste_profile": {
+    "primary_notes": [
+      "vanilla",
+      "oak",
+      "smooth",
+      "honey",
+      "fruity"
+    ],
+    "sweetness": "medium",
+    "bitterness": "low",
+    "body": "medium",
+    "finish": "smooth, vanilla, oaky",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "Vanille",
+      "Eiche",
+      "weich",
+      "Honig",
+      "fruchtig"
+    ]
+  },
+  "origin": "Speyside, Scotland",
+  "food_pairings": [
+    "Ültje Studentenfutter",
+    "Ültje Erdnüsse Gesalzen",
+    "Taylors Chip Shop Curry Sauce"
+  ],
+  "tags": [
+    "scotch",
+    "speyside",
+    "single malt",
+    "classic",
+    "smooth"
+  ],
+  "notes": "One of the most popular malts in the world. Matured in traditional oak, then American oak casks that impart notes of vanilla and give the whisky its distinctive smoothness.",
+  "metadata": {
+    "source_page": 2,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Whisky",
+  "subcategory_de": "Speyside Single Malt",
+  "tags_de": [
+    "Scotch",
+    "Speyside",
+    "Single Malt",
+    "klassisch",
+    "weich"
+  ],
+  "notes_de": "Der Original Malt Whisky Almanac sagt: ,,Ein erstklassiger Malt. Einer der beliebtesten Malts der Welt — und das zu Recht.'' Gereift in traditioneller Eiche, bevor er Zeit in amerikanischen Eichenfässern verbringt, die Vanillenoten verleihen und dem Whisky seine unverwechselbare Weichheit geben."
+}

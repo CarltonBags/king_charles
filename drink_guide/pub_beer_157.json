@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_157",
+  "name": "Raspberry & Lime Cider",
+  "category": "cider",
+  "subcategory": "flavoured cider",
+  "brand_or_producer": "Unknown",
+  "abv": 3.4,
+  "taste_profile": {
+    "primary_notes": [
+      "raspberry",
+      "lime",
+      "zesty",
+      "apple",
+      "sweet"
+    ],
+    "sweetness": "medium-high",
+    "bitterness": "low",
+    "body": "light-medium",
+    "finish": "sweet, zesty, crisp",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Himbeere",
+      "Limette",
+      "würzig-frisch",
+      "Apfel",
+      "süß"
+    ]
+  },
+  "origin": "Unknown",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Kettle Honey Barbeque",
+    "Kettle Sweet Chilli"
+  ],
+  "tags": [
+    "cider",
+    "flavoured",
+    "bottle",
+    "raspberry",
+    "lime"
+  ],
+  "notes": "Sweet cider with a fresh raspberry flavour balanced by a hint of zesty lime and crisp apple undertones.",
+  "metadata": {
+    "source_page": 25,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Cidre",
+  "subcategory_de": "Aromatisierter Cidre",
+  "tags_de": [
+    "Cidre",
+    "aromatisiert",
+    "Flasche",
+    "Himbeere",
+    "Limette"
+  ],
+  "notes_de": "Süßer Cidre mit frischem Himbeergeschmack, ausgewogen durch einen Hauch von spritziger Limette und knackigen Apfel-Untertönen."
+}

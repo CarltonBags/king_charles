@@ -1,0 +1,58 @@
+{
+  "id": "pub_softdrink_026",
+  "name": "Vaihinger Tomate",
+  "category": "soft_drink",
+  "subcategory": "tomato juice",
+  "brand_or_producer": "Vaihinger",
+  "abv": 0.0,
+  "taste_profile": {
+    "primary_notes": [
+      "tomato",
+      "savoury",
+      "rich",
+      "umami",
+      "smooth"
+    ],
+    "sweetness": "low",
+    "bitterness": "very low",
+    "body": "medium",
+    "finish": "savoury, smooth",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "Tomate",
+      "würzig",
+      "reichhaltig",
+      "Umami",
+      "weich"
+    ]
+  },
+  "origin": "Germany",
+  "food_pairings": [
+    "Taylors Haggis & Cracked Black Pepper",
+    "Taylors Aberdeen Angus",
+    "Taylors Fiery Pickled Onions"
+  ],
+  "tags": [
+    "soft drink",
+    "juice",
+    "tomato",
+    "german",
+    "savoury"
+  ],
+  "notes": "Pure German tomato juice. Savoury, rich and full-bodied with authentic tomato flavour.",
+  "metadata": {
+    "source_page": 6,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Alkoholfreies Getränk",
+  "subcategory_de": "Tomatensaft",
+  "tags_de": [
+    "Softdrink",
+    "Saft",
+    "Tomate",
+    "deutsch",
+    "würzig"
+  ],
+  "notes_de": "Reiner deutscher Tomatensaft. Würzig, reichhaltig und vollmundig mit authentischem Tomatengeschmack."
+}

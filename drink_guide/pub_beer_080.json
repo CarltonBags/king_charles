@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_080",
+  "name": "La Trappe Quadrupel",
+  "category": "beer",
+  "subcategory": "belgian quadrupel",
+  "brand_or_producer": "La Trappe",
+  "abv": 10.0,
+  "taste_profile": {
+    "primary_notes": [
+      "dark fruits",
+      "caramel",
+      "vanilla",
+      "nutty",
+      "dates"
+    ],
+    "sweetness": "medium-high",
+    "bitterness": "medium",
+    "body": "full",
+    "finish": "long-lasting, gentle bitter",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "dunkle Früchte",
+      "Karamell",
+      "Vanille",
+      "nussig",
+      "Datteln"
+    ]
+  },
+  "origin": "Tilburg, Netherlands",
+  "food_pairings": [
+    "Kettle Matured Cheddar Cheese & Red Onions",
+    "Kettle Intense Truffle and Sea Salt",
+    "Taylors Haggis & Cracked Black Pepper"
+  ],
+  "tags": [
+    "quadrupel",
+    "trappist",
+    "bottle",
+    "dutch",
+    "complex"
+  ],
+  "notes": "Deep amber Trappist ale. Rich scent of dark fruits complemented by caramel, vanilla and subtle nutty undertones. Warming and smooth with faint yeast notes, sweet dates and caramel balanced by hop bitterness. Velvety texture, long-lasting finish.",
+  "metadata": {
+    "source_page": 14,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Belgisches Quadrupel",
+  "tags_de": [
+    "Quadrupel",
+    "Trappisten",
+    "Flasche",
+    "niederländisch",
+    "komplex"
+  ],
+  "notes_de": "Tief bernsteinfarbenes Trappistenbier. Reichhaltiger Duft von dunklen Früchten, ergänzt durch Karamell, Vanille und dezente nussige Untertöne. Wärmend und weich mit leichten Hefenoten und süßen Noten von Datteln und Karamell, ausgewogen durch Hopfenbitterkeit. Samtige Textur mit lang anhaltendem Abgang."
+}

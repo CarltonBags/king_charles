@@ -1,0 +1,60 @@
+{
+  "id": "pub_gin_020",
+  "name": "The Botanist",
+  "category": "gin",
+  "subcategory": "islay dry gin",
+  "brand_or_producer": "The Botanist",
+  "abv": 46.0,
+  "taste_profile": {
+    "primary_notes": [
+      "juniper",
+      "herbal",
+      "floral",
+      "citrus",
+      "botanical"
+    ],
+    "sweetness": "low",
+    "bitterness": "medium-low",
+    "body": "medium",
+    "finish": "herbal, floral, complex",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "Wacholder",
+      "kräuterig",
+      "blumig",
+      "Zitrus",
+      "botanisch"
+    ]
+  },
+  "origin": "Islay, Scotland",
+  "food_pairings": [
+    "Kettle Matured Cheddar Cheese & Red Onions",
+    "Tyrrell's Mature Cheddar & Chive",
+    "Kettle Intense Truffle and Sea Salt"
+  ],
+  "tags": [
+    "gin",
+    "islay",
+    "botanical",
+    "foraged",
+    "craft",
+    "scottish"
+  ],
+  "notes": "A gin that's the essence of Islay. Made from 22 hand-foraged local botanicals, distilled slowly and patiently. A representation of the place, communicating a love for the land through the art of distillation.",
+  "metadata": {
+    "source_page": 2,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Gin",
+  "subcategory_de": "Islay Dry Gin",
+  "tags_de": [
+    "Gin",
+    "Islay",
+    "botanisch",
+    "wildgesammelt",
+    "Craft",
+    "schottisch"
+  ],
+  "notes_de": "Wenn wir The Botanist destillieren, erschaffen wir mehr als nur ein Getränk. The Botanist ist eine Repräsentation des Ortes, aus dem wir kommen. Es ist eine Art, unseren Platz in der Welt zu kommunizieren und unsere Liebe dafür. Destillieren ist eine Lebensweise, und für mich ist es eine Art, mit der Welt zu kommunizieren. Wir nutzen die Kunst der Destillation und eine Verbindung zum Land, unserer Heimat, um einen wunderbaren Gin zu erschaffen, der die Essenz von Islay ist."
+}

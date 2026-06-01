@@ -1,0 +1,60 @@
+{
+  "id": "pub_beer_146",
+  "name": "Tankbusters Citrus Smash",
+  "category": "beer",
+  "subcategory": "fruited ipa",
+  "brand_or_producer": "Tankbusters",
+  "abv": 5.0,
+  "taste_profile": {
+    "primary_notes": [
+      "mandarin",
+      "citrus",
+      "fruity",
+      "smooth",
+      "bright"
+    ],
+    "sweetness": "medium",
+    "bitterness": "medium-low",
+    "body": "medium",
+    "finish": "fruity, citrus, smooth",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Mandarine",
+      "Zitrus",
+      "fruchtig",
+      "weich",
+      "leuchtend"
+    ]
+  },
+  "origin": "Poland",
+  "food_pairings": [
+    "Kettle Sweet Chilli",
+    "Kettle Jalapeño",
+    "Kettle Sweet Chilli & Sour Cream"
+  ],
+  "tags": [
+    "ipa",
+    "fruited",
+    "can",
+    "polish",
+    "craft",
+    "citrus"
+  ],
+  "notes": "Mandarin Oat IPA. Brewed with Azacca BBC, Citra Cryo, Hallertauer Blanc and real mandarin juice. A fruited IPA with bright citrus punch and smooth oat body.",
+  "metadata": {
+    "source_page": 1,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Frucht-IPA",
+  "tags_de": [
+    "IPA",
+    "fruchtig",
+    "Dose",
+    "polnisch",
+    "Craft",
+    "Zitrus"
+  ],
+  "notes_de": "Mandarinen-Hafer-IPA. Gebraut mit Azacca BBC, Citra Cryo und Hallertauer Blanc sowie echtem Mandarinensaft. Ein fruchtiges IPA mit hellem Zitrus-Punch und weichem Haferkörper."
+}

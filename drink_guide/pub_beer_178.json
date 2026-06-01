@@ -1,0 +1,60 @@
+{
+  "id": "pub_beer_178",
+  "name": "Strawberry Daiquiri Cider",
+  "category": "cider",
+  "subcategory": "cocktail-inspired cider",
+  "brand_or_producer": "Unknown",
+  "abv": 3.4,
+  "taste_profile": {
+    "primary_notes": [
+      "strawberry",
+      "lime",
+      "rum",
+      "sweet",
+      "cocktail"
+    ],
+    "sweetness": "medium-high",
+    "bitterness": "very low",
+    "body": "medium",
+    "finish": "sweet, cocktail-inspired",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Erdbeere",
+      "Limette",
+      "Rum",
+      "süß",
+      "Cocktail"
+    ]
+  },
+  "origin": "Unknown",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Kettle Honey Barbeque",
+    "Kettle Sweet Chilli"
+  ],
+  "tags": [
+    "cider",
+    "flavoured",
+    "bottle",
+    "cocktail",
+    "strawberry",
+    "daiquiri"
+  ],
+  "notes": "Cocktail-inspired cider combining the flavours of juicy strawberries, limes and a subtle rum note.",
+  "metadata": {
+    "source_page": 28,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Cidre",
+  "subcategory_de": "Cocktail-Cidre",
+  "tags_de": [
+    "Cidre",
+    "aromatisiert",
+    "Flasche",
+    "Cocktail",
+    "Erdbeere",
+    "Daiquiri"
+  ],
+  "notes_de": "Cocktail-inspirierter Cidre, der die Aromen von saftigen Erdbeeren, Limetten und einer dezenten Rum-Note kombiniert."
+}

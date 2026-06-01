@@ -1,0 +1,56 @@
+{
+  "id": "pub_softdrink_002",
+  "name": "Afri Cola Zero",
+  "category": "soft_drink",
+  "subcategory": "zero cola",
+  "brand_or_producer": "Afri Cola",
+  "abv": 0.0,
+  "taste_profile": {
+    "primary_notes": [
+      "cola",
+      "sweet",
+      "caffeine",
+      "zero sugar"
+    ],
+    "sweetness": "medium",
+    "bitterness": "very low",
+    "body": "light",
+    "finish": "sweet, crisp",
+    "carbonation": "high",
+    "primary_notes_de": [
+      "Cola",
+      "süß",
+      "Koffein",
+      "zuckerfrei"
+    ]
+  },
+  "origin": "Germany",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Kettle Sea Salt & Balsamic Vinegar of Modena",
+    "Kettle Sea Salt & Black Pepper"
+  ],
+  "tags": [
+    "soft drink",
+    "cola",
+    "german",
+    "zero sugar",
+    "caffeinated"
+  ],
+  "notes": "Sugar-free version of the classic German cola with the same distinctive taste, sweetened with sweeteners.",
+  "metadata": {
+    "source_page": 6,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Alkoholfreies Getränk",
+  "subcategory_de": "Zero Cola",
+  "tags_de": [
+    "Softdrink",
+    "Cola",
+    "deutsch",
+    "zuckerfrei",
+    "koffeinhaltig"
+  ],
+  "notes_de": "Zuckerfreie Version der klassischen deutschen Cola mit dem gleichen unverwechselbaren Geschmack, gesüßt mit Süßungsmitteln."
+}

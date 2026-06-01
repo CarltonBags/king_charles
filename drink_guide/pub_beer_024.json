@@ -1,0 +1,54 @@
+{
+  "id": "pub_beer_024",
+  "name": "Bergmann Frühschicht Alkoholfrei",
+  "category": "beer",
+  "subcategory": "non-alcoholic beer",
+  "brand_or_producer": "Bergmann",
+  "abv": 0.0,
+  "taste_profile": {
+    "primary_notes": [
+      "hoppy",
+      "fruity",
+      "light"
+    ],
+    "sweetness": "low",
+    "bitterness": "low",
+    "body": "light",
+    "finish": "clean, hoppy",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "hopfig",
+      "fruchtig",
+      "leicht"
+    ]
+  },
+  "origin": "Germany",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Kettle Sweet Chilli",
+    "Kettle Paprika & Roasted Onion"
+  ],
+  "tags": [
+    "alcohol-free",
+    "draft",
+    "german",
+    "hoppy",
+    "refreshing"
+  ],
+  "notes": "Surprisingly alcohol-free. Light, hop-infused, fruity, hoppy aroma.",
+  "metadata": {
+    "source_page": 5,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Alkoholfreies Bier",
+  "tags_de": [
+    "alkoholfrei",
+    "vom Fass",
+    "deutsch",
+    "hopfig",
+    "erfrischend"
+  ],
+  "notes_de": "Erstaunlich alkoholfrei. Leicht, hopfenverfeinert, fruchtig mit hopfigem Aroma."
+}

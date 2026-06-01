@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_138",
+  "name": "Troublebrewing Ambush",
+  "category": "beer",
+  "subcategory": "pale ale",
+  "brand_or_producer": "Trouble Brewing",
+  "abv": 5.0,
+  "taste_profile": {
+    "primary_notes": [
+      "mango",
+      "pineapple",
+      "soft",
+      "hazy",
+      "tropical"
+    ],
+    "sweetness": "medium",
+    "bitterness": "medium-low",
+    "body": "medium",
+    "finish": "soft, subtle dry",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Mango",
+      "Ananas",
+      "sanft",
+      "trüb",
+      "tropisch"
+    ]
+  },
+  "origin": "Ireland",
+  "food_pairings": [
+    "Kettle Sweet Chilli",
+    "Kettle Jalapeño",
+    "Tyrrell's Sweet Chilli & Red Pepper"
+  ],
+  "tags": [
+    "pale ale",
+    "can",
+    "irish",
+    "tropical",
+    "craft"
+  ],
+  "notes": "Deep hazy gold with large white head. Mango, fluffy clouds and pineapple on nose and taste. Soft texture, very subtle dryness. Pair with burritos, Hawaiian pizza or summer salad.",
+  "metadata": {
+    "source_page": 23,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Pale Ale",
+  "tags_de": [
+    "Pale Ale",
+    "Dose",
+    "irisch",
+    "tropisch",
+    "Craft"
+  ],
+  "notes_de": "Tief trüb-golden mit großer weißer Schaumkrone. Mango, flauschige Wolken und Ananas kommen in Nase und Geschmack durch, akzentuiert durch eine weiche Textur und sehr dezente Trockenheit."
+}

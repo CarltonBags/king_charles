@@ -1,0 +1,56 @@
+{
+  "id": "pub_spirit_024",
+  "name": "Campari Bitter",
+  "category": "spirit",
+  "subcategory": "italian bitter",
+  "brand_or_producer": "Campari",
+  "abv": 25.0,
+  "taste_profile": {
+    "primary_notes": [
+      "bitter",
+      "orange",
+      "cherry",
+      "herbal",
+      "intense"
+    ],
+    "sweetness": "medium-low",
+    "bitterness": "high",
+    "body": "medium",
+    "finish": "bitter, long, herbal",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "bitter",
+      "Orange",
+      "Kirsche",
+      "kräuterig",
+      "intensiv"
+    ]
+  },
+  "origin": "Milan, Italy",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Tyrrell's Sea Salt & Cider Vinegar",
+    "Kettle Sea Salt & Balsamic Vinegar of Modena"
+  ],
+  "tags": [
+    "bitter",
+    "italian",
+    "classic",
+    "cocktail"
+  ],
+  "notes": "Iconic Italian bitter liqueur with a distinctive red colour. Intense herbal bitterness balanced by sweet orange and cherry notes.",
+  "metadata": {
+    "source_page": 35,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Spirituose",
+  "subcategory_de": "Italienischer Bitter",
+  "tags_de": [
+    "bitter",
+    "italienisch",
+    "klassisch",
+    "Cocktail"
+  ],
+  "notes_de": "Kultiger italienischer Bitterlikör mit unverwechselbarer roter Farbe. Intensive, kräuterige Bitterkeit, ausgewogen durch süße Orangen- und Kirsch-Noten."
+}

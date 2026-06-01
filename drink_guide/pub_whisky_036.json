@@ -1,0 +1,60 @@
+{
+  "id": "pub_whisky_036",
+  "name": "Royal Salute 21 Year The Signature Blend",
+  "category": "whisky",
+  "subcategory": "blended scotch",
+  "brand_or_producer": "Royal Salute",
+  "abv": 40.0,
+  "taste_profile": {
+    "primary_notes": [
+      "elegant",
+      "rich",
+      "floral",
+      "fruity",
+      "opulent"
+    ],
+    "sweetness": "medium",
+    "bitterness": "low",
+    "body": "full",
+    "finish": "opulent, elegant, regal",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "elegant",
+      "reichhaltig",
+      "blumig",
+      "fruchtig",
+      "opulent"
+    ]
+  },
+  "origin": "Scotland",
+  "food_pairings": [
+    "Kettle Matured Cheddar Cheese & Red Onions",
+    "Tyrrell's Mature Cheddar & Chive",
+    "Kettle Intense Truffle and Sea Salt"
+  ],
+  "tags": [
+    "scotch",
+    "blended",
+    "premium",
+    "royal",
+    "aged",
+    "award-winning"
+  ],
+  "notes": "Crafted in celebration of Queen Elizabeth II's Coronation. A selection of rare and exceptional Scotch whiskies aged for a minimum of 21 years. Sophisticated and opulent, housed in an iconic sapphire blue flagon. Multi award-winning blend unchanged since 1953.",
+  "metadata": {
+    "source_page": 2,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Whisky",
+  "subcategory_de": "Blended Scotch",
+  "tags_de": [
+    "Scotch",
+    "Blended",
+    "Premium",
+    "königlich",
+    "gereift",
+    "preisgekrönt"
+  ],
+  "notes_de": "Geschaffen zur Feier der Krönung Ihrer Majestät Königin Elizabeth II. — in jedem Maß stecken Geschichte und Vermächtnis. Eine königliche Hommage, die britisch bis ins Mark ist. Geschaffen als Geschenk für eine neue Königin, ist The Signature Blend raffiniert und opulent im Charakter. Das Ergebnis einer Auswahl seltener und außergewöhnlicher Scotch Whiskys, die mindestens 21 Jahre gereift sind — das unglaublich reiche und elegante Profil verleiht jeder Feier einen Hauch königlicher Raffinesse."
+}

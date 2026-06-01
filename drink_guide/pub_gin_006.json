@@ -1,0 +1,58 @@
+{
+  "id": "pub_gin_006",
+  "name": "Copperhead The Gibson",
+  "category": "gin",
+  "subcategory": "savoury gin",
+  "brand_or_producer": "Copperhead",
+  "abv": 40.0,
+  "taste_profile": {
+    "primary_notes": [
+      "savoury",
+      "spice",
+      "pepper",
+      "ginger",
+      "herbal"
+    ],
+    "sweetness": "low",
+    "bitterness": "medium",
+    "body": "medium-full",
+    "finish": "smooth, complex, savoury",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "würzig",
+      "Gewürz",
+      "Pfeffer",
+      "Ingwer",
+      "kräuterig"
+    ]
+  },
+  "origin": "Belgium",
+  "food_pairings": [
+    "Taylors Haggis & Cracked Black Pepper",
+    "Taylors Aberdeen Angus",
+    "Taylors Fiery Pickled Onions"
+  ],
+  "tags": [
+    "gin",
+    "savoury",
+    "gibson",
+    "spiced",
+    "craft"
+  ],
+  "notes": "Unique savoury style of gin. The original 5 Copperhead botanicals are joined by 13 carefully selected spices traditionally used in pickling: mace, pepper, cassia, bay leaf, ginger, allspice, fennel and dill seeds, plus a touch of eight-year-old Genever for a smooth and complex taste.",
+  "metadata": {
+    "source_page": 2,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Gin",
+  "subcategory_de": "Würziger Gin",
+  "tags_de": [
+    "Gin",
+    "würzig",
+    "Gibson",
+    "gewürzt",
+    "Craft"
+  ],
+  "notes_de": "Diese Edition ist ein einzigartiger, würziger Gin-Stil dank der immensen Geschmackspalette. Zu den ursprünglichen fünf Copperhead-Botanicals kommen nicht weniger als 13 sorgfältig ausgewählte Gewürze, die traditionell zum Einlegen verwendet werden. Diese Zutaten — darunter Muskatblüte, Pfeffer, Kassia, Lorbeerblatt, Ingwer, Piment, Fenchel und Dillsamen — werden durch einen Hauch von achtjährigem Genever ergänzt, um diesen weichen und komplexen Geschmack abzurunden."
+}

@@ -1,0 +1,56 @@
+{
+  "id": "pub_beer_114",
+  "name": "Belhaven Black Scottish Stout",
+  "category": "beer",
+  "subcategory": "scottish stout",
+  "brand_or_producer": "Belhaven",
+  "abv": 4.2,
+  "taste_profile": {
+    "primary_notes": [
+      "roast coffee",
+      "chocolate",
+      "smoky",
+      "velvety"
+    ],
+    "sweetness": "low",
+    "bitterness": "medium-low",
+    "body": "medium-full",
+    "finish": "lightly bitter, velvety",
+    "carbonation": "low",
+    "primary_notes_de": [
+      "Röstkaffee",
+      "Schokolade",
+      "rauchig",
+      "samten"
+    ]
+  },
+  "origin": "Dunbar, Scotland",
+  "food_pairings": [
+    "Kettle Matured Cheddar Cheese & Red Onions",
+    "Taylors Haggis & Cracked Black Pepper",
+    "Kettle Intense Truffle and Sea Salt"
+  ],
+  "tags": [
+    "stout",
+    "bottle",
+    "scottish",
+    "roasted",
+    "velvety"
+  ],
+  "notes": "Scottish Stout bursting with roast coffee and chocolate flavours. Lightly bitter finish. Deep black, velvety texture. Roasted aroma of malt and chocolate with faint smoky note.",
+  "metadata": {
+    "source_page": 19,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Schottisches Stout",
+  "tags_de": [
+    "Stout",
+    "Flasche",
+    "schottisch",
+    "geröstet",
+    "samten"
+  ],
+  "notes_de": "Schottisches Stout, das vor Röstkaffee- und Schokoladengeschmack nur so strotzt, mit leicht bitterem Abgang. Tiefschwarze Erscheinung und samtige Textur mit geröstetem Malz- und Schokoladen-Aroma und einer dezenten Rauchnote."
+}

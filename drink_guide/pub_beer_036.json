@@ -1,0 +1,54 @@
+{
+  "id": "pub_beer_036",
+  "name": "La Trappe Nilis",
+  "category": "beer",
+  "subcategory": "non-alcoholic trappist",
+  "brand_or_producer": "La Trappe",
+  "abv": 0.0,
+  "taste_profile": {
+    "primary_notes": [
+      "caramel",
+      "fruity",
+      "malty",
+      "sweet"
+    ],
+    "sweetness": "medium",
+    "bitterness": "medium-low",
+    "body": "medium",
+    "finish": "caramel-sweet",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Karamell",
+      "fruchtig",
+      "malzig",
+      "süß"
+    ]
+  },
+  "origin": "Tilburg, Netherlands",
+  "food_pairings": [
+    "Kettle Matured Cheddar Cheese & Red Onions",
+    "Kettle Intense Truffle and Sea Salt",
+    "Tyrrell's Mature Cheddar & Chive"
+  ],
+  "tags": [
+    "alcohol-free",
+    "trappist",
+    "belgian",
+    "premium"
+  ],
+  "notes": "World's first non-alcoholic 0.0% Trappist beer. Dark amber-coloured with creamy white head. Fruity and malty with pleasant bitterness and caramel-sweet finish.",
+  "metadata": {
+    "source_page": 7,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Alkoholfreies Trappistenbier",
+  "tags_de": [
+    "alkoholfrei",
+    "Trappisten",
+    "belgisch",
+    "Premium"
+  ],
+  "notes_de": "Das weltweit erste alkoholfreie 0,0%-Trappistenbier. Dunkel bernsteinfarben mit cremigem, weißem Schaum. Fruchtig und malzig mit angenehmer Bitterkeit und karamell-süßem Abgang."
+}

@@ -1,0 +1,56 @@
+{
+  "id": "pub_spirit_017",
+  "name": "Sourz Mango",
+  "category": "spirit",
+  "subcategory": "fruit liqueur",
+  "brand_or_producer": "Sourz",
+  "abv": 15.0,
+  "taste_profile": {
+    "primary_notes": [
+      "mango",
+      "tropical",
+      "sweet",
+      "tangy"
+    ],
+    "sweetness": "high",
+    "bitterness": "very low",
+    "body": "light",
+    "finish": "sweet, tangy, mango",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "Mango",
+      "tropisch",
+      "süß",
+      "spritzig-sauer"
+    ]
+  },
+  "origin": "England",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Kettle Honey Barbeque",
+    "Kettle Sweet Chilli"
+  ],
+  "tags": [
+    "liqueur",
+    "fruit",
+    "mango",
+    "shot",
+    "cocktail"
+  ],
+  "notes": "Tropical mango flavoured liqueur. Sweet and tangy with vibrant mango character. Perfect for shots or cocktails.",
+  "metadata": {
+    "source_page": 35,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Spirituose",
+  "subcategory_de": "Fruchtlikör",
+  "tags_de": [
+    "Likör",
+    "Frucht",
+    "Mango",
+    "Shot",
+    "Cocktail"
+  ],
+  "notes_de": "Tropischer Mango-Likör. Süß und spritzig-sauer mit lebendigem Mango-Charakter. Perfekt für Shots oder Cocktails."
+}

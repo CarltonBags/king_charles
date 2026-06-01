@@ -1,0 +1,58 @@
+{
+  "id": "pub_whisky_018",
+  "name": "Bowmore 15 Years Old",
+  "category": "whisky",
+  "subcategory": "islay single malt",
+  "brand_or_producer": "Bowmore",
+  "abv": 43.0,
+  "taste_profile": {
+    "primary_notes": [
+      "raisin",
+      "chocolate",
+      "smoke",
+      "sherry",
+      "warming"
+    ],
+    "sweetness": "medium",
+    "bitterness": "medium-low",
+    "body": "medium-full",
+    "finish": "robust, warming, chocolaty",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "Rosine",
+      "Schokolade",
+      "Rauch",
+      "Sherry",
+      "wärmend"
+    ]
+  },
+  "origin": "Islay, Scotland",
+  "food_pairings": [
+    "Kettle Matured Cheddar Cheese & Red Onions",
+    "Tyrrell's Mature Cheddar & Chive",
+    "Kettle Intense Truffle and Sea Salt"
+  ],
+  "tags": [
+    "scotch",
+    "islay",
+    "single malt",
+    "sherry finish",
+    "complex"
+  ],
+  "notes": "Rich raisins and gentle smoke lead to a delicious chocolaty centre. Matured first in bourbon barrels then Oloroso casks — the final three years in Oloroso sherry casks give the rich, deep colour and robust warming finish.",
+  "metadata": {
+    "source_page": 2,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Whisky",
+  "subcategory_de": "Islay Single Malt",
+  "tags_de": [
+    "Scotch",
+    "Islay",
+    "Single Malt",
+    "Sherry-Finish",
+    "komplex"
+  ],
+  "notes_de": "Reichhaltige Rosinen und sanfter Rauch führen zu einem köstlichen, schokoladigen Kern. Zuerst in Bourbonfässern, dann in Oloroso-Fässern gereift — es gibt kein besseres Beispiel für ein Sherry-Fass-Finish als unseren 15-Jährigen. Es sind die letzten drei Jahre in Oloroso-Sherryfässern, die Bowmore 15 Years Old die reiche, tiefe Farbe und den robusten, wärmenden Abgang verleihen."
+}

@@ -1,0 +1,58 @@
+{
+  "id": "pub_whisky_039",
+  "name": "Glenfiddich 18 Year Small Batch",
+  "category": "whisky",
+  "subcategory": "speyside single malt",
+  "brand_or_producer": "Glenfiddich",
+  "abv": 40.0,
+  "taste_profile": {
+    "primary_notes": [
+      "orchard fruit",
+      "baked apple",
+      "oak",
+      "dried fruit",
+      "date"
+    ],
+    "sweetness": "medium",
+    "bitterness": "low",
+    "body": "medium-full",
+    "finish": "warming, distinguished, oaky",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "Obstgartenfrucht",
+      "Bratapfel",
+      "Eiche",
+      "Trockenfrucht",
+      "Dattel"
+    ]
+  },
+  "origin": "Speyside, Scotland",
+  "food_pairings": [
+    "Kettle Matured Cheddar Cheese & Red Onions",
+    "Tyrrell's Mature Cheddar & Chive",
+    "Kettle Intense Truffle and Sea Salt"
+  ],
+  "tags": [
+    "scotch",
+    "speyside",
+    "single malt",
+    "small batch",
+    "aged"
+  ],
+  "notes": "Married in small batches of no more than 150 casks, each individually numbered. Remarkably rich aroma with ripe orchard fruit, baked apple and robust oak. Luxurious dried fruit, candy peel and dates with elegant oak notes. Warming, distinguished finish.",
+  "metadata": {
+    "source_page": 2,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Whisky",
+  "subcategory_de": "Speyside Single Malt",
+  "tags_de": [
+    "Scotch",
+    "Speyside",
+    "Single Malt",
+    "Small Batch",
+    "gereift"
+  ],
+  "notes_de": "Wir vermählen unseren 18-Jährigen in kleinen Chargen von höchstens 150 Fässern. Jede Charge ist individuell nummeriert und sorgfältig überwacht. Jede hat außergewöhnliche Konsistenz und Charakter durch eine intensive Vermählungszeit und einen wärmenden, distinguierten Abgang. Nase: Ein bemerkenswert reiches Aroma mit reifer Obstgartenfrucht, Bratapfel und robuster Eiche. Geschmack: Liefert reichhaltig üppige Trockenfrüchte, kandierte Schale und Datteln, überlagert mit eleganten Eichennoten."
+}

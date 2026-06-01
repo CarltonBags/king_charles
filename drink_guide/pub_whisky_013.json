@@ -1,0 +1,58 @@
+{
+  "id": "pub_whisky_013",
+  "name": "The Singleton 12 Years Old",
+  "category": "whisky",
+  "subcategory": "speyside single malt",
+  "brand_or_producer": "The Singleton",
+  "abv": 40.0,
+  "taste_profile": {
+    "primary_notes": [
+      "honey",
+      "nutty",
+      "cooked apple",
+      "brown sugar",
+      "coffee"
+    ],
+    "sweetness": "medium",
+    "bitterness": "low",
+    "body": "medium",
+    "finish": "creamy, nutty, sweet",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "Honig",
+      "nussig",
+      "gedünsteter Apfel",
+      "brauner Zucker",
+      "Kaffee"
+    ]
+  },
+  "origin": "Speyside, Scotland",
+  "food_pairings": [
+    "Ültje Studentenfutter",
+    "Ültje Erdnüsse Gesalzen",
+    "Taylors Chip Shop Curry Sauce"
+  ],
+  "tags": [
+    "scotch",
+    "speyside",
+    "single malt",
+    "honey",
+    "nutty"
+  ],
+  "notes": "Whisky from both Pedro Ximenez Oloroso seasoned casks and refill ex-bourbon casks hand selected for honey notes and nutty intensity. Soft cooked apples, luscious brown sugar, hints of creamy coffee and roasted nutty notes.",
+  "metadata": {
+    "source_page": 2,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Whisky",
+  "subcategory_de": "Speyside Single Malt",
+  "tags_de": [
+    "Scotch",
+    "Speyside",
+    "Single Malt",
+    "Honig",
+    "nussig"
+  ],
+  "notes_de": "Whisky aus sowohl Pedro-Ximenez-Oloroso-Seasoned-Fässern als auch nachbefüllten Ex-Bourbonfässern wurde von Hand für seine Honignoten und nussige Intensität ausgewählt. Der Geschmack ist ein Bienenstock voller Aktivität mit weichen Bratäpfeln, üppigem braunem Zucker, einem Hauch von cremigem Kaffee und gerösteten Nussnoten. Eine ambrosische Dekadenz, die es wert ist, genossen zu werden."
+}

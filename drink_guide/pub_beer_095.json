@@ -1,0 +1,56 @@
+{
+  "id": "pub_beer_095",
+  "name": "Samuel Smith Organic Cherry Beer",
+  "category": "beer",
+  "subcategory": "fruit beer",
+  "brand_or_producer": "Samuel Smith",
+  "abv": 5.1,
+  "taste_profile": {
+    "primary_notes": [
+      "cherry",
+      "malt",
+      "yeast",
+      "sweet"
+    ],
+    "sweetness": "medium-high",
+    "bitterness": "low",
+    "body": "medium",
+    "finish": "sweet, malty",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Kirsche",
+      "Malz",
+      "Hefe",
+      "süß"
+    ]
+  },
+  "origin": "Yorkshire, England",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Kettle Matured Cheddar Cheese & Red Onions",
+    "Tyrrell's Sea Salt & Cider Vinegar"
+  ],
+  "tags": [
+    "fruit beer",
+    "bottle",
+    "english",
+    "organic",
+    "cherry"
+  ],
+  "notes": "Brewed in Yorkshire. Fruit beer combining prominent notes of sweet cherries with subtle hints of malt and yeast. Organic.",
+  "metadata": {
+    "source_page": 16,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Fruchtbier",
+  "tags_de": [
+    "Fruchtbier",
+    "Flasche",
+    "englisch",
+    "Bio",
+    "Kirsche"
+  ],
+  "notes_de": "In Yorkshire gebrautes Fruchtbier. Markante Noten von Süßkirschen vereint mit dezenten Malz- und Hefeanklängen. Bio."
+}

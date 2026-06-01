@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_022",
+  "name": "Strongbow Cider",
+  "category": "cider",
+  "subcategory": "dry english cider",
+  "brand_or_producer": "Strongbow",
+  "abv": 4.5,
+  "taste_profile": {
+    "primary_notes": [
+      "apple",
+      "floral",
+      "citrus",
+      "crisp",
+      "dry"
+    ],
+    "sweetness": "medium-low",
+    "bitterness": "very low",
+    "body": "light",
+    "finish": "crisp, dry",
+    "carbonation": "medium-high",
+    "primary_notes_de": [
+      "Apfel",
+      "blumig",
+      "Zitrus",
+      "spritzig",
+      "trocken"
+    ]
+  },
+  "origin": "Hereford, England",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Tyrrell's Sea Salt & Cider Vinegar",
+    "Kettle Honey Barbeque"
+  ],
+  "tags": [
+    "cider",
+    "draft",
+    "english",
+    "dry",
+    "crisp"
+  ],
+  "notes": "Light-bodied, sparkling Dry English Cider, most popular cider in the UK. Pale golden clear, fresh apple aroma with floral and citrus hints. Crisp and dry with subtle sweetness and strong apple character.",
+  "metadata": {
+    "source_page": 5,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Cidre",
+  "subcategory_de": "Trockener Englischer Cidre",
+  "tags_de": [
+    "Cidre",
+    "vom Fass",
+    "englisch",
+    "trocken",
+    "spritzig"
+  ],
+  "notes_de": "Leichter, prickelnder, trockener, englischer Cidre — der beliebteste Cidre Großbritanniens. Helles Gold, klares Apfelaroma mit blumigen und zitrusartigen Anklängen. Knackig und trocken mit subtiler Süße und starkem Apfelcharakter."
+}

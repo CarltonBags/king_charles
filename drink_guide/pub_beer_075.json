@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_075",
+  "name": "Liefmans Glühkriek",
+  "category": "beer",
+  "subcategory": "fruit beer",
+  "brand_or_producer": "Liefmans",
+  "abv": 6.0,
+  "taste_profile": {
+    "primary_notes": [
+      "cherry",
+      "cinnamon",
+      "cloves",
+      "aniseed",
+      "woody"
+    ],
+    "sweetness": "medium-high",
+    "bitterness": "low",
+    "body": "medium",
+    "finish": "fruity, sweet, spiced",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Kirsche",
+      "Zimt",
+      "Nelken",
+      "Anis",
+      "holzig"
+    ]
+  },
+  "origin": "Oudenaarde, Belgium",
+  "food_pairings": [
+    "Taylors Aberdeen Angus",
+    "Kettle Intense Truffle and Sea Salt",
+    "Taylors Haggis & Cracked Black Pepper"
+  ],
+  "tags": [
+    "fruit beer",
+    "bottle",
+    "belgian",
+    "christmas",
+    "cherry"
+  ],
+  "notes": "Mild and full of cherry flavours with light spicy Christmas spices. Fruity sweet, beautiful combination of fruit and malt sweetness with woody notes from barrel ageing and Christmas spices – cinnamon, cloves, aniseed.",
+  "metadata": {
+    "source_page": 13,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Fruchtbier",
+  "tags_de": [
+    "Fruchtbier",
+    "Flasche",
+    "belgisch",
+    "Weihnachten",
+    "Kirsche"
+  ],
+  "notes_de": "Mild und voller Kirschgeschmack mit leichten, würzigen Weihnachtsgewürzen. Fruchtig-süß mit einer schönen Kombination aus Frucht- und Malzsüße, den holzigen Noten der Fassreifung und weihnachtlichen Gewürzen — Zimt, Nelken und Anis."
+}

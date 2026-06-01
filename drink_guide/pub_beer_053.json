@@ -1,0 +1,54 @@
+{
+  "id": "pub_beer_053",
+  "name": "Kirin Ichiban Alcohol-Free",
+  "category": "beer",
+  "subcategory": "non-alcoholic lager",
+  "brand_or_producer": "Kirin",
+  "abv": 0.0,
+  "taste_profile": {
+    "primary_notes": [
+      "barley",
+      "clean",
+      "mild",
+      "elegant"
+    ],
+    "sweetness": "low",
+    "bitterness": "very low",
+    "body": "light",
+    "finish": "clean, no aftertaste",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Gerste",
+      "sauber",
+      "mild",
+      "elegant"
+    ]
+  },
+  "origin": "Japan",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Kettle Sea Salt & Balsamic Vinegar of Modena",
+    "Kettle Sea Salt & Black Pepper"
+  ],
+  "tags": [
+    "alcohol-free",
+    "lager",
+    "japanese",
+    "clean"
+  ],
+  "notes": "Clear barley beer with no aftertaste. By using the best pressing method and first press wort, elegant taste with less flavour interference.",
+  "metadata": {
+    "source_page": 10,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Alkoholfreies Lager",
+  "tags_de": [
+    "alkoholfrei",
+    "Lager",
+    "japanisch",
+    "sauber"
+  ],
+  "notes_de": "Klares Gerstenbier ohne Nachgeschmack. Durch das beste Pressverfahren und die Erstpresswürze entsteht ein eleganter Geschmack mit weniger Geschmacksbeeinträchtigung."
+}

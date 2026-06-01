@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_124",
+  "name": "Beak Parade IPA",
+  "category": "beer",
+  "subcategory": "new england ipa",
+  "brand_or_producer": "Beak Brewery",
+  "abv": 6.0,
+  "taste_profile": {
+    "primary_notes": [
+      "mango",
+      "orange peel",
+      "pineapple",
+      "peach",
+      "bubblegum"
+    ],
+    "sweetness": "medium",
+    "bitterness": "medium",
+    "body": "medium",
+    "finish": "fruity, juicy",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Mango",
+      "Orangenschale",
+      "Ananas",
+      "Pfirsich",
+      "Bubblegum"
+    ]
+  },
+  "origin": "Lewes, England",
+  "food_pairings": [
+    "Kettle Sweet Chilli",
+    "Kettle Jalapeño",
+    "Tyrrell's Sweet Chilli & Red Pepper"
+  ],
+  "tags": [
+    "neipa",
+    "can",
+    "english",
+    "hazy",
+    "fruity"
+  ],
+  "notes": "London Fog IPA saturated in Citra, Mosaic and Idaho 7. Brimming with fruit bubblegum flavours of mango, orange peel, pineapple and ripe flat peaches.",
+  "metadata": {
+    "source_page": 21,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "New England IPA",
+  "tags_de": [
+    "NEIPA",
+    "Dose",
+    "englisch",
+    "trüb",
+    "fruchtig"
+  ],
+  "notes_de": "London Fog IPA, gesättigt mit Citra, Mosaic und Idaho 7, das vor Frucht-Bubblegum-Aromen von Mango, Orangenschale, Ananas und reifen Pfirsichen nur so strotzt."
+}

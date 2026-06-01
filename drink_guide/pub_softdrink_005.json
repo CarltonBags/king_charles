@@ -1,0 +1,56 @@
+{
+  "id": "pub_softdrink_005",
+  "name": "Rhodius Tafelwasser",
+  "category": "soft_drink",
+  "subcategory": "sparkling water",
+  "brand_or_producer": "Rhodius",
+  "abv": 0.0,
+  "taste_profile": {
+    "primary_notes": [
+      "mineral",
+      "clean",
+      "neutral",
+      "refreshing"
+    ],
+    "sweetness": "very low",
+    "bitterness": "very low",
+    "body": "very light",
+    "finish": "clean, neutral",
+    "carbonation": "high",
+    "primary_notes_de": [
+      "mineralisch",
+      "sauber",
+      "neutral",
+      "erfrischend"
+    ]
+  },
+  "origin": "Germany",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Kettle Sea Salt & Balsamic Vinegar of Modena",
+    "Kettle Sea Salt & Black Pepper"
+  ],
+  "tags": [
+    "soft drink",
+    "water",
+    "german",
+    "sparkling",
+    "mineral"
+  ],
+  "notes": "Classic German table water, pure sparkling mineral water. Clean, neutral and refreshing.",
+  "metadata": {
+    "source_page": 6,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Alkoholfreies Getränk",
+  "subcategory_de": "Sprudelwasser",
+  "tags_de": [
+    "Softdrink",
+    "Wasser",
+    "deutsch",
+    "prickelnd",
+    "mineralisch"
+  ],
+  "notes_de": "Klassisches deutsches Tafelwasser, reines prickelndes Mineralwasser. Sauber, neutral und erfrischend."
+}

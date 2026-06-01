@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_040",
+  "name": "Brewdog Punk AF",
+  "category": "beer",
+  "subcategory": "non-alcoholic pale ale",
+  "brand_or_producer": "BrewDog",
+  "abv": 0.0,
+  "taste_profile": {
+    "primary_notes": [
+      "pineapple",
+      "mango",
+      "grapefruit",
+      "grassy",
+      "piney"
+    ],
+    "sweetness": "low",
+    "bitterness": "medium",
+    "body": "light",
+    "finish": "clean, crisp",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Ananas",
+      "Mango",
+      "Grapefruit",
+      "grasig",
+      "kieferig"
+    ]
+  },
+  "origin": "Ellon, Scotland",
+  "food_pairings": [
+    "Kettle Sweet Chilli",
+    "Kettle Sea Salt",
+    "Tyrrell's Sweet Chilli & Red Pepper"
+  ],
+  "tags": [
+    "alcohol-free",
+    "pale ale",
+    "scottish",
+    "craft",
+    "tropical"
+  ],
+  "notes": "Non-alcoholic pale ale, golden with subtle haze. Juicy tropical aromas of pineapple, mango and grapefruit layered over grassy piney hop notes. Bright citrus-forward, clean and easy-drinking.",
+  "metadata": {
+    "source_page": 8,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Alkoholfreies Pale Ale",
+  "tags_de": [
+    "alkoholfrei",
+    "Pale Ale",
+    "schottisch",
+    "Craft",
+    "tropisch"
+  ],
+  "notes_de": "Alkoholfreies Pale Ale, golden mit dezenter Trübung. Saftige, tropische Aromen von Ananas, Mango und Grapefruit, überlagert von grasig-kieferigen Hopfennoten. Hell und zitrusbetont, sauber und süffig."
+}

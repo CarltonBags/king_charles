@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_084",
+  "name": "Delirium Red Strong Fruit Beer",
+  "category": "beer",
+  "subcategory": "fruit beer",
+  "brand_or_producer": "Huyghe",
+  "abv": 8.5,
+  "taste_profile": {
+    "primary_notes": [
+      "cherry",
+      "almond",
+      "sweet",
+      "fruity",
+      "velvety"
+    ],
+    "sweetness": "high",
+    "bitterness": "low",
+    "body": "medium",
+    "finish": "smooth, velvety, sweet",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Kirsche",
+      "Mandel",
+      "süß",
+      "fruchtig",
+      "samten"
+    ]
+  },
+  "origin": "Melle, Belgium",
+  "food_pairings": [
+    "Taylors Aberdeen Angus",
+    "Kettle Sea Salt",
+    "Kettle Intense Truffle and Sea Salt"
+  ],
+  "tags": [
+    "fruit beer",
+    "bottle",
+    "belgian",
+    "cherry",
+    "sweet"
+  ],
+  "notes": "Deep dark red fruit beer. Soft fruity aroma with hints of almond and mildly sour cherries. Sweet and fruity flavour, smooth and velvety.",
+  "metadata": {
+    "source_page": 14,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Fruchtbier",
+  "tags_de": [
+    "Fruchtbier",
+    "Flasche",
+    "belgisch",
+    "Kirsche",
+    "süß"
+  ],
+  "notes_de": "Tief dunkelrotes Fruchtbier. Sanftes, fruchtiges Aroma mit Mandelanklängen und mild-sauren Kirschen. Süßer und fruchtiger Geschmack, weich und samtig."
+}

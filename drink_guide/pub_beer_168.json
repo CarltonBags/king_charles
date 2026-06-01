@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_168",
+  "name": "Colider",
+  "category": "cider",
+  "subcategory": "flavoured cider",
+  "brand_or_producer": "Unknown",
+  "abv": 3.4,
+  "taste_profile": {
+    "primary_notes": [
+      "cola",
+      "apple",
+      "sweet",
+      "tangy",
+      "unique"
+    ],
+    "sweetness": "high",
+    "bitterness": "very low",
+    "body": "light-medium",
+    "finish": "sweet, tangy",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Cola",
+      "Apfel",
+      "süß",
+      "spritzig-sauer",
+      "einzigartig"
+    ]
+  },
+  "origin": "Unknown",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Kettle Honey Barbeque",
+    "Kettle Sweet Chilli"
+  ],
+  "tags": [
+    "cider",
+    "flavoured",
+    "bottle",
+    "cola",
+    "sweet"
+  ],
+  "notes": "Sweet blend of apples and cola, creating a distinct balanced sweet taste with a tangy twist.",
+  "metadata": {
+    "source_page": 27,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Cidre",
+  "subcategory_de": "Aromatisierter Cidre",
+  "tags_de": [
+    "Cidre",
+    "aromatisiert",
+    "Flasche",
+    "Cola",
+    "süß"
+  ],
+  "notes_de": "Eine süße Mischung aus Äpfeln und Cola, die einen unverwechselbaren, ausgewogenen, süßen Geschmack mit einer spritzig-sauren Note erzeugt."
+}

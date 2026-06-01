@@ -1,0 +1,54 @@
+{
+  "id": "pub_beer_057",
+  "name": "Somersby Zero Apple",
+  "category": "cider",
+  "subcategory": "non-alcoholic cider",
+  "brand_or_producer": "Somersby",
+  "abv": 0.0,
+  "taste_profile": {
+    "primary_notes": [
+      "apple",
+      "fruity",
+      "sweet",
+      "balanced"
+    ],
+    "sweetness": "medium",
+    "bitterness": "very low",
+    "body": "light",
+    "finish": "fruity, balanced",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Apfel",
+      "fruchtig",
+      "süß",
+      "ausgewogen"
+    ]
+  },
+  "origin": "Denmark",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Tyrrell's Sea Salt & Cider Vinegar",
+    "Kettle Honey Barbeque"
+  ],
+  "tags": [
+    "alcohol-free",
+    "cider",
+    "danish",
+    "zero calorie"
+  ],
+  "notes": "Refreshing apple flavour with balance of fruity and sweet notes. 0% Alcohol, 0% Sugar, 0% Calories. Long-lasting fruity flavour.",
+  "metadata": {
+    "source_page": 10,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Cidre",
+  "subcategory_de": "Alkoholfreier Cidre",
+  "tags_de": [
+    "alkoholfrei",
+    "Cidre",
+    "dänisch",
+    "kalorienfrei"
+  ],
+  "notes_de": "Erfrischender Apfelgeschmack mit einer Balance aus fruchtigen und süßen Noten. 0% Alkohol, 0% Zucker, 0% Kalorien. Lang anhaltender, fruchtiger Geschmack."
+}

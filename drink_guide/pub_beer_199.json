@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_199",
+  "name": "St. Peter Best Bitter",
+  "category": "beer",
+  "subcategory": "english bitter",
+  "brand_or_producer": "St. Peter's",
+  "abv": 3.7,
+  "taste_profile": {
+    "primary_notes": [
+      "caramel",
+      "malty",
+      "roasted",
+      "balanced",
+      "gentle"
+    ],
+    "sweetness": "medium",
+    "bitterness": "medium",
+    "body": "medium",
+    "finish": "malty, restrained bitter",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Karamell",
+      "malzig",
+      "geröstet",
+      "ausgewogen",
+      "sanft"
+    ]
+  },
+  "origin": "Suffolk, England",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Tyrrell's Sea Salt & Cider Vinegar",
+    "Kettle Matured Cheddar Cheese & Red Onions"
+  ],
+  "tags": [
+    "english bitter",
+    "bottle",
+    "english",
+    "clearance",
+    "malty"
+  ],
+  "notes": "English Bitter with clear amber colour and orange highlights. Rich malty aroma with notes of caramel and gentle roast. Malty and balanced by restrained bitterness. Clearance item.",
+  "metadata": {
+    "source_page": 38,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Englisches Bitter",
+  "tags_de": [
+    "English Bitter",
+    "Flasche",
+    "englisch",
+    "Abverkauf",
+    "malzig"
+  ],
+  "notes_de": "Englisches Bitter mit klarem, bernsteinfarbenem Ton und orangefarbenen Reflexen. Reichhaltiges, malziges Aroma mit Karamell- und sanften Röstnoten. Malzig und ausgewogen durch zurückhaltende Bitterkeit. Abverkaufsware."
+}

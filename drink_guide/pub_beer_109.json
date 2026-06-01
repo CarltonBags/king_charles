@@ -1,0 +1,56 @@
+{
+  "id": "pub_beer_109",
+  "name": "Desperados",
+  "category": "beer",
+  "subcategory": "flavoured lager",
+  "brand_or_producer": "Heineken",
+  "abv": 6.0,
+  "taste_profile": {
+    "primary_notes": [
+      "tequila",
+      "malt",
+      "citrus",
+      "crisp"
+    ],
+    "sweetness": "medium",
+    "bitterness": "low",
+    "body": "light",
+    "finish": "crisp, refreshing",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Tequila",
+      "Malz",
+      "Zitrus",
+      "spritzig"
+    ]
+  },
+  "origin": "France",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Kettle Jalapeño",
+    "Kettle Sweet Chilli"
+  ],
+  "tags": [
+    "lager",
+    "bottle",
+    "french",
+    "tequila",
+    "flavoured"
+  ],
+  "notes": "World's first tequila flavoured beer. Pale golden lager, sweet malt and subtle citrus aroma with distinctive tequila note. Crisp and refreshing.",
+  "metadata": {
+    "source_page": 18,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Aromatisiertes Lager",
+  "tags_de": [
+    "Lager",
+    "Flasche",
+    "französisch",
+    "Tequila",
+    "aromatisiert"
+  ],
+  "notes_de": "Das weltweit erste Tequila-aromatisierte Bier. Helles, goldfarbenes Lager mit süßem Malz- und dezentem Zitrus-Aroma sowie einer markanten Tequila-Note. Knackig und erfrischend."
+}

@@ -1,0 +1,58 @@
+{
+  "id": "pub_whisky_037",
+  "name": "The Glenlivet 18 Year Batch Reserve",
+  "category": "whisky",
+  "subcategory": "speyside single malt",
+  "brand_or_producer": "The Glenlivet",
+  "abv": 40.0,
+  "taste_profile": {
+    "primary_notes": [
+      "tropical fruit",
+      "spicy",
+      "oak",
+      "elegant",
+      "balanced"
+    ],
+    "sweetness": "medium",
+    "bitterness": "low",
+    "body": "medium",
+    "finish": "elegant, complex, balanced",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "tropische Frucht",
+      "würzig",
+      "Eiche",
+      "elegant",
+      "ausgewogen"
+    ]
+  },
+  "origin": "Speyside, Scotland",
+  "food_pairings": [
+    "Kettle Matured Cheddar Cheese & Red Onions",
+    "Tyrrell's Mature Cheddar & Chive",
+    "Kettle Intense Truffle and Sea Salt"
+  ],
+  "tags": [
+    "scotch",
+    "speyside",
+    "single malt",
+    "aged",
+    "award-winning"
+  ],
+  "notes": "Over 18 years, the Master Distiller takes this expression through first and second-fill American oak (for tropical fruitiness) and ex-sherry oak (for spicy complexity). Complex, yet elegant and balanced. Won more awards than any other Glenlivet expression.",
+  "metadata": {
+    "source_page": 2,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Whisky",
+  "subcategory_de": "Speyside Single Malt",
+  "tags_de": [
+    "Scotch",
+    "Speyside",
+    "Single Malt",
+    "gereift",
+    "preisgekrönt"
+  ],
+  "notes_de": "Über den Verlauf von 18 Jahren führt unser Master Distiller Alan Winchester diese Abfüllung durch eine Kombination von Fasstypen — sowohl First- als auch Second-Fill-Amerikanische Eiche für tropische Fruchtigkeit als auch Ex-Sherry-Eiche für würzige Komplexität. Das Ergebnis dieser geschickten Navigation der Destillationskunst ist ein wunderschöner Single Malt Scotch Whisky, der komplex, aber elegant und ausgewogen ist. The Glenlivet 18 Year Old hat mehr Preise gewonnen als jede andere Abfüllung."
+}

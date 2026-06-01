@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_083",
+  "name": "Westmalle Trappist Dubbel",
+  "category": "beer",
+  "subcategory": "belgian dubbel",
+  "brand_or_producer": "Westmalle",
+  "abv": 7.0,
+  "taste_profile": {
+    "primary_notes": [
+      "honey cake",
+      "fig",
+      "cocoa",
+      "hay",
+      "roasted chestnuts"
+    ],
+    "sweetness": "medium-low",
+    "bitterness": "medium",
+    "body": "medium-full",
+    "finish": "dry, bitter, roasted",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Honigkuchen",
+      "Feige",
+      "Kakao",
+      "Heu",
+      "geröstete Maronen"
+    ]
+  },
+  "origin": "Westmalle, Belgium",
+  "food_pairings": [
+    "Kettle Matured Cheddar Cheese & Red Onions",
+    "Kettle Intense Truffle and Sea Salt",
+    "Ültje Studentenfutter"
+  ],
+  "tags": [
+    "dubbel",
+    "trappist",
+    "bottle",
+    "belgian",
+    "complex"
+  ],
+  "notes": "Belgian Trappist specialty. Rounded initial taste with silky malt blend, dry mouthfeel with honey cake, fig compote and cocoa powder. Refreshingly bitter finish of hay, grass and roasted chestnuts.",
+  "metadata": {
+    "source_page": 14,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Belgisches Dubbel",
+  "tags_de": [
+    "Dubbel",
+    "Trappisten",
+    "Flasche",
+    "belgisch",
+    "komplex"
+  ],
+  "notes_de": "Belgische Trappisten-Spezialität. Abgerundeter Antrunk mit seidiger Malzmischung und trockenem Mundgefühl mit Noten von Honigkuchen, Feigenkompott und Kakaopulver. Erfrischend bitterer Abgang von Heu, Gras und gerösteten Maronen."
+}

@@ -1,0 +1,58 @@
+{
+  "id": "pub_whisky_026",
+  "name": "Kilchoman Sanaig",
+  "category": "whisky",
+  "subcategory": "islay single malt",
+  "brand_or_producer": "Kilchoman",
+  "abv": 46.0,
+  "taste_profile": {
+    "primary_notes": [
+      "peat smoke",
+      "citrus",
+      "dried fruit",
+      "spice",
+      "sherry"
+    ],
+    "sweetness": "medium",
+    "bitterness": "medium",
+    "body": "medium-full",
+    "finish": "smoky, sherried, spiced",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "Torfrauch",
+      "Zitrus",
+      "Trockenfrucht",
+      "Gewürz",
+      "Sherry"
+    ]
+  },
+  "origin": "Islay, Scotland",
+  "food_pairings": [
+    "Taylors Haggis & Cracked Black Pepper",
+    "Taylors Aberdeen Angus",
+    "Taylors Fiery Pickled Onions"
+  ],
+  "tags": [
+    "scotch",
+    "islay",
+    "single malt",
+    "sherry cask",
+    "peated"
+  ],
+  "notes": "Named after an inlet on Islay's rugged Atlantic coast. Vatting of both sherry and bourbon casks. High proportion of Oloroso sherry influence adding dried fruits and spices to classic Kilchoman citrus sweetness and peat smoke character.",
+  "metadata": {
+    "source_page": 2,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Whisky",
+  "subcategory_de": "Islay Single Malt",
+  "tags_de": [
+    "Scotch",
+    "Islay",
+    "Single Malt",
+    "Sherryfass",
+    "getorft"
+  ],
+  "notes_de": "Benannt nach einer Bucht an Islays rauer Atlantikküste, ist Sanaig eine Vermählung von Sherry- und Bourbonfässern. Der hohe Anteil an Oloroso-Sherry-Einfluss verleiht eine Balance aus getrockneten Früchten und Gewürzen zum klassischen Kilchoman-Charakter aus Zitrussüße und Torfrauch."
+}

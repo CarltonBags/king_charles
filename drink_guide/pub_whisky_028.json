@@ -1,0 +1,58 @@
+{
+  "id": "pub_whisky_028",
+  "name": "Oban 14 Years Old Single Malt",
+  "category": "whisky",
+  "subcategory": "highland single malt",
+  "brand_or_producer": "Oban",
+  "abv": 43.0,
+  "taste_profile": {
+    "primary_notes": [
+      "orange peel",
+      "smoke",
+      "sea salt",
+      "honey",
+      "maritime"
+    ],
+    "sweetness": "medium",
+    "bitterness": "medium-low",
+    "body": "medium-full",
+    "finish": "full-bodied, maritime, smoky",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "Orangenschale",
+      "Rauch",
+      "Meersalz",
+      "Honig",
+      "maritim"
+    ]
+  },
+  "origin": "Highlands, Scotland",
+  "food_pairings": [
+    "Taylors Haggis & Cracked Black Pepper",
+    "Taylors Aberdeen Angus",
+    "Taylors Fiery Pickled Onions"
+  ],
+  "tags": [
+    "scotch",
+    "highland",
+    "single malt",
+    "maritime",
+    "classic"
+  ],
+  "notes": "Flavours of orange peel, smoke, sea salt, and honey distinguish this full-bodied highland malt. Maritime and rich.",
+  "metadata": {
+    "source_page": 2,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Whisky",
+  "subcategory_de": "Highland Single Malt",
+  "tags_de": [
+    "Scotch",
+    "Highland",
+    "Single Malt",
+    "maritim",
+    "klassisch"
+  ],
+  "notes_de": "Aromen von Orangenschale, Rauch, Meersalz und Honig zeichnen diesen vollmundigen Highland Malt aus."
+}

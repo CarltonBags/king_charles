@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_069",
+  "name": "Orkney Brewery Dark Island Ale",
+  "category": "beer",
+  "subcategory": "scottish ale",
+  "brand_or_producer": "Orkney Brewery",
+  "abv": 4.6,
+  "taste_profile": {
+    "primary_notes": [
+      "roast coffee",
+      "dark chocolate",
+      "dates",
+      "nuts",
+      "ripe fruit"
+    ],
+    "sweetness": "medium",
+    "bitterness": "medium",
+    "body": "medium",
+    "finish": "roasted, rich",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Röstkaffee",
+      "dunkle Schokolade",
+      "Datteln",
+      "Nüsse",
+      "reife Frucht"
+    ]
+  },
+  "origin": "Orkney, Scotland",
+  "food_pairings": [
+    "Taylors Haggis & Cracked Black Pepper",
+    "Kettle Matured Cheddar Cheese & Red Onions",
+    "Ültje Studentenfutter"
+  ],
+  "tags": [
+    "scottish ale",
+    "bottle",
+    "premium",
+    "roasted",
+    "iconic"
+  ],
+  "notes": "Iconic beer, gold standard-bearer for crafted premium Scottish Ales. Ripe fruity and roast coffee aromas with flavours of dark chocolate, dates and nuts from roasted malts and robust hops.",
+  "metadata": {
+    "source_page": 12,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Schottisches Ale",
+  "tags_de": [
+    "Scottish Ale",
+    "Flasche",
+    "Premium",
+    "geröstet",
+    "kultig"
+  ],
+  "notes_de": "Ein kultiges Bier, der Goldstandard für handwerklich hergestellte, schottische Premium-Ales. Reife, fruchtige und Röstkaffee-Aromen mit Geschmacksnoten von dunkler Schokolade, Datteln und Nüssen aus Röstmalz und robustem Hopfen."
+}

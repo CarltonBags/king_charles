@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_006",
+  "name": "Kilkenny Irish Red Ale",
+  "category": "beer",
+  "subcategory": "irish red ale",
+  "brand_or_producer": "Guinness",
+  "abv": 4.3,
+  "taste_profile": {
+    "primary_notes": [
+      "malty",
+      "caramel",
+      "toasted bread",
+      "nutty",
+      "toffee"
+    ],
+    "sweetness": "medium",
+    "bitterness": "low",
+    "body": "medium",
+    "finish": "creamy, soft, sweet",
+    "carbonation": "low",
+    "primary_notes_de": [
+      "malzig",
+      "Karamell",
+      "Toastbrot",
+      "nussig",
+      "Toffee"
+    ]
+  },
+  "origin": "Kilkenny, Ireland",
+  "food_pairings": [
+    "Kettle Matured Cheddar Cheese & Red Onions",
+    "Tyrrell's Mature Cheddar & Chive",
+    "Taylors Haggis & Cracked Black Pepper"
+  ],
+  "tags": [
+    "red ale",
+    "draft",
+    "irish",
+    "creamy",
+    "malty"
+  ],
+  "notes": "Deep reddish-amber Irish Red Ale with malty aroma, hints of caramel and toasted bread. Smooth malt sweet flavour with nutty and toffee notes. Creamy texture, soft sweet finish.",
+  "metadata": {
+    "source_page": 2,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Irish Red Ale",
+  "tags_de": [
+    "Red Ale",
+    "vom Fass",
+    "irisch",
+    "cremig",
+    "malzig"
+  ],
+  "notes_de": "Tief rötlich-bernsteinfarbenes, irisches Red Ale mit malzigem Aroma, Anklängen von Karamell und getoastetem Brot. Weicher, süßer Malz-Geschmack mit nussigen und Toffee-Noten. Cremige Textur, weicher, süßer Abgang."
+}

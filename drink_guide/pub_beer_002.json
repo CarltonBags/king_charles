@@ -1,0 +1,60 @@
+{
+  "id": "pub_beer_002",
+  "name": "Brewdog Hazy Jane IPA",
+  "category": "beer",
+  "subcategory": "new england ipa",
+  "brand_or_producer": "BrewDog",
+  "abv": 5.6,
+  "taste_profile": {
+    "primary_notes": [
+      "citrus",
+      "mango",
+      "passion fruit",
+      "juicy",
+      "tropical"
+    ],
+    "sweetness": "medium",
+    "bitterness": "low",
+    "body": "medium",
+    "finish": "smooth, juicy",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Zitrus",
+      "Mango",
+      "Maracuja",
+      "saftig",
+      "tropisch"
+    ]
+  },
+  "origin": "Ellon, Scotland",
+  "food_pairings": [
+    "Kettle Sweet Chilli",
+    "Kettle Jalapeño",
+    "Tyrrell's Sweet Chilli & Red Pepper"
+  ],
+  "tags": [
+    "craft",
+    "neipa",
+    "draft",
+    "hazy",
+    "juicy",
+    "tropical"
+  ],
+  "notes": "Hazy golden-orange New England IPA with juicy tropical aroma of citrus, mango and passion fruit. Soft juicy notes dominate, minimal bitterness.",
+  "metadata": {
+    "source_page": 2,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "New England IPA",
+  "tags_de": [
+    "Craft",
+    "NEIPA",
+    "vom Fass",
+    "trüb",
+    "saftig",
+    "tropisch"
+  ],
+  "notes_de": "Trübes, gold-orangenes New England IPA mit saftig-tropischem Aroma von Zitrus, Mango und Maracuja. Weiche, saftige Noten dominieren bei minimaler Bitterkeit."
+}

@@ -1,0 +1,56 @@
+{
+  "id": "pub_beer_050",
+  "name": "Brewdog Hazy Jane AF",
+  "category": "beer",
+  "subcategory": "non-alcoholic new england ipa",
+  "brand_or_producer": "BrewDog",
+  "abv": 0.5,
+  "taste_profile": {
+    "primary_notes": [
+      "tropical",
+      "grassy",
+      "citrus",
+      "velvety"
+    ],
+    "sweetness": "low",
+    "bitterness": "medium",
+    "body": "medium",
+    "finish": "smooth, velvety",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "tropisch",
+      "grasig",
+      "Zitrus",
+      "samten"
+    ]
+  },
+  "origin": "Ellon, Scotland",
+  "food_pairings": [
+    "Kettle Sweet Chilli",
+    "Tyrrell's Sweet Chilli & Red Pepper",
+    "Kettle Sea Salt"
+  ],
+  "tags": [
+    "alcohol-free",
+    "neipa",
+    "scottish",
+    "craft",
+    "hazy"
+  ],
+  "notes": "Hazy AF has all the character and flavour without alcohol. Tropical fruits meet grassy notes, oats and wheat for velvety mouthfeel.",
+  "metadata": {
+    "source_page": 9,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Alkoholfreies New England IPA",
+  "tags_de": [
+    "alkoholfrei",
+    "NEIPA",
+    "schottisch",
+    "Craft",
+    "trüb"
+  ],
+  "notes_de": "Hazy AF hat allen Charakter und Geschmack — nur ohne Alkohol. Tropische Früchte treffen auf grasige Noten, Hafer und Weizen sorgen für samtiges Mundgefühl."
+}

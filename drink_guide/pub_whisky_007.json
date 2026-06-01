@@ -1,0 +1,58 @@
+{
+  "id": "pub_whisky_007",
+  "name": "Glenmorangie Original 10 Years Old",
+  "category": "whisky",
+  "subcategory": "highland single malt",
+  "brand_or_producer": "Glenmorangie",
+  "abv": 40.0,
+  "taste_profile": {
+    "primary_notes": [
+      "citrus",
+      "orange",
+      "honey",
+      "vanilla",
+      "peach"
+    ],
+    "sweetness": "medium",
+    "bitterness": "low",
+    "body": "medium",
+    "finish": "mellow, creamy, fruity",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "Zitrus",
+      "Orange",
+      "Honig",
+      "Vanille",
+      "Pfirsich"
+    ]
+  },
+  "origin": "Highlands, Scotland",
+  "food_pairings": [
+    "Kettle Matured Cheddar Cheese & Red Onions",
+    "Tyrrell's Mature Cheddar & Chive",
+    "Kettle Intense Truffle and Sea Salt"
+  ],
+  "tags": [
+    "scotch",
+    "highland",
+    "single malt",
+    "mellow",
+    "classic"
+  ],
+  "notes": "Known for its mellow tones and delicacy of flavour. A smooth whisky which welcomes you with a rush of citrus, then holds your attention with layers of luscious flavour, from orange to honey and creamy vanilla, with bursts of peach.",
+  "metadata": {
+    "source_page": 2,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Whisky",
+  "subcategory_de": "Highland Single Malt",
+  "tags_de": [
+    "Scotch",
+    "Highland",
+    "Single Malt",
+    "mild",
+    "klassisch"
+  ],
+  "notes_de": "Ursprünglich bekannt für seine milden Töne und die Feinheit des Geschmacks. Das Ergebnis ist ein weicher Whisky, der Sie mit einem Schwall von Zitrusfrüchten empfängt und dann mit Schichten von üppigem Geschmack fesselt — von Orange über Honig und cremige Vanille bis hin zu Pfirsich."
+}

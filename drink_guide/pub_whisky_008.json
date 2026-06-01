@@ -1,0 +1,58 @@
+{
+  "id": "pub_whisky_008",
+  "name": "Isle of Jura 10 Years Old",
+  "category": "whisky",
+  "subcategory": "island single malt",
+  "brand_or_producer": "Isle of Jura",
+  "abv": 40.0,
+  "taste_profile": {
+    "primary_notes": [
+      "dark chocolate",
+      "vanilla cream",
+      "sherry",
+      "sweet",
+      "smooth"
+    ],
+    "sweetness": "medium",
+    "bitterness": "low",
+    "body": "medium",
+    "finish": "sweet, smooth, chocolate",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "dunkle Schokolade",
+      "Vanillecreme",
+      "Sherry",
+      "süß",
+      "weich"
+    ]
+  },
+  "origin": "Jura, Scotland",
+  "food_pairings": [
+    "Kettle Matured Cheddar Cheese & Red Onions",
+    "Tyrrell's Mature Cheddar & Chive",
+    "Kettle Intense Truffle and Sea Salt"
+  ],
+  "tags": [
+    "scotch",
+    "island",
+    "single malt",
+    "sherry finish",
+    "smooth"
+  ],
+  "notes": "Crafted in exceptionally tall stills, matured for 10 years in American White Oak ex-bourbon barrels and finished in Oloroso Sherry casks from Jerez. Sweet, smooth with flavours of rich dark chocolate and vanilla cream.",
+  "metadata": {
+    "source_page": 2,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Whisky",
+  "subcategory_de": "Island Single Malt",
+  "tags_de": [
+    "Scotch",
+    "Insel",
+    "Single Malt",
+    "Sherry-Finish",
+    "weich"
+  ],
+  "notes_de": "Gebrannt in außergewöhnlich hohen Brennanlagen und zehn Jahre in amerikanischen Weißeichen-Ex-Bourbonfässern gereift. Den letzten Schliff erhält er durch ein Finish in den feinsten gereiften Oloroso-Sherryfässern aus Jerez, Spanien. Ein süßer, weicher Whisky mit reichem, dunklem Schokoladen- und Vanillecreme-Geschmack."
+}

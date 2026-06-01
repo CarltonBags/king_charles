@@ -1,0 +1,58 @@
+{
+  "id": "pub_whisky_033",
+  "name": "Lagavulin 2022 Distillers Edition",
+  "category": "whisky",
+  "subcategory": "islay single malt",
+  "brand_or_producer": "Lagavulin",
+  "abv": 43.0,
+  "taste_profile": {
+    "primary_notes": [
+      "peat",
+      "smoke",
+      "complex",
+      "rich",
+      "sherry"
+    ],
+    "sweetness": "low",
+    "bitterness": "medium",
+    "body": "full",
+    "finish": "deep, complex, smoky, long",
+    "carbonation": "none",
+    "primary_notes_de": [
+      "Torf",
+      "Rauch",
+      "komplex",
+      "reichhaltig",
+      "Sherry"
+    ]
+  },
+  "origin": "Islay, Scotland",
+  "food_pairings": [
+    "Taylors Haggis & Cracked Black Pepper",
+    "Taylors Aberdeen Angus",
+    "Taylors Fiery Pickled Onions"
+  ],
+  "tags": [
+    "scotch",
+    "islay",
+    "single malt",
+    "distillers edition",
+    "limited"
+  ],
+  "notes": "A limited Distillers Edition with two-parted maturation for more depth and complexity. Personally selected casks perfectly matched to Lagavulin's character. Preserving the perfection of the original while strongly accentuating selected taste nuances.",
+  "metadata": {
+    "source_page": 2,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Whisky",
+  "subcategory_de": "Islay Single Malt",
+  "tags_de": [
+    "Scotch",
+    "Islay",
+    "Single Malt",
+    "Distillers Edition",
+    "limitiert"
+  ],
+  "notes_de": "Die Distillers Edition ist eine Kollektion von Meisterhandwerk. Jedes Fass der Serie wird individuell ausgewählt und perfekt auf den Charakter jedes der hier veredelten Single Malts abgestimmt. Der zweigeteilte Reifeprozess verleiht mehr Tiefe und Komplexität — die Idee hinter der limitierten Distillers Edition: die Perfektion der Single Malts zu bewahren und gleichzeitig ausgewählte Geschmacksnuancen stärker zu akzentuieren."
+}

@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_188",
+  "name": "Somersby Blackberry",
+  "category": "cider",
+  "subcategory": "berry cider",
+  "brand_or_producer": "Somersby",
+  "abv": 4.5,
+  "taste_profile": {
+    "primary_notes": [
+      "blackberry",
+      "sweet",
+      "tart",
+      "berry",
+      "intense"
+    ],
+    "sweetness": "medium",
+    "bitterness": "medium-low",
+    "body": "light-medium",
+    "finish": "long-lasting, berry, tart",
+    "carbonation": "medium-high",
+    "primary_notes_de": [
+      "Brombeere",
+      "süß",
+      "herb",
+      "Beere",
+      "intensiv"
+    ]
+  },
+  "origin": "Denmark",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Kettle Honey Barbeque",
+    "Kettle Sweet Chilli"
+  ],
+  "tags": [
+    "cider",
+    "can",
+    "danish",
+    "blackberry",
+    "berry"
+  ],
+  "notes": "Refreshing cider meets the intense flavor of blackberries. Mild sweetness and slightly tart notes create a true explosion of flavor. Long-lasting blackberry flavor, pleasant acidity, and lingering sweetness.",
+  "metadata": {
+    "source_page": 30,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Cidre",
+  "subcategory_de": "Beeren-Cidre",
+  "tags_de": [
+    "Cidre",
+    "Dose",
+    "dänisch",
+    "Brombeere",
+    "Beere"
+  ],
+  "notes_de": "Erfrischender Cidre trifft auf den intensiven Geschmack von Brombeeren. Die Mischung aus milder Süße und leicht herben Noten erzeugt eine wahre Geschmacksexplosion. Lang anhaltender Brombeergeschmack mit angenehmer Säure und anhaltender Süße."
+}

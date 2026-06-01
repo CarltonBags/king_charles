@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_155",
+  "name": "Magners Pear Cider",
+  "category": "cider",
+  "subcategory": "pear cider",
+  "brand_or_producer": "Magners",
+  "abv": 4.5,
+  "taste_profile": {
+    "primary_notes": [
+      "pear",
+      "apple",
+      "sweet",
+      "smooth",
+      "fresh"
+    ],
+    "sweetness": "medium-high",
+    "bitterness": "very low",
+    "body": "medium",
+    "finish": "smooth, sweet",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Birne",
+      "Apfel",
+      "süß",
+      "weich",
+      "frisch"
+    ]
+  },
+  "origin": "Clonmel, Ireland",
+  "food_pairings": [
+    "Kettle Sea Salt",
+    "Kettle Honey Barbeque",
+    "Kettle Sweet Chilli"
+  ],
+  "tags": [
+    "cider",
+    "irish",
+    "bottle",
+    "pear",
+    "fruity"
+  ],
+  "notes": "Pale golden cider with a fresh pear aroma and sweet pear and apple flavours, balanced by a sweet acidity and smooth finish.",
+  "metadata": {
+    "source_page": 25,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Cidre",
+  "subcategory_de": "Birnen-Cidre",
+  "tags_de": [
+    "Cidre",
+    "irisch",
+    "Flasche",
+    "Birne",
+    "fruchtig"
+  ],
+  "notes_de": "Hellgoldener Cidre mit frischem Birnenaroma und süßen Birnen- und Apfelnoten, ausgewogen durch eine süße Säure und weichen Abgang."
+}

@@ -1,0 +1,58 @@
+{
+  "id": "pub_beer_225",
+  "name": "Sierra Nevada Trail Pass Brewveza",
+  "category": "beer",
+  "subcategory": "non-alcoholic mexican-style lager",
+  "brand_or_producer": "Sierra Nevada",
+  "abv": 0.5,
+  "taste_profile": {
+    "primary_notes": [
+      "lime zest",
+      "malt",
+      "crisp",
+      "clean",
+      "refreshing"
+    ],
+    "sweetness": "medium-low",
+    "bitterness": "low",
+    "body": "light",
+    "finish": "crisp, refreshing, lime",
+    "carbonation": "medium",
+    "primary_notes_de": [
+      "Limettenschale",
+      "Malz",
+      "spritzig",
+      "sauber",
+      "erfrischend"
+    ]
+  },
+  "origin": "California, USA",
+  "food_pairings": [
+    "Kettle Sweet Chilli",
+    "Kettle Jalapeño",
+    "Kettle Sweet Chilli & Sour Cream"
+  ],
+  "tags": [
+    "alcohol-free",
+    "can",
+    "american",
+    "clearance",
+    "mexican-style"
+  ],
+  "notes": "Straw yellow Mexican-style Blonde Ale. Crisp and clean aroma with hint of lime zest. Light malt sweetness balanced by mild hop bitterness with refreshing citrus lime twist. Clearance item.",
+  "metadata": {
+    "source_page": 43,
+    "extraction_confidence": 0.9,
+    "verified_date": "2025-01-01"
+  },
+  "category_de": "Bier",
+  "subcategory_de": "Alkoholfreies Mexikanisches Lager",
+  "tags_de": [
+    "alkoholfrei",
+    "Dose",
+    "amerikanisch",
+    "Abverkauf",
+    "mexikanische Art"
+  ],
+  "notes_de": "Strohgelbes mexikanisches Blonde Ale. Knackiges und sauberes Aroma mit einem Hauch von Limettenschale. Leichte Malzsüße, ausgewogen durch milde Hopfenbitterkeit mit erfrischendem Zitrus-Limetten-Twist. Abverkaufsware."
+}
